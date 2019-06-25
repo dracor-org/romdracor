@@ -401,8 +401,8 @@
         <l>remo terras propiore legit.</l>
       </sp>
       <milestone n="108" unit="card"/>
-      <sp who="#clytemestra #nutrix">
-        <speaker>Clytemestra Nutrix</speaker>
+      <stage>Clytemestra Nutrix</stage>
+      <sp who="#clytemestra">
         <milestone unit="line" ed="exclude" n="108"/>
         <l>Quid, segnis anime, tuta consilia expetis?</l>
         <milestone unit="line" ed="exclude" n="109"/>
@@ -703,8 +703,8 @@
         <milestone unit="line" ed="exclude" n="225"/>
         <l n="225">mentemque tibimet ipsa pacifica tuam. </l>
       </sp>
-      <sp who="#aegisthus #clytemestra #nutrix">
-        <speaker>Aegisthus Clytemestra Nutrix</speaker>
+      <stage>Aegisthus Clytemestra Nutrix</stage>
+      <sp who="#aegisthus">
         <milestone unit="line" ed="exclude" n="226"/>
         <l>Quod tempus animo semper ac mente horrui</l>
         <milestone unit="line" ed="exclude" n="227"/>
@@ -1142,8 +1142,8 @@
         <l>fidusque regi semper Eurybates adest.</l>
       </sp>
       <milestone n="392a" unit="card"/>
-      <sp who="#eurybates #clytemestra #chorus">
-        <speaker>Eurybates Clytemestra Chorus</speaker>
+      <stage>Eurybates Clytemestra Chorus</stage>
+      <sp who="#eurybates">
         <milestone unit="line" ed="exclude" n="392a"/>
         <l n="392a">Delubra et aras caelitum et patrios lares</l>
         <milestone unit="line" ed="exclude" n="393"/>
@@ -1576,8 +1576,8 @@
         <milestone unit="line" ed="exclude" n="588"/>
         <l>effrena Phoebas entheas laurus quatit.</l>
       </sp>
-      <sp who="#chorus2 #cassandra">
-        <speaker>Chorus Iliadum Cassandra</speaker>
+      <stage>Chorus Iliadum Cassandra</stage>
+      <sp who="#chorus2">
         <milestone unit="line" ed="exclude" n="589"/>
         <l>Heu quam dulce malum mortalibus additum</l>
         <milestone unit="line" ed="exclude" n="590"/>
@@ -1994,8 +1994,8 @@
         <milestone unit="line" ed="exclude" n="781"/>
         <l>gressus reditque iuncta concordi gradu.</l>
       </sp>
-      <sp who="#agamemnon #cassandra">
-        <speaker>Agamemno Cassandra</speaker>
+      <stage>Agamemno Cassandra</stage>
+      <sp who="#agamemnon">
         <milestone unit="line" ed="exclude" n="782"/>
         <l>Tandem reverter sospes ad patrios lares;</l>
         <milestone unit="line" ed="exclude" n="783"/>
@@ -2118,8 +2118,8 @@
         <l>Arabumque donis supplice et fibra colam.</l>
       </sp>
       <milestone n="808" unit="card"/>
-      <sp who="#chorus2 #cassandra">
-        <speaker>Chorus Cassandra</speaker>
+      <stage>Chorus Cassandra</stage>
+      <sp who="#chorus2">
         <milestone unit="line" ed="exclude" n="808"/>
         <l>Argos nobilibus nobile civibus,</l>
         <milestone unit="line" ed="exclude" n="809"/>
@@ -2363,8 +2363,8 @@
         <l>Oresta: amici fida praesidia intuor.</l>
       </sp>
       <milestone n="918" unit="card"/>
-      <sp who="#strophius #electra">
-        <speaker>Strophius Electra</speaker>
+      <stage>Strophius Electra</stage>
+      <sp who="#strophius">
         <milestone unit="line" ed="exclude" n="918"/>
         <l>Phocide relicta Strophius Elea inclutus</l>
         <milestone unit="line" ed="exclude" n="919"/>
@@ -2452,8 +2452,8 @@
         <milestone unit="line" ed="exclude" n="952"/>
         <l>Cassandra, iungi paria metuentem tibi.</l>
       </sp>
-      <sp who="#clytemestra #electra #aegisthus #cassandra">
-        <speaker>Clytemestra Electra Aegisthus Cassandra</speaker>
+      <stage>Clytemestra Electra Aegisthus Cassandra</stage>
+      <sp who="#clytemestra">
         <milestone unit="line" ed="exclude" n="953"/>
         <l>Hostis parentis, impium atque audax caput,</l>
         <milestone unit="line" ed="exclude" n="954"/>

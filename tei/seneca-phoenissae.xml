@@ -134,8 +134,8 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb id="p.93"/>
-      <sp who="#oedipus #antigona">
-        <speaker>Oedipus Antigona</speaker>
+      <stage>Oedipus Antigona</stage>
+      <sp who="#oedipus">
         <milestone n="1" unit="line"/>
         <l>Caeci parentis regimen et fessi unicum</l>
         <milestone n="2" unit="line"/>
@@ -917,8 +917,8 @@
         <milestone n="362" unit="line"/>
         <l>B.</l>
       </sp>
-      <sp who="#iocasta #satelles">
-        <speaker>Iocasta Satelles</speaker>
+      <stage>Iocasta Satelles</stage>
+      <sp who="#iocasta">
         <milestone n="363" unit="line"/>
         <l>Felix Agaue: facinus horrendum manu,</l>
         <milestone n="364" unit="line"/>
@@ -1004,8 +1004,8 @@
         <milestone n="402" unit="line"/>
         <l>et impia arma matris oppositu impedi.</l>
       </sp>
-      <sp who="#antigona #iocasta #nuntius">
-        <speaker>Antigona Iocasta Nuntius</speaker>
+      <stage>Antigona Iocasta Nuntius</stage>
+      <sp who="#antigona">
         <milestone n="403" unit="line"/>
         <l>Perge, o parens, et concita celerem gradum,</l>
         <milestone n="404" unit="line"/>

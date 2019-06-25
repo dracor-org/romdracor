@@ -376,8 +376,8 @@
         <l n="115">si qua peregrino nubit fugitiva marito. </l>
       </sp>
       <milestone n="116" unit="card"/>
-      <sp who="#medea #nutrix">
-        <speaker>Medea Nvtrix</speaker>
+      <stage>Medea Nvtrix</stage>
+      <sp who="#medea">
         <milestone unit="line" ed="exclude" n="116"/>
         <l>Occidimus, aures pepulit hymenaeus meas.</l>
         <milestone unit="line" ed="exclude" n="117"/>
@@ -591,8 +591,8 @@
         <milestone unit="line" ed="exclude" n="178"/>
         <l>ipse' est Pelasgo tumidus imperio Creo.</l>
       </sp>
-      <sp who="#creon #medea">
-        <speaker>Creo Medea</speaker>
+      <stage>Creo Medea</stage>
+      <sp who="#creon">
         <milestone unit="line" ed="exclude" n="179"/>
         <l>Medea, Colchi noxium Aeetae genus,</l>
         <milestone unit="line" ed="exclude" n="180"/>
@@ -1085,8 +1085,8 @@
         <l>nec sit terris ultima Thule.</l>
       </sp>
       <milestone n="380" unit="card"/>
-      <sp who="#nutrix #medea">
-        <speaker>Nvtrix Medea</speaker>
+      <stage>Nvtrix Medea</stage>
+      <sp who="#nutrix">
         <milestone unit="line" ed="exclude" n="380"/>
         <l n="380">Alumna, celerem quo rapis tectis pedem? </l>
         <milestone unit="line" ed="exclude" n="381"/>
@@ -1205,8 +1205,8 @@
         <milestone unit="line" ed="exclude" n="430"/>
         <l n="430">nemo potentes aggredi tutus potest. </l>
       </sp>
-      <sp who="#iason #medea">
-        <speaker>Iason Medea</speaker>
+      <stage>Iason Medea</stage>
+      <sp who="#iason">
         <milestone unit="line" ed="exclude" n="431"/>
         <l>O dura fata semper et sortem asperam,</l>
         <milestone unit="line" ed="exclude" n="432"/>
@@ -2275,8 +2275,8 @@
         <milestone unit="line" ed="exclude" n="878"/>
         <l>dux noctis Hesperus.</l>
       </sp>
-      <sp who="#nuntius #chorus #nutrix #medea #iason">
-        <speaker>nuntius chorus nutrix medea iason</speaker>
+      <stage>nuntius chorus nutrix medea iason</stage>
+      <sp who="#nuntius">
         <milestone unit="line" ed="exclude" n="879"/>
         <l>Periere cuncta, concidit regni status,</l>
         <milestone unit="line" ed="exclude" n="880"/>

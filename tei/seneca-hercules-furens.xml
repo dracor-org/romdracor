@@ -576,8 +576,8 @@
         <l>tardusque senio graditur Alcidae parens.</l>
       </sp>
       <milestone n="205" unit="card"/>
-      <sp who="#amphitryon #megara #lycus">
-        <speaker>Amphitryon Megara Lycus</speaker>
+      <stage>Amphitryon Megara Lycus</stage>
+      <sp who="#amphitryon">
         <milestone unit="line" ed="exclude" n="205"/>
         <l n="205">O magne Olympi rector et mundi arbiter, </l>
         <milestone unit="line" ed="exclude" n="206"/>
@@ -1605,8 +1605,8 @@
         <l>limenque, sacrum terror armorum obsidet?</l>
       </sp>
       <pb id="p.24"/>
-      <sp who="#amphitryon #hercules #theseus">
-        <speaker>Amphitryon Hercules Theseus</speaker>
+      <stage>Amphitryon Hercules Theseus</stage>
+      <sp who="#amphitryon">
         <milestone unit="line" ed="exclude" n="618"/>
         <l>Vtrumne visus vota decipiunt meos.</l>
         <milestone unit="line" ed="exclude" n="619"/>
@@ -2233,8 +2233,8 @@
         <l>dilecta tege populo.</l>
       </sp>
       <milestone n="895" unit="card"/>
-      <sp who="#hercules #theseus #amphitryon #megara">
-        <speaker>Hercvles Theseus Amphitryon Megara</speaker>
+      <stage>Hercvles Theseus Amphitryon Megara</stage>
+      <sp who="#hercules">
         <milestone unit="line" ed="exclude" n="895"/>
         <l n="895">Victrice dextra fusus adverso Lycus </l>
         <milestone unit="line" ed="exclude" n="896"/>
@@ -2813,8 +2813,8 @@
         <l>ite, iratos visite reges. </l>
       </sp>
       <milestone n="1138" unit="card"/>
-      <sp who="#hercules #amphitryon #theseus">
-        <speaker>Hercules Amphitryon Theseus</speaker>
+      <stage>Hercules Amphitryon Theseus</stage>
+      <sp who="#hercules">
         <milestone unit="line" ed="exclude" n="1138"/>
         <l>Quis hic locus, quae regio, quae mundi plaga?</l>
         <milestone unit="line" ed="exclude" n="1139"/>

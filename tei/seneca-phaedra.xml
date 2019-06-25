@@ -50,11 +50,8 @@
       <particDesc>
         <listPerson>
           <personGrp sex="UNKNOWN" xml:id="chorus">
-            <name>Chorus</name>
+            <name>Chorus Cressae</name>
           </personGrp>
-          <person xml:id="cressae">
-            <name>Cressae</name>
-          </person>
           <person xml:id="hippolytus">
             <persName>Hippolytus</persName>
           </person>
@@ -322,8 +319,8 @@
         <l>qua via longum compensat iter.</l>
       </sp>
       <milestone n="85" unit="card"/>
-      <sp who="#phaedra #nutrix">
-        <speaker>Phaedra Nutrix</speaker>
+      <stage>Phaedra Nutrix</stage>
+      <sp who="#phaedra">
         <milestone unit="line" ed="exclude" n="85"/>
         <l n="85">O magna vasti Creta dominatrix freti, </l>
         <milestone unit="line" ed="exclude" n="86"/>
@@ -981,8 +978,8 @@
         <l>regina? saevis ecquis- est flammis modus?.</l>
       </sp>
       <milestone n="360" unit="card"/>
-      <sp who="#nutrix #phaedra #chorus">
-        <speaker>nutrix phaedra chorus</speaker>
+      <stage>Nutrix Phaedra Chorus</stage>
+      <sp who="#nutrix">
         <milestone unit="line" ed="exclude" n="360"/>
         <l n="360">Spes nulla tantum posse leniri malum, </l>
         <milestone unit="line" ed="exclude" n="361"/>
@@ -1084,8 +1081,8 @@
         <milestone unit="line" ed="exclude" n="403"/>
         <l>protecta pelta: talis in silvas ferar. </l>
       </sp>
-      <sp who="#nutrix #hippolytus">
-        <speaker>Nutrix Hippolytus</speaker>
+      <stage>Nutrix Hippolytus</stage>
+      <sp who="#nutrix">
         <milestone unit="line" ed="exclude" n="406"/>
         <l>Regina nemorum, sola quae montes colis </l>
         <milestone unit="line" ed="exclude" n="407"/>
@@ -1486,8 +1483,8 @@
         <milestone unit="line" ed="exclude" n="588"/>
         <l>tuus en, alumna, temet Hippolytus tenet.</l>
       </sp>
-      <sp who="#phaedra #nutrix">
-        <speaker>Phaedra Nutrix</speaker>
+      <speaker>Phaedra Nutrix</speaker>
+      <sp who="#phaedra">
         <milestone unit="line" ed="exclude" n="589"/>
         <l>Quis me dolori reddit atque aestus graves</l>
         <milestone unit="line" ed="exclude" n="590"/>
@@ -2072,8 +2069,8 @@
         <l>en ipse Theseus redditus terris adest.</l>
       </sp>
       <milestone n="835" unit="card"/>
-      <sp who="#theseus #nutrix">
-        <speaker>Theseus Nutrix</speaker>
+      <stage>Theseus Nutrix</stage>
+      <sp who="#theseus">
         <milestone unit="line" ed="exclude" n="835"/>
         <l n="835">Tandem profugi noctis aeternae plagam </l>
         <milestone unit="line" ed="exclude" n="836"/>
@@ -2152,8 +2149,8 @@
         <milestone unit="line" ed="exclude" n="863"/>
         <l>Reserate clausos regii postes laris.</l>
       </sp>
-      <sp who="#theseus #phaedra #nutrix">
-        <speaker>Theseus Phaedra Nutrix Tacita</speaker>
+      <stage>Theseus Phaedra Nutrix Tacita</stage>
+      <sp who="#theseus">
         <milestone unit="line" ed="exclude" n="864"/>
         <l>0 socia thalami, sicine adventum viri</l>
         <milestone unit="line" ed="exclude" n="865"/>
@@ -2500,8 +2497,8 @@
         <milestone unit="line" ed="exclude" n="990"/>
         <l n="990">rigatque maestis lugubrem vultum genis? </l>
       </sp>
-      <sp who="#nuntius #theseus">
-        <speaker>Nuntius Theseus</speaker>
+      <stage>Nuntius Theseus</stage>
+      <sp who="#nuntius">
         <milestone unit="line" ed="exclude" n="991"/>
         <l>O sors acerba et dura, famulatus gravis,</l>
         <milestone unit="line" ed="exclude" n="992"/>
@@ -2880,8 +2877,8 @@
         <milestone unit="line" ed="exclude" n="1155"/>
         <l n="1155">strictoque vaecors Phaedra quid ferro parat? </l>
       </sp>
-      <sp who="#theseus #phaedra #chorus">
-        <speaker>Theseus Phaedra Chorus</speaker>
+      <stage>Theseus Phaedra Chorus</stage>
+      <sp who="#theseus">
         <milestone unit="line" ed="exclude" n="1156"/>
         <l>Quis te dolore percitam instigat furor?</l>
         <milestone unit="line" ed="exclude" n="1157"/>

@@ -311,8 +311,8 @@
         <l>fatalis Ide, iudicis diri domus.</l>
       </sp>
       <milestone n="67" unit="card"/>
-      <sp who="#chorus #hecuba">
-        <speaker>Chorus Troadum Hecuba</speaker>
+      <stage>Chorus Troadum Hecuba</stage>
+      <sp who="#chorus">
         <milestone n="67" unit="line"/>
         <l>Non rude vulgus lacrimisque a ovum</l>
         <milestone n="68" unit="line"/>
@@ -542,8 +542,8 @@
         <milestone n="163" unit="line"/>
         <l>omnia secum consumpta tulit.</l>
       </sp>
-      <sp who="#talthybius #chorus">
-        <speaker>Talthybius Chorus</speaker>
+      <stage>Talthybius Chorus</stage>
+      <sp who="#talthybius">
         <milestone n="164" unit="line"/>
         <l>O longa Danais semper in portu mora,</l>
         <milestone n="165" unit="line"/>
@@ -633,8 +633,8 @@
         <l>Tritonum ab alto cecinit hymenaeum chorus.</l>
       </sp>
       <milestone n="203" unit="card"/>
-      <sp who="#pyrrhus #agamemnon #calchas">
-        <speaker>Pyrrhus Agamemnon Calchas</speaker>
+      <stage>Pyrrhus Agamemnon Calchas</stage>
+      <sp who="#pyrrhus">
         <milestone n="203" unit="line"/>
         <l>Cum laeta pelago vela rediturus dares,</l>
         <milestone n="204" unit="line"/>
@@ -1453,8 +1453,8 @@
         <milestone n="523" unit="line"/>
         <l>vultuque: nectit pectore astus callido.</l>
       </sp>
-      <sp who="#ulixes #andromacha">
-        <speaker>Ulixes Andromacha</speaker>
+      <stage>Ulixes Andromacha</stage>
+      <sp who="#ulixes">
         <milestone n="524" unit="line"/>
         <l>Durae minister sortis hoc primum peto.</l>
         <milestone n="525" unit="line"/>
@@ -2294,8 +2294,8 @@
         <milestone n="860" unit="line"/>
         <l n="860">ducet? in cuius moriere regno? </l>
       </sp>
-      <sp who="#helena #andromacha #hecuba">
-        <speaker>Helena Andromacha Hecuba</speaker>
+      <stage>Helena Andromacha Hecuba</stage>
+      <sp who="#helena">
         <milestone n="861" unit="line"/>
         <l>Quicumque hymen funestas, inlaetabilis</l>
         <milestone n="862" unit="line"/>
@@ -2756,8 +2756,8 @@
         <milestone n="1055" unit="line"/>
         <l n="1055">Troes hoc signo patriam videbunt. </l>
       </sp>
-      <sp who="#nuntius #hecuba #andromacha">
-        <speaker>Nuntius Hecuba Andromacha</speaker>
+      <stage>Nuntius Hecuba Andromacha</stage>
+      <sp who="#nuntius">
         <milestone n="1056" unit="line"/>
         <l>O dura fata, saeva miseranda horrida!</l>
         <milestone n="1057" unit="line"/>

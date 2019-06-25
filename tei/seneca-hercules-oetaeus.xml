@@ -659,8 +659,8 @@
         <l>casus animo qui tulit aequo.</l>
       </sp>
       <milestone n="233" unit="card"/>
-      <sp who="#nutrix #deianira #lichas">
-        <speaker>Nutrix Deianira Lichas Tacitus</speaker>
+      <stage>Nutrix Deianira Lichas Tacitus</stage>
+      <sp who="#nutrix">
         <milestone unit="line" ed="exclude" n="233"/>
         <l>O quam cruentus feminas stimulat furor,</l>
         <milestone unit="line" ed="exclude" n="234"/>
@@ -1792,8 +1792,8 @@
         <l n="705">vultus loquitur quodcumque tegis. </l>
       </sp>
       <milestone n="706" unit="card"/>
-      <sp who="#deianira #nutrix">
-        <speaker>Deianira Nutrix</speaker>
+      <stage>Deianira Nutrix</stage>
+      <sp who="#deianira">
         <milestone unit="line" ed="exclude" n="706"/>
         <l>Vagus per artus errat excussos tremor,</l>
         <milestone unit="line" ed="exclude" n="707"/>
@@ -1881,8 +1881,8 @@
         <milestone unit="line" ed="exclude" n="741"/>
         <l>gressus ferentem, prome quid portes novi.]</l>
       </sp>
-      <sp who="#hyllus #deianira">
-        <speaker>Hyllus et Deianira</speaker>
+      <stage>Hyllus et Deianira</stage>
+      <sp who="#hyllus">
         <milestone unit="line" ed="exclude" n="742"/>
         <l>I, profuge, quaere si quid ulterius patet</l>
         <milestone unit="line" ed="exclude" n="743"/>
@@ -2820,8 +2820,8 @@
         <l n="1130">est est Herculeus sonus. </l>
       </sp>
       <milestone n="1131" unit="card"/>
+      <stage>Hercules Chorus</stage>
       <sp who="#hercules #chorus">
-        <speaker>Hercules Chorus</speaker>
         <milestone unit="line" ed="exclude" n="1131"/>
         <l>Converte, Titan clare, anhelantes equos,</l>
         <milestone unit="line" ed="exclude" n="1132"/>
@@ -3490,8 +3490,8 @@
         <milestone unit="line" ed="exclude" n="1418"/>
         <l>corpusque vires reparet Herculeum suas.</l>
       </sp>
-      <sp who="#hyllus #alcmena #hercules #philoctetes">
-        <speaker>Hyllus Alcmena Hercules Philoctetes Tacitus</speaker>
+      <stage>Hyllus Alcmena Hercules Philoctetes Tacitus</stage>
+      <sp who="#hyllus">
         <milestone unit="line" ed="exclude" n="1419"/>
         <l>Pro lux acerba, pro capax scelerum dies!</l>
         <milestone unit="line" ed="exclude" n="1420"/>
@@ -3902,8 +3902,8 @@
         <l>Herculis heres.</l>
       </sp>
       <milestone n="1607" unit="card"/>
-      <sp who="#nuntius #chorus">
-        <speaker>Nuntius Chorus</speaker>
+      <stage>Nuntius Chorus</stage>
+      <sp who="#nuntius">
         <milestone unit="line" ed="exclude" n="1607"/>
         <l>Effare casus, iuvenis, Herculeos precor</l>
         <milestone unit="line" ed="exclude" n="1608"/>
@@ -4246,8 +4246,8 @@
         <l>crinemque iactans squalidum Alcmene gemit.]</l>
       </sp>
       <milestone n="1758" unit="card"/>
+      <stage>Alcmena Hyllus</stage>
       <sp who="#alcmena #hyllus">
-        <speaker>Alcmena Hyllus</speaker>
         <milestone unit="line" ed="exclude" n="1758"/>
         <l>Timete, superi, fata: tam parvus cinis</l>
         <milestone unit="line" ed="exclude" n="1759"/>
@@ -4640,8 +4640,8 @@
         <l>ad quas semper mansurus eris.</l>
       </sp>
       <milestone n="1940" unit="card"/>
-      <sp who="#voxherculis #alcmena">
-        <speaker>Vox Herculis et Alcmena</speaker>
+      <stage>Vox Herculis et Alcmena</stage>
+      <sp who="#voxherculis">
         <milestone unit="line" ed="exclude" n="1940"/>
         <l n="1940">Quid me tenentem regna siderei poli ' </l>
         <milestone unit="line" ed="exclude" n="1941"/>

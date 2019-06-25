@@ -528,8 +528,8 @@
         <l n="175">altum de rapido gurgite pulverem. </l>
       </sp>
       <milestone n="176" unit="card"/>
-      <sp who="#atreus #satelles">
-        <speaker>Atreus Satelles</speaker>
+      <stage>Atreus Satelles</stage>
+      <sp who="#atreus">
         <milestone n="176" unit="line"/>
         <l>Ignave, iners, enervis et (quod maximum</l>
         <milestone n="177" unit="line"/>

@@ -273,8 +273,8 @@
         <milestone unit="line" ed="exclude" n="56"/>
         <l>scelus, quod utinam numen avertat deum.</l>
       </sp>
+      <stage>Octavia Nutrix</stage>
       <sp who="#octavia #nutrix">
-        <speaker>Octavia Nutrix</speaker>
         <milestone unit="line" ed="exclude" n="57"/>
         <l>O mea nullis aequanda malis</l>
         <milestone unit="line" ed="exclude" n="58"/>
@@ -1186,8 +1186,8 @@
         <l>trucique vultu, quid ferat mente horreo.</l>
       </sp>
       <milestone n="438" unit="card"/>
-      <sp who="#nero #praefectus #seneca">
-        <speaker>Nero Praefectus Seneca</speaker>
+      <stage>Nero Praefectus Seneca</stage>
+      <sp who="#nero">
         <milestone unit="line" ed="exclude" n="438"/>
         <l>Perage imperata: mitte, qui Plauti mihi</l>
         <milestone unit="line" ed="exclude" n="438b"/>
@@ -1813,8 +1813,8 @@
         <l n="645">noverca coniunx mater infelix meis? </l>
       </sp>
       <milestone n="646" unit="card"/>
-      <sp who="#octavia #chorus">
-        <speaker>Octavia Chorus</speaker>
+      <stage>Octavia Chorus</stage>
+      <sp who="#octavia">
         <milestone unit="line" ed="exclude" n="646"/>
         <l>Parcite lacrimis urbis festo</l>
         <milestone unit="line" ed="exclude" n="647"/>
@@ -1911,8 +1911,8 @@
         <milestone unit="line" ed="exclude" n="689"/>
         <l>telisque feris principis aulam.</l>
       </sp>
-      <sp who="#nutrix2">
-        <speaker>Nutrix Poppaea</speaker>
+      <stage>Nutrix Poppaea</stage>
+      <sp who="#nutrix">
         <milestone unit="line" ed="exclude" n="690"/>
         <l n="690">Quo trepida gressum coniugis thalamis tui</l>
         <milestone unit="line" ed="exclude" n="691"/>
@@ -2111,8 +2111,8 @@
         <l>aut quid portat pectore anhelo?</l>
       </sp>
       <milestone n="780" unit="card"/>
-      <sp who="#nuntius #chorus">
-        <speaker>Nuntius Chorus</speaker>
+      <stage>Nuntius Chorus</stage>
+      <sp who="#nuntius">
         <milestone unit="line" ed="exclude" n="780"/>
         <l n="780">Quicumque tectis excubat miles ducis, </l>
         <milestone unit="line" ed="exclude" n="781"/>
@@ -2277,8 +2277,8 @@
         <l n="845">fidesque castris nota praeposuit meis. </l>
       </sp>
       <milestone n="846" unit="card"/>
-      <sp who="#praefectus #nero">
-        <speaker>Praefectus Nero</speaker>
+      <stage>Praefectus Nero</stage>
+      <sp who="#praefectus">
         <milestone unit="line" ed="exclude" n="846"/>
         <l>Populi furorem caede paucorum, diu</l>
         <milestone unit="line" ed="exclude" n="847"/>
@@ -2418,8 +2418,8 @@
         <milestone unit="line" ed="exclude" n="876"/>
         <l>tandem ut residat pectoris nostri timor.</l>
       </sp>
-      <sp who="#chorus #octavia">
-        <speaker>Chorus Octavia</speaker>
+      <stage>Chorus Octavia</stage>
+      <sp who="#chorus">
         <milestone unit="line" ed="exclude" n="877"/>
         <l>O funestus multis populi</l>
         <milestone unit="line" ed="exclude" n="878"/>

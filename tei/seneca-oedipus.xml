@@ -143,8 +143,8 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb id="p.203"/>
-      <sp who="#oedipus #iocasta">
-        <speaker>Oedipus Iocasta</speaker>
+      <stage>Oedipus Iocasta</stage>
+      <sp who="#oedipus">
         <milestone unit="line" ed="exclude" n="1"/>
         <l>Iam nocte Titan dubius expulsa redit</l>
         <milestone unit="line" ed="exclude" n="2"/>
@@ -581,7 +581,7 @@
       </sp>
       <milestone n="202" unit="card"/>
       <sp who="#oedipus #chorus #creon">
-        <speaker>Oedipus Chorus Creo</speaker>
+        <stage>Oedipus Chorus Creo</stage>
         <l>Quisnam ille propero regiam gressu petit?</l>
         <l>adestne clarus anguine ac factis Creo</l>
         <l>an aeger animus falsa pro veris videt?</l>
@@ -1325,8 +1325,8 @@
         <l>candida formonsi venerabimur ora Lyaei.</l>
       </sp>
       <milestone n="510" unit="card"/>
-      <sp who="#oedipus #creon">
-        <speaker>Oedipus Creo</speaker>
+      <stage>Oedipus Creo</stage>
+      <sp who="#oedipus">
         <milestone unit="line" ed="exclude" n="510"/>
         <l n="510">Etsi ipse vultus flebiles praefert notas,</l>
         <milestone unit="line" ed="exclude" n="510"/>
@@ -1972,8 +1972,8 @@
         <milestone unit="line" ed="exclude" n="763"/>
         <l>nimium saevi diva pudoris.</l>
       </sp>
-      <sp who="#oedipus #iocasta">
-        <speaker>Oedipus Iocasta</speaker>
+      <stage>Oedipus Iocasta</stage>
+      <sp who="#oedipus">
         <milestone unit="line" ed="exclude" n="764"/>
         <l>C aras revolvit animus et repetit metus,</l>
         <milestone unit="line" ed="exclude" n="765"/>
@@ -2037,8 +2037,8 @@
         <l>Decima iam metitur seges.</l>
       </sp>
       <pb id="p.231"/>
-      <sp who="#senex #iocasta">
-        <speaker>Senex Corinthius Iocasta</speaker>
+      <stage>Senex Corinthius Iocasta</stage>
+      <sp who="#senex">
         <milestone unit="line" ed="exclude" n="785"/>
         <l n="785">Corinthius te populus in regnum vocat</l>
         <milestone unit="line" ed="exclude" n="785"/>
@@ -2660,8 +2660,8 @@
         <milestone unit="line" ed="exclude" n="997"/>
         <l>luminis orbus.</l>
       </sp>
-      <sp who="#oedipus #chorus #iocasta">
-        <speaker>Oedipus Chorus Iocasta</speaker>
+      <stage>Oedipus Chorus Iocasta</stage>
+      <sp who="#oedipus">
         <milestone unit="line" ed="exclude" n="998"/>
         <l>Bene habet, peractum est: iusta persolvi patri,</l>
         <milestone unit="line" ed="exclude" n="999"/>
