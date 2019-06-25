@@ -1,43 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
-<!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersDrama PUBLIC "-//Perseus P4//DTD Perseus Drama//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersDrama.dtd">
-]>
-<TEI.2>
-  <teiHeader type="text" status="new">
+<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="latin">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title type="sub">Oedipus</title>
-        <author n="Sen.">Seneca</author>
-        <editor role="editor" n="Peiper">Adolf Peiper</editor>
-        <editor role="editor" n="Richter">Gustav Richter</editor>
+        <author key="wikidata:Q2054">Seneca</author>
+        <editor n="Peiper" role="editor">Adolf Peiper</editor>
+        <editor n="Richter" role="editor">Gustav Richter</editor>
       </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rom0002</idno>
+        <availability>
+          <licence>
+            <ab>CC BY-SA 3.0 US</ab>
+            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q972143</idno>
+      </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
         <biblStruct>
-          <monogr>
-            <author>L. Annaeus Seneca</author>
-            <title>Tragoediae</title>
-            <editor role="editor" n="Peiper">Adolf Peiper</editor>
-            <editor role="editor" n="Richter">Gustav Richter</editor>
+          <bibl type="originalSource">
+            <author key="wikidata:Q2054">L. Annaeus Seneca</author>
+            <editor n="Peiper" role="editor">Adolf Peiper</editor>
+            <editor n="Richter" role="editor">Gustav Richter</editor>
             <imprint>
               <pubPlace>Leipzig</pubPlace>
               <publisher>Teubner</publisher>
               <date>1921</date>
             </imprint>
-          </monogr>
+          </bibl>
         </biblStruct>
       </sourceDesc>
+      <bibl type="digitalSource">
+        <name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
+        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+        <availability status="free">
+          <licence>
+            <ab>CC BY-SA 3.0 US</ab>
+            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+          </licence>
+        </availability>
+      </bibl>
     </fileDesc>
-    <encodingDesc>
-      <refsDecl doctype="TEI.2">
-        <step refunit="line" from="DESCENDANT (1 L N%1)"/>
-      </refsDecl>
-      <refsDecl doctype="TEI.2">
-        <state unit="card"/>
-      </refsDecl>
-    </encodingDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <personGrp sex="UNKNOWN" xml:id="chorus">
+            <name>Chorus Thebanorvm</name>
+          </personGrp>
+          <person xml:id="nuntius">
+            <persName>Nuntius</persName>
+          </person>
+          <person xml:id="oedipus">
+            <persName>Oedipus</persName>
+          </person>
+          <person xml:id="creo">
+            <persName>Creo</persName>
+          </person>
+          <person xml:id="iocasta">
+            <persName>Iocasta</persName>
+          </person>
+          <person xml:id="phorbas">
+            <persName>Phorbas</persName>
+          </person>
+          <person xml:id="senexcorinthius">
+            <persName>Senex Corinthius</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genreTitle">Tragedy</term>
+        </keywords>
+      </textClass>
       <langUsage>
         <language id="la">Latin</language>
       </langUsage>
@@ -52,6 +91,14 @@
         <item/>
       </change>
     </revisionDesc>
+    <change>
+      <date>2019-06-09</date>
+      <respStmt>
+        <name>Boris Orekhov</name>
+        <resp>ed.</resp>
+      </respStmt>
+      <item>converted to P.5 Dracor format</item>
+    </change>
   </teiHeader>
   <text n="Oed.">
     <body>
@@ -96,7 +143,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb id="p.203"/>
-      <sp who="oedipus iocasta">
+      <sp who="#oedipus #iocasta">
         <speaker>Oedipus Iocasta</speaker>
         <milestone unit="line" ed="exclude" n="1"/>
         <l>Iam nocte Titan dubius expulsa redit</l>
@@ -166,7 +213,7 @@
         <milestone unit="line" ed="exclude" n="33"/>
         <l>deflenda lacrimis funera ac populi struem</l>
         <milestone unit="line" ed="exclude" n="34"/>
-        <l>incolumis asto&mdash; scilicet Phoebi reus.</l>
+        <l>incolumis asto— scilicet Phoebi reus.</l>
         <milestone unit="line" ed="exclude" n="35"/>
         <l n="35">sperare poteras sceleribus tantis dari </l>
         <milestone unit="line" ed="exclude" n="36"/>
@@ -233,7 +280,7 @@
         <milestone unit="line" ed="exclude" n="66"/>
         <l>non ossa tumuli sancta discreti tegunt:</l>
         <milestone unit="line" ed="exclude" n="67"/>
-        <l>arsisse satis est&mdash; pars quota in cineres abit?</l>
+        <l>arsisse satis est— pars quota in cineres abit?</l>
         <milestone unit="line" ed="exclude" n="68"/>
         <l>dest terra tumulis, iam rogos silvae negant,</l>
         <milestone unit="line" ed="exclude" n="69"/>
@@ -259,12 +306,12 @@
         <milestone unit="line" ed="exclude" n="79"/>
         <l>tabifica caeli vitia quae tecum invehis</l>
         <milestone unit="line" ed="exclude" n="80"/>
-        <l n="80">infaustus hospes, profuge iamdudum ocius&mdash; </l>
+        <l n="80">infaustus hospes, profuge iamdudum ocius— </l>
         <milestone unit="line" ed="exclude" n="81"/>
         <l>vel ad parentes.</l>
       </sp>
       <milestone n="82" unit="card"/>
-      <sp who="iocasta">
+      <sp who="#iocasta">
         <speaker>Ioc.</speaker>
         <milestone unit="line" ed="exclude" n="82"/>
         <l>Quid iuvat, coniunx, mala</l>
@@ -280,7 +327,7 @@
         <milestone unit="line" ed="exclude" n="86"/>
         <l>haud est virile terga Fortunae dare.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="87"/>
         <l>Abest pavoris crimen ac probrum procul,</l>
@@ -289,7 +336,7 @@
         <milestone unit="line" ed="exclude" n="89"/>
         <l>si tela contra stricta, si vis horrida</l>
         <milestone unit="line" ed="exclude" n="90"/>
-        <l n="90">Mavortis in me rueret&mdash; adversus feros </l>
+        <l n="90">Mavortis in me rueret— adversus feros </l>
         <milestone unit="line" ed="exclude" n="91"/>
         <l>audax Gigantas obvias ferrem manus.</l>
         <milestone unit="line" ed="exclude" n="92"/>
@@ -315,7 +362,7 @@
         <milestone unit="line" ed="exclude" n="102"/>
         <l>ac triste carmen alitis solvi ferae.</l>
       </sp>
-      <sp who="iocasta">
+      <sp who="#iocasta">
         <speaker>Ioc.</speaker>
         <milestone unit="line" ed="exclude" n="103"/>
         <l>Quid sera mortis vota nunc demens facis?</l>
@@ -324,7 +371,7 @@
         <milestone unit="line" ed="exclude" n="105"/>
         <l n="105">sceptrum et peremptae Sphingis haec merces datur. </l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="106"/>
         <l>Ille, ille dirus callidi monstri cinis</l>
@@ -335,7 +382,7 @@
         <milestone unit="line" ed="exclude" n="109"/>
         <l>si quam salutis Phoebus ostendit viam.</l>
       </sp>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chorus Thebanorvm</speaker>
         <milestone unit="line" ed="exclude" n="110"/>
         <l n="110">Occidis, Cadmi generosa proles, </l>
@@ -533,17 +580,17 @@
         <l>sed iuvat ipsos satiare deos.</l>
       </sp>
       <milestone n="202" unit="card"/>
-      <sp who="oedipus chorus creon">
+      <sp who="#oedipus #chorus #creon">
         <speaker>Oedipus Chorus Creo</speaker>
         <l>Quisnam ille propero regiam gressu petit?</l>
         <l>adestne clarus anguine ac factis Creo</l>
         <l>an aeger animus falsa pro veris videt?</l>
       </sp>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chor.</speaker>
         <l>Adest petitus omnibus votis Creo.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <l>Horrore quatior, fata quo vergant timens,</l>
         <l>trepidumque gemino pectus affectu labat:</l>
@@ -552,25 +599,25 @@
         <l>Germane nostrae coniugis, fessis opem</l>
         <l>si quam reportas, voce properata edoce.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <l>Responsa dubia sorte perplexa iacent.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <l>Dubiam salutem qui dat adflictis negat.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <l>Ambage flexa Delphico mos est deo</l>
         <l part="I">arcana tegere.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <l part="F">Fare, sit dubium licet:</l>
         <l>ambigua soli noscere Oedipodae datur.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <l>Caedem expiari regiam exilio deus,</l>
         <l>et interemptum Laium ulcisci iubet:</l>
@@ -578,14 +625,14 @@
         <l>haustusque tutos aetheris puri dabit.</l>
       </sp>
       <pb id="p.211"/>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="221"/>
         <l>Et quis peremptor induti regis fuit?</l>
         <milestone unit="line" ed="exclude" n="222"/>
         <l n="195">quem memoret ede Phoebus, ut poenas luat.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="223"/>
         <l>Sit precor dixisse tutum visu et auditu horrida;</l>
@@ -620,7 +667,7 @@
         <milestone unit="line" ed="exclude" n="238"/>
         <l>turpia, maternos iterum revolutus in ortus.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="239"/>
         <l>Quod facere monitu caelitum iussus paro,</l>
@@ -633,22 +680,22 @@
         <milestone unit="line" ed="exclude" n="243"/>
         <l>curat peremptum nemo quem incolumem timet.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="244"/>
         <l>Curam perempti maior excussit timor.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="245"/>
         <l n="245">Pium prohibuit ullus officium metus? </l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="246"/>
         <l>Sphinx et nefandi carminis tristes minae.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="247"/>
         <l>Nunc expietur numinum imperio scelus.</l>
@@ -684,7 +731,7 @@
         <milestone unit="line" ed="exclude" n="262"/>
         <l>faciatque (num quid gravius optari potest?)</l>
         <milestone unit="line" ed="exclude" n="263"/>
-        <l>quicquid ego fugi&mdash; non erit veniae locus:</l>
+        <l>quicquid ego fugi— non erit veniae locus:</l>
         <milestone unit="line" ed="exclude" n="264"/>
         <l>per regna iuro quaeque nunc hospes gero</l>
         <milestone unit="line" ed="exclude" n="265"/>
@@ -711,7 +758,7 @@
         <l n="275">memorate: aperto Marte an insidiis iacet? </l>
       </sp>
       <milestone n="276" unit="card"/>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="276"/>
         <l>Frondifera sanctae nemora Castaliae petens</l>
@@ -746,14 +793,14 @@
         <l n="290">comesque Manto luce viduatum trahens. </l>
       </sp>
       <stage>Oedipus Tiresias Manto</stage>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="291"/>
         <l>Sacrate di vis, proximum Phoebo caput,</l>
         <milestone unit="line" ed="exclude" n="292"/>
         <l>responsa solve; fare, quem poenae petant.</l>
       </sp>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Teir.</speaker>
         <milestone unit="line" ed="exclude" n="293"/>
         <l>Quod tarda fatu est lingua, quod quaerit moras</l>
@@ -776,35 +823,35 @@
         <milestone unit="line" ed="exclude" n="302"/>
         <l>manifesta sacri signa fatidici refer.</l>
       </sp>
-      <sp who="manto">
+      <sp who="#manto">
         <speaker>Man.</speaker>
         <milestone unit="line" ed="exclude" n="303"/>
         <l>Opima sanctas victima ante aras stetit.</l>
       </sp>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="304"/>
         <l>In vota superos voce sollemni voca</l>
         <milestone unit="line" ed="exclude" n="305"/>
         <l n="305">arasque dono turis Eoi extrue. </l>
       </sp>
-      <sp who="manto">
+      <sp who="#manto">
         <speaker>Man.</speaker>
         <milestone unit="line" ed="exclude" n="306"/>
         <l>Iam tura sacris caelitum ingessi focis.</l>
       </sp>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="307"/>
         <l>Quid flamma? largas iamne comprendit dapes?</l>
       </sp>
-      <sp who="manto">
+      <sp who="#manto">
         <speaker>Man.</speaker>
         <milestone unit="line" ed="exclude" n="308"/>
         <l>Subito refulsit lumine et subito occidit.</l>
       </sp>
       <pb id="p.214"/>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="309"/>
         <l>Vtrumne clarus ignis et nitidus stetit</l>
@@ -817,7 +864,7 @@
         <milestone unit="line" ed="exclude" n="313"/>
         <l>et fluctuante turbidus fumo labat?</l>
       </sp>
-      <sp who="manto">
+      <sp who="#manto">
         <speaker>Man.</speaker>
         <milestone unit="line" ed="exclude" n="314"/>
         <l>Non una facies mobilis flammae fuit:</l>
@@ -838,7 +885,7 @@
         <milestone unit="line" ed="exclude" n="322"/>
         <l>discedit et se scindit unius sacri</l>
         <milestone unit="line" ed="exclude" n="323"/>
-        <l>discors favilla&mdash; genitor, horresco intuens:</l>
+        <l>discors favilla— genitor, horresco intuens:</l>
         <milestone unit="line" ed="exclude" n="324"/>
         <l>libata Bacchi dona permutat cruor</l>
         <milestone unit="line" ed="exclude" n="325"/>
@@ -851,7 +898,7 @@
         <l>quid sit, parens, effare.</l>
       </sp>
       <milestone n="329" unit="card"/>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="329"/>
         <l>Quid fari queam</l>
@@ -874,7 +921,7 @@
         <milestone unit="line" ed="exclude" n="337"/>
         <l>patiuntur?</l>
       </sp>
-      <sp who="manto">
+      <sp who="#manto">
         <speaker>Man.</speaker>
         <milestone unit="line" ed="exclude" n="338"/>
         <l>Altum taurus attollens caput</l>
@@ -884,12 +931,12 @@
         <l n="340">trepidusque vultum obliquat et radios fugit.</l>
         <pb id="p.215"/>
       </sp>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="340"/>
         <l n="340">Vnone terram vulnere afflicti petunt? </l>
       </sp>
-      <sp who="manto">
+      <sp who="#manto">
         <speaker>Man.</speaker>
         <milestone unit="line" ed="exclude" n="341"/>
         <l>Iuvenca ferro semet imposito induit</l>
@@ -904,7 +951,7 @@
         <milestone unit="line" ed="exclude" n="346"/>
         <l>an lentus altas irrigat plagas cruor?</l>
       </sp>
-      <sp who="manto">
+      <sp who="#manto">
         <speaker>Man.</speaker>
         <milestone unit="line" ed="exclude" n="347"/>
         <l>Huius per ipsam qua patet pectus viam</l>
@@ -915,14 +962,14 @@
         <milestone unit="line" ed="exclude" n="350"/>
         <l n="350">per ora multus sanguis atque oculos redit. </l>
       </sp>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="351"/>
         <l>Infausta magnos sacra terrores cient.</l>
         <milestone unit="line" ed="exclude" n="352"/>
         <l>sed ede certas viscerum nobis notas.</l>
       </sp>
-      <sp who="manto">
+      <sp who="#manto">
         <speaker>Man.</speaker>
         <milestone unit="line" ed="exclude" n="353"/>
         <l>Genitor, quid hoc est? non levi motu, ut solent,</l>
@@ -989,7 +1036,7 @@
         <l>immugit aris ignis et trepidant foci.</l>
       </sp>
       <milestone n="384" unit="card"/>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="384"/>
         <l>Quid ista sacri signa terrifici ferant</l>
@@ -998,19 +1045,19 @@
         <milestone unit="line" ed="exclude" n="386"/>
         <l>[solent extrema facere securos mala.]</l>
       </sp>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="387"/>
         <l>His invidebis quibus opem quaeris malis.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="388"/>
         <l>Memora quod unum scire caelicolae volunt,</l>
         <milestone unit="line" ed="exclude" n="389"/>
         <l>contaminarit rege quis caeso manus.</l>
       </sp>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="390"/>
         <l n="390">Nec alta caeli quae levi pinna secant </l>
@@ -1033,14 +1080,14 @@
         <milestone unit="line" ed="exclude" n="399"/>
         <l>invisere umbras.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="400"/>
         <l n="400">Te, Creo, hic poscit labor,</l>
         <milestone unit="line" ed="exclude" n="400"/>
         <l n="400">ad quem secundum regna respiciunt mea. </l>
       </sp>
-      <sp who="teiresias">
+      <sp who="#teiresias">
         <speaker>Tir.</speaker>
         <milestone unit="line" ed="exclude" n="401"/>
         <l>Dum nos profundae claustra laxamus Stygis,</l>
@@ -1048,7 +1095,7 @@
         <l>populare Bacchi laudibus carmen sonet.</l>
       </sp>
       <pb id="p.217"/>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="403"/>
         <l>Effusam redimite comam nutante corymbo,</l>
@@ -1195,7 +1242,7 @@
         <milestone unit="line" ed="exclude" n="471"/>
         <l>regna securigeri Bacchum sensere Lycurgi;</l>
         <milestone unit="line" ed="exclude" n="472"/>
-        <l>sensere terrae &dagger; Zalacum feroces</l>
+        <l>sensere terrae † Zalacum feroces</l>
         <milestone unit="line" ed="exclude" n="473"/>
         <l>et quos vicinus Boreas ferit</l>
         <milestone unit="line" ed="exclude" n="474"/>
@@ -1278,55 +1325,55 @@
         <l>candida formonsi venerabimur ora Lyaei.</l>
       </sp>
       <milestone n="510" unit="card"/>
-      <sp who="oedipus creon">
+      <sp who="#oedipus #creon">
         <speaker>Oedipus Creo</speaker>
         <milestone unit="line" ed="exclude" n="510"/>
         <l n="510">Etsi ipse vultus flebiles praefert notas,</l>
         <milestone unit="line" ed="exclude" n="510"/>
         <l n="510">exprome cuius capite placemus deos. </l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="511"/>
         <l>Fari iubes tacere quae suadet metus.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="512"/>
         <l>Si te luentes non satis Thebae movent,</l>
         <milestone unit="line" ed="exclude" n="513"/>
         <l>at sceptra moveant lapsa cognatae domus.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="514"/>
         <l>Nescisse cupies nosse quae nimium expetis.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="515"/>
         <l n="515">Iners malorum remedium ignorantia est. </l>
         <milestone unit="line" ed="exclude" n="516"/>
         <l>itane et salutis publicae indicium obrues?</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="517"/>
         <l>Vbi turpis est medicina, sanari piget.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="518"/>
         <l>Audita fare, vel malo domitus gravi</l>
         <milestone unit="line" ed="exclude" n="519"/>
         <l>quid arma possint regis irati scies.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="520"/>
         <l n="520">Odere reges dicta quae dici iubent. </l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="521"/>
         <l>Mittens Erebo vile pro cunctis caput,</l>
@@ -1334,41 +1381,41 @@
         <l>arcana sacri voce ni retegis tua.</l>
       </sp>
       <pb id="p.222"/>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="523"/>
         <l>Tacere liceat, ulla libertas minor</l>
         <milestone unit="line" ed="exclude" n="524"/>
         <l>a rege petitur?</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="525"/>
         <l>Saepe vel lingua magis</l>
         <milestone unit="line" ed="exclude" n="525"/>
         <l n="525">regi atque regno muta libertas obest. </l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="526"/>
         <l>Vbi non licet tacere, quid cuiquam licet?</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="527"/>
         <l>Imperia solvit qui tacet iussus loqui.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="528"/>
         <l>Coacta verba placidus accipias precor.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="529"/>
         <l>Vlline poena vocis expressae fuit?</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="530"/>
         <l n="530">Est procul ab urbe lucus ilicibus niger, </l>
@@ -1479,7 +1526,7 @@
         <milestone unit="line" ed="exclude" n="582"/>
         <l>subito dehiscit terra et immenso sinu</l>
         <milestone unit="line" ed="exclude" n="583"/>
-        <l>laxata patuit&mdash; ipse torpentes lacus</l>
+        <l>laxata patuit— ipse torpentes lacus</l>
         <milestone unit="line" ed="exclude" n="584"/>
         <l>vidi inter umbras, ipse pallentes deos</l>
         <milestone unit="line" ed="exclude" n="585"/>
@@ -1560,7 +1607,7 @@
         <milestone unit="line" ed="exclude" n="622"/>
         <l>geminat sacerdos, donec in apertum efferat</l>
         <milestone unit="line" ed="exclude" n="623"/>
-        <l>vultus opertos) Laius&mdash; fari horreo:</l>
+        <l>vultus opertos) Laius— fari horreo:</l>
         <milestone unit="line" ed="exclude" n="624"/>
         <l>stetit per artus sanguine effuso horridus,</l>
         <milestone unit="line" ed="exclude" n="625"/>
@@ -1572,7 +1619,7 @@
         <milestone unit="line" ed="exclude" n="628"/>
         <l>vibrate thyrsos, enthea gnatos manu</l>
         <milestone unit="line" ed="exclude" n="629"/>
-        <l>lacerate potius&mdash; maximum Thebis scelus</l>
+        <l>lacerate potius— maximum Thebis scelus</l>
         <milestone unit="line" ed="exclude" n="630"/>
         <l n="630">maternus amor est. patria, non ira deum </l>
         <milestone unit="line" ed="exclude" n="631"/>
@@ -1590,7 +1637,7 @@
         <milestone unit="line" ed="exclude" n="639"/>
         <l>fetus regessit, quique, vix mos est feris,</l>
         <milestone unit="line" ed="exclude" n="640"/>
-        <l n="640">fratres sibi ipse genuit&mdash; implicitum malum </l>
+        <l n="640">fratres sibi ipse genuit— implicitum malum </l>
         <milestone unit="line" ed="exclude" n="641"/>
         <l>magisque monstrum Sphinge perplexum sua.</l>
         <milestone unit="line" ed="exclude" n="636"/>
@@ -1634,12 +1681,12 @@
         <l>eripite terras, auferam caelum pater.'</l>
       </sp>
       <milestone n="659" unit="card"/>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="659"/>
         <l>Et ossa et artus gelidus invasit tremor;</l>
         <milestone unit="line" ed="exclude" n="660"/>
-        <l n="660">quicquid timebam facere fecisse arguor&mdash; </l>
+        <l n="660">quicquid timebam facere fecisse arguor— </l>
         <milestone unit="line" ed="exclude" n="661"/>
         <l>tori iugalis abnuit Merope nefas,</l>
         <milestone unit="line" ed="exclude" n="662"/>
@@ -1653,7 +1700,7 @@
         <milestone unit="line" ed="exclude" n="666"/>
         <l>Bocota gressu quam meo tetigi loca.</l>
         <milestone unit="line" ed="exclude" n="667"/>
-        <l>falsusne senior an deus Thebis gravis?&mdash;</l>
+        <l>falsusne senior an deus Thebis gravis?—</l>
         <milestone unit="line" ed="exclude" n="668"/>
         <l>iam iam tenemus callidi socios doli:</l>
         <milestone unit="line" ed="exclude" n="669"/>
@@ -1661,7 +1708,7 @@
         <milestone unit="line" ed="exclude" n="670"/>
         <l n="670">vates, tibique sceptra despondet mea. </l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="671"/>
         <l>Egone ut sororem regia expelli velim?</l>
@@ -1679,14 +1726,14 @@
         <milestone unit="line" ed="exclude" n="677"/>
         <l>iam te minore tutior pones loco.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="678"/>
         <l>Hortaris etiam, sponte deponam ut mea</l>
         <milestone unit="line" ed="exclude" n="679"/>
         <l>tam gravia regna?</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="680"/>
         <l n="680">Suadeam hoc illis ego,</l>
@@ -1695,7 +1742,7 @@
         <milestone unit="line" ed="exclude" n="681"/>
         <l>tibi iam necesse est ferre fortunam tuam.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="682"/>
         <l>Certissima est regnare cupienti via</l>
@@ -1704,17 +1751,17 @@
         <milestone unit="line" ed="exclude" n="684"/>
         <l>ab inquieto saepe simulatur quies.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="685"/>
         <l n="685">Parumne me tam longa defendit fides? </l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="686"/>
         <l>Aditum nocendi perfido praestat fides.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="687"/>
         <l>Solutus onere regio regni bonis</l>
@@ -1731,17 +1778,17 @@
         <milestone unit="line" ed="exclude" n="693"/>
         <l>quid tam beatae desse fortunae rear?</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="694"/>
         <l>Quod dest: secunda non habent umquam modum.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="695"/>
         <l n="695">Incognita igitur ut nocens causa cadam? </l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="696"/>
         <l>Num ratio vobis reddita est vitae meae?</l>
@@ -1750,26 +1797,26 @@
         <milestone unit="line" ed="exclude" n="698"/>
         <l>sontes videmur, facitis exemplum: sequor.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="699"/>
         <l>Quid si innocens sum?</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="700"/>
         <l n="700">Dubia pro certis solent</l>
         <milestone unit="line" ed="exclude" n="701"/>
         <l>timere reges.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="700"/>
         <l n="700">Qui pavet vanos metus, </l>
         <milestone unit="line" ed="exclude" n="701"/>
         <l>veros moretur.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="702"/>
         <l>Quisquis in culpa fuit,</l>
@@ -1777,26 +1824,26 @@
         <milestone unit="line" ed="exclude" n="703"/>
         <l>dimissus odit: omne quod dubium est cadat.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="704"/>
         <l>Sic odia fiunt.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="705"/>
         <l n="705">Odia qui nimium timet</l>
         <milestone unit="line" ed="exclude" n="706"/>
         <l>regnare nescit: regna custodit metus.</l>
       </sp>
-      <sp who="creon">
+      <sp who="#creon">
         <speaker>Cr.</speaker>
         <milestone unit="line" ed="exclude" n="705"/>
         <l n="705">Qui sceptra duro saevus imperio regit, </l>
         <milestone unit="line" ed="exclude" n="706"/>
         <l>timet timentes: metus in auctorem redit.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="707"/>
         <l>Servate sontem saxeo. inclusum specu,</l>
@@ -1804,7 +1851,7 @@
         <l>ipse ad penates regios referam gradum.</l>
       </sp>
       <milestone n="709" unit="card"/>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="709"/>
         <l>Non tu tantis causa periclis,</l>
@@ -1925,7 +1972,7 @@
         <milestone unit="line" ed="exclude" n="763"/>
         <l>nimium saevi diva pudoris.</l>
       </sp>
-      <sp who="oedipus iocasta">
+      <sp who="#oedipus #iocasta">
         <speaker>Oedipus Iocasta</speaker>
         <milestone unit="line" ed="exclude" n="764"/>
         <l>C aras revolvit animus et repetit metus,</l>
@@ -1953,63 +2000,63 @@
         <l n="775">primone in aevo viridis an fracto occidit? </l>
       </sp>
       <milestone n="776" unit="card"/>
-      <sp who="iocasta">
+      <sp who="#iocasta">
         <speaker>Ioc.</speaker>
         <milestone unit="line" ed="exclude" n="776"/>
         <l>Inter senem iuvenemque, sed propior seni.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="777"/>
         <l>Frequensne turba regium cinxit latus?</l>
       </sp>
-      <sp who="iocasta">
+      <sp who="#iocasta">
         <speaker>Ioc.</speaker>
         <milestone unit="line" ed="exclude" n="778"/>
         <l>Plures fefellit error ancipitis viae,</l>
         <milestone unit="line" ed="exclude" n="779"/>
         <l>paucos fidelis curribus iunxit labor.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="780"/>
         <l n="780">Aliquisne cecidit regio fato comes? </l>
         <milestone unit="line" ed="exclude" n="781"/>
         <l>ioc. Vnum fides virtusque consortem addidit.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="782"/>
         <l>Teneo nocentem, convenit numerus, locus:</l>
         <milestone unit="line" ed="exclude" n="783"/>
         <l>sed tempus adde.</l>
       </sp>
-      <sp who="iocasta">
+      <sp who="#iocasta">
         <speaker>Ioc.</speaker>
         <milestone unit="line" ed="exclude" n="784"/>
         <l>Decima iam metitur seges.</l>
       </sp>
       <pb id="p.231"/>
-      <sp who="senex iocasta">
+      <sp who="#senex #iocasta">
         <speaker>Senex Corinthius Iocasta</speaker>
         <milestone unit="line" ed="exclude" n="785"/>
         <l n="785">Corinthius te populus in regnum vocat</l>
         <milestone unit="line" ed="exclude" n="785"/>
         <l n="785">patrium: quietem Polybus aeternam obtinet. </l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="786"/>
         <l>Vt undique in me saeva Fortuna irruit!</l>
         <milestone unit="line" ed="exclude" n="787"/>
         <l>edissere agedum, quo cadat fato parens.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="788"/>
         <l>Animam senilem mollis exsolvit sopor.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="789"/>
         <l>Genitor sine ulla caede defunctus iacet,</l>
@@ -2020,149 +2067,149 @@
         <milestone unit="line" ed="exclude" n="792"/>
         <l>sed pars magis metuenda fatorum manet.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="793"/>
         <l>Omnem paterna regna discutient metum.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="794"/>
         <l>Repetam paterna regna; sed matrem horreo.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="795"/>
         <l n="795">Metuis parentem, quae tuum reditum expetens </l>
         <milestone unit="line" ed="exclude" n="796"/>
         <l>sollicita pendet?</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="797"/>
         <l>Ipsa me pietas fugat.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="798"/>
         <l>Viduam relinques?</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="799"/>
-        <l>Tangis en ipsos metus.&mdash;</l>
+        <l>Tangis en ipsos metus.—</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="800"/>
         <l n="800">Effare morsus quis premat mentem timor;</l>
         <milestone unit="line" ed="exclude" n="801"/>
         <l>praestare tacitam regibus soleo fidem.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="800"/>
         <l n="800">Conubia matris Delphico admonitu tremo. </l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="801"/>
         <l>Timere vana desine et turpes metus</l>
         <milestone unit="line" ed="exclude" n="802"/>
         <l>depone: Merope vera non fuerat parens.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="803"/>
         <l>Quod subditi vi praemium gnati petit?</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="804"/>
         <l>Regum superbam liberi astringunt fidem.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="805"/>
         <l n="805">Secreta thalami fare quo excipias modo. </l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="806"/>
         <l>Hae te parenti parvulum tradunt manus.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="807"/>
         <l>Tu me parenti tradis; at quis me tibi?</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="808"/>
         <l>Pastor nivoso sub Cithaeronis iugo.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="809"/>
         <l>In illa temet nemora quis casus tulit?</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="810"/>
         <l n="810">Illo sequebar monte cornigeros greges. </l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="811"/>
         <l>Nunc adice certas corporis nostri notas.</l>
       </sp>
       <pb id="p.232"/>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="812"/>
         <l>Forata ferro gesseras vestigia,</l>
         <milestone unit="line" ed="exclude" n="813"/>
         <l>tumore nactus nomen ac vitio pedum.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="814"/>
         <l>Quis fuerit ille qui meum dono dedit</l>
         <milestone unit="line" ed="exclude" n="815"/>
         <l n="815">corpus requiro.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="815"/>
         <l n="815">Regios pavit greges; </l>
         <milestone unit="line" ed="exclude" n="816"/>
         <l>minor sub illo turba pastorum fuit.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="817"/>
         <l>Eloquere nomen.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="818"/>
         <l>Prima languescit senum</l>
         <milestone unit="line" ed="exclude" n="819"/>
         <l>memoria longo lassa sublabens situ.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="820"/>
         <l n="820">Potesne facie noscere ac vultu virum?</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="820"/>
         <l n="820">Fortasse noscam: saepe iam spatio Obrutam </l>
         <milestone unit="line" ed="exclude" n="821"/>
         <l>levis exoletam memoriam revocat nota.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="822"/>
         <l>Ad sacra et aras omne compulsum pecus</l>
@@ -2171,7 +2218,7 @@
         <milestone unit="line" ed="exclude" n="824"/>
         <l>famuli, penes quos summa consistit gregum.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="825"/>
         <l n="825">Sive ista ratio sive fortuna occulit, </l>
@@ -2180,12 +2227,12 @@
         <milestone unit="line" ed="exclude" n="827"/>
         <l>saepe eruentis veritas patuit malo.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="828"/>
         <l>Malum timeri maius bis aliquod potest?</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="829"/>
         <l>Magnum esse magna mole quod petitur scias,</l>
@@ -2196,14 +2243,14 @@
         <milestone unit="line" ed="exclude" n="832"/>
         <l>nihil lacessas, ipsa se fata explicent.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="833"/>
         <l>Non expedit concutere felicem statum:</l>
         <milestone unit="line" ed="exclude" n="834"/>
         <l>tuto movetur quicquid extremo in loco est.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="835"/>
         <l n="835">Nobilius aliquid genere regali appetis? </l>
@@ -2211,7 +2258,7 @@
         <l>ne te parentis pigeat inventi vide.</l>
       </sp>
       <milestone n="837" unit="card"/>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="837"/>
         <l>Vel paenitendi sanguinis quaeram fidem,</l>
@@ -2222,7 +2269,7 @@
         <milestone unit="line" ed="exclude" n="840"/>
         <l n="840">Phorbas. refersne nomen aut vultum senis? </l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="841"/>
         <l>Adlidet animo forma; nec notus satis,</l>
@@ -2230,14 +2277,14 @@
         <l>nec rursus iste vultus ignotus mihi.</l>
       </sp>
       <pb id="p.233"/>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="843"/>
         <l>Regnum optinente Laio famulus greges</l>
         <milestone unit="line" ed="exclude" n="844"/>
         <l>agitasti opimos sub Cithaeronis plaga?</l>
       </sp>
-      <sp who="phorbas oedipus">
+      <sp who="#phorbas #oedipus">
         <speaker>Phorbas Oedipus</speaker>
         <milestone unit="line" ed="exclude" n="845"/>
         <l n="845">Laetus Cithaeron pabulo semper novo </l>
@@ -2246,12 +2293,12 @@
         <milestone unit="line" ed="exclude" n="847"/>
         <l>SEN, Noscisne memet?</l>
       </sp>
-      <sp who="phorbas">
+      <sp who="#phorbas">
         <speaker>Phor.</speaker>
         <milestone unit="line" ed="exclude" n="848"/>
         <l>Dubitat anceps memoria.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="849"/>
         <l>Huic aliquis a te traditur quondam puer?</l>
@@ -2260,34 +2307,34 @@
         <milestone unit="line" ed="exclude" n="850"/>
         <l n="850">quid verba quaeris? veritas odit moras. </l>
       </sp>
-      <sp who="phorbas">
+      <sp who="#phorbas">
         <speaker>Phor.</speaker>
         <milestone unit="line" ed="exclude" n="851"/>
         <l>Obducta longo temporum tractu moves.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="852"/>
         <l>Fatere, ne te .cogat ad verum dolor.</l>
       </sp>
-      <sp who="phorbas">
+      <sp who="#phorbas">
         <speaker>Phor.</speaker>
         <milestone unit="line" ed="exclude" n="853"/>
         <l>Inutile isti munus infantis dedi:</l>
         <milestone unit="line" ed="exclude" n="854"/>
         <l>non potuit ille luce, non caelo frui.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <milestone unit="line" ed="exclude" n="855"/>
         <l n="855">Procul sit omen. vivit et vivat precor. </l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="856"/>
         <l>Superesse quare traditum infantem negas?</l>
       </sp>
-      <sp who="phorbas">
+      <sp who="#phorbas">
         <speaker>Phor.</speaker>
         <milestone unit="line" ed="exclude" n="857"/>
         <l>Ferrum per ambos tenue transactum pedes</l>
@@ -2296,31 +2343,31 @@
         <milestone unit="line" ed="exclude" n="859"/>
         <l>puerile foeda corpus urebat lue.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="860"/>
         <l n="860">Quid quaeris ultra? fata iam accedunt prope. </l>
         <milestone unit="line" ed="exclude" n="861"/>
         <l>quis fuerit infans edoce.</l>
       </sp>
-      <sp who="phorbas">
+      <sp who="#phorbas">
         <speaker>Phor.</speaker>
         <milestone unit="line" ed="exclude" n="862"/>
         <l>Prohibet fides.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="863"/>
         <l>Huc aliquis ignem! flamma iam excutiet fidem.</l>
       </sp>
-      <sp who="phorbas">
+      <sp who="#phorbas">
         <speaker>Phor.</speaker>
         <milestone unit="line" ed="exclude" n="864"/>
         <l>Per tam cruentas vera quaerentur vias?</l>
         <milestone unit="line" ed="exclude" n="865"/>
         <l n="865" part="I">ignosce quaeso.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <l part="F">Si ferus videor tibi</l>
         <milestone unit="line" ed="exclude" n="865"/>
@@ -2330,12 +2377,12 @@
         <milestone unit="line" ed="exclude" n="867"/>
         <l part="I">qua matre genitus?</l>
       </sp>
-      <sp who="phorbas">
+      <sp who="#phorbas">
         <speaker>Phor.</speaker>
         <l part="F">coniuge est genitus tua.</l>
       </sp>
       <pb id="p.234"/>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="868"/>
         <l>Dehisce, tellus, tuque tenebrarum potens,</l>
@@ -2358,7 +2405,7 @@
         <milestone unit="line" ed="exclude" n="877"/>
         <l>qua luce primum spiritus hausi rudes</l>
         <milestone unit="line" ed="exclude" n="878"/>
-        <l>iam morte dignus, redde nunc animos &dagger; acres,</l>
+        <l>iam morte dignus, redde nunc animos † acres,</l>
         <milestone unit="line" ed="exclude" n="879"/>
         <l>nunc aliquid aude sceleribus dignum tuis.</l>
         <milestone unit="line" ed="exclude" n="880"/>
@@ -2366,7 +2413,7 @@
         <milestone unit="line" ed="exclude" n="881"/>
         <l>gratare matri liberis auctam domum.</l>
       </sp>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="882"/>
         <l>Fata si liceat mihi</l>
@@ -2437,7 +2484,7 @@
         <l>ede quid portes novi.</l>
       </sp>
       <milestone n="914" unit="card"/>
-      <sp who="nuntius">
+      <sp who="#nuntius">
         <speaker>Nuntius</speaker>
         <milestone unit="line" ed="exclude" n="915"/>
         <l n="915">Praedicta postquam fata et infandum genus </l>
@@ -2475,7 +2522,7 @@
         <milestone unit="line" ed="exclude" n="931"/>
         <l>sacer Cithaeron, vel feras in me tuas</l>
         <milestone unit="line" ed="exclude" n="932"/>
-        <l>emitte silvis, mitte vel rabidos canes&mdash;</l>
+        <l>emitte silvis, mitte vel rabidos canes—</l>
         <milestone unit="line" ed="exclude" n="933"/>
         <l>nunc redde Agauen. anime, quid mortem times?</l>
         <milestone unit="line" ed="exclude" n="934"/>
@@ -2505,7 +2552,7 @@
         <milestone unit="line" ed="exclude" n="946"/>
         <l>liceat, renasci semper ut totiens nova</l>
         <milestone unit="line" ed="exclude" n="947"/>
-        <l>supplicia pendas&mdash; utere ingenio, miser:</l>
+        <l>supplicia pendas— utere ingenio, miser:</l>
         <milestone unit="line" ed="exclude" n="948"/>
         <l>quod saepe fieri non potest fiat diu;</l>
         <milestone unit="line" ed="exclude" n="949"/>
@@ -2573,7 +2620,7 @@
         <l>largum revulsis sanguinem venis vomit.</l>
       </sp>
       <milestone n="980" unit="card"/>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="980"/>
         <l n="980">Fatis agimur: cedite fatis; </l>
@@ -2613,7 +2660,7 @@
         <milestone unit="line" ed="exclude" n="997"/>
         <l>luminis orbus.</l>
       </sp>
-      <sp who="oedipus chorus iocasta">
+      <sp who="#oedipus #chorus #iocasta">
         <speaker>Oedipus Chorus Iocasta</speaker>
         <milestone unit="line" ed="exclude" n="998"/>
         <l>Bene habet, peractum est: iusta persolvi patri,</l>
@@ -2628,7 +2675,7 @@
         <milestone unit="line" ed="exclude" n="1003"/>
         <l>lux te refugit, vultus Oedipodam hic decet.</l>
       </sp>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="1004"/>
         <l>En ecce, rapido saeva prosiluit gradu</l>
@@ -2646,11 +2693,11 @@
         <l n="1010">gnatumue? dubitas? gnatus es: gnatum pudet? </l>
         <pb id="p.239"/>
         <milestone unit="line" ed="exclude" n="1011"/>
-        <l>invite loquere gnate&mdash; quo avertis caput</l>
+        <l>invite loquere gnate— quo avertis caput</l>
         <milestone unit="line" ed="exclude" n="1012"/>
         <l>vacuosque vultus?</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="1013"/>
         <l>Quis frui tenebris vetat?</l>
@@ -2667,12 +2714,12 @@
         <milestone unit="line" ed="exclude" n="1018"/>
         <l>dependet orbis alterum ex nobis ferat.</l>
       </sp>
-      <sp who="iocasta">
+      <sp who="#iocasta">
         <speaker>Ioc.</speaker>
         <milestone unit="line" ed="exclude" n="1019"/>
         <l>Fati ista culpa est: nemo fit fato nocens.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="1020"/>
         <l n="1020">Iam parce verbis, mater, et parce auribus: </l>
@@ -2683,7 +2730,7 @@
         <milestone unit="line" ed="exclude" n="1023"/>
         <l>per omne nostri nominis fas ac nefas.</l>
       </sp>
-      <sp who="iocasta">
+      <sp who="#iocasta">
         <speaker>Ioc.</speaker>
         <milestone unit="line" ed="exclude" n="1024"/>
         <l>Quid, anime, torpes? socia cur scelerum dare</l>
@@ -2708,7 +2755,7 @@
         <milestone unit="line" ed="exclude" n="1034"/>
         <l>rapiatur ensis; hoc iacet ferro meus</l>
         <milestone unit="line" ed="exclude" n="1035"/>
-        <l n="1035">coniunx&mdash; quid illum nomine haud vero vocas? </l>
+        <l n="1035">coniunx— quid illum nomine haud vero vocas? </l>
         <milestone unit="line" ed="exclude" n="1036"/>
         <l>socer est. utrumne pectori infigam meo</l>
         <milestone unit="line" ed="exclude" n="1037"/>
@@ -2718,7 +2765,7 @@
         <milestone unit="line" ed="exclude" n="1039"/>
         <l>.uterum capacem, qui virum et gnatos tulit.</l>
       </sp>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="1040"/>
         <l n="1040">Iacet perempta. vulneri immoritur manus </l>
@@ -2726,7 +2773,7 @@
         <milestone unit="line" ed="exclude" n="1041"/>
         <l>ferrumque secum nimius eiecit cruor.</l>
       </sp>
-      <sp who="oedipus">
+      <sp who="#oedipus">
         <speaker>Oed.</speaker>
         <milestone unit="line" ed="exclude" n="1042"/>
         <l>Fatidice te, te praesidem et veri deum</l>
@@ -2747,7 +2794,7 @@
         <milestone unit="line" ed="exclude" n="1050"/>
         <l n="1050">ingredere praeceps, lubricos ponens gradus, </l>
         <milestone unit="line" ed="exclude" n="1051"/>
-        <l>1 profuge vade&mdash; siste, ne in matrem incidas,</l>
+        <l>1 profuge vade— siste, ne in matrem incidas,</l>
         <milestone unit="line" ed="exclude" n="1052"/>
         <l>quicumque fessi corpore et morbo graves</l>
         <milestone unit="line" ed="exclude" n="1053"/>
@@ -2771,4 +2818,4 @@
       </sp>
     </body>
   </text>
-</TEI.2>
+</TEI>

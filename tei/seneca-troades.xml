@@ -1,43 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" "http://www.tei-c.org/Guidelines/DTD/tei2.dtd" [
-<!ENTITY % TEI.XML "INCLUDE">
-<!ENTITY % PersDrama PUBLIC "-//Perseus P4//DTD Perseus Drama//EN" "http://www.perseus.tufts.edu/DTD/1.0/PersDrama.dtd">
-]>
-<TEI.2>
-  <teiHeader type="text" status="new">
+<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="latin">
+  <teiHeader>
     <fileDesc>
       <titleStmt>
         <title type="sub">Troades</title>
-        <author n="Sen.">Seneca</author>
-        <editor role="editor" n="Peiper">Adolf Peiper</editor>
-        <editor role="editor" n="Richter">Gustav Richter</editor>
+        <author key="wikidata:Q2054">Seneca</author>
+        <editor n="Peiper" role="editor">Adolf Peiper</editor>
+        <editor n="Richter" role="editor">Gustav Richter</editor>
       </titleStmt>
+      <publicationStmt>
+        <publisher xml:id="dracor">DraCor</publisher>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rom00016</idno>
+        <availability>
+          <licence>
+            <ab>CC BY-SA 3.0 US</ab>
+            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+          </licence>
+        </availability>
+        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q3999195</idno>
+      </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
         <biblStruct>
-          <monogr>
-            <author>L. Annaeus Seneca</author>
-            <title>Tragoediae</title>
-            <editor role="editor" n="Peiper">Adolf Peiper</editor>
-            <editor role="editor" n="Richter">Gustav Richter</editor>
+          <bibl type="originalSource">
+            <author key="wikidata:Q2054">L. Annaeus Seneca</author>
+            <editor n="Peiper" role="editor">Adolf Peiper</editor>
+            <editor n="Richter" role="editor">Gustav Richter</editor>
             <imprint>
               <pubPlace>Leipzig</pubPlace>
               <publisher>Teubner</publisher>
               <date>1921</date>
             </imprint>
-          </monogr>
+          </bibl>
         </biblStruct>
       </sourceDesc>
+      <bibl type="digitalSource">
+        <name>Perseus Digital Library (http://www.perseus.tufts.edu)</name>
+        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+        <availability status="free">
+          <licence>
+            <ab>CC BY-SA 3.0 US</ab>
+            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+          </licence>
+        </availability>
+      </bibl>
     </fileDesc>
-    <encodingDesc>
-      <refsDecl doctype="TEI.2">
-        <step refunit="line" from="DESCENDANT (1 L N%1)"/>
-      </refsDecl>
-      <refsDecl doctype="TEI.2">
-        <state unit="card"/>
-      </refsDecl>
-    </encodingDesc>
     <profileDesc>
+      <particDesc>
+        <listPerson>
+          <person xml:id="andromacha">
+            <persName>Andromacha</persName>
+          </person>
+          <person xml:id="astyanax">
+            <persName>Astyanax</persName>
+          </person>
+          <personGrp sex="UNKNOWN" xml:id="chorus">
+            <name>Chorus</name>
+          </personGrp>
+          <person xml:id="hecuba">
+            <persName>Hecvba</persName>
+          </person>
+          <person xml:id="helena">
+            <persName>Helena</persName>
+          </person>
+          <person xml:id="nuntius">
+            <persName>Nuntius</persName>
+          </person>
+          <person xml:id="pyrrhus">
+            <persName>Pyrrhus</persName>
+          </person>
+          <person xml:id="polyxena">
+            <persName>Polyxena</persName>
+          </person>
+          <person xml:id="agamemnon">
+            <persName>Agamemnon</persName>
+          </person>
+          <person xml:id="calchas">
+            <persName>Calchas</persName>
+          </person>
+          <person xml:id="talthybius">
+            <name>Talthybius</name>
+          </person>
+          <person xml:id="ulixes">
+            <persName>Ulixes</persName>
+          </person>
+        </listPerson>
+      </particDesc>
+      <textClass>
+        <keywords>
+          <term subtype="tragedy" type="genreTitle">Tragedy</term>
+        </keywords>
+      </textClass>
       <langUsage>
         <language id="la">Latin</language>
       </langUsage>
@@ -52,6 +106,14 @@
         <item/>
       </change>
     </revisionDesc>
+    <change>
+      <date>2019-06-09</date>
+      <respStmt>
+        <name>Boris Orekhov</name>
+        <resp>ed.</resp>
+      </respStmt>
+      <item>converted to P.5 Dracor format</item>
+    </change>
   </teiHeader>
   <text n="Tro.">
     <body>
@@ -111,2878 +173,2878 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb id="p.51"/>
-      <sp who="hecuba">
+      <sp who="#hecuba">
         <speaker>Hecvba</speaker>
-        <milestone unit="line" n="1"/>
+        <milestone n="1" unit="line"/>
         <l>Quicumque regno fidit et magna potens</l>
-        <milestone unit="line" n="2"/>
+        <milestone n="2" unit="line"/>
         <l>dominatur aula nec leves metuit deos</l>
-        <milestone unit="line" n="3"/>
+        <milestone n="3" unit="line"/>
         <l>animumque rebus credulum laetis dedit,</l>
-        <milestone unit="line" n="4"/>
+        <milestone n="4" unit="line"/>
         <l>me videat et' te, Troia: non umquam tulit</l>
-        <milestone unit="line" n="5"/>
+        <milestone n="5" unit="line"/>
         <l n="5">documenta fors maiora, quam fragili loco </l>
-        <milestone unit="line" n="6"/>
+        <milestone n="6" unit="line"/>
         <l>starent superbi, columen eversum occidit</l>
-        <milestone unit="line" n="7"/>
+        <milestone n="7" unit="line"/>
         <l>pollentis Asiae, caelitum egregius labor;</l>
-        <milestone unit="line" n="8"/>
+        <milestone n="8" unit="line"/>
         <l>ad cuius arma venit et qui frigidum</l>
-        <milestone unit="line" n="9"/>
+        <milestone n="9" unit="line"/>
         <l>septena Tanain ora pandentem bibit, </l>
-        <milestone unit="line" n="12"/>
+        <milestone n="12" unit="line"/>
         <l>et quae vagos vicina prospiciens Scythas </l>
-        <milestone unit="line" n="13"/>
+        <milestone n="13" unit="line"/>
         <l>ripam catervis Ponticam viduis ferit, </l>
-        <milestone unit="line" n="10"/>
+        <milestone n="10" unit="line"/>
         <l n="10">et qui renatum primus excipiens diem </l>
-        <milestone unit="line" n="11"/>
+        <milestone n="11" unit="line"/>
         <l>tepidum rubenti Tigrin inmiscet freto,</l>
-        <milestone unit="line" n="14"/>
+        <milestone n="14" unit="line"/>
         <l>excisa ferro est, Pergamum incubuit sibi. </l>
-        <milestone unit="line" n="15"/>
+        <milestone n="15" unit="line"/>
         <l n="15">en alta muri decora congesti iacent </l>
-        <milestone unit="line" n="16"/>
+        <milestone n="16" unit="line"/>
         <l>tectis adustis; regiam flammae ambiunt</l>
-        <milestone unit="line" n="17"/>
+        <milestone n="17" unit="line"/>
         <l>omnisque late fumat Assaraci domus.</l>
-        <milestone unit="line" n="18"/>
+        <milestone n="18" unit="line"/>
         <l>non prohibet avidas flamma victoris manus:</l>
-        <milestone unit="line" n="19"/>
+        <milestone n="19" unit="line"/>
         <l>diripitur ardens Troia, nec caelum patet</l>
-        <milestone unit="line" n="20"/>
+        <milestone n="20" unit="line"/>
         <l n="20">undante fumo: nube ceu densa obsitus </l>
-        <milestone unit="line" n="21"/>
+        <milestone n="21" unit="line"/>
         <l>ater favilla squalet Iliaca dies.</l>
-        <milestone unit="line" n="22"/>
+        <milestone n="22" unit="line"/>
         <l>stat avidus irae victor et lentum Ilium</l>
         <pb id="p.52"/>
-        <milestone unit="line" n="23"/>
+        <milestone n="23" unit="line"/>
         <l>metitur oculis ac decem tandem ferus</l>
-        <milestone unit="line" n="24"/>
+        <milestone n="24" unit="line"/>
         <l>ignoscit annis; horret afflictam quoque,</l>
-        <milestone unit="line" n="25"/>
+        <milestone n="25" unit="line"/>
         <l n="25">victamque quamvis videat, haut credit sibi </l>
-        <milestone unit="line" n="26"/>
+        <milestone n="26" unit="line"/>
         <l>potuisse vinci, spolia populator rapit</l>
-        <milestone unit="line" n="27"/>
+        <milestone n="27" unit="line"/>
         <l>Dardania; praedam mille non capiunt rates.</l>
-        <milestone unit="line" n="28"/>
+        <milestone n="28" unit="line"/>
         <l>Testor deorum numen adversum mihi,</l>
-        <milestone unit="line" n="29"/>
+        <milestone n="29" unit="line"/>
         <l>patriaeque cineres teque rectorem Phrygum</l>
-        <milestone unit="line" n="30"/>
+        <milestone n="30" unit="line"/>
         <l n="30">quem Troia toto conditum regno tegit, </l>
-        <milestone unit="line" n="31"/>
+        <milestone n="31" unit="line"/>
         <l>tuosque manes quo stetit stante Ilium,</l>
-        <milestone unit="line" n="32"/>
+        <milestone n="32" unit="line"/>
         <l>et vos meorum liberam magni greges,</l>
-        <milestone unit="line" n="33"/>
+        <milestone n="33" unit="line"/>
         <l>umbrae minores: quicquid adversi accidit,</l>
-        <milestone unit="line" n="34"/>
+        <milestone n="34" unit="line"/>
         <l>quaecumque Phoebas ore lymphato furens</l>
-        <milestone unit="line" n="35"/>
+        <milestone n="35" unit="line"/>
         <l n="35">credi deo vetante praedixit mala, </l>
-        <milestone unit="line" n="36"/>
+        <milestone n="36" unit="line"/>
         <l>prior Hecuba vidi. gravida nec tacui metus</l>
-        <milestone unit="line" n="37"/>
+        <milestone n="37" unit="line"/>
         <l>et vana vates ante Cassandram fui.</l>
-        <milestone unit="line" n="38"/>
+        <milestone n="38" unit="line"/>
         <l>non cautus ignes Ithacus aut Itbaci comes</l>
-        <milestone unit="line" n="39"/>
+        <milestone n="39" unit="line"/>
         <l>nocturnus in vos sparsit aut fallax Sinon:</l>
-        <milestone unit="line" n="40"/>
+        <milestone n="40" unit="line"/>
         <l n="40">meus ignis iste est, facibus ardetis meis. </l>
-        <milestone unit="line" n="41"/>
+        <milestone n="41" unit="line"/>
         <l>sed quid ruinas urbis eversae gemis,</l>
-        <milestone unit="line" n="42"/>
+        <milestone n="42" unit="line"/>
         <l>vivax senectus? respice infelix ad hos</l>
-        <milestone unit="line" n="43"/>
+        <milestone n="43" unit="line"/>
         <l>luctus recentes: Troia iam vetus est malum,</l>
-        <milestone unit="line" n="44"/>
+        <milestone n="44" unit="line"/>
         <l>vidi execrandum regiae caedis nefas</l>
-        <milestone unit="line" n="45"/>
+        <milestone n="45" unit="line"/>
         <l n="45">ipsasque ad aras maius admissum scelus </l>
-        <milestone unit="line" n="46"/>
+        <milestone n="46" unit="line"/>
         <l>Aeacidis armis, cum ferox, scaeva manu</l>
-        <milestone unit="line" n="47"/>
+        <milestone n="47" unit="line"/>
         <l>coma reflectens regium torta caput,</l>
-        <milestone unit="line" n="48"/>
+        <milestone n="48" unit="line"/>
         <l>alto nefandum vulneri ferrum abdidit;</l>
-        <milestone unit="line" n="49"/>
+        <milestone n="49" unit="line"/>
         <l>quod. penitus actum cum recepisset, libens</l>
-        <milestone unit="line" n="50"/>
+        <milestone n="50" unit="line"/>
         <l n="50">ensis senili siccus e iugulo redit. </l>
-        <milestone unit="line" n="51"/>
+        <milestone n="51" unit="line"/>
         <l>placare quem non potuit a caede effera</l>
         <pb id="p.53"/>
-        <milestone unit="line" n="52"/>
+        <milestone n="52" unit="line"/>
         <l>mortalis aevi cardinem extremum premens</l>
-        <milestone unit="line" n="53"/>
+        <milestone n="53" unit="line"/>
         <l>superique testes sceleris et quoddam sacrum</l>
-        <milestone unit="line" n="54"/>
+        <milestone n="54" unit="line"/>
         <l>regni iacentis? ille tot regum parens</l>
-        <milestone unit="line" n="55"/>
+        <milestone n="55" unit="line"/>
         <l n="55">caret sepulcro Priamus et flamma indiget </l>
-        <milestone unit="line" n="56"/>
+        <milestone n="56" unit="line"/>
         <l>ardente Troia, non tamen superis sat est:</l>
-        <milestone unit="line" n="57"/>
+        <milestone n="57" unit="line"/>
         <l>dominum ecce Priami nuribus et natis legens</l>
-        <milestone unit="line" n="58"/>
+        <milestone n="58" unit="line"/>
         <l>sortitur urna praedaque en vilis sequar.</l>
-        <milestone unit="line" n="59"/>
+        <milestone n="59" unit="line"/>
         <l>hic Hectoris coniugia despondet sibi.</l>
-        <milestone unit="line" n="60"/>
+        <milestone n="60" unit="line"/>
         <l n="60">hic optat Heleni coniugem. hic Antenoris; </l>
-        <milestone unit="line" n="61"/>
+        <milestone n="61" unit="line"/>
         <l>nec dest tuos. Cassandra, qui thalamos petat.</l>
-        <milestone unit="line" n="62"/>
+        <milestone n="62" unit="line"/>
         <l>mea sors timetur, sola sum Danais metus.</l>
-        <milestone unit="line" n="63"/>
+        <milestone n="63" unit="line"/>
         <l>Lamenta cessant? turba captivae mea,</l>
-        <milestone unit="line" n="64"/>
+        <milestone n="64" unit="line"/>
         <l>ferite palmis pectora et planctus date</l>
-        <milestone unit="line" n="65"/>
+        <milestone n="65" unit="line"/>
         <l n="65">et iusta Troiae facite, iamdudum sonet </l>
-        <milestone unit="line" n="66"/>
+        <milestone n="66" unit="line"/>
         <l>fatalis Ide, iudicis diri domus.</l>
       </sp>
       <milestone n="67" unit="card"/>
-      <sp who="chorus hecuba">
+      <sp who="#chorus #hecuba">
         <speaker>Chorus Troadum Hecuba</speaker>
-        <milestone unit="line" n="67"/>
+        <milestone n="67" unit="line"/>
         <l>Non rude vulgus lacrimisque a ovum</l>
-        <milestone unit="line" n="68"/>
+        <milestone n="68" unit="line"/>
         <l>lugere iubes:</l>
-        <milestone unit="line" n="69"/>
+        <milestone n="69" unit="line"/>
         <l>hoc continuis egimus annis,</l>
-        <milestone unit="line" n="69b"/>
+        <milestone n="69b" unit="line"/>
         <l n="69b">ex quo tetigit </l>
-        <milestone unit="line" n="70"/>
+        <milestone n="70" unit="line"/>
         <l n="70">Phrygius Graias hospes Amyclas </l>
-        <milestone unit="line" n="71"/>
+        <milestone n="71" unit="line"/>
         <l>securique fretum</l>
-        <milestone unit="line" n="72"/>
+        <milestone n="72" unit="line"/>
         <l>pinus matri sacra Cybebae.</l>
-        <milestone unit="line" n="73"/>
+        <milestone n="73" unit="line"/>
         <l>deciens nivibus canuit Ide,</l>
         <pb id="p.54"/>
-        <milestone unit="line" n="74"/>
+        <milestone n="74" unit="line"/>
         <l>deciens nostris nudata rogis,</l>
-        <milestone unit="line" n="75"/>
+        <milestone n="75" unit="line"/>
         <l n="75">et Sigeis trepidus campis </l>
-        <milestone unit="line" n="76"/>
+        <milestone n="76" unit="line"/>
         <l>decumas secuit messor aristas,</l>
-        <milestone unit="line" n="77"/>
+        <milestone n="77" unit="line"/>
         <l>ut nulla dies maerore caret.</l>
-        <milestone unit="line" n="78"/>
+        <milestone n="78" unit="line"/>
         <l>sed nova fletus causa ministrat:</l>
-        <milestone unit="line" n="79"/>
+        <milestone n="79" unit="line"/>
         <l>ite ad planctus,</l>
-        <milestone unit="line" n="80"/>
+        <milestone n="80" unit="line"/>
         <l n="80">miseramque leva, regina, manum. </l>
-        <milestone unit="line" n="81"/>
+        <milestone n="81" unit="line"/>
         <l>vulgus dominam vile sequemur:</l>
-        <milestone unit="line" n="82"/>
+        <milestone n="82" unit="line"/>
         <l>non indociles lugere sumus.</l>
       </sp>
-      <sp who="hecuba">
+      <sp who="#hecuba">
         <speaker>Hec.</speaker>
-        <milestone unit="line" n="83"/>
+        <milestone n="83" unit="line"/>
         <l>Fidae casus nostri comites,</l>
-        <milestone unit="line" n="84"/>
+        <milestone n="84" unit="line"/>
         <l>solvite crinem,</l>
-        <milestone unit="line" n="85"/>
+        <milestone n="85" unit="line"/>
         <l n="85">per colla fluant maesta capilli </l>
-        <milestone unit="line" n="86"/>
+        <milestone n="86" unit="line"/>
         <l>tepido Troiae pulvere turpes:</l>
-        <milestone unit="line" n="102b"/>
+        <milestone n="102b" unit="line"/>
         <l n="102b">complete manus, </l>
-        <milestone unit="line" n="103"/>
+        <milestone n="103" unit="line"/>
         <l>hoc ex Troia sumpsisse licet. </l>
-        <milestone unit="line" n="87"/>
+        <milestone n="87" unit="line"/>
         <l>paret exertos turba lacertos; </l>
-        <milestone unit="line" n="88"/>
+        <milestone n="88" unit="line"/>
         <l>veste remissa substringe sinus</l>
-        <milestone unit="line" n="89"/>
+        <milestone n="89" unit="line"/>
         <l>uteroque tenus pateant artus.</l>
-        <milestone unit="line" n="90"/>
+        <milestone n="90" unit="line"/>
         <l n="90">cui coniugio </l>
-        <milestone unit="line" n="91"/>
+        <milestone n="91" unit="line"/>
         <l>pectora velas, captive pudor?</l>
-        <milestone unit="line" n="92"/>
+        <milestone n="92" unit="line"/>
         <l>cingat tunicas palla solutas,</l>
-        <milestone unit="line" n="93"/>
+        <milestone n="93" unit="line"/>
         <l>vacet ad crebri verbera planctus</l>
-        <milestone unit="line" n="94"/>
-        <l>furibunda manus&mdash; placet hic habitus,</l>
-        <milestone unit="line" n="95"/>
+        <milestone n="94" unit="line"/>
+        <l>furibunda manus— placet hic habitus,</l>
+        <milestone n="95" unit="line"/>
         <l n="95">placet: agnosco Troada turbam. </l>
-        <milestone unit="line" n="96"/>
+        <milestone n="96" unit="line"/>
         <l>iterum luctus redeant veteres,</l>
-        <milestone unit="line" n="97"/>
+        <milestone n="97" unit="line"/>
         <l>solitum flendi vincite morem:</l>
-        <milestone unit="line" n="98"/>
+        <milestone n="98" unit="line"/>
         <l>Hectora flemus.</l>
       </sp>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chor.</speaker>
-        <milestone unit="line" n="99"/>
+        <milestone n="99" unit="line"/>
         <l>Solvimus omnes lacerum multo</l>
-        <milestone unit="line" n="100"/>
+        <milestone n="100" unit="line"/>
         <l n="100">funere crinem; </l>
-        <milestone unit="line" n="101"/>
+        <milestone n="101" unit="line"/>
         <l>coma demissa est libera nodo</l>
         <pb id="p.55"/>
-        <milestone unit="line" n="102"/>
+        <milestone n="102" unit="line"/>
         <l>sparsitque cinis fervidus ora.</l>
-        <milestone unit="line" n="104"/>
+        <milestone n="104" unit="line"/>
         <l>cadit ex umeris vestis apertis </l>
-        <milestone unit="line" n="105"/>
+        <milestone n="105" unit="line"/>
         <l n="105">imumque tegit suffulta latus; </l>
-        <milestone unit="line" n="106"/>
+        <milestone n="106" unit="line"/>
         <l>iam nuda vocant pectora dextras:</l>
-        <milestone unit="line" n="107"/>
+        <milestone n="107" unit="line"/>
         <l>nunc, nunc viles exprome, dolor.</l>
-        <milestone unit="line" n="108"/>
+        <milestone n="108" unit="line"/>
         <l>Rhoetea sonent litora planctus,</l>
-        <milestone unit="line" n="109"/>
+        <milestone n="109" unit="line"/>
         <l>habitantque cavis montibus Echo</l>
-        <milestone unit="line" n="110"/>
+        <milestone n="110" unit="line"/>
         <l n="110">non, ut solita est, extrema brevis </l>
-        <milestone unit="line" n="111"/>
+        <milestone n="111" unit="line"/>
         <l>verba remittat,</l>
-        <milestone unit="line" n="112"/>
+        <milestone n="112" unit="line"/>
         <l>totos reddat Troiae gemitus:</l>
-        <milestone unit="line" n="113"/>
+        <milestone n="113" unit="line"/>
         <l>audiat omnis pontus et aether.</l>
-        <milestone unit="line" n="113b"/>
+        <milestone n="113b" unit="line"/>
         <l n="113b">saevite, manus, </l>
-        <milestone unit="line" n="114"/>
+        <milestone n="114" unit="line"/>
         <l>pulsu pectus tundite vasto,</l>
-        <milestone unit="line" n="115"/>
+        <milestone n="115" unit="line"/>
         <l n="115">non sum solito contenta sono: </l>
-        <milestone unit="line" n="116"/>
+        <milestone n="116" unit="line"/>
         <l>Hectora flemus.</l>
-        <milestone unit="line" n="117"/>
+        <milestone n="117" unit="line"/>
         <l>HEC Tibi nostra ferit dextra lacertos</l>
-        <milestone unit="line" n="118"/>
+        <milestone n="118" unit="line"/>
         <l>umerosque ferit tibi sanguineos,</l>
-        <milestone unit="line" n="119"/>
+        <milestone n="119" unit="line"/>
         <l>tibi nostra caput dextera pulsat,</l>
-        <milestone unit="line" n="120"/>
+        <milestone n="120" unit="line"/>
         <l n="120">tibi maternis ubera palmis </l>
-        <milestone unit="line" n="121"/>
+        <milestone n="121" unit="line"/>
         <l>laniata iacent:</l>
-        <milestone unit="line" n="122"/>
+        <milestone n="122" unit="line"/>
         <l>fluat et multo sanguine manet</l>
-        <milestone unit="line" n="122b"/>
+        <milestone n="122b" unit="line"/>
         <l n="122b">quamcumque tuo </l>
-        <milestone unit="line" n="123"/>
+        <milestone n="123" unit="line"/>
         <l>funere feci rapta cicatrix.</l>
-        <milestone unit="line" n="124"/>
+        <milestone n="124" unit="line"/>
         <l>columen patriae, mora fatorum,</l>
-        <milestone unit="line" n="125"/>
+        <milestone n="125" unit="line"/>
         <l n="125">tu praesidium Phrygibus fessis, </l>
-        <milestone unit="line" n="126"/>
+        <milestone n="126" unit="line"/>
         <l>tu murus eras umerisque tuis</l>
-        <milestone unit="line" n="127"/>
+        <milestone n="127" unit="line"/>
         <l>stetit illa decem fulta per annos:</l>
-        <milestone unit="line" n="128"/>
+        <milestone n="128" unit="line"/>
         <l>tecum cecidit summusque dies</l>
-        <milestone unit="line" n="129"/>
+        <milestone n="129" unit="line"/>
         <l>Hectoris idem patriaeque fuit.</l>
-        <milestone unit="line" n="130"/>
+        <milestone n="130" unit="line"/>
         <l n="130">Vertite planctus: Priamo vestros </l>
-        <milestone unit="line" n="131"/>
+        <milestone n="131" unit="line"/>
         <l>fundite fletus, satis Hector habet.</l>
       </sp>
       <milestone n="132" unit="card"/>
       <pb id="p.56"/>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chor.</speaker>
-        <milestone unit="line" n="132"/>
+        <milestone n="132" unit="line"/>
         <l>Accipe, rector Phrygiae, planctus,</l>
-        <milestone unit="line" n="133"/>
+        <milestone n="133" unit="line"/>
         <l>accipe fletus, bis capte senex,</l>
-        <milestone unit="line" n="134"/>
+        <milestone n="134" unit="line"/>
         <l>nil Troia semel te rege tulit,</l>
-        <milestone unit="line" n="135"/>
+        <milestone n="135" unit="line"/>
         <l n="135">bis pulsari Dardana Graio </l>
-        <milestone unit="line" n="136"/>
+        <milestone n="136" unit="line"/>
         <l>moenia ferro</l>
-        <milestone unit="line" n="137"/>
+        <milestone n="137" unit="line"/>
         <l>bisque pharetras passa Herculeas.</l>
-        <milestone unit="line" n="137b"/>
+        <milestone n="137b" unit="line"/>
         <l n="137b">post elatos </l>
-        <milestone unit="line" n="138"/>
+        <milestone n="138" unit="line"/>
         <l>Hecubae partus regumque gregem</l>
-        <milestone unit="line" n="139"/>
+        <milestone n="139" unit="line"/>
         <l>postrema pater funera cludis</l>
-        <milestone unit="line" n="140"/>
+        <milestone n="140" unit="line"/>
         <l n="140">magnoque Iovi victima caesus </l>
-        <milestone unit="line" n="141"/>
+        <milestone n="141" unit="line"/>
         <l>Sigea, premis litora truncus.</l>
       </sp>
-      <sp who="hecuba">
+      <sp who="#hecuba">
         <speaker>Hec.</speaker>
-        <milestone unit="line" n="142"/>
+        <milestone n="142" unit="line"/>
         <l>Alio lacrimas flectite vestras:</l>
-        <milestone unit="line" n="143"/>
+        <milestone n="143" unit="line"/>
         <l>non est Priami miseranda mei</l>
-        <milestone unit="line" n="144"/>
+        <milestone n="144" unit="line"/>
         <l>mors, Iliades.</l>
-        <milestone unit="line" n="145"/>
+        <milestone n="145" unit="line"/>
         <l n="145">felix Priamus dicite cunctae: </l>
-        <milestone unit="line" n="146"/>
+        <milestone n="146" unit="line"/>
         <l>liber manes vadit ad imos,</l>
-        <milestone unit="line" n="147"/>
+        <milestone n="147" unit="line"/>
         <l>nec feret umquam victa Graium</l>
-        <milestone unit="line" n="147b"/>
+        <milestone n="147b" unit="line"/>
         <l n="147b">cervice iugum; </l>
-        <milestone unit="line" n="148"/>
+        <milestone n="148" unit="line"/>
         <l>non ille duos videt Atridas</l>
-        <milestone unit="line" n="149"/>
+        <milestone n="149" unit="line"/>
         <l>nec fallacem cernit Vlixen;</l>
-        <milestone unit="line" n="150"/>
+        <milestone n="150" unit="line"/>
         <l n="150">non Argolici praeda triumphi </l>
-        <milestone unit="line" n="151"/>
+        <milestone n="151" unit="line"/>
         <l>subiecta feret colla tropaeis;</l>
-        <milestone unit="line" n="152"/>
+        <milestone n="152" unit="line"/>
         <l>non adsuetas ad sceptra manus</l>
-        <milestone unit="line" n="153"/>
+        <milestone n="153" unit="line"/>
         <l>posterga dabit</l>
-        <milestone unit="line" n="154"/>
+        <milestone n="154" unit="line"/>
         <l>currusque sequens Agamemnonios</l>
-        <milestone unit="line" n="155"/>
+        <milestone n="155" unit="line"/>
         <l n="155">aurea dextra vincula gestans </l>
-        <milestone unit="line" n="156"/>
+        <milestone n="156" unit="line"/>
         <l>latis fiet pompa Mycenis.</l>
       </sp>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chor.</speaker>
-        <milestone unit="line" n="157"/>
+        <milestone n="157" unit="line"/>
         <l>Felix Priamus dicimus omnes:</l>
-        <milestone unit="line" n="158"/>
+        <milestone n="158" unit="line"/>
         <l>secum excedens sua regna tulit;</l>
-        <milestone unit="line" n="159"/>
+        <milestone n="159" unit="line"/>
         <l>nunc Elysii nemoris tutis</l>
-        <milestone unit="line" n="160"/>
+        <milestone n="160" unit="line"/>
         <l n="160">errat in umbris interque pias </l>
         <pb id="p.57"/>
-        <milestone unit="line" n="161"/>
+        <milestone n="161" unit="line"/>
         <l>felix animas Hectora quaerit.</l>
-        <milestone unit="line" n="161b"/>
+        <milestone n="161b" unit="line"/>
         <l n="161b">felix Priamus, </l>
-        <milestone unit="line" n="162"/>
+        <milestone n="162" unit="line"/>
         <l>felix quisquis bello moriens</l>
-        <milestone unit="line" n="163"/>
+        <milestone n="163" unit="line"/>
         <l>omnia secum consumpta tulit.</l>
       </sp>
-      <sp who="talthybius chorus">
+      <sp who="#talthybius #chorus">
         <speaker>Talthybius Chorus</speaker>
-        <milestone unit="line" n="164"/>
+        <milestone n="164" unit="line"/>
         <l>O longa Danais semper in portu mora,</l>
-        <milestone unit="line" n="165"/>
+        <milestone n="165" unit="line"/>
         <l n="165">seu petere bellum, petere seu patriam volunt. </l>
       </sp>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chor.</speaker>
-        <milestone unit="line" n="166"/>
+        <milestone n="166" unit="line"/>
         <l>Quae causa ratibus faciat et Danais moram,</l>
-        <milestone unit="line" n="167"/>
+        <milestone n="167" unit="line"/>
         <l>effare, reduces quis deus claudat vias.</l>
       </sp>
-      <sp who="talthybius">
+      <sp who="#talthybius">
         <speaker>Tal.</speaker>
-        <milestone unit="line" n="168"/>
+        <milestone n="168" unit="line"/>
         <l>Pavet animus, artus horridus quassat tremor,</l>
-        <milestone unit="line" n="169"/>
+        <milestone n="169" unit="line"/>
         <l>maiora veris monstra (vix capiunt fidem)</l>
-        <milestone unit="line" n="170"/>
+        <milestone n="170" unit="line"/>
         <l n="170">vidi ipse, vidi. summa iam Titan iuga </l>
-        <milestone unit="line" n="170b"/>
+        <milestone n="170b" unit="line"/>
         <l n="170b">stringebat ortu, vicerat noctem dies, </l>
-        <milestone unit="line" n="171"/>
+        <milestone n="171" unit="line"/>
         <l>cum subito caeco terra mugitu fremens</l>
-        <milestone unit="line" n="172"/>
+        <milestone n="172" unit="line"/>
         <l>concussa totos traxit ex imo sinus;</l>
-        <milestone unit="line" n="173"/>
+        <milestone n="173" unit="line"/>
         <l>movere silvae capita et excelsum nemus</l>
-        <milestone unit="line" n="174"/>
+        <milestone n="174" unit="line"/>
         <l>fragore vasto tonuit et lucus sacer:</l>
-        <milestone unit="line" n="175"/>
+        <milestone n="175" unit="line"/>
         <l n="175">Idaea ruptis saxa ceciderunt iugis. </l>
-        <milestone unit="line" n="176"/>
+        <milestone n="176" unit="line"/>
         <l>nec terra solum tremuit: et pontus suum</l>
-        <milestone unit="line" n="177"/>
+        <milestone n="177" unit="line"/>
         <l>adesse Achillen sensit ac stravit vada.</l>
-        <milestone unit="line" n="178"/>
+        <milestone n="178" unit="line"/>
         <l>tum scissa vallis aperit immensos specus</l>
-        <milestone unit="line" n="179"/>
+        <milestone n="179" unit="line"/>
         <l>et hiatus Erebi pervium ad superos iter</l>
-        <milestone unit="line" n="180"/>
+        <milestone n="180" unit="line"/>
         <l n="180">tellure fracta praebet ac tumulum levat. </l>
-        <milestone unit="line" n="181"/>
+        <milestone n="181" unit="line"/>
         <l>emicuit ingens umbra Thessalici ducis,</l>
-        <milestone unit="line" n="182"/>
+        <milestone n="182" unit="line"/>
         <l>Threicia qualis arma proludens tuis</l>
-        <milestone unit="line" n="183"/>
+        <milestone n="183" unit="line"/>
         <l>iam, Troia, fatis stravit aut Neptunium</l>
-        <milestone unit="line" n="184"/>
+        <milestone n="184" unit="line"/>
         <l>cana nitentem perculit iuvenem coma,</l>
-        <milestone unit="line" n="185"/>
+        <milestone n="185" unit="line"/>
         <l n="185">aut cum inter acies Marte violento furens </l>
-        <milestone unit="line" n="186"/>
+        <milestone n="186" unit="line"/>
         <l>corporibus amnes clusit et quaerens iter</l>
-        <milestone unit="line" n="187"/>
+        <milestone n="187" unit="line"/>
         <l>tardus cruento Xanthus erravit vado,</l>
         <pb id="p.58"/>
-        <milestone unit="line" n="188"/>
+        <milestone n="188" unit="line"/>
         <l>aut cum superbo victor in curru stetit</l>
-        <milestone unit="line" n="189"/>
+        <milestone n="189" unit="line"/>
         <l>egitque habenas Hectorem et Troiam trahens.</l>
-        <milestone unit="line" n="190"/>
+        <milestone n="190" unit="line"/>
         <l n="190">implevit omne litus irati sonus: </l>
-        <milestone unit="line" n="191"/>
+        <milestone n="191" unit="line"/>
         <l>cite, ite inertes, manibus meis debitos</l>
-        <milestone unit="line" n="192"/>
+        <milestone n="192" unit="line"/>
         <l>auferte honores, solvite ingratas rates</l>
-        <milestone unit="line" n="193"/>
+        <milestone n="193" unit="line"/>
         <l>per nostra ituri maria, non parvo luit</l>
-        <milestone unit="line" n="194"/>
+        <milestone n="194" unit="line"/>
         <l>iras Achillis Graecia et magno luet:</l>
-        <milestone unit="line" n="195"/>
+        <milestone n="195" unit="line"/>
         <l n="195">desponsa nostris cineribus Polyxene </l>
-        <milestone unit="line" n="196"/>
+        <milestone n="196" unit="line"/>
         <l>Pyrrhi manu mactetur et tumulum riget.'</l>
-        <milestone unit="line" n="197"/>
+        <milestone n="197" unit="line"/>
         <l>haec fatus alta nocte demersit diem</l>
-        <milestone unit="line" n="198"/>
+        <milestone n="198" unit="line"/>
         <l>repetensque Ditem rursus ingentem specum</l>
-        <milestone unit="line" n="199"/>
+        <milestone n="199" unit="line"/>
         <l>coeunte terra iunxit, immoti iacent</l>
-        <milestone unit="line" n="200"/>
+        <milestone n="200" unit="line"/>
         <l n="200">tranquilla pelagi, ventus abiecit minas </l>
-        <milestone unit="line" n="201"/>
+        <milestone n="201" unit="line"/>
         <l>placidumque fluctu murmurat leni mare,</l>
-        <milestone unit="line" n="202"/>
+        <milestone n="202" unit="line"/>
         <l>Tritonum ab alto cecinit hymenaeum chorus.</l>
       </sp>
       <milestone n="203" unit="card"/>
-      <sp who="pyrrhus agamemnon calchas">
+      <sp who="#pyrrhus #agamemnon #calchas">
         <speaker>Pyrrhus Agamemnon Calchas</speaker>
-        <milestone unit="line" n="203"/>
+        <milestone n="203" unit="line"/>
         <l>Cum laeta pelago vela rediturus dares,</l>
-        <milestone unit="line" n="204"/>
+        <milestone n="204" unit="line"/>
         <l>excidit Achilles, cuius unius manu</l>
-        <milestone unit="line" n="205"/>
+        <milestone n="205" unit="line"/>
         <l n="205">impulsa Troia, quicquid accessit morae </l>
-        <milestone unit="line" n="206"/>
+        <milestone n="206" unit="line"/>
         <l>illo remoto, dubia quo caderet stetit,</l>
-        <milestone unit="line" n="207"/>
+        <milestone n="207" unit="line"/>
         <l>velis licet quod petitur ac properes dare,</l>
-        <milestone unit="line" n="208"/>
+        <milestone n="208" unit="line"/>
         <l>sero es daturus: iam suum cuncti duces</l>
-        <milestone unit="line" n="209"/>
+        <milestone n="209" unit="line"/>
         <l>tulere pretium, quae minor merces potest</l>
-        <milestone unit="line" n="210"/>
+        <milestone n="210" unit="line"/>
         <l n="210">tantae dari virtutis? an meruit parum </l>
-        <milestone unit="line" n="211"/>
+        <milestone n="211" unit="line"/>
         <l>qui, fugere bellum iussus et longa sedens</l>
         <pb id="p.59"/>
-        <milestone unit="line" n="212"/>
+        <milestone n="212" unit="line"/>
         <l>aevum senecta ducere ac Pylii senis</l>
-        <milestone unit="line" n="213"/>
+        <milestone n="213" unit="line"/>
         <l>transcendere annos, exuit matris dolos</l>
-        <milestone unit="line" n="214"/>
+        <milestone n="214" unit="line"/>
         <l>falsasque vestes, fassus est armis virum?</l>
-        <milestone unit="line" n="215"/>
+        <milestone n="215" unit="line"/>
         <l n="215">inhospitali Telephus regno impotens, </l>
-        <milestone unit="line" n="216"/>
+        <milestone n="216" unit="line"/>
         <l>dum Mysiae ferocis introitus negat,</l>
-        <milestone unit="line" n="217"/>
+        <milestone n="217" unit="line"/>
         <l>rudem cruore regio dextram imbuit</l>
-        <milestone unit="line" n="218"/>
+        <milestone n="218" unit="line"/>
         <l>fortemque eandem sensit et mitem manum.</l>
-        <milestone unit="line" n="219"/>
+        <milestone n="219" unit="line"/>
         <l>cecidere Thebae, vidit Eetion capi</l>
-        <milestone unit="line" n="220"/>
+        <milestone n="220" unit="line"/>
         <l n="220">sua regna victus; clade subversa est pari </l>
-        <milestone unit="line" n="221"/>
+        <milestone n="221" unit="line"/>
         <l>apposita celso parva Lyrnesos iugo,</l>
-        <milestone unit="line" n="222"/>
+        <milestone n="222" unit="line"/>
         <l>captaque tellus nobilis Briseide</l>
-        <milestone unit="line" n="223"/>
+        <milestone n="223" unit="line"/>
         <l>et causa litis regibus Chryse iacet</l>
-        <milestone unit="line" n="224"/>
+        <milestone n="224" unit="line"/>
         <l>et nota fama Tenedos et quae pascuo</l>
-        <milestone unit="line" n="225"/>
+        <milestone n="225" unit="line"/>
         <l n="225">fecunda pingui Thracios nutrit greges </l>
-        <milestone unit="line" n="226"/>
+        <milestone n="226" unit="line"/>
         <l>Scyros fretumque Lesbos Aegaeum secans</l>
-        <milestone unit="line" n="227"/>
+        <milestone n="227" unit="line"/>
         <l>et cara Phoebo Cilla; quid quas alluit</l>
-        <milestone unit="line" n="228"/>
+        <milestone n="228" unit="line"/>
         <l>vernis Caycus gurgitem attollens aquis?</l>
-        <milestone unit="line" n="229"/>
+        <milestone n="229" unit="line"/>
         <l>haec tanta clades gentium ac tantus pavor,</l>
-        <milestone unit="line" n="230"/>
+        <milestone n="230" unit="line"/>
         <l n="230">sparsae tot urbes turbinis vasti modo </l>
-        <milestone unit="line" n="231"/>
+        <milestone n="231" unit="line"/>
         <l>alterius esset gloria ac summum decus:</l>
-        <milestone unit="line" n="232"/>
+        <milestone n="232" unit="line"/>
         <l>iter est Achiilis; sic meus venit pater</l>
-        <milestone unit="line" n="233"/>
+        <milestone n="233" unit="line"/>
         <l>et tanta gessit bella, dum bellum parat.</l>
-        <milestone unit="line" n="234"/>
+        <milestone n="234" unit="line"/>
         <l>ut alia sileam merita, non unus satis</l>
-        <milestone unit="line" n="235"/>
+        <milestone n="235" unit="line"/>
         <l n="235">Hector fuisset? Iliun vicit pater, </l>
-        <milestone unit="line" n="236"/>
+        <milestone n="236" unit="line"/>
         <l>vos diruistis. inclitas laudes iuvat</l>
-        <milestone unit="line" n="237"/>
+        <milestone n="237" unit="line"/>
         <l>et facta magni clara genitoris sequi:</l>
-        <milestone unit="line" n="238"/>
+        <milestone n="238" unit="line"/>
         <l>iacuit peremptus Hector ante oculos patris</l>
-        <milestone unit="line" n="239"/>
+        <milestone n="239" unit="line"/>
         <l>patruique Memnon, cuius ob luctum parens</l>
-        <milestone unit="line" n="240"/>
+        <milestone n="240" unit="line"/>
         <l n="240">pallente maestum protulit vultu diem; </l>
-        <milestone unit="line" n="241"/>
+        <milestone n="241" unit="line"/>
         <l>suique victor operis exemplum horruit</l>
-        <milestone unit="line" n="242"/>
+        <milestone n="242" unit="line"/>
         <l>didicitque Achilles et dea natos mori.</l>
-        <milestone unit="line" n="243"/>
+        <milestone n="243" unit="line"/>
         <l>tum saeva Amazon ultimus cecidit metus.</l>
         <pb id="p.60"/>
-        <milestone unit="line" n="244"/>
+        <milestone n="244" unit="line"/>
         <l>debes Achilli, merita si digne aestimas,</l>
-        <milestone unit="line" n="245"/>
+        <milestone n="245" unit="line"/>
         <l n="245">et si ex Mycenis virginem atque Argis petat. </l>
-        <milestone unit="line" n="246"/>
+        <milestone n="246" unit="line"/>
         <l>dubitatur et iam placita nunc subito improbas</l>
-        <milestone unit="line" n="247"/>
+        <milestone n="247" unit="line"/>
         <l>Priamique natam Pelei nato ferum</l>
-        <milestone unit="line" n="248"/>
+        <milestone n="248" unit="line"/>
         <l>mactare credis? at tuam natam parens</l>
-        <milestone unit="line" n="249"/>
+        <milestone n="249" unit="line"/>
         <l>Helenae immolasti: solita iam et facta expeto.</l>
       </sp>
       <milestone n="250" unit="card"/>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="250"/>
+        <milestone n="250" unit="line"/>
         <l n="250">Iuvenile vitium est regere non posse impetum; </l>
-        <milestone unit="line" n="251"/>
+        <milestone n="251" unit="line"/>
         <l>aetatis alios fervor hic primus rapit,</l>
-        <milestone unit="line" n="252"/>
+        <milestone n="252" unit="line"/>
         <l>Pyrrhum paternus, spiritus quondam trucis</l>
-        <milestone unit="line" n="253"/>
+        <milestone n="253" unit="line"/>
         <l>minasque tumidi lentus Aeacidae tuli:</l>
-        <milestone unit="line" n="254"/>
+        <milestone n="254" unit="line"/>
         <l>quo plura possis, plura patienter feras.</l>
-        <milestone unit="line" n="255"/>
+        <milestone n="255" unit="line"/>
         <l n="255">Quid caede dira nobiles clari ducis </l>
-        <milestone unit="line" n="256"/>
+        <milestone n="256" unit="line"/>
         <l>aspergis umbras? noscere hoc primum decet,</l>
-        <milestone unit="line" n="257"/>
+        <milestone n="257" unit="line"/>
         <l>quid facere victor debeat, victus pati.</l>
-        <milestone unit="line" n="258"/>
+        <milestone n="258" unit="line"/>
         <l>violenta nemo imperia continuit diu,</l>
-        <milestone unit="line" n="259"/>
+        <milestone n="259" unit="line"/>
         <l>moderata durant: quoque Fortuna altius</l>
-        <milestone unit="line" n="260"/>
+        <milestone n="260" unit="line"/>
         <l n="260">evexit ac levavit humanas opes, </l>
-        <milestone unit="line" n="261"/>
+        <milestone n="261" unit="line"/>
         <l>hoc se magis supprimere felicem decet</l>
-        <milestone unit="line" n="262"/>
+        <milestone n="262" unit="line"/>
         <l>variosque casus tremere metuentem deos</l>
-        <milestone unit="line" n="263"/>
+        <milestone n="263" unit="line"/>
         <l>nimium faventes. magna momento obrui</l>
-        <milestone unit="line" n="264"/>
+        <milestone n="264" unit="line"/>
         <l>vincendo didici. Troia nos tumidos facit</l>
-        <milestone unit="line" n="265"/>
+        <milestone n="265" unit="line"/>
         <l n="265">nimium ac feroces? stamus hoc Danai loco, </l>
-        <milestone unit="line" n="266"/>
+        <milestone n="266" unit="line"/>
         <l>unde illa cecidit, fateor, aliquando impotens</l>
-        <milestone unit="line" n="267"/>
+        <milestone n="267" unit="line"/>
         <l>regno ac superbus altius memet tuli;</l>
-        <milestone unit="line" n="268"/>
+        <milestone n="268" unit="line"/>
         <l>sed fregit illos spiritus haec quae dare</l>
-        <milestone unit="line" n="269"/>
+        <milestone n="269" unit="line"/>
         <l>potuisset aliis causa, Fortunae favor,</l>
-        <milestone unit="line" n="270"/>
+        <milestone n="270" unit="line"/>
         <l n="270">tu me superbum, Priame, tu timidum facis. </l>
-        <milestone unit="line" n="271"/>
+        <milestone n="271" unit="line"/>
         <l>ego esse quicquam sceptra nisi vano putem</l>
-        <milestone unit="line" n="272"/>
+        <milestone n="272" unit="line"/>
         <l>fulgore tectum nomen et falso comam</l>
-        <milestone unit="line" n="273"/>
+        <milestone n="273" unit="line"/>
         <l>vinclo decentem? casus haec rapiet brevis,</l>
-        <milestone unit="line" n="274"/>
+        <milestone n="274" unit="line"/>
         <l>nec mille forsan ratibus aut annis decem:</l>
-        <milestone unit="line" n="275"/>
+        <milestone n="275" unit="line"/>
         <l n="275">non omnibus fortuna tam lenta imminet. </l>
         <pb id="p.61"/>
-        <milestone unit="line" n="276"/>
+        <milestone n="276" unit="line"/>
         <l>equidem fatebor (pace dixisse hoc tua,</l>
-        <milestone unit="line" n="277"/>
+        <milestone n="277" unit="line"/>
         <l>Argiva tellus, liceat) affligi Phrygas</l>
-        <milestone unit="line" n="278"/>
+        <milestone n="278" unit="line"/>
         <l>vinci que volui: ruere et aequari solo</l>
-        <milestone unit="line" n="279"/>
+        <milestone n="279" unit="line"/>
         <l>utinam arcuissem. sed regi frenis nequit</l>
-        <milestone unit="line" n="280"/>
+        <milestone n="280" unit="line"/>
         <l n="280">et ira et ardens hostis et victoria </l>
-        <milestone unit="line" n="281"/>
+        <milestone n="281" unit="line"/>
         <l>commissa nocti quicquid indignum aut ferum</l>
-        <milestone unit="line" n="282"/>
+        <milestone n="282" unit="line"/>
         <l>cuiquam videri potuit, hoc fecit dolor</l>
-        <milestone unit="line" n="283"/>
+        <milestone n="283" unit="line"/>
         <l>tenebraeque, per quas ipse se inritat furor,</l>
-        <milestone unit="line" n="284"/>
+        <milestone n="284" unit="line"/>
         <l>gladiisque felix, cuius infecti semel</l>
-        <milestone unit="line" n="285"/>
+        <milestone n="285" unit="line"/>
         <l n="285">vecors libido est. quicquid eversae potest </l>
-        <milestone unit="line" n="286"/>
+        <milestone n="286" unit="line"/>
         <l>superesse Troiae, maneat: exactum satis</l>
-        <milestone unit="line" n="287"/>
+        <milestone n="287" unit="line"/>
         <l>poenarum et ultra est. regia ut virgo occidat</l>
-        <milestone unit="line" n="288"/>
+        <milestone n="288" unit="line"/>
         <l>tumuloque donum detur et cineres riget</l>
-        <milestone unit="line" n="289"/>
+        <milestone n="289" unit="line"/>
         <l>et facinus atrox caedis ut thalamos vocent?</l>
-        <milestone unit="line" n="290"/>
+        <milestone n="290" unit="line"/>
         <l n="290">non patiar, in me culpa cunctorum redit: </l>
-        <milestone unit="line" n="291"/>
+        <milestone n="291" unit="line"/>
         <l>qui non vetat peccare, cum possit, iubet.</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="292"/>
+        <milestone n="292" unit="line"/>
         <l>Nullumne Achillis praemium manes ferent? 1</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="293"/>
+        <milestone n="293" unit="line"/>
         <l>Ferent, et illum laudibus cuncti canent</l>
-        <milestone unit="line" n="294"/>
+        <milestone n="294" unit="line"/>
         <l>magnumque terrae nomen ignotae audient.</l>
-        <milestone unit="line" n="295"/>
+        <milestone n="295" unit="line"/>
         <l n="295">quod si levatur sanguine infuso cinis, </l>
-        <milestone unit="line" n="296"/>
+        <milestone n="296" unit="line"/>
         <l>opima Phrygii colla caedantur greges</l>
-        <milestone unit="line" n="297"/>
+        <milestone n="297" unit="line"/>
         <l>fluatque nulli flebilis matri cruor.</l>
-        <milestone unit="line" n="298"/>
+        <milestone n="298" unit="line"/>
         <l>quis iste mos est, quando in inferias homo est</l>
-        <milestone unit="line" n="299"/>
+        <milestone n="299" unit="line"/>
         <l>impensus hominis? detrahe invidiam tuo</l>
-        <milestone unit="line" n="300"/>
+        <milestone n="300" unit="line"/>
         <l n="300">odiumque patri, quem coli poena iubes. </l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="301"/>
+        <milestone n="301" unit="line"/>
         <l>O tumide, rerum dum secundarum status</l>
-        <milestone unit="line" n="302"/>
+        <milestone n="302" unit="line"/>
         <l>extollit animos, timide cum increpuit metus,</l>
-        <milestone unit="line" n="303"/>
+        <milestone n="303" unit="line"/>
         <l>regum tyranne! etiamne flammatum geris</l>
-        <milestone unit="line" n="304"/>
+        <milestone n="304" unit="line"/>
         <l>amoris aestu pectus ac veneris novae?</l>
-        <milestone unit="line" n="305"/>
+        <milestone n="305" unit="line"/>
         <l n="305">solusne totiens spolia de nobis feres? </l>
         <pb id="p.62"/>
-        <milestone unit="line" n="306"/>
+        <milestone n="306" unit="line"/>
         <l>hac dextra Achilli victimam reddam suam.</l>
-        <milestone unit="line" n="307"/>
+        <milestone n="307" unit="line"/>
         <l>quam si negas retinesque, maiorem dabo</l>
-        <milestone unit="line" n="308"/>
+        <milestone n="308" unit="line"/>
         <l>dignamque quam det Pyrrhus; et nimium diu</l>
-        <milestone unit="line" n="309"/>
+        <milestone n="309" unit="line"/>
         <l>a caede nostra regia cessat manus</l>
-        <milestone unit="line" n="310"/>
+        <milestone n="310" unit="line"/>
         <l n="310" part="I">paremque poscit Priamus,</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
         <l part="F">Haud equidem nego </l>
-        <milestone unit="line" n="311"/>
+        <milestone n="311" unit="line"/>
         <l>hoc esse Pyrrhi maximum in bello decus,</l>
-        <milestone unit="line" n="312"/>
+        <milestone n="312" unit="line"/>
         <l>saevo peremptus ense quod Priamus iacet,</l>
-        <milestone unit="line" n="313"/>
+        <milestone n="313" unit="line"/>
         <l part="I">supplex paternus,</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
         <l part="F">Supplices nostri patris</l>
-        <milestone unit="line" n="314"/>
+        <milestone n="314" unit="line"/>
         <l>hostesque eosdem novimus. Priamus tamen</l>
-        <milestone unit="line" n="315"/>
+        <milestone n="315" unit="line"/>
         <l n="315">praesens rogavit; tu gravi pavidus metu, </l>
-        <milestone unit="line" n="316"/>
+        <milestone n="316" unit="line"/>
         <l>nec ad rogandum fortis, Aiaci preces</l>
-        <milestone unit="line" n="317"/>
+        <milestone n="317" unit="line"/>
         <l>Ithacoque mandas clausus atque hostem tremens.</l>
       </sp>
       <milestone n="318" unit="card"/>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="318"/>
+        <milestone n="318" unit="line"/>
         <l>At non timebat tunc tuus, fateor, parens,</l>
-        <milestone unit="line" n="319"/>
+        <milestone n="319" unit="line"/>
         <l>interque caedes Graeciae atque ustas rates</l>
-        <milestone unit="line" n="320"/>
+        <milestone n="320" unit="line"/>
         <l n="320">segnis iacebat belli et armorum immemor, </l>
-        <milestone unit="line" n="321"/>
+        <milestone n="321" unit="line"/>
         <l>levi canoram verberans plectro chelyn.</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="322"/>
+        <milestone n="322" unit="line"/>
         <l>Tunc magnus Hector, arma contemnens tua,</l>
-        <milestone unit="line" n="323"/>
+        <milestone n="323" unit="line"/>
         <l>cantus Achillis timuit, et tanto in metu</l>
-        <milestone unit="line" n="324"/>
+        <milestone n="324" unit="line"/>
         <l>navalibus pax alta Thessalicis fuit.</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="325"/>
+        <milestone n="325" unit="line"/>
         <l n="325">Nempe isdem in istis Thessalis navalibus </l>
-        <milestone unit="line" n="326"/>
+        <milestone n="326" unit="line"/>
         <l>pax alta rursus Hectoris patri fuit.</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="327"/>
+        <milestone n="327" unit="line"/>
         <l>Est regis alti spiritum regi dare.</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="328"/>
+        <milestone n="328" unit="line"/>
         <l>Cur dextra regi spiritum eripuit tua?</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="329"/>
+        <milestone n="329" unit="line"/>
         <l>Mortem misericors saepe pro vita dabit.</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="330"/>
+        <milestone n="330" unit="line"/>
         <l n="330">Et nunc misericors virginem busto petis? </l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="331"/>
+        <milestone n="331" unit="line"/>
         <l>Iamne immolari virgines credis nefas?</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="332"/>
+        <milestone n="332" unit="line"/>
         <l>Praeferre patriam liberis regem decet.</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="333"/>
+        <milestone n="333" unit="line"/>
         <l>Lex nulla capto parcit aut poenam impedit.</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="334"/>
+        <milestone n="334" unit="line"/>
         <l>Quod non vetat lex, hoc vetat fieri pudor.</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="335"/>
+        <milestone n="335" unit="line"/>
         <l n="335">Quodcumque libuit facere victori licet. </l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="336"/>
+        <milestone n="336" unit="line"/>
         <l>Minimum decet libere cui multum licet.</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="337"/>
+        <milestone n="337" unit="line"/>
         <l>His ista iactas, quos decem annorum gravi</l>
-        <milestone unit="line" n="338"/>
+        <milestone n="338" unit="line"/>
         <l>regno subactos Pyrrhus exsolvit iugo? [caret.</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="339"/>
+        <milestone n="339" unit="line"/>
         <l part="I">Hos Scyrus animos?</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
         <l part="F">Scelere quae fratrum</l>
       </sp>
       <pb id="p.63"/>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="340"/>
-        <l n="340" part="I">Inclusa fluctu&mdash;</l>
+        <milestone n="340" unit="line"/>
+        <l n="340" part="I">Inclusa fluctu—</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
         <l part="F">Nempe cognati maris:</l>
-        <milestone unit="line" n="341"/>
+        <milestone n="341" unit="line"/>
         <l>Atrei et Thyestae nobilem novi domum. </l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="342"/>
+        <milestone n="342" unit="line"/>
         <l>EX virginis concepte furtivo stupro</l>
-        <milestone unit="line" n="343"/>
-        <l>et ex Achilles nate, sed nondum viro&mdash;</l>
+        <milestone n="343" unit="line"/>
+        <l>et ex Achilles nate, sed nondum viro—</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="344"/>
+        <milestone n="344" unit="line"/>
         <l>Illo ex Achille, genere qui mundum suo</l>
-        <milestone unit="line" n="345"/>
+        <milestone n="345" unit="line"/>
         <l n="345">sparsus per omne caelitum regnum tenet: </l>
-        <milestone unit="line" n="346"/>
+        <milestone n="346" unit="line"/>
         <l>Thetide aequor, umbras Aeaco, caelum Iove.</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="347"/>
+        <milestone n="347" unit="line"/>
         <l>Illo ex Achille, qui manu Paridis iacet.</l>
       </sp>
-      <sp who="pyrrhus">
+      <sp who="#pyrrhus">
         <speaker>Pyrrh.</speaker>
-        <milestone unit="line" n="348"/>
+        <milestone n="348" unit="line"/>
         <l>. Quem nec deorum comminus quisquam petit.</l>
       </sp>
-      <sp who="agamemnon">
+      <sp who="#agamemnon">
         <speaker>Agam.</speaker>
-        <milestone unit="line" n="349"/>
+        <milestone n="349" unit="line"/>
         <l>Compescere equidem verba et audacem malo</l>
-        <milestone unit="line" n="350"/>
+        <milestone n="350" unit="line"/>
         <l n="350">* poteram domare: sed meus captis quoque </l>
-        <milestone unit="line" n="351"/>
+        <milestone n="351" unit="line"/>
         <l>scit parcere ensis, potius interpres deum</l>
-        <milestone unit="line" n="352"/>
+        <milestone n="352" unit="line"/>
         <l>Calchas vocetur: fata si poscent, dabo.</l>
-        <milestone unit="line" n="353"/>
+        <milestone n="353" unit="line"/>
         <l>Tu qui Pelasgae vincla solvisti rati</l>
-        <milestone unit="line" n="354"/>
+        <milestone n="354" unit="line"/>
         <l>morasque bellis, arte qui reseras polum,</l>
-        <milestone unit="line" n="355"/>
+        <milestone n="355" unit="line"/>
         <l n="355">cui viscerum secreta, cui mundi fragor </l>
-        <milestone unit="line" n="356"/>
+        <milestone n="356" unit="line"/>
         <l>et stella longa semitam flamina trahens</l>
-        <milestone unit="line" n="357"/>
+        <milestone n="357" unit="line"/>
         <l>dant signa fati, cuius ingenti mihi</l>
-        <milestone unit="line" n="358"/>
+        <milestone n="358" unit="line"/>
         <l>mercede constant ora: quid iubeat deus</l>
-        <milestone unit="line" n="359"/>
+        <milestone n="359" unit="line"/>
         <l>effare, Calchas, nosque consilio rege.</l>
       </sp>
-      <sp who="calchas">
+      <sp who="#calchas">
         <speaker>Cal.</speaker>
-        <milestone unit="line" n="360"/>
+        <milestone n="360" unit="line"/>
         <l n="360">Dant fata Danais quo solent pretio viam: </l>
-        <milestone unit="line" n="361"/>
+        <milestone n="361" unit="line"/>
         <l>mactanda virgo est Thessali busto ducis;</l>
-        <milestone unit="line" n="362"/>
+        <milestone n="362" unit="line"/>
         <l>sed quo iugari Thessalae cultu solent</l>
-        <milestone unit="line" n="363"/>
+        <milestone n="363" unit="line"/>
         <l>Ionidesve vel Mycenaeae nurus,</l>
-        <milestone unit="line" n="364"/>
+        <milestone n="364" unit="line"/>
         <l>Pyrrhus parenti coniugem tradat suo:</l>
-        <milestone unit="line" n="365"/>
+        <milestone n="365" unit="line"/>
         <l n="365">sic rite dabitur, non tamen nostras tenet </l>
-        <milestone unit="line" n="366"/>
+        <milestone n="366" unit="line"/>
         <l>haec una puppes causa: nobilior tuo,</l>
-        <milestone unit="line" n="367"/>
+        <milestone n="367" unit="line"/>
         <l>Polyxene, cruore debetur cruor,</l>
-        <milestone unit="line" n="368"/>
+        <milestone n="368" unit="line"/>
         <l>quem fata quaerunt, turre de summa cadat</l>
-        <milestone unit="line" n="369"/>
+        <milestone n="369" unit="line"/>
         <l>Priami nepos Hectoreus et letum oppetat.</l>
-        <milestone unit="line" n="370"/>
+        <milestone n="370" unit="line"/>
         <l n="370">tum mille velis impleat classis freta. </l>
       </sp>
       <milestone n="371" unit="card"/>
       <pb id="p.64"/>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chorus</speaker>
-        <milestone unit="line" n="371"/>
+        <milestone n="371" unit="line"/>
         <l>Verum est an timidos fabula decipit</l>
-        <milestone unit="line" n="372"/>
+        <milestone n="372" unit="line"/>
         <l>umbras corporibus vivere conditis,</l>
-        <milestone unit="line" n="373"/>
+        <milestone n="373" unit="line"/>
         <l>cum coniunx oculis imposuit manum</l>
-        <milestone unit="line" n="374"/>
+        <milestone n="374" unit="line"/>
         <l>supremusque dies solibus obstitit</l>
-        <milestone unit="line" n="375"/>
+        <milestone n="375" unit="line"/>
         <l n="375">et tristis cineres urna cohercuit? </l>
-        <milestone unit="line" n="376"/>
+        <milestone n="376" unit="line"/>
         <l>non prodest animam tradere funeri,</l>
-        <milestone unit="line" n="377"/>
+        <milestone n="377" unit="line"/>
         <l>sed restat miseris vivere longius?</l>
-        <milestone unit="line" n="378"/>
+        <milestone n="378" unit="line"/>
         <l>an toti morimur nullaque pars manet</l>
-        <milestone unit="line" n="379"/>
+        <milestone n="379" unit="line"/>
         <l>nostri, cum profugo spiritus halitu</l>
-        <milestone unit="line" n="380"/>
+        <milestone n="380" unit="line"/>
         <l n="380">immixtus nebulis cessit in aera </l>
-        <milestone unit="line" n="381"/>
+        <milestone n="381" unit="line"/>
         <l>et nudum tetigit subdita fax latus?</l>
-        <milestone unit="line" n="382"/>
+        <milestone n="382" unit="line"/>
         <l>Quicquid sol oriens, quicquid et occidens</l>
-        <milestone unit="line" n="383"/>
+        <milestone n="383" unit="line"/>
         <l>novit, caeruleis Oceanus fretis</l>
-        <milestone unit="line" n="384"/>
+        <milestone n="384" unit="line"/>
         <l>quicquid bis veniens et fugiens lavat, ,</l>
-        <milestone unit="line" n="385"/>
+        <milestone n="385" unit="line"/>
         <l n="385">aetas Pegaseo corripiet gradu. </l>
-        <milestone unit="line" n="386"/>
+        <milestone n="386" unit="line"/>
         <l>quo bis sena volant sidera turbine,</l>
-        <milestone unit="line" n="387"/>
+        <milestone n="387" unit="line"/>
         <l>quo cursu properat volvere saecula</l>
-        <milestone unit="line" n="388"/>
+        <milestone n="388" unit="line"/>
         <l>astrorum dominus, quo properat modo</l>
-        <milestone unit="line" n="389"/>
+        <milestone n="389" unit="line"/>
         <l>obliquis Hecate currere flexibus:</l>
-        <milestone unit="line" n="390"/>
+        <milestone n="390" unit="line"/>
         <l n="390">hoc omnes petimus fata nec amplius, </l>
-        <milestone unit="line" n="391"/>
+        <milestone n="391" unit="line"/>
         <l>iuratos superis qui tetigit lacus,</l>
-        <milestone unit="line" n="392"/>
+        <milestone n="392" unit="line"/>
         <l>usquam est: ut calidis fumus ab ignibus</l>
-        <milestone unit="line" n="393"/>
+        <milestone n="393" unit="line"/>
         <l>vanescit, spatium per breve sordidus,</l>
-        <milestone unit="line" n="394"/>
+        <milestone n="394" unit="line"/>
         <l>ut nubes, gravidas quas modo vidimus,</l>
-        <milestone unit="line" n="395"/>
+        <milestone n="395" unit="line"/>
         <l n="395">arctoi Boreae dissicit impetus: </l>
-        <milestone unit="line" n="396"/>
+        <milestone n="396" unit="line"/>
         <l>sic hic, quo regimur, spiritus effluet.</l>
-        <milestone unit="line" n="397"/>
+        <milestone n="397" unit="line"/>
         <l>post mortem nihil est ipsaque mors nihil,</l>
-        <milestone unit="line" n="398"/>
+        <milestone n="398" unit="line"/>
         <l>velocis spatii meta novissima;</l>
-        <milestone unit="line" n="399"/>
+        <milestone n="399" unit="line"/>
         <l>spem ponant avidi, solliciti metum:</l>
         <pb id="p.65"/>
-        <milestone unit="line" n="400"/>
+        <milestone n="400" unit="line"/>
         <l n="400">tempus nos avidum devorat et chaos. </l>
-        <milestone unit="line" n="401"/>
+        <milestone n="401" unit="line"/>
         <l>mors individua est, noxia corpori</l>
-        <milestone unit="line" n="402"/>
+        <milestone n="402" unit="line"/>
         <l>nec parcens animae: Taenara et aspero</l>
-        <milestone unit="line" n="403"/>
+        <milestone n="403" unit="line"/>
         <l>regnum sub domino limen et obsidens</l>
-        <milestone unit="line" n="404"/>
+        <milestone n="404" unit="line"/>
         <l>custos non facili Cerberus ostio</l>
-        <milestone unit="line" n="405"/>
+        <milestone n="405" unit="line"/>
         <l n="405">rumores vacui verbaque inania </l>
-        <milestone unit="line" n="406"/>
+        <milestone n="406" unit="line"/>
         <l>et par sollicito fabula somnio.</l>
-        <milestone unit="line" n="407"/>
+        <milestone n="407" unit="line"/>
         <l>quaeris quo iaceas post obitum loco?</l>
-        <milestone unit="line" n="408"/>
-        <l>quo non nata iacent.&mdash;</l>
+        <milestone n="408" unit="line"/>
+        <l>quo non nata iacent.—</l>
       </sp>
       <stage>Andromacha Senex Astyanax</stage>
-      <milestone unit="line" n="408"/>
-      <sp who="andromacha">
+      <milestone n="408" unit="line"/>
+      <sp who="#andromacha">
         <speaker>Andromacha</speaker>
-        <milestone unit="line" n="409"/>
+        <milestone n="409" unit="line"/>
         <l>Quid, maesta Phrygiae turba, laceratis comas</l>
-        <milestone unit="line" n="410"/>
+        <milestone n="410" unit="line"/>
         <l n="410">miseramque tunsae pectus effuso genas </l>
-        <milestone unit="line" n="411"/>
+        <milestone n="411" unit="line"/>
         <l>fletu rigatis? levia perpessae sumus,</l>
-        <milestone unit="line" n="412"/>
+        <milestone n="412" unit="line"/>
         <l>si flenda patimur. Ilium vobis modo,</l>
-        <milestone unit="line" n="413"/>
+        <milestone n="413" unit="line"/>
         <l>mihi cecidit olim. cum ferus curru incito</l>
-        <milestone unit="line" n="414"/>
+        <milestone n="414" unit="line"/>
         <l>mea membra raperet et gravi gemeret sono</l>
-        <milestone unit="line" n="415"/>
+        <milestone n="415" unit="line"/>
         <l n="415">Peliacus axis pondere Hectoreo tremens. </l>
-        <milestone unit="line" n="416"/>
+        <milestone n="416" unit="line"/>
         <l>tunc obruta atque eversa quodcumque accidit</l>
-        <milestone unit="line" n="417"/>
+        <milestone n="417" unit="line"/>
         <l>torpens malis rigensque sine sensu fero.</l>
-        <milestone unit="line" n="418"/>
+        <milestone n="418" unit="line"/>
         <l>iam erepta Danais coniugem sequerer meum,</l>
-        <milestone unit="line" n="419"/>
+        <milestone n="419" unit="line"/>
         <l>nisi hic teneret: hic meos animos domat</l>
-        <milestone unit="line" n="420"/>
+        <milestone n="420" unit="line"/>
         <l n="420">morique prohibet; cogit hic aliquid deos </l>
-        <milestone unit="line" n="421"/>
-        <l>adhuc rogare&mdash; tempus aeramnae addidit,</l>
-        <milestone unit="line" n="422"/>
+        <milestone n="421" unit="line"/>
+        <l>adhuc rogare— tempus aeramnae addidit,</l>
+        <milestone n="422" unit="line"/>
         <l>hic mihi malorum maximum fructum abstulit,</l>
-        <milestone unit="line" n="423"/>
+        <milestone n="423" unit="line"/>
         <l>nihil timere: prosperis rebus locus</l>
-        <milestone unit="line" n="424"/>
+        <milestone n="424" unit="line"/>
         <l>ereptus omnis, dira qua veniant habent,</l>
-        <milestone unit="line" n="425"/>
+        <milestone n="425" unit="line"/>
         <l n="425">miserrimum est timere, cum speres nihil. </l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
-        <milestone unit="line" n="426"/>
+        <milestone n="426" unit="line"/>
         <l>Quis te repens commovit afflictam metus?</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="427"/>
+        <milestone n="427" unit="line"/>
         <l>Exoritur aliquod maius ex magno malum,</l>
-        <milestone unit="line" n="428"/>
+        <milestone n="428" unit="line"/>
         <l>nondum mentis Ilii fatum stetit.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
-        <milestone unit="line" n="429"/>
+        <milestone n="429" unit="line"/>
         <l>Et quas reperiet, ut velit, clades deus?</l>
       </sp>
       <pb id="p.66"/>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="430"/>
+        <milestone n="430" unit="line"/>
         <l n="430">Stygis profundae claustra et obscuri specus </l>
-        <milestone unit="line" n="431"/>
+        <milestone n="431" unit="line"/>
         <l>laxantur et, ne desit e versis metus,</l>
-        <milestone unit="line" n="432"/>
-        <l>hostes ab imo conditi Dite exeunt&mdash;</l>
-        <milestone unit="line" n="433"/>
+        <milestone n="432" unit="line"/>
+        <l>hostes ab imo conditi Dite exeunt—</l>
+        <milestone n="433" unit="line"/>
         <l>solisne retro pervium est Danais iter?</l>
-        <milestone unit="line" n="434"/>
-        <l>certe aequa mors est&mdash; turbat atque agitat Phrygas</l>
-        <milestone unit="line" n="435"/>
+        <milestone n="434" unit="line"/>
+        <l>certe aequa mors est— turbat atque agitat Phrygas</l>
+        <milestone n="435" unit="line"/>
         <l n="435">communis iste terror, hic proprie meum </l>
-        <milestone unit="line" n="436"/>
+        <milestone n="436" unit="line"/>
         <l>exterret animum, noctis horrendae sopor.</l>
       </sp>
       <milestone n="437" unit="card"/>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
-        <milestone unit="line" n="437"/>
+        <milestone n="437" unit="line"/>
         <l>Quae visa portas? effer in medium metus.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="438"/>
+        <milestone n="438" unit="line"/>
         <l>Partes fere nox alma transierat duas</l>
-        <milestone unit="line" n="439"/>
+        <milestone n="439" unit="line"/>
         <l>clarumque septem verterant stellae iugum;</l>
-        <milestone unit="line" n="440"/>
+        <milestone n="440" unit="line"/>
         <l n="440">ignota tandem venit afflictae quies </l>
-        <milestone unit="line" n="441"/>
+        <milestone n="441" unit="line"/>
         <l>brevisque fessis somnus obrepsit genis,</l>
-        <milestone unit="line" n="442"/>
+        <milestone n="442" unit="line"/>
         <l>si somnus ille est mentis attonitae stupor:</l>
-        <milestone unit="line" n="443"/>
+        <milestone n="443" unit="line"/>
         <l>cum subito nostros Hector ante oculos stetit,</l>
-        <milestone unit="line" n="444"/>
+        <milestone n="444" unit="line"/>
         <l>non qualis ultro bella in Argivos ferens</l>
-        <milestone unit="line" n="445"/>
+        <milestone n="445" unit="line"/>
         <l n="445">Graias petebat facibus Idaeis rates, </l>
-        <milestone unit="line" n="446"/>
+        <milestone n="446" unit="line"/>
         <l>nec caede multa qualis in Danaos furens</l>
-        <milestone unit="line" n="447"/>
+        <milestone n="447" unit="line"/>
         <l>vera ex Achille spolia simulato tulit,</l>
-        <milestone unit="line" n="448"/>
+        <milestone n="448" unit="line"/>
         <l>non ille vultus flammeum intendens iubar,</l>
-        <milestone unit="line" n="449"/>
+        <milestone n="449" unit="line"/>
         <l>sed fessus ac deiectus et fletu gravis</l>
-        <milestone unit="line" n="450"/>
+        <milestone n="450" unit="line"/>
         <l n="450">similisque maesto, squalida obtectus coma. </l>
-        <milestone unit="line" n="451"/>
+        <milestone n="451" unit="line"/>
         <l>iuvat tamen vidisse; tum quassans caput:</l>
-        <milestone unit="line" n="452"/>
+        <milestone n="452" unit="line"/>
         <l>'dispelle somnos' inquit *et natum eripe,</l>
-        <milestone unit="line" n="453"/>
+        <milestone n="453" unit="line"/>
         <l>o fida coniunx: lateat, haec una est salus.</l>
-        <milestone unit="line" n="454"/>
-        <l>omitte fletus&mdash; Troia quod cecidit gemis?</l>
-        <milestone unit="line" n="455"/>
+        <milestone n="454" unit="line"/>
+        <l>omitte fletus— Troia quod cecidit gemis?</l>
+        <milestone n="455" unit="line"/>
         <l n="455">utinam iaceret tota. festina, amove </l>
-        <milestone unit="line" n="456"/>
+        <milestone n="456" unit="line"/>
         <l>quocumque nostrae parvulam stirpem domus.'</l>
-        <milestone unit="line" n="457"/>
+        <milestone n="457" unit="line"/>
         <l>mihi gelidus horror ac tremor somnum expulit,</l>
-        <milestone unit="line" n="458"/>
+        <milestone n="458" unit="line"/>
         <l>oculosque nunc huc pavida, nunc illuc ferens</l>
-        <milestone unit="line" n="459"/>
+        <milestone n="459" unit="line"/>
         <l>oblita nati misera quaesivi Hectorem:</l>
-        <milestone unit="line" n="460"/>
+        <milestone n="460" unit="line"/>
         <l n="460">fallax per ipsos umbra complexus abit. </l>
         <pb id="p.67"/>
-        <milestone unit="line" n="461"/>
+        <milestone n="461" unit="line"/>
         <l>O nate, magni certa progenies patris,</l>
-        <milestone unit="line" n="462"/>
+        <milestone n="462" unit="line"/>
         <l>spes una Phrygibus, unica adflictae domus,</l>
-        <milestone unit="line" n="463"/>
+        <milestone n="463" unit="line"/>
         <l>veterisque suboles sanguinis nimium inclita</l>
-        <milestone unit="line" n="464"/>
+        <milestone n="464" unit="line"/>
         <l>nimiumque patri similis: hos vultus meus</l>
-        <milestone unit="line" n="465"/>
+        <milestone n="465" unit="line"/>
         <l n="465">habebat Hector, talis incessu fuit </l>
-        <milestone unit="line" n="466"/>
+        <milestone n="466" unit="line"/>
         <l>habituque talis, sic tulit fortes manus,</l>
-        <milestone unit="line" n="467"/>
+        <milestone n="467" unit="line"/>
         <l>Sic celsus umeris, fronte sic torva minax</l>
-        <milestone unit="line" n="468"/>
-        <l>cervice fusam dissipans iacta comam&mdash;</l>
-        <milestone unit="line" n="469"/>
+        <milestone n="468" unit="line"/>
+        <l>cervice fusam dissipans iacta comam—</l>
+        <milestone n="469" unit="line"/>
         <l>o nate sero Phrygibus, o matri cito,</l>
-        <milestone unit="line" n="470"/>
+        <milestone n="470" unit="line"/>
         <l n="470">eritne tempus illud ac felix dies </l>
-        <milestone unit="line" n="471"/>
+        <milestone n="471" unit="line"/>
         <l>quo Troici defensor et vindex soli</l>
-        <milestone unit="line" n="472"/>
+        <milestone n="472" unit="line"/>
         <l>recidiva ponas Pergama et sparsos fuga</l>
-        <milestone unit="line" n="473"/>
+        <milestone n="473" unit="line"/>
         <l>cives reducas, nomen et patriae suum</l>
-        <milestone unit="line" n="474"/>
+        <milestone n="474" unit="line"/>
         <l>Phrygibusque reddas? sed mei fati memor</l>
-        <milestone unit="line" n="475"/>
-        <l n="475">tam magna timeo vota&mdash; quod captis sat est, </l>
-        <milestone unit="line" n="476"/>
+        <milestone n="475" unit="line"/>
+        <l n="475">tam magna timeo vota— quod captis sat est, </l>
+        <milestone n="476" unit="line"/>
         <l>vivamus, heu me, quis locus fidus meo</l>
-        <milestone unit="line" n="477"/>
+        <milestone n="477" unit="line"/>
         <l>erit timori quave te sede occulam?</l>
-        <milestone unit="line" n="478"/>
+        <milestone n="478" unit="line"/>
         <l>arx illa pollens opibus et muris deum,</l>
-        <milestone unit="line" n="479"/>
+        <milestone n="479" unit="line"/>
         <l>gentes per omnes clara et invidiae gravis,</l>
-        <milestone unit="line" n="480"/>
+        <milestone n="480" unit="line"/>
         <l n="480">nunc pulvis altus, strata sunt flamma omnia </l>
-        <milestone unit="line" n="481"/>
+        <milestone n="481" unit="line"/>
         <l>superestque vasta ex urbe ne tantum quidem,</l>
-        <milestone unit="line" n="482"/>
+        <milestone n="482" unit="line"/>
         <l>quo lateat infans, quem locum fraudi legam,1?</l>
-        <milestone unit="line" n="483"/>
+        <milestone n="483" unit="line"/>
         <l>est tumulus ingens coniugis cari sacer,</l>
-        <milestone unit="line" n="484"/>
+        <milestone n="484" unit="line"/>
         <l>verendus hosti, mole quem immensa parens</l>
-        <milestone unit="line" n="485"/>
+        <milestone n="485" unit="line"/>
         <l n="485">opibusque magnis struxit, in luctus suos </l>
-        <milestone unit="line" n="486"/>
+        <milestone n="486" unit="line"/>
         <l>rex non avarus: optime credam patri,</l>
-        <milestone unit="line" n="487"/>
+        <milestone n="487" unit="line"/>
         <l>sudor per artus frigidus totos cadit:</l>
-        <milestone unit="line" n="488"/>
+        <milestone n="488" unit="line"/>
         <l>omen tremesco misera feralis loci. </l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
-        <milestone unit="line" n="497"/>
+        <milestone n="497" unit="line"/>
         <l>Miser occupet praesidia, securus legat. </l>
         <pb id="p.68"/>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="496"/>
+        <milestone n="496" unit="line"/>
         <l>Quid quod latere sine metu magno nequit? </l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
-        <milestone unit="line" n="492"/>
+        <milestone n="492" unit="line"/>
         <l>Ne prodat aliquis, amove testes doli. , </l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="493"/>
+        <milestone n="493" unit="line"/>
         <l part="I">Si quaeret hostis?</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <l part="F">Vrbe in eversa perit.</l>
-        <milestone unit="line" n="489"/>
+        <milestone n="489" unit="line"/>
         <l>haec causa multos una ab interitu arcuit: </l>
-        <milestone unit="line" n="490"/>
+        <milestone n="490" unit="line"/>
         <l n="490" part="I">credi perisse,</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
         <l part="F">Vix spei quicquam est super: </l>
-        <milestone unit="line" n="494"/>
+        <milestone n="494" unit="line"/>
         <l>quid proderit latuisse redituro in manus? </l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
-        <milestone unit="line" n="495"/>
+        <milestone n="495" unit="line"/>
         <l n="495">Victor feroces impetus primos habet. </l>
       </sp>
       <milestone n="491" unit="card"/>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="491"/>
+        <milestone n="491" unit="line"/>
         <l>Grave pondus illum magna nobilitas premit; </l>
-        <milestone unit="line" n="498"/>
+        <milestone n="498" unit="line"/>
         <l>quis te locus, quae regio seducta, invia </l>
-        <milestone unit="line" n="499"/>
+        <milestone n="499" unit="line"/>
         <l>tuto reponet? quis feret trepidis opem?</l>
-        <milestone unit="line" n="500"/>
+        <milestone n="500" unit="line"/>
         <l n="500">quis proteget? qui semper, etiam nunc tuos, </l>
-        <milestone unit="line" n="501"/>
+        <milestone n="501" unit="line"/>
         <l>Hector, tuere: coniugis furtum piae</l>
-        <milestone unit="line" n="502"/>
+        <milestone n="502" unit="line"/>
         <l>serva et fideli cinere victurum excipe,</l>
-        <milestone unit="line" n="503"/>
-        <l>succede tumulo, nate&mdash; quid retro fugis?</l>
-        <milestone unit="line" n="504"/>
+        <milestone n="503" unit="line"/>
+        <l>succede tumulo, nate— quid retro fugis?</l>
+        <milestone n="504" unit="line"/>
         <l>turpisne latebras spernis? agnosco indolem:</l>
-        <milestone unit="line" n="505"/>
+        <milestone n="505" unit="line"/>
         <l n="505">pudet timere, spiritus magnos fuga </l>
-        <milestone unit="line" n="506"/>
+        <milestone n="506" unit="line"/>
         <l>animosque veteres, sume quos casus dedit,</l>
-        <milestone unit="line" n="507"/>
+        <milestone n="507" unit="line"/>
         <l>en intuere, turba quae simus super:</l>
-        <milestone unit="line" n="508"/>
+        <milestone n="508" unit="line"/>
         <l>tumulus, puer, captiva: cedendum est malis,</l>
-        <milestone unit="line" n="509"/>
+        <milestone n="509" unit="line"/>
         <l>sanctas parentis conditi sedes age</l>
-        <milestone unit="line" n="510"/>
+        <milestone n="510" unit="line"/>
         <l n="510">aude subire, fata si miseros iuvant, </l>
-        <milestone unit="line" n="511"/>
+        <milestone n="511" unit="line"/>
         <l>habes salutem; fata si vitam negant,</l>
-        <milestone unit="line" n="512"/>
+        <milestone n="512" unit="line"/>
         <l part="I">habes sepulchrum.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
         <l part="F">Claustra commissum tegunt;</l>
-        <milestone unit="line" n="513"/>
+        <milestone n="513" unit="line"/>
         <l>quem ne tuus producat in medium timor,</l>
-        <milestone unit="line" n="514"/>
+        <milestone n="514" unit="line"/>
         <l>procul hinc recede teque diversam amove.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="515"/>
+        <milestone n="515" unit="line"/>
         <l n="515">Levius solet timere, qui propius timet; </l>
-        <milestone unit="line" n="516"/>
+        <milestone n="516" unit="line"/>
         <l>sed, si placet, referamus hinc alio pedem.</l>
       </sp>
-      <sp who="senex">
+      <sp who="#senex">
         <speaker>Sen.</speaker>
-        <milestone unit="line" n="517"/>
+        <milestone n="517" unit="line"/>
         <l>Cohibe parumper ora questusque opprime:</l>
-        <milestone unit="line" n="518"/>
+        <milestone n="518" unit="line"/>
         <l>gressus nefandos dux Cephallanum admovet.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="519"/>
+        <milestone n="519" unit="line"/>
         <l>Dehisce tellus tuque, coniunx, ultimo</l>
-        <milestone unit="line" n="520"/>
+        <milestone n="520" unit="line"/>
         <l n="520">specu revulsam scinde tellurem et Stygis </l>
         <pb id="p.69"/>
-        <milestone unit="line" n="521"/>
+        <milestone n="521" unit="line"/>
         <l>sinu profundo conde depositum meum.</l>
-        <milestone unit="line" n="522"/>
+        <milestone n="522" unit="line"/>
         <l>adest Vlixes, et quidem dubio gradu</l>
-        <milestone unit="line" n="523"/>
+        <milestone n="523" unit="line"/>
         <l>vultuque: nectit pectore astus callido.</l>
       </sp>
-      <sp who="ulixes andromacha">
+      <sp who="#ulixes #andromacha">
         <speaker>Ulixes Andromacha</speaker>
-        <milestone unit="line" n="524"/>
+        <milestone n="524" unit="line"/>
         <l>Durae minister sortis hoc primum peto.</l>
-        <milestone unit="line" n="525"/>
+        <milestone n="525" unit="line"/>
         <l n="525">ut, ore quamvis verba dicantur meo, </l>
-        <milestone unit="line" n="526"/>
+        <milestone n="526" unit="line"/>
         <l>non esse credas nostra: Graiorum omnium</l>
-        <milestone unit="line" n="527"/>
+        <milestone n="527" unit="line"/>
         <l>procerumque vox est, petere quos seras domos</l>
-        <milestone unit="line" n="528"/>
+        <milestone n="528" unit="line"/>
         <l>Hectorea suboles prohibet: hanc fata expetunt.</l>
-        <milestone unit="line" n="529"/>
+        <milestone n="529" unit="line"/>
         <l>sollicita Danaos pacis incertae fides</l>
-        <milestone unit="line" n="530"/>
+        <milestone n="530" unit="line"/>
         <l n="530">semper tenebit, semper a tergo timor </l>
-        <milestone unit="line" n="531"/>
+        <milestone n="531" unit="line"/>
         <l>respicere coget arma nec poni sinet,</l>
-        <milestone unit="line" n="532"/>
+        <milestone n="532" unit="line"/>
         <l>dum Phrygibus animos natus eversis dabit,</l>
-        <milestone unit="line" n="533"/>
-        <l>Andromacha, &dagger; vester, augur haec Calchas canit;</l>
-        <milestone unit="line" n="534"/>
+        <milestone n="533" unit="line"/>
+        <l>Andromacha, † vester, augur haec Calchas canit;</l>
+        <milestone n="534" unit="line"/>
         <l>et, si taceret augur haec Calchas, tamen</l>
-        <milestone unit="line" n="535"/>
+        <milestone n="535" unit="line"/>
         <l n="535">dicebat Hector, cuius et stirpem horreo. </l>
-        <milestone unit="line" n="536"/>
+        <milestone n="536" unit="line"/>
         <l>generosa in ortus semina exsurgunt suos:</l>
-        <milestone unit="line" n="537"/>
+        <milestone n="537" unit="line"/>
         <l>sic ille magni parvus armenti comes</l>
-        <milestone unit="line" n="538"/>
+        <milestone n="538" unit="line"/>
         <l>primisque nondum cornibus findens cutem</l>
-        <milestone unit="line" n="539"/>
+        <milestone n="539" unit="line"/>
         <l>cervice subito celsus et fronte arduus</l>
-        <milestone unit="line" n="540"/>
+        <milestone n="540" unit="line"/>
         <l n="540">gregem paternum ducit ac pecori imperat; </l>
-        <milestone unit="line" n="541"/>
+        <milestone n="541" unit="line"/>
         <l>quae tenera caeso virga de trunco stetit,</l>
-        <milestone unit="line" n="542"/>
+        <milestone n="542" unit="line"/>
         <l>par ipsa matri tempore exiguo subit</l>
-        <milestone unit="line" n="543"/>
+        <milestone n="543" unit="line"/>
         <l>umbrasque terris reddit et caelo nemus;</l>
-        <milestone unit="line" n="544"/>
+        <milestone n="544" unit="line"/>
         <l>sic male relictus igne de magno cinis</l>
-        <milestone unit="line" n="545"/>
+        <milestone n="545" unit="line"/>
         <l n="545">vires resumit. est quidem iniustus dolor </l>
-        <milestone unit="line" n="546"/>
+        <milestone n="546" unit="line"/>
         <l>rerum aestimator: si tamen tecum exigas,</l>
-        <milestone unit="line" n="547"/>
+        <milestone n="547" unit="line"/>
         <l>veniam dabis, quod bella post hiemes decem</l>
-        <milestone unit="line" n="548"/>
+        <milestone n="548" unit="line"/>
         <l>totidemque messes iam senex miles timet</l>
-        <milestone unit="line" n="549"/>
+        <milestone n="549" unit="line"/>
         <l>aliasque clades rursus ac numquam bene</l>
         <pb id="p.70"/>
-        <milestone unit="line" n="550"/>
+        <milestone n="550" unit="line"/>
         <l n="550">Troiam iacentem, magna res Danaos movet, </l>
-        <milestone unit="line" n="551"/>
+        <milestone n="551" unit="line"/>
         <l>futurus Hector: libera Graios metu.</l>
-        <milestone unit="line" n="552"/>
+        <milestone n="552" unit="line"/>
         <l>haec una naves causa deductas tenet,</l>
-        <milestone unit="line" n="553"/>
+        <milestone n="553" unit="line"/>
         <l>hac classis haeret, neve crudelem putes,</l>
-        <milestone unit="line" n="554"/>
+        <milestone n="554" unit="line"/>
         <l>quod sorte iussus Hectoris natum petam:</l>
-        <milestone unit="line" n="555"/>
+        <milestone n="555" unit="line"/>
         <l n="555">petissem Oresten. patere quod victor tulit. </l>
       </sp>
       <milestone n="556" unit="card"/>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="556"/>
+        <milestone n="556" unit="line"/>
         <l>Vtinam quidem esses, nate, materna in manu,</l>
-        <milestone unit="line" n="557"/>
+        <milestone n="557" unit="line"/>
         <l>nossemque quis te casus ereptum mihi</l>
-        <milestone unit="line" n="558"/>
-        <l>teneret, aut quae regio&mdash; non hostilibus</l>
-        <milestone unit="line" n="559"/>
+        <milestone n="558" unit="line"/>
+        <l>teneret, aut quae regio— non hostilibus</l>
+        <milestone n="559" unit="line"/>
         <l>confossa telis pectus aut vinclis manus</l>
-        <milestone unit="line" n="560"/>
+        <milestone n="560" unit="line"/>
         <l n="560">secantibus praestricta, non acri latus </l>
-        <milestone unit="line" n="561"/>
+        <milestone n="561" unit="line"/>
         <l>utrumque flamma cincta maternam fidem</l>
-        <milestone unit="line" n="562"/>
+        <milestone n="562" unit="line"/>
         <l>umquam exuissem. nate, quis te nunc locus,</l>
-        <milestone unit="line" n="563"/>
+        <milestone n="563" unit="line"/>
         <l>fortuna quae possedit? errore avio</l>
-        <milestone unit="line" n="564"/>
+        <milestone n="564" unit="line"/>
         <l>vagus arva lustras? vastus an patriae vapor</l>
-        <milestone unit="line" n="565"/>
+        <milestone n="565" unit="line"/>
         <l n="565">corripuit artus? saevus an victor tuo </l>
-        <milestone unit="line" n="566"/>
+        <milestone n="566" unit="line"/>
         <l>lusit cruore? numquid immanis ferae</l>
-        <milestone unit="line" n="567"/>
+        <milestone n="567" unit="line"/>
         <l>morsu peremptus pascis Idaeas aves?</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="568"/>
+        <milestone n="568" unit="line"/>
         <l>Simulata remove verba; non facile est tibi</l>
-        <milestone unit="line" n="569"/>
+        <milestone n="569" unit="line"/>
         <l>decipere Vlixen: vicimus matrum dolos</l>
-        <milestone unit="line" n="570"/>
+        <milestone n="570" unit="line"/>
         <l n="570">etiam dearum. cassa consilia amove; </l>
-        <milestone unit="line" n="571"/>
+        <milestone n="571" unit="line"/>
         <l part="I">ubi natus est?</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
         <l part="F">Vbi Hector? ubi cuncti Phryges?</l>
-        <milestone unit="line" n="572"/>
+        <milestone n="572" unit="line"/>
         <l>ubi Priamus? unum quaeris: ego quaero omnia.</l>
-        <milestone unit="line" n="573"/>
+        <milestone n="573" unit="line"/>
         <l>VLBL Coacta dices sponte quod fari abnuis.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="574"/>
+        <milestone n="574" unit="line"/>
         <l>Tuta est, perire quae potest debet cupit.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="575"/>
+        <milestone n="575" unit="line"/>
         <l n="575">Magnifica verba mors prope admota excutit. </l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="576"/>
+        <milestone n="576" unit="line"/>
         <l>Si vis, Vlixe, cogere Andromacham metu,</l>
-        <milestone unit="line" n="577"/>
+        <milestone n="577" unit="line"/>
         <l>vitam minare: nam mori votum est mihi.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="578"/>
+        <milestone n="578" unit="line"/>
         <l>Verberibus igni t morte cruciatu eloqui</l>
-        <milestone unit="line" n="579"/>
+        <milestone n="579" unit="line"/>
         <l>quodcumque celas adiget invitam dolor</l>
-        <milestone unit="line" n="580"/>
+        <milestone n="580" unit="line"/>
         <l n="580">et pectore imo condita arcana eruet: </l>
-        <milestone unit="line" n="581"/>
+        <milestone n="581" unit="line"/>
         <l>necessitas plus posse quam pietas solet.</l>
       </sp>
       <pb id="p.71"/>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="582"/>
+        <milestone n="582" unit="line"/>
         <l>Propone flammas, vulnera et diras mali</l>
-        <milestone unit="line" n="583"/>
+        <milestone n="583" unit="line"/>
         <l>doloris artes et famem et saevam sitim</l>
-        <milestone unit="line" n="584"/>
+        <milestone n="584" unit="line"/>
         <l>variasque pestes undique, et ferrum inditum</l>
-        <milestone unit="line" n="585"/>
+        <milestone n="585" unit="line"/>
         <l n="585">visceribus istis, carceris caeci luem, </l>
-        <milestone unit="line" n="586"/>
+        <milestone n="586" unit="line"/>
         <l>et quicquid audet victor iratus timens:</l>
-        <milestone unit="line" n="587"/>
+        <milestone n="587" unit="line"/>
         <l>[VLIX. Stulta est fides celare quod prodas statim.]</l>
-        <milestone unit="line" n="588"/>
+        <milestone n="588" unit="line"/>
         <l>animosa nullos mater admittit metus.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="589"/>
+        <milestone n="589" unit="line"/>
         <l>Hic ipse, quo nunc contumax perstas, amor</l>
-        <milestone unit="line" n="590"/>
+        <milestone n="590" unit="line"/>
         <l n="590">consulere parvis liberis Danaos monet. </l>
-        <milestone unit="line" n="591"/>
+        <milestone n="591" unit="line"/>
         <l>post arma tam longinqua, post annos decem</l>
-        <milestone unit="line" n="592"/>
+        <milestone n="592" unit="line"/>
         <l>minus timerem quos facit Calchas metus,</l>
-        <milestone unit="line" n="593"/>
+        <milestone n="593" unit="line"/>
         <l>si mihi timerem: bella Telemacho paras.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="594"/>
+        <milestone n="594" unit="line"/>
         <l>Invita, Vlixe, gaudium Danais dabo:</l>
-        <milestone unit="line" n="595"/>
+        <milestone n="595" unit="line"/>
         <l n="595">dandum est; fatere quos premis luctus, dolor. </l>
-        <milestone unit="line" n="596"/>
+        <milestone n="596" unit="line"/>
         <l>gaudete, Atridae, tuque laetifica, ut soles,</l>
-        <milestone unit="line" n="597"/>
+        <milestone n="597" unit="line"/>
         <l>refer Pelasgis: Hectoris proles obit.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="598"/>
+        <milestone n="598" unit="line"/>
         <l>Et esse verum hoc qua probas Danais fide?</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="599"/>
+        <milestone n="599" unit="line"/>
         <l>Ita quod minari maximum victor potest</l>
-        <milestone unit="line" n="600"/>
+        <milestone n="600" unit="line"/>
         <l n="600">contingat et me fata maturo exitu </l>
-        <milestone unit="line" n="601"/>
+        <milestone n="601" unit="line"/>
         <l>facilique solvant ac meo condant solo</l>
-        <milestone unit="line" n="602"/>
+        <milestone n="602" unit="line"/>
         <l>et patria tellus Hectorem leviter premat,</l>
-        <milestone unit="line" n="603"/>
+        <milestone n="603" unit="line"/>
         <l>ut luce caruit: inter extinctos iacet</l>
-        <milestone unit="line" n="604"/>
+        <milestone n="604" unit="line"/>
         <l>datumque tumulo debita exanimis tulit.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="605"/>
+        <milestone n="605" unit="line"/>
         <l n="605">Expleta fata stirpe sublata Hectoris </l>
-        <milestone unit="line" n="606"/>
-        <l>solidamque pacem laetus ad Danaos feram&mdash;</l>
-        <milestone unit="line" n="607"/>
+        <milestone n="606" unit="line"/>
+        <l>solidamque pacem laetus ad Danaos feram—</l>
+        <milestone n="607" unit="line"/>
         <l>quid agis, Vlixe? Danaidae credent tibi:</l>
-        <milestone unit="line" n="608"/>
-        <l>tu cui? parenti&mdash; fingit an quisquam hoc parens,</l>
-        <milestone unit="line" n="609"/>
+        <milestone n="608" unit="line"/>
+        <l>tu cui? parenti— fingit an quisquam hoc parens,</l>
+        <milestone n="609" unit="line"/>
         <l>nec abominandae mortis auspicium pavet?</l>
-        <milestone unit="line" n="610"/>
+        <milestone n="610" unit="line"/>
         <l n="610">auspicia metuunt qui nihil maius timent. </l>
         <pb id="p.72"/>
-        <milestone unit="line" n="611"/>
-        <l>fidem alligavit iure iurando suam&mdash; </l>
-        <milestone unit="line" n="612"/>
+        <milestone n="611" unit="line"/>
+        <l>fidem alligavit iure iurando suam— </l>
+        <milestone n="612" unit="line"/>
         <l>si peierat, timere quid gravius potest?</l>
-        <milestone unit="line" n="613"/>
+        <milestone n="613" unit="line"/>
         <l>nunc advoca astus, anime, nunc fraudes, dolos.</l>
-        <milestone unit="line" n="614"/>
+        <milestone n="614" unit="line"/>
         <l>nunc totum Vlixen; veritas numquam perit.</l>
-        <milestone unit="line" n="615"/>
+        <milestone n="615" unit="line"/>
         <l n="615">scrutare matrem, maeret, illacrimat, gemit; </l>
-        <milestone unit="line" n="616"/>
+        <milestone n="616" unit="line"/>
         <l>sed et huc et illuc anxios gressus refert</l>
-        <milestone unit="line" n="617"/>
+        <milestone n="617" unit="line"/>
         <l>missasque voces aure sollicita excipit:</l>
-        <milestone unit="line" n="618"/>
+        <milestone n="618" unit="line"/>
         <l>magis haec timet, quam maeret. ingenio est onus.</l>
-        <milestone unit="line" n="619"/>
+        <milestone n="619" unit="line"/>
         <l>Alios parentes alioqui in luctu decet:</l>
-        <milestone unit="line" n="620"/>
+        <milestone n="620" unit="line"/>
         <l n="620">tibi gratulandum est. misera, quod nato cares. </l>
-        <milestone unit="line" n="621"/>
+        <milestone n="621" unit="line"/>
         <l>quem mors manebat saeva praecipitem datum</l>
-        <milestone unit="line" n="622"/>
+        <milestone n="622" unit="line"/>
         <l>e turre, lapsis sola quae muris manet.</l>
       </sp>
       <milestone n="623" unit="card"/>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="623"/>
+        <milestone n="623" unit="line"/>
         <l>Reliquit animus membra, quatiuntur, labant</l>
-        <milestone unit="line" n="624"/>
+        <milestone n="624" unit="line"/>
         <l>torpetque vinctus frigido sanguis gelu.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="625"/>
+        <milestone n="625" unit="line"/>
         <l n="625">Intremuit: hac, hac parte quaerenda est mihi; </l>
-        <milestone unit="line" n="626"/>
-        <l>matrem timor detexit: iterabo metum.&mdash;</l>
-        <milestone unit="line" n="627"/>
+        <milestone n="626" unit="line"/>
+        <l>matrem timor detexit: iterabo metum.—</l>
+        <milestone n="627" unit="line"/>
         <l>ite, ite celeres, fraude materna abditum</l>
-        <milestone unit="line" n="628"/>
+        <milestone n="628" unit="line"/>
         <l>hostem, Pelasgi nominis pestem ultimam,</l>
-        <milestone unit="line" n="629"/>
+        <milestone n="629" unit="line"/>
         <l>ubicumque latitat, erutam in medium date.</l>
-        <milestone unit="line" n="630"/>
-        <l n="630">bene est: tenetur, perge, festina, attrahe&mdash; </l>
-        <milestone unit="line" n="631"/>
+        <milestone n="630" unit="line"/>
+        <l n="630">bene est: tenetur, perge, festina, attrahe— </l>
+        <milestone n="631" unit="line"/>
         <l>quid respicis trepidasque? iam certe perit.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="632"/>
+        <milestone n="632" unit="line"/>
         <l>Vtinam timerem, solitus ex longo est metus:</l>
-        <milestone unit="line" n="633"/>
-        <l>dediscit animus &dagger;scire quod didicit diu.</l>
+        <milestone n="633" unit="line"/>
+        <l>dediscit animus †scire quod didicit diu.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="634"/>
+        <milestone n="634" unit="line"/>
         <l>Lustrale quoniam debitum muris puer</l>
-        <milestone unit="line" n="635"/>
+        <milestone n="635" unit="line"/>
         <l n="635">sacrum antecessit nec potest vatem sequi </l>
-        <milestone unit="line" n="636"/>
+        <milestone n="636" unit="line"/>
         <l>meliore fato raptus, hoc Calchas ait</l>
-        <milestone unit="line" n="637"/>
+        <milestone n="637" unit="line"/>
         <l>modo piari posse redituras rates,</l>
-        <milestone unit="line" n="638"/>
+        <milestone n="638" unit="line"/>
         <l>si placet undas Hectoris sparsi cinis</l>
-        <milestone unit="line" n="639"/>
+        <milestone n="639" unit="line"/>
         <l>ac tumulus imo totus aequetur solo.</l>
-        <milestone unit="line" n="640"/>
+        <milestone n="640" unit="line"/>
         <l n="640">nunc ille quoniam debitam effugit necem, </l>
-        <milestone unit="line" n="641"/>
+        <milestone n="641" unit="line"/>
         <l>erit admovenda sedibus sacris manus.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="642"/>
+        <milestone n="642" unit="line"/>
         <l>Quid agimus? animum distrahit geminus timor:</l>
         <pb id="p.73"/>
-        <milestone unit="line" n="643"/>
+        <milestone n="643" unit="line"/>
         <l>hinc natus, illinc coniugis sacri cinis,</l>
-        <milestone unit="line" n="644"/>
+        <milestone n="644" unit="line"/>
         <l>pars utra vincet? testor immites deos,</l>
-        <milestone unit="line" n="645"/>
+        <milestone n="645" unit="line"/>
         <l n="645">deosque veros coniugis manes mei: </l>
-        <milestone unit="line" n="646"/>
+        <milestone n="646" unit="line"/>
         <l>non aliud, Hector, in meo nato mihi</l>
-        <milestone unit="line" n="647"/>
+        <milestone n="647" unit="line"/>
         <l>placere quam te. vivat, ut possit tuos</l>
-        <milestone unit="line" n="648"/>
-        <l>referre vultus&mdash; prorutus tumulo cinis</l>
-        <milestone unit="line" n="649"/>
+        <milestone n="648" unit="line"/>
+        <l>referre vultus— prorutus tumulo cinis</l>
+        <milestone n="649" unit="line"/>
         <l>mergetur? ossa fluctibus spargi sinam</l>
-        <milestone unit="line" n="650"/>
-        <l n="650">disiecta vastis? potius hic mortem oppetat.&mdash; </l>
-        <milestone unit="line" n="651"/>
+        <milestone n="650" unit="line"/>
+        <l n="650">disiecta vastis? potius hic mortem oppetat.— </l>
+        <milestone n="651" unit="line"/>
         <l>poteris nefandae deditum mater neci</l>
-        <milestone unit="line" n="652"/>
+        <milestone n="652" unit="line"/>
         <l>videre? poteris celsa per fastigia</l>
-        <milestone unit="line" n="653"/>
+        <milestone n="653" unit="line"/>
         <l>missum rotari? potero, perpetiar, feram,</l>
-        <milestone unit="line" n="654"/>
+        <milestone n="654" unit="line"/>
         <l>dum non meus post fata victoris manu</l>
-        <milestone unit="line" n="655"/>
-        <l n="655">iactetur Hector.&mdash; hic suam poenam potest </l>
-        <milestone unit="line" n="656"/>
-        <l>sentire, at illum fata iam in tuto locant&mdash;</l>
-        <milestone unit="line" n="657"/>
+        <milestone n="655" unit="line"/>
+        <l n="655">iactetur Hector.— hic suam poenam potest </l>
+        <milestone n="656" unit="line"/>
+        <l>sentire, at illum fata iam in tuto locant—</l>
+        <milestone n="657" unit="line"/>
         <l>quid fluctuaris? statue, quem poenae extrahas.</l>
-        <milestone unit="line" n="658"/>
-        <l>ingrata, dubitas? Hector est illinc tuus&mdash;</l>
-        <milestone unit="line" n="659"/>
+        <milestone n="658" unit="line"/>
+        <l>ingrata, dubitas? Hector est illinc tuus—</l>
+        <milestone n="659" unit="line"/>
         <l>erras: utrimque est Hector; hic sensus potens,</l>
-        <milestone unit="line" n="660"/>
-        <l n="660">forsan futurus ultor extincti patris&mdash; </l>
-        <milestone unit="line" n="661"/>
+        <milestone n="660" unit="line"/>
+        <l n="660">forsan futurus ultor extincti patris— </l>
+        <milestone n="661" unit="line"/>
         <l>utrique parci non potest: quid iam facis?</l>
-        <milestone unit="line" n="662"/>
+        <milestone n="662" unit="line"/>
         <l>serva e duobus, anime, quem Danai timent.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="663"/>
+        <milestone n="663" unit="line"/>
         <l>Responsa peragam: funditus busta eruam.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="664"/>
+        <milestone n="664" unit="line"/>
         <l part="I">Quae vendidistis?</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
         <l part="F">Pergam et e summo</l>
-        <milestone unit="line" n="665"/>
+        <milestone n="665" unit="line"/>
         <l>aggere</l>
-        <milestone unit="line" n="665"/>
+        <milestone n="665" unit="line"/>
         <l n="665" part="I">traham sepulchra,</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
         <l part="F">Caelitum appello fidem </l>
-        <milestone unit="line" n="666"/>
+        <milestone n="666" unit="line"/>
         <l>fidemque Achillis: Pyrrhe, genitoris tui</l>
-        <milestone unit="line" n="667"/>
+        <milestone n="667" unit="line"/>
         <l part="I">munus tuere.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
         <l part="F">Tumulus hic campo statim</l>
-        <milestone unit="line" n="668"/>
+        <milestone n="668" unit="line"/>
         <l part="I">toto iacebit.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
         <l part="F">Fuerat hoc prorsus nefas</l>
-        <milestone unit="line" n="669"/>
+        <milestone n="669" unit="line"/>
         <l>Danais inausum. templa violastis, deos</l>
-        <milestone unit="line" n="670"/>
+        <milestone n="670" unit="line"/>
         <l n="670">etiam faventes: busta transierat furor. </l>
-        <milestone unit="line" n="671"/>
+        <milestone n="671" unit="line"/>
         <l>resistam, inermis offeram armatis manus,</l>
-        <milestone unit="line" n="672"/>
+        <milestone n="672" unit="line"/>
         <l>dabit ira vires, qualis Argolicas ferox</l>
-        <milestone unit="line" n="673"/>
+        <milestone n="673" unit="line"/>
         <l>turmas Amazon stravit, aut qualis deo</l>
-        <milestone unit="line" n="674"/>
+        <milestone n="674" unit="line"/>
         <l>percussa Maenas entheo silvas gradu</l>
         <pb id="p.74"/>
-        <milestone unit="line" n="675"/>
+        <milestone n="675" unit="line"/>
         <l n="675">armata thyrso terret atque expers sui </l>
-        <milestone unit="line" n="676"/>
+        <milestone n="676" unit="line"/>
         <l>vulnus dedit nec sensit, in medios ruam.</l>
-        <milestone unit="line" n="677"/>
+        <milestone n="677" unit="line"/>
         <l>tumuloque cineris socia defenso cadam.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="678"/>
+        <milestone n="678" unit="line"/>
         <l>Cessatis .et vos flebilis clamor movet</l>
-        <milestone unit="line" n="679"/>
+        <milestone n="679" unit="line"/>
         <l>furorque cassus feminae? iussa ocius</l>
-        <milestone unit="line" n="680"/>
+        <milestone n="680" unit="line"/>
         <l n="680" part="I">peragite.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
         <l part="F">Me, me sternite hic ferro prius. </l>
-        <milestone unit="line" n="681"/>
+        <milestone n="681" unit="line"/>
         <l>repellor, heu me. rumpe fatorum moras,</l>
-        <milestone unit="line" n="682"/>
+        <milestone n="682" unit="line"/>
         <l>molire terras, Hector: ut Vlixen domes,</l>
-        <milestone unit="line" n="683"/>
-        <l>vel umbra satis es&mdash; arma concussit manu,</l>
-        <milestone unit="line" n="684"/>
-        <l>iaculatur ignes&mdash; cernitis, Danai, Hectorem?</l>
-        <milestone unit="line" n="685"/>
+        <milestone n="683" unit="line"/>
+        <l>vel umbra satis es— arma concussit manu,</l>
+        <milestone n="684" unit="line"/>
+        <l>iaculatur ignes— cernitis, Danai, Hectorem?</l>
+        <milestone n="685" unit="line"/>
         <l n="685" part="I">an sola video?</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
         <l part="F">Funditus cuncta eruam. </l>
       </sp>
       <milestone n="686" unit="card"/>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="686"/>
+        <milestone n="686" unit="line"/>
         <l>Quid agis? ruina pariter et natum et virum</l>
-        <milestone unit="line" n="687"/>
+        <milestone n="687" unit="line"/>
         <l>prosternis una? forsitan Danaos prece</l>
-        <milestone unit="line" n="688"/>
+        <milestone n="688" unit="line"/>
         <l>placare poteris, conditum illidet statim :</l>
-        <milestone unit="line" n="689"/>
-        <l>immane busti pondus&mdash; intereat miser</l>
-        <milestone unit="line" n="690"/>
+        <milestone n="689" unit="line"/>
+        <l>immane busti pondus— intereat miser</l>
+        <milestone n="690" unit="line"/>
         <l n="690">ubicumque potius, ne pater natum obruat </l>
-        <milestone unit="line" n="691"/>
-        <l>prematque patrem natus.&mdash; Ad genua accido</l>
-        <milestone unit="line" n="692"/>
+        <milestone n="691" unit="line"/>
+        <l>prematque patrem natus.— Ad genua accido</l>
+        <milestone n="692" unit="line"/>
         <l>supplex, Vlixe, quamque nullius pedes</l>
-        <milestone unit="line" n="693"/>
+        <milestone n="693" unit="line"/>
         <l>novere dextram pedibus admoveo tuis.</l>
-        <milestone unit="line" n="694"/>
+        <milestone n="694" unit="line"/>
         <l>miserere matris et preces placidus pias</l>
-        <milestone unit="line" n="695"/>
+        <milestone n="695" unit="line"/>
         <l n="695">patiensque recipe, quoque te celsum altius </l>
-        <milestone unit="line" n="696"/>
+        <milestone n="696" unit="line"/>
         <l>superi levarunt, mitius lapsos preme:</l>
-        <milestone unit="line" n="697"/>
+        <milestone n="697" unit="line"/>
         <l>misero datur quodcumque, fortunae datur.</l>
-        <milestone unit="line" n="698"/>
+        <milestone n="698" unit="line"/>
         <l>sic te revisat coniugis sanctae torus,</l>
-        <milestone unit="line" n="699"/>
+        <milestone n="699" unit="line"/>
         <l>annosque, dum te recipit, extendat suos</l>
-        <milestone unit="line" n="700"/>
+        <milestone n="700" unit="line"/>
         <l n="700">Laerta; sic te iuvenis excipiat tuus, </l>
-        <milestone unit="line" n="701"/>
+        <milestone n="701" unit="line"/>
         <l>et vota vincens vestra felici indole</l>
-        <milestone unit="line" n="702"/>
+        <milestone n="702" unit="line"/>
         <l>aetate avum transcendat, ingenio patrem.</l>
-        <milestone unit="line" n="703"/>
+        <milestone n="703" unit="line"/>
         <l>miserere matris: unicum adflictae mihi</l>
-        <milestone unit="line" n="704"/>
+        <milestone n="704" unit="line"/>
         <l part="I">solamen hic est.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
         <l part="F">Exhibe natum et roga.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="705"/>
+        <milestone n="705" unit="line"/>
         <l n="705">Huc e latebris procede tuis, </l>
-        <milestone unit="line" n="706"/>
+        <milestone n="706" unit="line"/>
         <l>flebile matris furtum miserae.</l>
         <pb id="p.75"/>
-        <milestone unit="line" n="707"/>
+        <milestone n="707" unit="line"/>
         <l>hic est, hic est terror, Vlixe,</l>
-        <milestone unit="line" n="708"/>
+        <milestone n="708" unit="line"/>
         <l>mille carinis. submitte manus</l>
-        <milestone unit="line" n="709"/>
+        <milestone n="709" unit="line"/>
         <l>dominique pedes supplice dextra</l>
-        <milestone unit="line" n="710"/>
+        <milestone n="710" unit="line"/>
         <l n="710">stratus adora nec turpe puta </l>
-        <milestone unit="line" n="711"/>
+        <milestone n="711" unit="line"/>
         <l>quicquid miseros fortuna iubet.</l>
-        <milestone unit="line" n="712"/>
+        <milestone n="712" unit="line"/>
         <l>pone ex animo reges atavos</l>
-        <milestone unit="line" n="713"/>
+        <milestone n="713" unit="line"/>
         <l>magnique senis iura per omnis</l>
-        <milestone unit="line" n="714"/>
+        <milestone n="714" unit="line"/>
         <l>incluta terras j excidat Hector,</l>
-        <milestone unit="line" n="715"/>
+        <milestone n="715" unit="line"/>
         <l n="715">gere captivum positoque genu, </l>
-        <milestone unit="line" n="716"/>
+        <milestone n="716" unit="line"/>
         <l>si tua nondum funera sentis,</l>
-        <milestone unit="line" n="717"/>
+        <milestone n="717" unit="line"/>
         <l>matris fletus imitare tuae.</l>
-        <milestone unit="line" n="718"/>
+        <milestone n="718" unit="line"/>
         <l>Vidit pueri regis lacrimas</l>
-        <milestone unit="line" n="719"/>
+        <milestone n="719" unit="line"/>
         <l>et Troia prior, parvusque minas</l>
-        <milestone unit="line" n="720"/>
+        <milestone n="720" unit="line"/>
         <l n="720">trucis Alcidae flexit Priamus. </l>
-        <milestone unit="line" n="721"/>
+        <milestone n="721" unit="line"/>
         <l>ille, ille ferox, cuius vastis</l>
-        <milestone unit="line" n="722"/>
+        <milestone n="722" unit="line"/>
         <l>viribus omnes cessere ferae,</l>
-        <milestone unit="line" n="723"/>
+        <milestone n="723" unit="line"/>
         <l>qui perfracto limine Ditis</l>
-        <milestone unit="line" n="724"/>
+        <milestone n="724" unit="line"/>
         <l>caecum retro patefecit iter,</l>
-        <milestone unit="line" n="725"/>
+        <milestone n="725" unit="line"/>
         <l n="725">hostis parvi victus lacrimis: </l>
-        <milestone unit="line" n="726"/>
+        <milestone n="726" unit="line"/>
         <l>'suscipe' dixit 'rector habenas</l>
-        <milestone unit="line" n="727"/>
+        <milestone n="727" unit="line"/>
         <l>patrioque sede celsus solio;</l>
-        <milestone unit="line" n="728"/>
+        <milestone n="728" unit="line"/>
         <l>sed sceptra fide meliore tene.'</l>
-        <milestone unit="line" n="729"/>
+        <milestone n="729" unit="line"/>
         <l>hoc fuit illo victore capi:</l>
-        <milestone unit="line" n="730"/>
+        <milestone n="730" unit="line"/>
         <l n="730">discite mites Herculis iras. </l>
-        <milestone unit="line" n="731"/>
+        <milestone n="731" unit="line"/>
         <l>an sola placent Herculis arma?</l>
-        <milestone unit="line" n="732"/>
+        <milestone n="732" unit="line"/>
         <l>iacet ante pedes non minor illo</l>
-        <milestone unit="line" n="733"/>
-        <l>supplice supplex vitamque petit&mdash;</l>
-        <milestone unit="line" n="734"/>
+        <milestone n="733" unit="line"/>
+        <l>supplice supplex vitamque petit—</l>
+        <milestone n="734" unit="line"/>
         <l>regnum Troiae</l>
-        <milestone unit="line" n="735"/>
+        <milestone n="735" unit="line"/>
         <l n="735">quocumque volet Fortuna ferat. </l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="736"/>
+        <milestone n="736" unit="line"/>
         <l>Matris quidem me maeror attonitae movet,</l>
-        <milestone unit="line" n="737"/>
+        <milestone n="737" unit="line"/>
         <l>magis Pelasgae me tamen matres movent,</l>
-        <milestone unit="line" n="738"/>
+        <milestone n="738" unit="line"/>
         <l>quarum iste magnos crescit in luctus puer.</l>
       </sp>
       <milestone n="739" unit="card"/>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="739"/>
+        <milestone n="739" unit="line"/>
         <l>Has, has ruinas urbis in cinerem datae</l>
         <pb id="p.76"/>
-        <milestone unit="line" n="740"/>
+        <milestone n="740" unit="line"/>
         <l n="740">hic excitabit? hae manus Troiam erigent? </l>
-        <milestone unit="line" n="741"/>
+        <milestone n="741" unit="line"/>
         <l>nullas habet spes Troia, si tales habet.</l>
-        <milestone unit="line" n="742"/>
+        <milestone n="742" unit="line"/>
         <l>non sic iacemus Troes, ut cuiquam metus</l>
-        <milestone unit="line" n="743"/>
+        <milestone n="743" unit="line"/>
         <l>possimus esse. spiritus genitor fecit?</l>
-        <milestone unit="line" n="744"/>
+        <milestone n="744" unit="line"/>
         <l>sed nempe tractus, ipse post Troiam pater</l>
-        <milestone unit="line" n="745"/>
+        <milestone n="745" unit="line"/>
         <l n="745">posuisset animos, magna quos frangunt mala. </l>
-        <milestone unit="line" n="746"/>
+        <milestone n="746" unit="line"/>
         <l>si poena petitur, (quae peti gravior potest?)</l>
-        <milestone unit="line" n="747"/>
+        <milestone n="747" unit="line"/>
         <l>famulare collo nobili subeat iugum,</l>
-        <milestone unit="line" n="748"/>
+        <milestone n="748" unit="line"/>
         <l>servire liceat, aliquis hoc regi negat?</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="749"/>
+        <milestone n="749" unit="line"/>
         <l>Non hoc Vlixes, sed negat Calchas tibi.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="750"/>
+        <milestone n="750" unit="line"/>
         <l n="750">O machinator fraudis et scelerum artifex, </l>
-        <milestone unit="line" n="751"/>
+        <milestone n="751" unit="line"/>
         <l>virtute cuius bellica nemo occidit,</l>
-        <milestone unit="line" n="752"/>
+        <milestone n="752" unit="line"/>
         <l>dolis et astu maleficae mentis iacent</l>
-        <milestone unit="line" n="753"/>
+        <milestone n="753" unit="line"/>
         <l>etiam Pelasgi, vatem et insontes deos</l>
-        <milestone unit="line" n="754"/>
+        <milestone n="754" unit="line"/>
         <l>praetendis? hoc est pectoris facinus tui.</l>
-        <milestone unit="line" n="755"/>
+        <milestone n="755" unit="line"/>
         <l n="755">nocturne miles, fortis in pueri necem </l>
-        <milestone unit="line" n="756"/>
+        <milestone n="756" unit="line"/>
         <l>iam solus audes aliquid et claro die.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
-        <milestone unit="line" n="757"/>
+        <milestone n="757" unit="line"/>
         <l>Virtus Vlixis Danaidis nota est satis</l>
-        <milestone unit="line" n="758"/>
+        <milestone n="758" unit="line"/>
         <l>nimisque Phrygibus. non vacat vanis diem</l>
-        <milestone unit="line" n="759"/>
+        <milestone n="759" unit="line"/>
         <l>conterere verbis: ancoras classis legit.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="760"/>
+        <milestone n="760" unit="line"/>
         <l n="760">Brevem moram largire, dum officium parens </l>
-        <milestone unit="line" n="761"/>
+        <milestone n="761" unit="line"/>
         <l>nato supremum reddo et amplexu ultimo</l>
-        <milestone unit="line" n="762"/>
+        <milestone n="762" unit="line"/>
         <l part="I">avidos dolores satio.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
         <l part="F">Misereri tui</l>
-        <milestone unit="line" n="763"/>
+        <milestone n="763" unit="line"/>
         <l>utinam liceret, quod tamen solum licet,</l>
-        <milestone unit="line" n="764"/>
+        <milestone n="764" unit="line"/>
         <l>tempus moramque dabimus, arbitrio tuo</l>
-        <milestone unit="line" n="765"/>
+        <milestone n="765" unit="line"/>
         <l n="765">implere lacrimis: fletus aerumnas levat. </l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="766"/>
+        <milestone n="766" unit="line"/>
         <l>O dulce pignus, o decus lapsae domus</l>
-        <milestone unit="line" n="767"/>
+        <milestone n="767" unit="line"/>
         <l>summumque Troiae funus, o Danaum timor,</l>
-        <milestone unit="line" n="768"/>
+        <milestone n="768" unit="line"/>
         <l>genetricis o spes vana, cui demens ego</l>
-        <milestone unit="line" n="769"/>
+        <milestone n="769" unit="line"/>
         <l>laudes parentis bellicas, annos avi</l>
-        <milestone unit="line" n="770"/>
+        <milestone n="770" unit="line"/>
         <l n="770">demens precabar, vota destituit deus. </l>
         <pb id="p.77"/>
-        <milestone unit="line" n="775"/>
+        <milestone n="775" unit="line"/>
         <l n="775">non arma tenera patria tractabis manu </l>
-        <milestone unit="line" n="776"/>
+        <milestone n="776" unit="line"/>
         <l>sparsasque passim saltibus latis feras</l>
-        <milestone unit="line" n="777"/>
+        <milestone n="777" unit="line"/>
         <l>audax sequeris nec stato lustri die,</l>
-        <milestone unit="line" n="778"/>
+        <milestone n="778" unit="line"/>
         <l>solemne referens Troici lusus sacrum,</l>
-        <milestone unit="line" n="779"/>
+        <milestone n="779" unit="line"/>
         <l>puer citatas nobilis turmas ages;</l>
-        <milestone unit="line" n="780"/>
+        <milestone n="780" unit="line"/>
         <l n="780">non inter aras mobili velox pede, </l>
-        <milestone unit="line" n="781"/>
+        <milestone n="781" unit="line"/>
         <l>reboante flexo concitos cornu modos,</l>
-        <milestone unit="line" n="782"/>
+        <milestone n="782" unit="line"/>
         <l>barbarica prisco templa saltatu coles. </l>
-        <milestone unit="line" n="771"/>
+        <milestone n="771" unit="line"/>
         <l>Iliaca non tu sceptra regali potens </l>
-        <milestone unit="line" n="772"/>
+        <milestone n="772" unit="line"/>
         <l>gestabis aula, iura nec populis dabis</l>
-        <milestone unit="line" n="773"/>
+        <milestone n="773" unit="line"/>
         <l>victasque gentes sub tuum mittes iugum,</l>
-        <milestone unit="line" n="774"/>
+        <milestone n="774" unit="line"/>
         <l>non Graia caedes terga, non Pyrrhum trahes. </l>
-        <milestone unit="line" n="783"/>
+        <milestone n="783" unit="line"/>
         <l>o Marte diro tristius leti genus! </l>
-        <milestone unit="line" n="784"/>
+        <milestone n="784" unit="line"/>
         <l>flebilius aliquid Hectoris magni nece</l>
-        <milestone unit="line" n="785"/>
+        <milestone n="785" unit="line"/>
         <l n="785" part="I">muri videbunt,</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
         <l part="F">Rumpe iam fletus, parens: </l>
-        <milestone unit="line" n="786"/>
+        <milestone n="786" unit="line"/>
         <l>magnus sibi ipse non facit finem dolor.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="787"/>
+        <milestone n="787" unit="line"/>
         <l>Lacrimis, Vlixe, parva quam petimus mora est;</l>
-        <milestone unit="line" n="788"/>
+        <milestone n="788" unit="line"/>
         <l>concede patiens, ut mea condam manu</l>
-        <milestone unit="line" n="789"/>
+        <milestone n="789" unit="line"/>
         <l>viventis oculos, occidis parvus quidem,</l>
-        <milestone unit="line" n="790"/>
+        <milestone n="790" unit="line"/>
         <l n="790">sed iam timendus. Troia te expectat tua: </l>
-        <milestone unit="line" n="791"/>
+        <milestone n="791" unit="line"/>
         <l>i, vade liber, liberos Troas vide.</l>
       </sp>
-      <sp who="astyanax">
+      <sp who="#astyanax">
         <speaker>Astyan.</speaker>
-        <milestone unit="line" n="792"/>
+        <milestone n="792" unit="line"/>
         <l part="I">Miserere, mater.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
         <l part="F">Quid meos retines sinus</l>
-        <milestone unit="line" n="793"/>
+        <milestone n="793" unit="line"/>
         <l>manusque matris cassa praesidia occupas?</l>
-        <milestone unit="line" n="794"/>
+        <milestone n="794" unit="line"/>
         <l>fremitu leonis qualis audito tener</l>
-        <milestone unit="line" n="795"/>
+        <milestone n="795" unit="line"/>
         <l n="795">timidum iuvencus applicat matri latus,</l>
-        <milestone unit="line" n="796"/>
+        <milestone n="796" unit="line"/>
         <l>at ille saevus matre summota loco</l>
-        <milestone unit="line" n="797"/>
+        <milestone n="797" unit="line"/>
         <l>praedam minorem morsibus vastis tenens</l>
-        <milestone unit="line" n="798"/>
+        <milestone n="798" unit="line"/>
         <l>frangit venitque: talis e nostro sinu</l>
-        <milestone unit="line" n="799"/>
+        <milestone n="799" unit="line"/>
         <l>te rapiet hostis, oscula et fletus, puer,</l>
-        <milestone unit="line" n="800"/>
+        <milestone n="800" unit="line"/>
         <l n="800">lacerosque crines excipe et plenus mei </l>
         <pb id="p.78"/>
-        <milestone unit="line" n="801"/>
+        <milestone n="801" unit="line"/>
         <l>occurre patri; pauca maternae tamen</l>
-        <milestone unit="line" n="802"/>
+        <milestone n="802" unit="line"/>
         <l>perfer querelae verba: 'si manes habent</l>
-        <milestone unit="line" n="803"/>
+        <milestone n="803" unit="line"/>
         <l>curas priores nec perit flammis amor,</l>
-        <milestone unit="line" n="804"/>
+        <milestone n="804" unit="line"/>
         <l>servire Graio pateris Andromachen viro,</l>
-        <milestone unit="line" n="805"/>
+        <milestone n="805" unit="line"/>
         <l n="805">crudelis Hector? lentus et segnis iaces? </l>
-        <milestone unit="line" n="806"/>
+        <milestone n="806" unit="line"/>
         <l>redit Achilles.' sume nunc iterum comas</l>
-        <milestone unit="line" n="807"/>
+        <milestone n="807" unit="line"/>
         <l>et sume lacrimas, quicquid e misero viri</l>
-        <milestone unit="line" n="808"/>
+        <milestone n="808" unit="line"/>
         <l>funere relictum est, sume quae reddas tuo</l>
-        <milestone unit="line" n="809"/>
+        <milestone n="809" unit="line"/>
         <l>Oscula parenti, matris hanc solacio</l>
-        <milestone unit="line" n="810"/>
+        <milestone n="810" unit="line"/>
         <l n="810">relinque vestem: tumulus hanc tetigit meus </l>
-        <milestone unit="line" n="811"/>
+        <milestone n="811" unit="line"/>
         <l>manesque cari. si quid hic cineris latet,</l>
-        <milestone unit="line" n="812"/>
+        <milestone n="812" unit="line"/>
         <l part="I">scrutabor ore.</l>
       </sp>
-      <sp who="ulixes">
+      <sp who="#ulixes">
         <speaker>Vlix.</speaker>
         <l part="F">Nullus est flendi modus:</l>
-        <milestone unit="line" n="813"/>
+        <milestone n="813" unit="line"/>
         <l>abripite propere classis Argolicae moram.</l>
       </sp>
       <milestone n="814" unit="card"/>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chorus</speaker>
-        <milestone unit="line" n="814"/>
+        <milestone n="814" unit="line"/>
         <l>Quae vocat sedes habitanda captas?</l>
-        <milestone unit="line" n="815"/>
+        <milestone n="815" unit="line"/>
         <l n="815">Thessali montes et opaca Tempe, </l>
-        <milestone unit="line" n="819"/>
+        <milestone n="819" unit="line"/>
         <l>an maris vasti domitrix Iolcos? </l>
-        <milestone unit="line" n="821"/>
+        <milestone n="821" unit="line"/>
         <l>parva Gortynis sterilisque Tricce, </l>
-        <milestone unit="line" n="822"/>
+        <milestone n="822" unit="line"/>
         <l>an frequens rivis levibus Mothone,</l>
-        <milestone unit="line" n="816"/>
+        <milestone n="816" unit="line"/>
         <l>an viros tellus dare militares </l>
-        <milestone unit="line" n="817"/>
+        <milestone n="817" unit="line"/>
         <l>aptior Phthie meliorque fetu</l>
-        <milestone unit="line" n="818"/>
+        <milestone n="818" unit="line"/>
         <l>fortis armenti lapidosa Trachin,</l>
-        <milestone unit="line" n="823"/>
+        <milestone n="823" unit="line"/>
         <l>quae sub Oetaeis latebrosa silvis </l>
-        <milestone unit="line" n="824"/>
+        <milestone n="824" unit="line"/>
         <l>misit infestos Troiae ruinis</l>
-        <milestone unit="line" n="825"/>
+        <milestone n="825" unit="line"/>
         <l n="825">non semel arcus? </l>
-        <milestone unit="line" n="826"/>
+        <milestone n="826" unit="line"/>
         <l>Olenos tectis habitata raris,</l>
         <pb id="p.79"/>
-        <milestone unit="line" n="827"/>
+        <milestone n="827" unit="line"/>
         <l>virgini Pleuron inimica divae,</l>
-        <milestone unit="line" n="828"/>
+        <milestone n="828" unit="line"/>
         <l>an maris lati sinuosa Troezen?</l>
-        <milestone unit="line" n="829"/>
+        <milestone n="829" unit="line"/>
         <l>Pelion regnum Prothoi superbum,</l>
-        <milestone unit="line" n="830"/>
+        <milestone n="830" unit="line"/>
         <l n="830">tertius caelo gradus? (hic recumbens </l>
-        <milestone unit="line" n="831"/>
+        <milestone n="831" unit="line"/>
         <l>montis exesi spatiosus antro</l>
-        <milestone unit="line" n="832"/>
+        <milestone n="832" unit="line"/>
         <l>iam trucis Chiron pueri magister,</l>
-        <milestone unit="line" n="833"/>
+        <milestone n="833" unit="line"/>
         <l>tinnulas plectro feriente chordas,</l>
-        <milestone unit="line" n="834"/>
+        <milestone n="834" unit="line"/>
         <l>tunc quoque ingentes acuebat iras</l>
-        <milestone unit="line" n="835"/>
+        <milestone n="835" unit="line"/>
         <l n="835">bella canendo) </l>
-        <milestone unit="line" n="836"/>
+        <milestone n="836" unit="line"/>
         <l>An ferax varii lapidis Carystos,</l>
-        <milestone unit="line" n="820"/>
+        <milestone n="820" unit="line"/>
         <l n="820">urbibus centum spatiosa Crete, </l>
-        <milestone unit="line" n="837"/>
+        <milestone n="837" unit="line"/>
         <l>an premens litus maris inquieti </l>
-        <milestone unit="line" n="838"/>
+        <milestone n="838" unit="line"/>
         <l>semper Euripo properante Chalcis?</l>
-        <milestone unit="line" n="839"/>
+        <milestone n="839" unit="line"/>
         <l>quolibet vento faciles Calydnae,</l>
-        <milestone unit="line" n="840"/>
+        <milestone n="840" unit="line"/>
         <l n="840">an carens numquam Gonoessa vento </l>
-        <milestone unit="line" n="841"/>
+        <milestone n="841" unit="line"/>
         <l>quaeque formidat Borean Enispe?</l>
-        <milestone unit="line" n="842"/>
+        <milestone n="842" unit="line"/>
         <l>Attica pendens Peparethos ora,</l>
-        <milestone unit="line" n="843"/>
+        <milestone n="843" unit="line"/>
         <l>an sacris gaudens tacitis Eleusin?</l>
-        <milestone unit="line" n="843"/>
+        <milestone n="843" unit="line"/>
         <l>* * *</l>
-        <milestone unit="line" n="844"/>
+        <milestone n="844" unit="line"/>
         <l>numquid Aiacis Salamina veram</l>
-        <milestone unit="line" n="845"/>
+        <milestone n="845" unit="line"/>
         <l n="845">aut fera notam Calydona saeva, </l>
-        <milestone unit="line" n="846"/>
+        <milestone n="846" unit="line"/>
         <l>quasque perfundit subiturus aequor</l>
-        <milestone unit="line" n="847"/>
+        <milestone n="847" unit="line"/>
         <l>segnibus terras Titaressos undis?</l>
-        <milestone unit="line" n="848"/>
+        <milestone n="848" unit="line"/>
         <l>Bessan et Scarphen, Pylon an senilem?</l>
-        <milestone unit="line" n="849"/>
+        <milestone n="849" unit="line"/>
         <l>Pharin an Pisas Iovis et coronis</l>
-        <milestone unit="line" n="850"/>
+        <milestone n="850" unit="line"/>
         <l n="850">Elida claram? </l>
-        <milestone unit="line" n="851"/>
+        <milestone n="851" unit="line"/>
         <l>Quolibet tristis miseras procella</l>
-        <milestone unit="line" n="852"/>
+        <milestone n="852" unit="line"/>
         <l>mittat et donet cuicumque terrae,</l>
         <pb id="p.80"/>
-        <milestone unit="line" n="853"/>
+        <milestone n="853" unit="line"/>
         <l>dum luem tantam Troiae atque Achivis</l>
-        <milestone unit="line" n="854"/>
+        <milestone n="854" unit="line"/>
         <l>quae tulit, Sparte, procul absit, absit</l>
-        <milestone unit="line" n="855"/>
+        <milestone n="855" unit="line"/>
         <l n="855">Argos et saevi Pelopis Mycenae, </l>
-        <milestone unit="line" n="856"/>
+        <milestone n="856" unit="line"/>
         <l>Neritos parva brevior Zacyntho</l>
-        <milestone unit="line" n="857"/>
+        <milestone n="857" unit="line"/>
         <l>et nocens saxis Ithace dolosis.</l>
-        <milestone unit="line" n="858"/>
+        <milestone n="858" unit="line"/>
         <l>Quod manet fatum dominusque quis te,</l>
-        <milestone unit="line" n="859"/>
+        <milestone n="859" unit="line"/>
         <l>aut quibus terris, Hecuba, videndam</l>
-        <milestone unit="line" n="860"/>
+        <milestone n="860" unit="line"/>
         <l n="860">ducet? in cuius moriere regno? </l>
       </sp>
-      <sp who="helena andromacha hecuba">
+      <sp who="#helena #andromacha #hecuba">
         <speaker>Helena Andromacha Hecuba</speaker>
-        <milestone unit="line" n="861"/>
+        <milestone n="861" unit="line"/>
         <l>Quicumque hymen funestas, inlaetabilis</l>
-        <milestone unit="line" n="862"/>
+        <milestone n="862" unit="line"/>
         <l>lamenta caedes sanguinem gemitus habet</l>
-        <milestone unit="line" n="863"/>
+        <milestone n="863" unit="line"/>
         <l>est auspice Helena dignus, eversis quoque</l>
-        <milestone unit="line" n="864"/>
+        <milestone n="864" unit="line"/>
         <l>nocere cogor Phrygibus: ego Pyrrhi toros</l>
-        <milestone unit="line" n="865"/>
+        <milestone n="865" unit="line"/>
         <l n="865">narrare falsos iubeor, ego cultus dare </l>
-        <milestone unit="line" n="866"/>
+        <milestone n="866" unit="line"/>
         <l>habitusque Graios. arte capietur mea</l>
-        <milestone unit="line" n="867"/>
+        <milestone n="867" unit="line"/>
         <l>meaque fraude concidet Paridis soror,</l>
-        <milestone unit="line" n="868"/>
+        <milestone n="868" unit="line"/>
         <l>fallatur; ipsi levius hoc equidem reor:</l>
-        <milestone unit="line" n="869"/>
+        <milestone n="869" unit="line"/>
         <l>optanda mors est sine metu mortis mori.</l>
-        <milestone unit="line" n="870"/>
+        <milestone n="870" unit="line"/>
         <l n="870">quid iussa cessas agere? ad auctorem redit </l>
-        <milestone unit="line" n="871"/>
-        <l>sceleris coacti culpa.&mdash; Dardaniae domus</l>
-        <milestone unit="line" n="872"/>
+        <milestone n="871" unit="line"/>
+        <l>sceleris coacti culpa.— Dardaniae domus</l>
+        <milestone n="872" unit="line"/>
         <l>generosa virgo, melior afflictos deus</l>
-        <milestone unit="line" n="873"/>
+        <milestone n="873" unit="line"/>
         <l>respicere coepit teque felici parat</l>
-        <milestone unit="line" n="874"/>
+        <milestone n="874" unit="line"/>
         <l>dotare thalamo; tale coniugium tibi</l>
-        <milestone unit="line" n="875"/>
+        <milestone n="875" unit="line"/>
         <l n="875">non ipsa sospes Troia, non Priamus daret. </l>
-        <milestone unit="line" n="876"/>
+        <milestone n="876" unit="line"/>
         <l>nam te Pelasgae maximum gentis decus,</l>
-        <milestone unit="line" n="878"/>
+        <milestone n="878" unit="line"/>
         <l>cui regna campi lata Thessalici patent, </l>
-        <milestone unit="line" n="877"/>
+        <milestone n="877" unit="line"/>
         <l>ad sancta lecti iura legitimi petit. </l>
-        <milestone unit="line" n="878"/>
+        <milestone n="878" unit="line"/>
         <l>te magna Tethys teque tot pelagi deae</l>
-        <milestone unit="line" n="880"/>
+        <milestone n="880" unit="line"/>
         <l n="880">placidumque numen aequoris tumidi Thetis </l>
         <pb id="p.81"/>
-        <milestone unit="line" n="881"/>
+        <milestone n="881" unit="line"/>
         <l>suam vocabunt, te datam Pyrrho socer</l>
-        <milestone unit="line" n="882"/>
+        <milestone n="882" unit="line"/>
         <l>Peleus nurum vocabit et Nereus nurum.</l>
-        <milestone unit="line" n="883"/>
+        <milestone n="883" unit="line"/>
         <l>depone cultus squalidos, festos cape.</l>
-        <milestone unit="line" n="884"/>
+        <milestone n="884" unit="line"/>
         <l>dedisce captam; deprime horrentis comas</l>
-        <milestone unit="line" n="885"/>
+        <milestone n="885" unit="line"/>
         <l n="885">crinemque docta patere distingui manu.</l>
-        <milestone unit="line" n="886"/>
+        <milestone n="886" unit="line"/>
         <l>hic forsitan te casus excelso magis</l>
-        <milestone unit="line" n="887"/>
+        <milestone n="887" unit="line"/>
         <l>solio reponet. profuit multis capi.</l>
       </sp>
       <milestone n="888" unit="card"/>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="888"/>
+        <milestone n="888" unit="line"/>
         <l>Hoc derat unum Phrygibus eversis malum,</l>
-        <milestone unit="line" n="889"/>
-        <l>gaudere&mdash; flagrant strata passim Pergama:</l>
-        <milestone unit="line" n="890"/>
+        <milestone n="889" unit="line"/>
+        <l>gaudere— flagrant strata passim Pergama:</l>
+        <milestone n="890" unit="line"/>
         <l n="890">o coniugale tempus! an quisquam audeat </l>
-        <milestone unit="line" n="891"/>
+        <milestone n="891" unit="line"/>
         <l>negare? quisquam dubius ad thalamos eat.</l>
-        <milestone unit="line" n="892"/>
+        <milestone n="892" unit="line"/>
         <l>quos Helena suadet? pestis exitium lues</l>
-        <milestone unit="line" n="893"/>
+        <milestone n="893" unit="line"/>
         <l>utriusque populi, cernis hos tumulos ducum</l>
-        <milestone unit="line" n="894"/>
+        <milestone n="894" unit="line"/>
         <l>et nuda totis ossa quae passim iacent</l>
-        <milestone unit="line" n="895"/>
+        <milestone n="895" unit="line"/>
         <l n="895">inhumata campis? haec hymen sparsit tuus. </l>
-        <milestone unit="line" n="896"/>
+        <milestone n="896" unit="line"/>
         <l>tibi fluxit Asiae, fluxit Europae cruor,</l>
-        <milestone unit="line" n="897"/>
+        <milestone n="897" unit="line"/>
         <l>cum dimicantes lenta prospiceres viros,</l>
-        <milestone unit="line" n="898"/>
-        <l>incerta voti&mdash; perge, thalamos appara.</l>
-        <milestone unit="line" n="899"/>
+        <milestone n="898" unit="line"/>
+        <l>incerta voti— perge, thalamos appara.</l>
+        <milestone n="899" unit="line"/>
         <l>taedis quid opus est quidve solemni face?</l>
-        <milestone unit="line" n="900"/>
+        <milestone n="900" unit="line"/>
         <l n="900">quid igne? thalamis Troia praelucet novis. </l>
-        <milestone unit="line" n="901"/>
+        <milestone n="901" unit="line"/>
         <l>celebrate Pyrrhi, Troades, conubia,</l>
-        <milestone unit="line" n="902"/>
+        <milestone n="902" unit="line"/>
         <l>celebrate digne: planctus et gemitus sonet.</l>
       </sp>
-      <sp who="helena">
+      <sp who="#helena">
         <speaker>Hel.</speaker>
-        <milestone unit="line" n="903"/>
+        <milestone n="903" unit="line"/>
         <l>Ratione quamvis careat et flecti neget</l>
-        <milestone unit="line" n="904"/>
+        <milestone n="904" unit="line"/>
         <l>magnus dolor sociosque nonnumquam sui</l>
-        <milestone unit="line" n="905"/>
+        <milestone n="905" unit="line"/>
         <l n="905">maeroris ipsos oderit: causam tamen </l>
-        <milestone unit="line" n="906"/>
+        <milestone n="906" unit="line"/>
         <l>possum tueri iudice infesto meam,</l>
-        <milestone unit="line" n="907"/>
+        <milestone n="907" unit="line"/>
         <l>graviora passa, luget Andromacha Hectorem</l>
-        <milestone unit="line" n="908"/>
+        <milestone n="908" unit="line"/>
         <l>et Hecuba Priamum: solus occulte Paris</l>
-        <milestone unit="line" n="909"/>
+        <milestone n="909" unit="line"/>
         <l>lugendus Helenae est. dirum et invisum et grave est</l>
-        <milestone unit="line" n="910"/>
+        <milestone n="910" unit="line"/>
         <l n="910">servitia ferre? patior hoc olim iugum, </l>
-        <milestone unit="line" n="911"/>
+        <milestone n="911" unit="line"/>
         <l>annis decem captiva, prostratum Ilium est,</l>
-        <milestone unit="line" n="912"/>
+        <milestone n="912" unit="line"/>
         <l>versi penates? perdere est patriam grave,</l>
-        <milestone unit="line" n="913"/>
+        <milestone n="913" unit="line"/>
         <l>gravius timere, vos levat tanti mali</l>
         <pb id="p.82"/>
-        <milestone unit="line" n="914"/>
+        <milestone n="914" unit="line"/>
         <l>comitatus: in me victor et victus furit,</l>
-        <milestone unit="line" n="915"/>
+        <milestone n="915" unit="line"/>
         <l n="915">quam quisque famulam traheret incerto diu </l>
-        <milestone unit="line" n="916"/>
+        <milestone n="916" unit="line"/>
         <l>casu pependit, me meus traxit statim</l>
-        <milestone unit="line" n="917"/>
+        <milestone n="917" unit="line"/>
         <l>sine sorte dominus, causa bellorum fui</l>
-        <milestone unit="line" n="918"/>
+        <milestone n="918" unit="line"/>
         <l>tantaeque Teucris cladis? hoc Verum puta.</l>
-        <milestone unit="line" n="919"/>
+        <milestone n="919" unit="line"/>
         <l>Spartana puppis vestra si secuit freta;</l>
-        <milestone unit="line" n="920"/>
+        <milestone n="920" unit="line"/>
         <l n="920">sin rapta Phrygiis praeda remigibus fui </l>
-        <milestone unit="line" n="921"/>
+        <milestone n="921" unit="line"/>
         <l>deditque donum iudici victrix dea.</l>
-        <milestone unit="line" n="922"/>
+        <milestone n="922" unit="line"/>
         <l>ignosce raptae, iudicem iratum mea</l>
-        <milestone unit="line" n="923"/>
+        <milestone n="923" unit="line"/>
         <l>habitura causa est: ista Menelaum manent</l>
-        <milestone unit="line" n="924"/>
+        <milestone n="924" unit="line"/>
         <l>arbitria, nunc hanc luctibus paulum tuis,</l>
-        <milestone unit="line" n="925"/>
-        <l n="925">Andromacha, omissis flecto&mdash; vix lacrimas queo </l>
-        <milestone unit="line" n="926"/>
+        <milestone n="925" unit="line"/>
+        <l n="925">Andromacha, omissis flecto— vix lacrimas queo </l>
+        <milestone n="926" unit="line"/>
         <l part="I">retinere,</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
         <l part="F">Quantum est Helena quod lacrimat</l>
-        <milestone unit="line" n="927"/>
+        <milestone n="927" unit="line"/>
         <l>malum.</l>
-        <milestone unit="line" n="928"/>
+        <milestone n="928" unit="line"/>
         <l>cur lacrimat autem? fare quos Ithacus dolos,</l>
-        <milestone unit="line" n="929"/>
+        <milestone n="929" unit="line"/>
         <l>quae scelera nectat; utrum ab Idaeis iugis</l>
-        <milestone unit="line" n="930"/>
+        <milestone n="930" unit="line"/>
         <l>iactanda virgo est, arcis an celsae edito</l>
-        <milestone unit="line" n="930"/>
+        <milestone n="930" unit="line"/>
         <l n="930">mittenda saxo? num per has vastum in mare </l>
-        <milestone unit="line" n="931"/>
+        <milestone n="931" unit="line"/>
         <l>volvenda rupes, latere quas scisso levat</l>
-        <milestone unit="line" n="932"/>
+        <milestone n="932" unit="line"/>
         <l>altum vadoso Sigeon spectans sinu?</l>
-        <milestone unit="line" n="933"/>
+        <milestone n="933" unit="line"/>
         <l>dic, fare, quicquid subdolo vultu tegis.</l>
-        <milestone unit="line" n="934"/>
+        <milestone n="934" unit="line"/>
         <l>leviora mala sunt cuncta, quam Priami gener</l>
-        <milestone unit="line" n="935"/>
+        <milestone n="935" unit="line"/>
         <l n="935">Hecubaeque Pyrrhus, fare, quam poenam pares </l>
-        <milestone unit="line" n="936"/>
+        <milestone n="936" unit="line"/>
         <l>exprome et unum hoc deme nostris cladibus</l>
-        <milestone unit="line" n="937"/>
+        <milestone n="937" unit="line"/>
         <l>falli: paratas perpeti mortem vides.</l>
       </sp>
-      <sp who="helena">
+      <sp who="#helena">
         <speaker>Hel.</speaker>
-        <milestone unit="line" n="938"/>
+        <milestone n="938" unit="line"/>
         <l>Vtinam iuberet me quoque interpres deum</l>
-        <milestone unit="line" n="939"/>
+        <milestone n="939" unit="line"/>
         <l>abrumpere ense lucis invisae moras</l>
-        <milestone unit="line" n="940"/>
+        <milestone n="940" unit="line"/>
         <l n="940">vel Achillis ante busta furibunda manu </l>
-        <milestone unit="line" n="941"/>
+        <milestone n="941" unit="line"/>
         <l>occidere Pyrrhi, fata comitantem tua,</l>
         <pb id="p.83"/>
-        <milestone unit="line" n="942"/>
+        <milestone n="942" unit="line"/>
         <l>Polyxene miseranda, quam tradi sibi</l>
-        <milestone unit="line" n="943"/>
+        <milestone n="943" unit="line"/>
         <l>cineremque Achilles ante mactari suum, ,</l>
-        <milestone unit="line" n="944"/>
+        <milestone n="944" unit="line"/>
         <l>campo maritus ut sit Elysio, iubet.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="945"/>
+        <milestone n="945" unit="line"/>
         <l n="945">Vide ut animus ingens laetus audierit necem. </l>
-        <milestone unit="line" n="946"/>
+        <milestone n="946" unit="line"/>
         <l>cultus decoros regiae vestis petit</l>
-        <milestone unit="line" n="947"/>
+        <milestone n="947" unit="line"/>
         <l>et admoveri crinibus patitur manum.</l>
-        <milestone unit="line" n="948"/>
+        <milestone n="948" unit="line"/>
         <l>mortem putabat illud, hoc thalamos putat.</l>
-        <milestone unit="line" n="949"/>
+        <milestone n="949" unit="line"/>
         <l>at misera luctu mater audito stupet;</l>
-        <milestone unit="line" n="950"/>
+        <milestone n="950" unit="line"/>
         <l n="950">labefacta mens succubuit. assurge, alleva </l>
-        <milestone unit="line" n="951"/>
+        <milestone n="951" unit="line"/>
         <l>animum et cadentem, misera, firma spiritum.</l>
-        <milestone unit="line" n="952"/>
-        <l>quam tenuis anima vinculo pendet levi&mdash;</l>
-        <milestone unit="line" n="953"/>
+        <milestone n="952" unit="line"/>
+        <l>quam tenuis anima vinculo pendet levi—</l>
+        <milestone n="953" unit="line"/>
         <l>minimum est quod Hecubam facere felicem potest.</l>
-        <milestone unit="line" n="954"/>
+        <milestone n="954" unit="line"/>
         <l>spirat, revixit, prima mors miseros fugit.</l>
       </sp>
       <milestone n="955" unit="card"/>
-      <sp who="hecuba">
+      <sp who="#hecuba">
         <speaker>Hec.</speaker>
-        <milestone unit="line" n="955"/>
+        <milestone n="955" unit="line"/>
         <l n="955">Adhuc Achilles vivit in poenas Phrygum? </l>
-        <milestone unit="line" n="956"/>
+        <milestone n="956" unit="line"/>
         <l>adhuc rebellat? o manum Paridis levem,</l>
-        <milestone unit="line" n="957"/>
+        <milestone n="957" unit="line"/>
         <l>cinis ipse nostrum sanguinem ac tumulus sitit,</l>
-        <milestone unit="line" n="958"/>
+        <milestone n="958" unit="line"/>
         <l>modo turba felix latera cingebat mea,</l>
-        <milestone unit="line" n="959"/>
+        <milestone n="959" unit="line"/>
         <l>lassabar in tot oscula et tantum gregem</l>
-        <milestone unit="line" n="960"/>
+        <milestone n="960" unit="line"/>
         <l n="960">dividere matrem; sola nunc haec est super </l>
-        <milestone unit="line" n="961"/>
+        <milestone n="961" unit="line"/>
         <l>votum, comes, levamen, afflictae quies;</l>
-        <milestone unit="line" n="962"/>
+        <milestone n="962" unit="line"/>
         <l>haec totus Hecubae fetus, hac sola vocor</l>
-        <milestone unit="line" n="963"/>
+        <milestone n="963" unit="line"/>
         <l>iam voce mater, dura et infelix age</l>
-        <milestone unit="line" n="964"/>
+        <milestone n="964" unit="line"/>
         <l>elabere anima, denique hoc unum mihi</l>
-        <milestone unit="line" n="965"/>
+        <milestone n="965" unit="line"/>
         <l n="965">remitte funus, inrigat fletus genas </l>
-        <milestone unit="line" n="966"/>
+        <milestone n="966" unit="line"/>
         <l>imberque victo subitus e vultu cadit.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="969"/>
+        <milestone n="969" unit="line"/>
         <l>Nos Hecuba, nos, nos, Hecuba, lugendae sumus, </l>
-        <milestone unit="line" n="970"/>
+        <milestone n="970" unit="line"/>
         <l n="970">quas mota classis huc et huc sparsas feret; </l>
-        <milestone unit="line" n="971"/>
+        <milestone n="971" unit="line"/>
         <l>hanc cara tellus sedibus patriis teget.</l>
       </sp>
-      <sp who="helena">
+      <sp who="#helena">
         <speaker>Hel.</speaker>
-        <milestone unit="line" n="972"/>
+        <milestone n="972" unit="line"/>
         <l>Magis invidebis, si tuam sortem scies.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="973"/>
+        <milestone n="973" unit="line"/>
         <l>An aliqua poenae pars meae ignota est mihi?</l>
       </sp>
-      <sp who="helena">
+      <sp who="#helena">
         <speaker>Hel.</speaker>
-        <milestone unit="line" n="974"/>
+        <milestone n="974" unit="line"/>
         <l>Versata dominos urna captivis dedit.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="975"/>
+        <milestone n="975" unit="line"/>
         <l n="975">Cui famula trador ? ede; quem dominum voco ? </l>
       </sp>
       <pb id="p.84"/>
-      <sp who="helena">
+      <sp who="#helena">
         <speaker>Hel.</speaker>
-        <milestone unit="line" n="976"/>
+        <milestone n="976" unit="line"/>
         <l>Te sorte prima Scyrius iuvenis tulit.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="977"/>
+        <milestone n="977" unit="line"/>
         <l>Cassandra felix, quam furor sorti exim it</l>
-        <milestone unit="line" n="978"/>
+        <milestone n="978" unit="line"/>
         <l part="I">Phoebusque.</l>
       </sp>
-      <sp who="helena">
+      <sp who="#helena">
         <speaker>Hel.</speaker>
         <l part="F">Regum hanc maximus rector tenet. </l>
       </sp>
-      <sp who="hecuba">
+      <sp who="#hecuba">
         <speaker>Hec.</speaker>
-        <milestone unit="line" n="967"/>
+        <milestone n="967" unit="line"/>
         <l>Laetare, gaude, nata. quam vellet tuos </l>
-        <milestone unit="line" n="968"/>
+        <milestone n="968" unit="line"/>
         <l>Cassandra thalamos, vellet Andromache tuos. </l>
-        <milestone unit="line" n="979"/>
+        <milestone n="979" unit="line"/>
         <l>estne aliquis, Hecubam qui suam dici velit? </l>
       </sp>
-      <sp who="helena">
+      <sp who="#helena">
         <speaker>Hel.</speaker>
-        <milestone unit="line" n="980"/>
+        <milestone n="980" unit="line"/>
         <l n="980">Ithaco obtigisti praeda nolenti brevis. </l>
       </sp>
-      <sp who="hecuba">
+      <sp who="#hecuba">
         <speaker>Hec.</speaker>
-        <milestone unit="line" n="981"/>
+        <milestone n="981" unit="line"/>
         <l>Quis tam impotens ac durus et iniquae ferus</l>
-        <milestone unit="line" n="982"/>
+        <milestone n="982" unit="line"/>
         <l>sortitor urnae regibus reges dedit?</l>
-        <milestone unit="line" n="983"/>
+        <milestone n="983" unit="line"/>
         <l>quis tam sinister dividit captas deus?</l>
-        <milestone unit="line" n="984"/>
+        <milestone n="984" unit="line"/>
         <l>quis arbiter crudelis et miseris gravis</l>
-        <milestone unit="line" n="985"/>
+        <milestone n="985" unit="line"/>
         <l n="985">eligere dominos nescit et [saeva manu </l>
-        <milestone unit="line" n="986"/>
+        <milestone n="986" unit="line"/>
         <l>dat iniqua miseris fata? quis] matrem Hectoris</l>
-        <milestone unit="line" n="987"/>
+        <milestone n="987" unit="line"/>
         <l>armis Achillis miscet? ad Vlixen vocor:</l>
-        <milestone unit="line" n="988"/>
+        <milestone n="988" unit="line"/>
         <l>nunc victa, nunc captiva, nunc cunctis mihi</l>
-        <milestone unit="line" n="989"/>
-        <l>obsessa videor cladibus&mdash; domini pudet,</l>
-        <milestone unit="line" n="990"/>
+        <milestone n="989" unit="line"/>
+        <l>obsessa videor cladibus— domini pudet,</l>
+        <milestone n="990" unit="line"/>
         <l n="990">non servitutis. [Hectoris spolium feret </l>
-        <milestone unit="line" n="991"/>
+        <milestone n="991" unit="line"/>
         <l>qui tulit Achillis?] sterilis et saevis fretis</l>
-        <milestone unit="line" n="992"/>
-        <l>inclusa tellus non capit tumulos meos&mdash;</l>
-        <milestone unit="line" n="993"/>
+        <milestone n="992" unit="line"/>
+        <l>inclusa tellus non capit tumulos meos—</l>
+        <milestone n="993" unit="line"/>
         <l>duc, duc, Vlixe, nil moror, dominum sequor;</l>
-        <milestone unit="line" n="994"/>
+        <milestone n="994" unit="line"/>
         <l>me mea sequentur fata: non pelago quies</l>
-        <milestone unit="line" n="995"/>
+        <milestone n="995" unit="line"/>
         <l n="995">tranquilla veniet, saevi et ventis mare, </l>
-        <milestone unit="line" n="995"/>
+        <milestone n="995" unit="line"/>
         <l>* * *</l>
-        <milestone unit="line" n="996"/>
+        <milestone n="996" unit="line"/>
         <l>et bella et ignes et mea et Priami mala.</l>
-        <milestone unit="line" n="997"/>
+        <milestone n="997" unit="line"/>
         <l>dumque ista veniant, interim hoc poenae loco est:</l>
-        <milestone unit="line" n="998"/>
-        <l>sortem occupavi, praemium eripui tibi.&mdash;</l>
-        <milestone unit="line" n="999"/>
+        <milestone n="998" unit="line"/>
+        <l>sortem occupavi, praemium eripui tibi.—</l>
+        <milestone n="999" unit="line"/>
         <l>Sed en citato Pyrrhus accurrit gradu</l>
-        <milestone unit="line" n="1000"/>
+        <milestone n="1000" unit="line"/>
         <l n="1000">vultuque torvo. Pyrrhe, quid cessas? age </l>
-        <milestone unit="line" n="1001"/>
+        <milestone n="1001" unit="line"/>
         <l>recludo ferro pectus et Achillis tui</l>
-        <milestone unit="line" n="1002"/>
+        <milestone n="1002" unit="line"/>
         <l>coniunge soceros, perge, mactator senum,</l>
         <pb id="p.85"/>
-        <milestone unit="line" n="1003"/>
+        <milestone n="1003" unit="line"/>
         <l>et hic decet te sanguis: abreptam trabe.</l>
-        <milestone unit="line" n="1004"/>
+        <milestone n="1004" unit="line"/>
         <l>maculate superos caede funesta deos,</l>
-        <milestone unit="line" n="1005"/>
-        <l n="1005">maculate manes&mdash; quid precer vobis? precor </l>
-        <milestone unit="line" n="1006"/>
+        <milestone n="1005" unit="line"/>
+        <l n="1005">maculate manes— quid precer vobis? precor </l>
+        <milestone n="1006" unit="line"/>
         <l>his digna sacris aequora: hoc classi accidat</l>
-        <milestone unit="line" n="1007"/>
+        <milestone n="1007" unit="line"/>
         <l>toti Pelasgae, ratibus hoc mille accidat</l>
-        <milestone unit="line" n="1008"/>
+        <milestone n="1008" unit="line"/>
         <l>meae precabor, cum vehar, quicquid rati.</l>
       </sp>
       <milestone n="1009" unit="card"/>
-      <sp who="chorus">
+      <sp who="#chorus">
         <speaker>Chorus</speaker>
-        <milestone unit="line" n="1009"/>
+        <milestone n="1009" unit="line"/>
         <l>Dulce maerenti populus dolentium,</l>
-        <milestone unit="line" n="1010"/>
+        <milestone n="1010" unit="line"/>
         <l n="1010">dulce lamentis resonare gentes; </l>
-        <milestone unit="line" n="1011"/>
+        <milestone n="1011" unit="line"/>
         <l>lenius luctus lacrimaeque mordent,</l>
-        <milestone unit="line" n="1012"/>
+        <milestone n="1012" unit="line"/>
         <l>turba quas fletu similis frequentat.</l>
-        <milestone unit="line" n="1013"/>
+        <milestone n="1013" unit="line"/>
         <l>semper a semper dolor est malignus:</l>
-        <milestone unit="line" n="1014"/>
+        <milestone n="1014" unit="line"/>
         <l>gaudet in multos sua fata mitti</l>
-        <milestone unit="line" n="1015"/>
+        <milestone n="1015" unit="line"/>
         <l n="1015">seque non solum placuisse poenae. </l>
-        <milestone unit="line" n="1016"/>
+        <milestone n="1016" unit="line"/>
         <l>ferre quam sortem patiuntur omnes,</l>
-        <milestone unit="line" n="1017"/>
+        <milestone n="1017" unit="line"/>
         <l>nemo recusat.</l>
-        <milestone unit="line" n="1019a1018b"/>
+        <milestone n="1019a1018b" unit="line"/>
         <l n="1019a1018b">Tolle felices: miseram, licet sit,</l>
-        <milestone unit="line" n="1018a1019b"/>
+        <milestone n="1018a1019b" unit="line"/>
         <l n="1018a1019b">nemo se credet; removete multo</l>
-        <milestone unit="line" n="1020"/>
+        <milestone n="1020" unit="line"/>
         <l n="1020">divites auro, removete centum </l>
-        <milestone unit="line" n="1021"/>
+        <milestone n="1021" unit="line"/>
         <l>* rura qui scindunt opulenta bubus:</l>
-        <milestone unit="line" n="1022"/>
-        <l>pauperi surgent animi iacentes&mdash;</l>
-        <milestone unit="line" n="1023"/>
+        <milestone n="1022" unit="line"/>
+        <l>pauperi surgent animi iacentes—</l>
+        <milestone n="1023" unit="line"/>
         <l>est miser nemo nisi comparatus.</l>
-        <milestone unit="line" n="1024"/>
+        <milestone n="1024" unit="line"/>
         <l>dulce in immensis posito ruinis,</l>
-        <milestone unit="line" n="1025"/>
+        <milestone n="1025" unit="line"/>
         <l n="1025">nemiuem laetos habuisse vultus: </l>
-        <milestone unit="line" n="1026"/>
+        <milestone n="1026" unit="line"/>
         <l>ille deplorat queriturque fatum,</l>
-        <milestone unit="line" n="1027"/>
+        <milestone n="1027" unit="line"/>
         <l>qui secans fluctum rate singulari</l>
-        <milestone unit="line" n="1028"/>
+        <milestone n="1028" unit="line"/>
         <l>nudus in portus cecidit petitos;</l>
-        <milestone unit="line" n="1029"/>
+        <milestone n="1029" unit="line"/>
         <l>aequior casum tulit et procellas,</l>
-        <milestone unit="line" n="1030"/>
+        <milestone n="1030" unit="line"/>
         <l n="1030">mille qui ponto pariter carinas </l>
         <pb id="p.86"/>
-        <milestone unit="line" n="1031"/>
+        <milestone n="1031" unit="line"/>
         <l>obrui vidit tabulaque latus</l>
-        <milestone unit="line" n="1032"/>
+        <milestone n="1032" unit="line"/>
         <l>naufraga, terris mare dum coactis</l>
-        <milestone unit="line" n="1033"/>
+        <milestone n="1033" unit="line"/>
         <l>fluctibus Coras prohibet, revertit.</l>
-        <milestone unit="line" n="1034"/>
+        <milestone n="1034" unit="line"/>
         <l>questus est Hellen cecidisse Phrixus,</l>
-        <milestone unit="line" n="1035"/>
+        <milestone n="1035" unit="line"/>
         <l n="1035">cum gregis ductor radiante villo </l>
-        <milestone unit="line" n="1036"/>
+        <milestone n="1036" unit="line"/>
         <l>aureo fratrem simul ac sororem</l>
-        <milestone unit="line" n="1037"/>
+        <milestone n="1037" unit="line"/>
         <l>sustulit tergo medioque iactum</l>
-        <milestone unit="line" n="1038"/>
+        <milestone n="1038" unit="line"/>
         <l>fecit in ponto; tenuit querelas</l>
-        <milestone unit="line" n="1039"/>
+        <milestone n="1039" unit="line"/>
         <l>et vir et Pyrrha, mare cum viderent,</l>
-        <milestone unit="line" n="1040"/>
+        <milestone n="1040" unit="line"/>
         <l n="1040">et nihil praeter mare cum viderent </l>
-        <milestone unit="line" n="1041"/>
+        <milestone n="1041" unit="line"/>
         <l>unici terris homines relicti.</l>
-        <milestone unit="line" n="1042"/>
+        <milestone n="1042" unit="line"/>
         <l>Solvet hunc 'questum lacrimasque nostras</l>
-        <milestone unit="line" n="1043"/>
+        <milestone n="1043" unit="line"/>
         <l>sparget huc illuc agitata classis,</l>
-        <milestone unit="line" n="1044"/>
+        <milestone n="1044" unit="line"/>
         <l>cum tuba iussi dare vela nautae</l>
-        <milestone unit="line" n="1045"/>
+        <milestone n="1045" unit="line"/>
         <l n="1045">et simul ventis properante remo </l>
-        <milestone unit="line" n="1046"/>
+        <milestone n="1046" unit="line"/>
         <l>prenderint altum fugietque litus,</l>
-        <milestone unit="line" n="1047"/>
+        <milestone n="1047" unit="line"/>
         <l>quis status mentis miseris, ubi omnis</l>
-        <milestone unit="line" n="1048"/>
+        <milestone n="1048" unit="line"/>
         <l>terra decrescet pelagusque crescet,</l>
-        <milestone unit="line" n="1049"/>
+        <milestone n="1049" unit="line"/>
         <l>celsa cum longe latitabit Ide?</l>
-        <milestone unit="line" n="1050"/>
+        <milestone n="1050" unit="line"/>
         <l n="1050">tum puer matri genetrixque nato, </l>
-        <milestone unit="line" n="1051"/>
+        <milestone n="1051" unit="line"/>
         <l>Troia qua flagret regione, monstrans</l>
-        <milestone unit="line" n="1052"/>
+        <milestone n="1052" unit="line"/>
         <l>dicet et longe digito notabit:</l>
-        <milestone unit="line" n="1053"/>
+        <milestone n="1053" unit="line"/>
         <l>Ilium est illic, ubi fumus alte</l>
-        <milestone unit="line" n="1054"/>
+        <milestone n="1054" unit="line"/>
         <l>serpit in caelum nebulaeque turpes.'</l>
-        <milestone unit="line" n="1055"/>
+        <milestone n="1055" unit="line"/>
         <l n="1055">Troes hoc signo patriam videbunt. </l>
       </sp>
-      <sp who="nuntius hecuba andromacha">
+      <sp who="#nuntius #hecuba #andromacha">
         <speaker>Nuntius Hecuba Andromacha</speaker>
-        <milestone unit="line" n="1056"/>
+        <milestone n="1056" unit="line"/>
         <l>O dura fata, saeva miseranda horrida!</l>
-        <milestone unit="line" n="1057"/>
+        <milestone n="1057" unit="line"/>
         <l>quod tam ferum, tam triste bis quinis scelus</l>
         <pb id="p.87"/>
-        <milestone unit="line" n="1058"/>
+        <milestone n="1058" unit="line"/>
         <l>Mars vidit annis? quid prius referens gemam,</l>
-        <milestone unit="line" n="1059"/>
+        <milestone n="1059" unit="line"/>
         <l>tuosne potius, an tuos luctus, anus?</l>
       </sp>
-      <sp who="hecuba">
+      <sp who="#hecuba">
         <speaker>Hec.</speaker>
-        <milestone unit="line" n="1060"/>
+        <milestone n="1060" unit="line"/>
         <l n="1060">Quoscumque luctus fleveris, flebis meos: </l>
-        <milestone unit="line" n="1061"/>
+        <milestone n="1061" unit="line"/>
         <l>sua quemque tantum, me omnium clades premit;</l>
-        <milestone unit="line" n="1062"/>
+        <milestone n="1062" unit="line"/>
         <l>mihi cuncta pereunt: quisquis est Hecubae est miser.</l>
       </sp>
-      <sp who="nuntius">
+      <sp who="#nuntius">
         <speaker>Nvnt.</speaker>
-        <milestone unit="line" n="1063"/>
+        <milestone n="1063" unit="line"/>
         <l>Mactata virgo est, missus e muris puer;</l>
-        <milestone unit="line" n="1064"/>
+        <milestone n="1064" unit="line"/>
         <l>sed uterque letum mente generosa tulit.</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="1065"/>
+        <milestone n="1065" unit="line"/>
         <l n="1065">Expone seriem caedis, et duplex nefas </l>
-        <milestone unit="line" n="1066"/>
+        <milestone n="1066" unit="line"/>
         <l>persequere: gaudet magnus aerumnas dolor</l>
-        <milestone unit="line" n="1067"/>
+        <milestone n="1067" unit="line"/>
         <l>tractare totas, ede et enarra omnia.</l>
       </sp>
       <milestone n="1068" unit="card"/>
-      <sp who="nuntius">
+      <sp who="#nuntius">
         <speaker>Nvnt.</speaker>
-        <milestone unit="line" n="1068"/>
+        <milestone n="1068" unit="line"/>
         <l>Est una magna turris e Troia super,</l>
-        <milestone unit="line" n="1069"/>
+        <milestone n="1069" unit="line"/>
         <l>assueta Priamo, cuius e fastigio</l>
-        <milestone unit="line" n="1070"/>
+        <milestone n="1070" unit="line"/>
         <l n="1070">summisque pinnis arbiter belli sedens </l>
-        <milestone unit="line" n="1071"/>
+        <milestone n="1071" unit="line"/>
         <l>regebat acies, turre in hac blando sinu</l>
-        <milestone unit="line" n="1072"/>
+        <milestone n="1072" unit="line"/>
         <l>fovens nepotem, cum metu versos gravi</l>
-        <milestone unit="line" n="1073"/>
+        <milestone n="1073" unit="line"/>
         <l>Danaos fugaret Hector et ferro et face,</l>
-        <milestone unit="line" n="1074"/>
+        <milestone n="1074" unit="line"/>
         <l>paterna puero bella monstrabat senex</l>
-        <milestone unit="line" n="1075"/>
+        <milestone n="1075" unit="line"/>
         <l n="1075">haec nota quondam turris et muri decus, </l>
-        <milestone unit="line" n="1076"/>
+        <milestone n="1076" unit="line"/>
         <l>nunc saeva «cautes, undique adfusa dueum</l>
-        <milestone unit="line" n="1077"/>
+        <milestone n="1077" unit="line"/>
         <l>plebisque turba cingitur; totum coit</l>
-        <milestone unit="line" n="1078"/>
+        <milestone n="1078" unit="line"/>
         <l>ratibus relictis vulgus, his collis procul</l>
-        <milestone unit="line" n="1079"/>
+        <milestone n="1079" unit="line"/>
         <l>aciem patenti liberam praebet loco,</l>
-        <milestone unit="line" n="1080"/>
+        <milestone n="1080" unit="line"/>
         <l n="1080">his alta rupes, cuius in cacumine </l>
-        <milestone unit="line" n="1081"/>
+        <milestone n="1081" unit="line"/>
         <l>erecta summos turba libravit pedes.</l>
-        <milestone unit="line" n="1082"/>
+        <milestone n="1082" unit="line"/>
         <l>hunc pinus, illum laurus, hunc fagus gerit</l>
-        <milestone unit="line" n="1083"/>
+        <milestone n="1083" unit="line"/>
         <l>et tota populo silva suspenso tremit.</l>
-        <milestone unit="line" n="1084"/>
+        <milestone n="1084" unit="line"/>
         <l>extrema montis ille praerupti petit,</l>
-        <milestone unit="line" n="1085"/>
+        <milestone n="1085" unit="line"/>
         <l n="1085">semusta at ille tecta vel saxum imminens </l>
-        <milestone unit="line" n="1086"/>
+        <milestone n="1086" unit="line"/>
         <l>muri cadentis pressit, atque aliquis (nefas)</l>
-        <milestone unit="line" n="1087"/>
+        <milestone n="1087" unit="line"/>
         <l>tumulo ferus spectator Hectoreo sedet.</l>
-        <milestone unit="line" n="1088"/>
+        <milestone n="1088" unit="line"/>
         <l>per spatia late plena sublimi gradu</l>
-        <milestone unit="line" n="1089"/>
+        <milestone n="1089" unit="line"/>
         <l>incedit Ithacus parvulum dextra trahens</l>
         <pb id="p.88"/>
-        <milestone unit="line" n="1090"/>
+        <milestone n="1090" unit="line"/>
         <l n="1090">Priami nepotem, nec gradu segni puer </l>
-        <milestone unit="line" n="1091"/>
+        <milestone n="1091" unit="line"/>
         <l>ad alta pergit moenia, ut summa stetit</l>
-        <milestone unit="line" n="1092"/>
+        <milestone n="1092" unit="line"/>
         <l>pro turre, vultus huc et huc acres tulit</l>
-        <milestone unit="line" n="1093"/>
+        <milestone n="1093" unit="line"/>
         <l>intrepidus animo, qualis ingentis ferae</l>
-        <milestone unit="line" n="1094"/>
+        <milestone n="1094" unit="line"/>
         <l>parvus tenerque fetus et nondum potens</l>
-        <milestone unit="line" n="1095"/>
-        <l n="1095">saevire dente&mdash; iam tamen tollit minas </l>
-        <milestone unit="line" n="1096"/>
+        <milestone n="1095" unit="line"/>
+        <l n="1095">saevire dente— iam tamen tollit minas </l>
+        <milestone n="1096" unit="line"/>
         <l>morsusque inanes temptat atque animis tumet:</l>
-        <milestone unit="line" n="1097"/>
+        <milestone n="1097" unit="line"/>
         <l>sic ille dextra prensus hostili puer</l>
-        <milestone unit="line" n="1098"/>
+        <milestone n="1098" unit="line"/>
         <l>ferox t superbe, moverat vulgum ac duces</l>
-        <milestone unit="line" n="1099"/>
+        <milestone n="1099" unit="line"/>
         <l>ipsumque Vlixen. non fiet e turba omnium</l>
-        <milestone unit="line" n="1100"/>
+        <milestone n="1100" unit="line"/>
         <l n="1100">qui fletur; ac, dum verba fatidici et preces : </l>
-        <milestone unit="line" n="1101"/>
+        <milestone n="1101" unit="line"/>
         <l>concipit Vlixes vatis et saevos ciet</l>
-        <milestone unit="line" n="1102"/>
+        <milestone n="1102" unit="line"/>
         <l>ad sacra superos, sponte desiluit sua</l>
-        <milestone unit="line" n="1103"/>
-        <l>in media Priami regna.&mdash; ...</l>
+        <milestone n="1103" unit="line"/>
+        <l>in media Priami regna.— ...</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
-        <milestone unit="line" n="1104"/>
+        <milestone n="1104" unit="line"/>
         <l>Quis Colchus hoc, quis sedis incertae Scytha</l>
-        <milestone unit="line" n="1105"/>
+        <milestone n="1105" unit="line"/>
         <l n="1105">commisit, aut quae Caspium tangens mare </l>
-        <milestone unit="line" n="1106"/>
+        <milestone n="1106" unit="line"/>
         <l>gens iuris expers ausa? non Busiridis</l>
-        <milestone unit="line" n="1107"/>
+        <milestone n="1107" unit="line"/>
         <l>puerilis aras sanguis aspersit feri,</l>
-        <milestone unit="line" n="1108"/>
+        <milestone n="1108" unit="line"/>
         <l>nec parva gregibus membra Diomedes suis</l>
-        <milestone unit="line" n="1109"/>
+        <milestone n="1109" unit="line"/>
         <l>epulanda posuit, quis tuos artus leget</l>
-        <milestone unit="line" n="1110"/>
+        <milestone n="1110" unit="line"/>
         <l n="1110" part="I">tumuloque tradet?</l>
       </sp>
-      <sp who="nuntius">
+      <sp who="#nuntius">
         <speaker>Nvnt.</speaker>
         <l part="F">Quos enim praeceps locus </l>
-        <milestone unit="line" n="1111"/>
+        <milestone n="1111" unit="line"/>
         <l>reliquit artus? ossa disiecta et gravi</l>
-        <milestone unit="line" n="1112"/>
+        <milestone n="1112" unit="line"/>
         <l>elisa casu; signa clari corporis,</l>
-        <milestone unit="line" n="1113"/>
+        <milestone n="1113" unit="line"/>
         <l>et ora et illas nobiles patris notas,</l>
-        <milestone unit="line" n="1114"/>
+        <milestone n="1114" unit="line"/>
         <l>confudit imam pondus ad terram datum;</l>
-        <milestone unit="line" n="1115"/>
+        <milestone n="1115" unit="line"/>
         <l n="1115">soluta cervix silicis impulsu, caput, </l>
-        <milestone unit="line" n="1116"/>
-        <l>raptum cerebro penitus expresso&mdash; iacet</l>
-        <milestone unit="line" n="1117"/>
+        <milestone n="1116" unit="line"/>
+        <l>raptum cerebro penitus expresso— iacet</l>
+        <milestone n="1117" unit="line"/>
         <l part="I">deforme corpus,</l>
       </sp>
-      <sp who="andromacha">
+      <sp who="#andromacha">
         <speaker>Andr.</speaker>
         <l part="F">Sic quoque est similis patri.</l>
       </sp>
       <milestone n="1118" unit="card"/>
-      <sp who="nuntius">
+      <sp who="#nuntius">
         <speaker>Nvnt.</speaker>
-        <milestone unit="line" n="1118"/>
+        <milestone n="1118" unit="line"/>
         <l>Praeceps ut altis cecidit e muris puer</l>
-        <milestone unit="line" n="1119"/>
+        <milestone n="1119" unit="line"/>
         <l>flevitque Achivum turba quod fecit nefas,</l>
-        <milestone unit="line" n="1120"/>
+        <milestone n="1120" unit="line"/>
         <l n="1120">idem ille populus aliud ad facinus redit </l>
         <pb id="p.89"/>
-        <milestone unit="line" n="1121"/>
+        <milestone n="1121" unit="line"/>
         <l>tumulumque Achillis. cuius extremum Litus</l>
-        <milestone unit="line" n="1122"/>
+        <milestone n="1122" unit="line"/>
         <l>Rhoetea leni verberant fluctu vada;</l>
-        <milestone unit="line" n="1123"/>
+        <milestone n="1123" unit="line"/>
         <l>adversa cingit campus et clivo levi</l>
-        <milestone unit="line" n="1124"/>
+        <milestone n="1124" unit="line"/>
         <l>erecta medium vallis includens locum</l>
-        <milestone unit="line" n="1125"/>
+        <milestone n="1125" unit="line"/>
         <l n="1125">crescit theatri more. concursus frequens </l>
-        <milestone unit="line" n="1126"/>
+        <milestone n="1126" unit="line"/>
         <l>implevit omne litus :n hi classis moram</l>
-        <milestone unit="line" n="1127"/>
+        <milestone n="1127" unit="line"/>
         <l>hac morte solvi rentur, hi stirpem hostium</l>
-        <milestone unit="line" n="1128"/>
+        <milestone n="1128" unit="line"/>
         <l>gaudent recidi. magna pars vulgi levis</l>
-        <milestone unit="line" n="1129"/>
+        <milestone n="1129" unit="line"/>
         <l>odit scelus spectatque; nec Troes minus</l>
-        <milestone unit="line" n="1130"/>
+        <milestone n="1130" unit="line"/>
         <l n="1130">suum frequentant funus et pavidi metu </l>
-        <milestone unit="line" n="1131"/>
+        <milestone n="1131" unit="line"/>
         <l>partem mentis ultimam Troiae vident:</l>
-        <milestone unit="line" n="1132"/>
+        <milestone n="1132" unit="line"/>
         <l>cum subito thalami more praecedunt faces</l>
-        <milestone unit="line" n="1133"/>
+        <milestone n="1133" unit="line"/>
         <l>et pronuba illi Tyndaris, maestum caput</l>
-        <milestone unit="line" n="1134"/>
+        <milestone n="1134" unit="line"/>
         <l>demissa. 'tali nnbat Hermione modo'</l>
-        <milestone unit="line" n="1135"/>
+        <milestone n="1135" unit="line"/>
         <l n="1135">Phryges precantur ?sic viro turpis suo </l>
-        <milestone unit="line" n="1136"/>
+        <milestone n="1136" unit="line"/>
         <l>reddatur Helena.' terror attonitos tenet</l>
-        <milestone unit="line" n="1137"/>
+        <milestone n="1137" unit="line"/>
         <l>utrosque populos, ipsa deiectos gerit</l>
-        <milestone unit="line" n="1138"/>
+        <milestone n="1138" unit="line"/>
         <l>vultus pudore, sed tamen fulgent genae</l>
-        <milestone unit="line" n="1139"/>
+        <milestone n="1139" unit="line"/>
         <l>magisque solito splendet extremus decor,</l>
-        <milestone unit="line" n="1140"/>
+        <milestone n="1140" unit="line"/>
         <l n="1140">ut esse Phoebi dulcius lumen solet </l>
-        <milestone unit="line" n="1141"/>
+        <milestone n="1141" unit="line"/>
         <l>iamiam cadentis, astra cum repetunt vices</l>
-        <milestone unit="line" n="1142"/>
+        <milestone n="1142" unit="line"/>
         <l>premiturque dubius nocte vicina dies.</l>
-        <milestone unit="line" n="1143"/>
-        <l>stupet omne vulgus&mdash; et fere cuncti magis</l>
-        <milestone unit="line" n="1144"/>
+        <milestone n="1143" unit="line"/>
+        <l>stupet omne vulgus— et fere cuncti magis</l>
+        <milestone n="1144" unit="line"/>
         <l>peritura laudant, hos movet formae decus,</l>
-        <milestone unit="line" n="1145"/>
+        <milestone n="1145" unit="line"/>
         <l n="1145">hos mollis aetas, hos vagae rerum vices; </l>
-        <milestone unit="line" n="1146"/>
+        <milestone n="1146" unit="line"/>
         <l>movet animus omnes fortis et leto obvius.</l>
-        <milestone unit="line" n="1147"/>
+        <milestone n="1147" unit="line"/>
         <l>Pyrrhum antecedit; omnium mentes tremunt,</l>
-        <milestone unit="line" n="1148"/>
+        <milestone n="1148" unit="line"/>
         <l>mirantur ac miserantur, ut primum ardui</l>
-        <milestone unit="line" n="1149"/>
+        <milestone n="1149" unit="line"/>
         <l>sublime montis tetigit atque alte edito</l>
-        <milestone unit="line" n="1150"/>
+        <milestone n="1150" unit="line"/>
         <l n="1150">iuvenis paterni, vertice in busti stetit, </l>
-        <milestone unit="line" n="1151"/>
+        <milestone n="1151" unit="line"/>
         <l>audax virago non tulit retro gradum;</l>
         <pb id="p.90"/>
-        <milestone unit="line" n="1152"/>
+        <milestone n="1152" unit="line"/>
         <l>conversa ad ictum stat truci vultu ferox.</l>
-        <milestone unit="line" n="1153"/>
+        <milestone n="1153" unit="line"/>
         <l>tam fortis animus omnium mentes ferit,</l>
-        <milestone unit="line" n="1154"/>
+        <milestone n="1154" unit="line"/>
         <l>novumque monstrum est Pyrrhus ad caedem piger.</l>
-        <milestone unit="line" n="1155"/>
+        <milestone n="1155" unit="line"/>
         <l n="1155">ut dextra ferrum penitus exactum abdidit, </l>
-        <milestone unit="line" n="1156"/>
+        <milestone n="1156" unit="line"/>
         <l>subitus recepta morte prorupit cruor</l>
-        <milestone unit="line" n="1157"/>
+        <milestone n="1157" unit="line"/>
         <l>per vulnus ingens, nec tamen moriens adhuc</l>
-        <milestone unit="line" n="1158"/>
+        <milestone n="1158" unit="line"/>
         <l>deponit animos: cecidit, ut Achilli gravem</l>
-        <milestone unit="line" n="1159"/>
+        <milestone n="1159" unit="line"/>
         <l>factura terram, prona et irato impetu.</l>
-        <milestone unit="line" n="1160"/>
+        <milestone n="1160" unit="line"/>
         <l n="1160">uterque flevit coetus; at timidum Phryges </l>
-        <milestone unit="line" n="1161"/>
+        <milestone n="1161" unit="line"/>
         <l>misere gemitum, clarius victor gemit.</l>
-        <milestone unit="line" n="1162"/>
+        <milestone n="1162" unit="line"/>
         <l>hic ordo sacri, non stetit fusus cruor</l>
-        <milestone unit="line" n="1163"/>
+        <milestone n="1163" unit="line"/>
         <l>humove summa fluxit: obduxit statim</l>
-        <milestone unit="line" n="1164"/>
+        <milestone n="1164" unit="line"/>
         <l>saevasque totum sanguinem tumulus bibit.</l>
       </sp>
-      <sp who="hecuba">
+      <sp who="#hecuba">
         <speaker>Hec.</speaker>
-        <milestone unit="line" n="1165"/>
+        <milestone n="1165" unit="line"/>
         <l n="1165">Ite, ite, Danai, petite iam tuti domos; </l>
-        <milestone unit="line" n="1166"/>
+        <milestone n="1166" unit="line"/>
         <l>optata velis maria diffusis secet</l>
-        <milestone unit="line" n="1167"/>
+        <milestone n="1167" unit="line"/>
         <l>secura classis: concidit virgo ac puer;</l>
-        <milestone unit="line" n="1168"/>
+        <milestone n="1168" unit="line"/>
         <l>bellum peractum est. quo meas lacrimas feram?</l>
-        <milestone unit="line" n="1169"/>
+        <milestone n="1169" unit="line"/>
         <l>ubi hanc anilis expuam leti moram?</l>
-        <milestone unit="line" n="1170"/>
+        <milestone n="1170" unit="line"/>
         <l n="1170">natam an nepotem, coniugem an patriam fleam? </l>
-        <milestone unit="line" n="1171"/>
+        <milestone n="1171" unit="line"/>
         <l>an omnia an me sola? Mors votum meum,</l>
-        <milestone unit="line" n="1172"/>
+        <milestone n="1172" unit="line"/>
         <l>infantibus violenta virginibus venis,</l>
-        <milestone unit="line" n="1173"/>
+        <milestone n="1173" unit="line"/>
         <l>ubique properas, saeva: me solam times</l>
-        <milestone unit="line" n="1174"/>
+        <milestone n="1174" unit="line"/>
         <l>vitasque, gladios inter ac tela et faces</l>
-        <milestone unit="line" n="1175"/>
+        <milestone n="1175" unit="line"/>
         <l n="1175">quaesita tota nocte, cupientem fugis. ,</l>
-        <milestone unit="line" n="1176"/>
+        <milestone n="1176" unit="line"/>
         <l>non hostis aut ruina, non ignis meos</l>
-        <milestone unit="line" n="1177"/>
+        <milestone n="1177" unit="line"/>
         <l>absumpsit artus: quam prope a Priamo steti.</l>
       </sp>
-      <sp who="nuntius">
+      <sp who="#nuntius">
         <speaker>Nvnt.</speaker>
-        <milestone unit="line" n="1178"/>
+        <milestone n="1178" unit="line"/>
         <l>Repetite celeri maria, captivae, gradu:</l>
-        <milestone unit="line" n="1179"/>
+        <milestone n="1179" unit="line"/>
         <l>iam vela puppis laxat et classis movet.</l>
       </sp>
     </body>
   </text>
-</TEI.2>
+</TEI>
