@@ -4687,8 +4687,8 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> Ubi sita est?</l>
           </sp>
-          <sp who="#ta.">
-            <speaker>TA.</speaker>
+          <sp who="#thais">
+            <speaker>Th.</speaker>
             <l part="Y"> In risco. Odiosa cessas?--</l>
           </sp>
           <sp who="#chaerea">
@@ -4985,8 +4985,8 @@ new additions
             <speaker>Thr.</speaker>
             <l part="Y"> Et cum eo clam te subduxti mihi?</l>
           </sp>
-          <sp who="#tia.">
-            <speaker>Tia.</speaker>
+          <sp who="#thais">
+            <speaker>Tha.</speaker>
             <lb ed="TLN" n="795"/>
             <l>Libuit.</l>
           </sp>
