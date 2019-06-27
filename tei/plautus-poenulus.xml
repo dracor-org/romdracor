@@ -10,7 +10,7 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rom0004</idno>
+        <idno type="dracor" xml:base="https://dracor.org/id/">rom000004</idno>
         <availability>
           <licence>
             <ab>CC BY-SA 3.0 US</ab>
