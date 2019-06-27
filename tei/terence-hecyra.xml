@@ -2023,8 +2023,8 @@ new additions
         </div2>
         <div2 n="3" type="scene">
           <stage>PAMPHILUS.</stage>
-          <sp who="#pamphilius">
-            <speaker>Pamphilius</speaker>
+          <sp who="#pamphilus">
+            <speaker>Pamphilus</speaker>
             <lb ed="TLN" n="362"/>
             <l>
               Nequeo mearum rerum initium ullum invenire idoneum,
@@ -2320,7 +2320,7 @@ new additions
             </l>
             <l>Here, etiam tu hic stas?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y"> Et quidem te exspecto.</l>
           </sp>
@@ -2328,7 +2328,7 @@ new additions
             <speaker>Par.</speaker>
             <l part="Y"> Quid est?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="432"/>
             <l>In arcem transcurso opus est.</l>
@@ -2337,7 +2337,7 @@ new additions
             <speaker>Par.</speaker>
             <l part="Y"> Cui homini?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y"> Tibi.</l>
           </sp>
@@ -2346,7 +2346,7 @@ new additions
             <lb ed="TLN" n="433"/>
             <l>In arcem? quid eo?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y">
                Callidemidem hospitem
@@ -2363,7 +2363,7 @@ new additions
             </l>
             <l>Redisset unquam, ut me ambulando rumperet.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="437"/>
             <l>Quid cessas?</l>
@@ -2372,7 +2372,7 @@ new additions
             <speaker>Par.</speaker>
             <l part="Y"> Quid vis dicam? an conveniam modo?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="438"/>
             <l>
@@ -2386,7 +2386,7 @@ new additions
             <lb ed="TLN" n="440"/>
             <l n="25">At non novi hominis faciem.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y">
                At faciam ut noveris.
@@ -2406,7 +2406,7 @@ new additions
             </l>
             <l>Quid si non veniet? maneamne usque ad vesperum?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="444"/>
             <l>Maneto: curre.</l>
@@ -2415,7 +2415,7 @@ new additions
             <speaker>Par.</speaker>
             <l part="Y"> Non queo; ita defessus sum.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="445"/>
             <l n="30">
@@ -2461,7 +2461,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Venisse aiunt: redeat.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y">
                Quam causam dicam patri
@@ -2473,7 +2473,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Quem ego hic audivi loqui?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="455"/>
             <l>Certum offirmare est viam me quam decrevi persequi.</l>
@@ -2483,7 +2483,7 @@ new additions
             <lb ed="TLN" n="456"/>
             <l n="5">Ipsus est de quo hic agebam tecum.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y"> Salve, mi pater.</l>
           </sp>
@@ -4430,7 +4430,7 @@ new additions
         </div2>
         <div2 n="4" type="scene">
           <stage>PAMIPHILUS. PARMENO. BACCHIS.</stage>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="843"/>
             <l>
@@ -4444,7 +4444,7 @@ new additions
             <lb ed="TLN" n="845"/>
             <l>Visum est.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y"> Certen?</l>
           </sp>
@@ -4464,7 +4464,7 @@ new additions
             <speaker>Par.</speaker>
             <l part="Y"> Verum reperies.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="846"/>
             <l>Manedum sodes: timeo ne aliud credam, atque aliud nunties.</l>
@@ -4474,7 +4474,7 @@ new additions
             <lb ed="TLN" n="847"/>
             <l n="5">Maneo.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y">
                Sic te dixisse opinor, invenisse Myrrhinam
@@ -4486,7 +4486,7 @@ new additions
             <speaker>Par.</speaker>
             <l part="Y"> Factum.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y">
                Eum quem olim ei dedi;
@@ -4498,7 +4498,7 @@ new additions
             <speaker>Par.</speaker>
             <l part="Y"> Ita, inquam.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="850"/>
             <l>
@@ -4512,7 +4512,7 @@ new additions
             <lb ed="TLN" n="852"/>
             <l n="10">At ego scio.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y"> Quid?</l>
           </sp>
@@ -4524,7 +4524,7 @@ new additions
             </l>
             <l>Nam neque in nuntio neque in me ipso tibi boni quid sit scio.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="854"/>
             <l>
@@ -4545,7 +4545,7 @@ new additions
             <speaker>Ba.</speaker>
             <l part="Y"> Salve, Pamphile.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="858"/>
             <l>O Bacchis, O mea Bacchis, servatrix mea.</l>
@@ -4555,7 +4555,7 @@ new additions
             <lb ed="TLN" n="859"/>
             <l>Bene factum, et volup est.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y">
                Factis ut credam facis;
@@ -4579,7 +4579,7 @@ new additions
             </l>
             <l>Ut unus omnium homo te vivat nusquam quisquam blandior.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="864"/>
             <l>Ha! ha! hae! tun mihi istuc?</l>
@@ -4596,7 +4596,7 @@ new additions
             </l>
             <l>Perliberalis visa est.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y"> Dic verum.</l>
           </sp>
@@ -4604,7 +4604,7 @@ new additions
             <speaker>Ba.</speaker>
             <l part="Y"> Ita me Di ament, Pamphile.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="867"/>
             <l n="25">Dic mihi, harum rerum numquid dixti iam patri?</l>
@@ -4613,7 +4613,7 @@ new additions
             <speaker>Ba.</speaker>
             <l part="Y"> Nihil.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y">
                Neque opus est
@@ -4642,7 +4642,7 @@ new additions
             </l>
             <l>Se fidem habuisse, et propterea te sibi purgatum.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y">
                Optime est;
@@ -4659,7 +4659,7 @@ new additions
             </l>
             <l>Aut quid istuc est quod vos agitis?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y"> Non licet.</l>
           </sp>
@@ -4671,7 +4671,7 @@ new additions
             </l>
             <l n="35">Egone hunc ab Orco mortuum? quo pacto?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y">
                Nescis, Parmeno,
@@ -4684,7 +4684,7 @@ new additions
             <lb ed="TLN" n="879"/>
             <l>Immo vero scio; neque hoc imprudens feci.</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y"> Ego istuc satis scio.</l>
           </sp>
@@ -4693,7 +4693,7 @@ new additions
             <lb ed="TLN" n="880"/>
             <l>An temere quicquam Parmenonem praetereat quod facto usus sit?</l>
           </sp>
-          <sp who="#pamphilius">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="881"/>
             <l>Sequere me intro, Parmeno.</l>
