@@ -3297,10 +3297,10 @@ Added to repository.
             <l>Etiamne in ara tunc sedebant mulieres,</l>
             <lb ed="TLN" n="847"/>
             <l part="I">
-							quom ad me 
-							<abbr expan="profectus es">profectu's</abbr>
-							 ire?
-						</l>
+              quom ad me 
+              <abbr expan="profectus es">profectu's</abbr>
+               ire?
+            </l>
           </sp>
           <sp who="#trachalio">
             <speaker>Trach.</speaker>
@@ -3428,10 +3428,10 @@ Added to repository.
           <sp who="#charmides">
             <speaker>Charm.</speaker>
             <l part="M">
-							Vt 
-							<abbr expan="nanctus es">nanctu's</abbr>
-							, habe.
-						</l>
+              Vt 
+              <abbr expan="nanctus es">nanctu's</abbr>
+              , habe.
+            </l>
             <lb ed="TLN" n="872"/>
             <l>bono animo meliust te in nervom conrepere.</l>
             <lb ed="TLN" n="873"/>
@@ -3882,8 +3882,8 @@ Added to repository.
             <l part="M">Quid ais, impudens?</l>
             <lb ed="TLN" n="982"/>
             <l n="50"><abbr expan="ausus es">ausu's</abbr>
-							 etiam comparare vidulum cum piscibus?
-						</l>
+               etiam comparare vidulum cum piscibus?
+            </l>
             <lb ed="TLN" n="983"/>
             <l part="I">eadem tandem res videtur?</l>
           </sp>
@@ -4764,10 +4764,10 @@ Added to repository.
           <sp who="#trachalio">
             <speaker>Trach.</speaker>
             <l part="M">
-							Edepol haud te órat, nam tu 
-							<abbr expan="iniurius es">iniuriu's</abbr>
-							.
-						</l>
+              Edepol haud te órat, nam tu 
+              <abbr expan="iniurius es">iniuriu's</abbr>
+              .
+            </l>
           </sp>
           <sp who="#daemones">
             <speaker>Daem.</speaker>
@@ -5225,10 +5225,10 @@ Added to repository.
             <speaker>Daem.</speaker>
             <lb ed="TLN" n="1254"/>
             <l>
-							Abi intro, ne 
-							<abbr expan="molestus es">molestu's</abbr>
-							, linguae tempera.
-						</l>
+              Abi intro, ne 
+              <abbr expan="molestus es">molestu's</abbr>
+              , linguae tempera.
+            </l>
             <lb ed="TLN" n="1255"/>
             <l>ego tibi daturus nil sum, ne tu frustra sis.</l>
           </sp>
@@ -6015,9 +6015,9 @@ Added to repository.
           <sp who="#gripvs">
             <speaker>Grip.</speaker>
             <l part="M">
-							Iam te 
-							<abbr expan="ratus es">ratu's</abbr>
-						</l>
+              Iam te 
+              <abbr expan="ratus es">ratu's</abbr>
+            </l>
             <lb ed="TLN" n="1387"/>
             <l>nactum hominem quem defraudares? dandum huc argentum est probum:</l>
             <lb ed="TLN" n="1388"/>

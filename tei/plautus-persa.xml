@@ -814,10 +814,10 @@ Added to repository.
           <sp who="#toxilvs">
             <speaker>Tox.</speaker>
             <l part="M">
-							Hoc, si 
-							<abbr expan="facturus es">facturu's</abbr>
-							, face.
-						</l>
+              Hoc, si 
+              <abbr expan="facturus es">facturu's</abbr>
+              , face.
+            </l>
           </sp>
           <sp who="#satvrio">
             <speaker>Sat.</speaker>
@@ -876,8 +876,8 @@ Added to repository.
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="159"/>
             <l part="I"><foreign lang="greek">po/qen</foreign>
-							 ornamenta?
-						</l>
+               ornamenta?
+            </l>
           </sp>
           <sp who="#toxilvs">
             <speaker>Tox.</speaker>
@@ -1275,8 +1275,8 @@ Added to repository.
           <sp who="#sophoclidisca">
             <speaker>Soph.</speaker>
             <l part="M"><abbr expan="scelestus es">Scelestu's</abbr>
-							.
-						</l>
+              .
+            </l>
           </sp>
           <sp who="#paegnivm">
             <speaker>Paeg.</speaker>
@@ -1436,8 +1436,8 @@ Added to repository.
           <sp who="#sophoclidisca">
             <speaker>So.</speaker>
             <l part="M"><abbr expan="odiosus es">Odiosu's</abbr>
-							.
-						</l>
+              .
+            </l>
           </sp>
           <sp who="#paegnivm">
             <speaker>Pa.</speaker>
@@ -2231,10 +2231,10 @@ Added to repository.
             <speaker>Vir.</speaker>
             <lb ed="TLN" n="397"/>
             <l>
-							Quin tu me ducis, si quo 
-							<abbr expan="ducturus es">ducturu's</abbr>
-							, pater?
-						</l>
+              Quin tu me ducis, si quo 
+              <abbr expan="ducturus es">ducturu's</abbr>
+              , pater?
+            </l>
             <lb ed="TLN" n="398"/>
             <l n="70">vel tu me vende vel face quid tibi lubet.</l>
           </sp>
@@ -2298,10 +2298,10 @@ Added to repository.
             <l>non mihi censebas copiam argenti fore,</l>
             <lb ed="TLN" n="416"/>
             <l>
-							qui nisi iurato mihi nil 
-							<abbr expan="ausus es">ausu's</abbr>
-							 credere?
-						</l>
+              qui nisi iurato mihi nil 
+              <abbr expan="ausus es">ausu's</abbr>
+               credere?
+            </l>
           </sp>
           <sp who="#dordalvs">
             <speaker>Dor.</speaker>
@@ -2468,10 +2468,10 @@ Added to repository.
           <sp who="#toxilvs">
             <speaker>Tox.</speaker>
             <l part="M">
-							Euge, euge, 
-							<abbr expan="exornatus es">exornatu's</abbr>
-							 basilice;
-						</l>
+              Euge, euge, 
+              <abbr expan="exornatus es">exornatu's</abbr>
+               basilice;
+            </l>
             <lb ed="TLN" n="463"/>
             <l>tiara ornatum lepida condecorat schema.</l>
             <lb ed="TLN" n="464"/>
@@ -2555,10 +2555,10 @@ Added to repository.
           <sp who="#toxilvs">
             <speaker>T.</speaker>
             <l part="M">
-							Iam liberta 
-							<abbr expan="auctus es">auctu's</abbr>
-							?
-						</l>
+              Iam liberta 
+              <abbr expan="auctus es">auctu's</abbr>
+              ?
+            </l>
           </sp>
           <sp who="#dordalvs">
             <speaker>D.</speaker>
@@ -3566,10 +3566,10 @@ Added to repository.
           <sp who="#toxilvs">
             <speaker>T.</speaker>
             <l part="M">
-							Eu, 
-							<abbr expan="praedatus es">praedatu's</abbr>
-							 probe.
-						</l>
+              Eu, 
+              <abbr expan="praedatus es">praedatu's</abbr>
+               probe.
+            </l>
             <lb ed="TLN" n="668"/>
             <l n="120">non edepol minis trecentis carast. fecisti lucri.</l>
           </sp>

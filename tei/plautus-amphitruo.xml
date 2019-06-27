@@ -930,10 +930,10 @@ Added to repository.
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="324"/>
             <l>
-							Si in me 
-							<abbr expan="exerciturus es">exercituru's</abbr>
-							, quaeso in parietem ut primum domes.
-						</l>
+              Si in me 
+              <abbr expan="exerciturus es">exercituru's</abbr>
+              , quaeso in parietem ut primum domes.
+            </l>
           </sp>
           <sp who="#mercvrivs">
             <speaker>Merc.</speaker>
@@ -1254,10 +1254,10 @@ Added to repository.
             <l part="M">Ergo istoc magis,</l>
             <lb ed="TLN" n="379"/>
             <l>
-							quia 
-							<abbr expan="vaniloquus es">vaniloquo's</abbr>
-							, vapulabis: ego sum, non tu, Sosia.
-						</l>
+              quia 
+              <abbr expan="vaniloquus es">vaniloquo's</abbr>
+              , vapulabis: ego sum, non tu, Sosia.
+            </l>
           </sp>
           <sp who="#sosia">
             <speaker>Sos.</speaker>
@@ -1432,10 +1432,10 @@ Added to repository.
             <l part="M">Quin quae dixisti modo</l>
             <lb ed="TLN" n="411"/>
             <l>
-							omnia 
-							<abbr expan="ementitus es">ementitu's</abbr>
-							: equidem Sosia Amphitruonis sum.
-						</l>
+              omnia 
+              <abbr expan="ementitus es">ementitu's</abbr>
+              : equidem Sosia Amphitruonis sum.
+            </l>
             <lb ed="TLN" n="412"/>
             <l n="410">nam noctu hac soluta est navis nostra e portu Persico,</l>
             <lb ed="TLN" n="413"/>
@@ -3040,10 +3040,10 @@ Added to repository.
             <l>tu qui quae facta infitiare; quem égo iam hic convincam palam.</l>
             <lb ed="TLN" n="780"/>
             <l n="150" part="I">
-							estne haec patera, qua 
-							<abbr expan="donatus es">donatu's</abbr>
-							 illi?
-						</l>
+              estne haec patera, qua 
+              <abbr expan="donatus es">donatu's</abbr>
+               illi?
+            </l>
           </sp>
           <sp who="#amphitrvo">
             <speaker>Amph.</speaker>
@@ -4107,8 +4107,8 @@ Added to repository.
                 <speaker>(Merc.)</speaker>
                 <lb ed="TLN" n="1034f"/>
                 <l n="20"><abbr expan="laruatus es">Laruatu's</abbr>
-									. edepol hominem miserum. medicum quaerita.
-								</l>
+                  . edepol hominem miserum. medicum quaerita.
+                </l>
               </sp>
             </quote>
           </cit>
@@ -4615,8 +4615,8 @@ Added to repository.
             <l>tu gravidam item fecisti, cúm in exercitum</l>
             <lb ed="TLN" n="1138"/>
             <l><abbr expan="profectus es">profectu's</abbr>
-							: uno partu duos peperit simul.
-						</l>
+              : uno partu duos peperit simul.
+            </l>
             <lb ed="TLN" n="1139"/>
             <l>eorum alter, nostro qui est susceptus semine,</l>
             <lb ed="TLN" n="1140"/>

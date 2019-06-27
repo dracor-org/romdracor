@@ -637,18 +637,18 @@ Added to repository.
             <l n="55">Ecquid tu de odore possis, si quid forte olfeceris,</l>
             <lb ed="TLN" n="164"/>
             <l>
-							facere coniecturam
-							<gap desc="*"/>
-							?
-							<gap desc="*"/>
-						</l>
+              facere coniecturam
+              <gap desc="*"/>
+              ?
+              <gap desc="*"/>
+            </l>
           </sp>
           <sp who="#penicvlvs">
             <speaker>(Pen.)</speaker>
             <lb ed="TLN" n="165"/>
             <l><gap desc="*"/>
-							captum sit collegium.
-						</l>
+              captum sit collegium.
+            </l>
           </sp>
           <sp who="#menaechmvs">
             <speaker>Men.</speaker>
@@ -702,10 +702,10 @@ Added to repository.
             <l part="M">Eu,</l>
             <lb ed="TLN" n="176"/>
             <l part="I">
-							expedite 
-							<abbr expan="fabulatus es">fabulatu's</abbr>
-							. iam fores ferio?
-						</l>
+              expedite 
+              <abbr expan="fabulatus es">fabulatu's</abbr>
+              . iam fores ferio?
+            </l>
           </sp>
           <sp who="#menaechmvs">
             <speaker>Men.</speaker>
@@ -716,10 +716,10 @@ Added to repository.
           <sp who="#penicvlvs">
             <speaker>Pen.</speaker>
             <l part="M">
-							Mille passum 
-							<abbr expan="commoratus es">commoratu's</abbr>
-							 cantharum.
-						</l>
+              Mille passum 
+              <abbr expan="commoratus es">commoratu's</abbr>
+               cantharum.
+            </l>
           </sp>
           <sp who="#menaechmvs">
             <speaker>Men.</speaker>
@@ -1194,10 +1194,10 @@ Added to repository.
             <l n="20">nam équidem insanum esse te certo scio,</l>
             <lb ed="TLN" n="293"/>
             <l>
-							qui mihi 
-							<abbr expan="molestus es">molestu's</abbr>
-							 homini ignoto, quisquis es.
-						</l>
+              qui mihi 
+              <abbr expan="molestus es">molestu's</abbr>
+               homini ignoto, quisquis es.
+            </l>
           </sp>
           <sp who="#cylindrvs">
             <speaker>Cyl.</speaker>
@@ -1289,16 +1289,16 @@ Added to repository.
             <l part="M">Si me consulas,</l>
             <lb ed="TLN" n="311"/>
             <l>
-							nummum illum quem mihi dudum 
-							<abbr expan="pollicitus es">pollicitu's</abbr>
-							 dare—
-						</l>
+              nummum illum quem mihi dudum 
+              <abbr expan="pollicitus es">pollicitu's</abbr>
+               dare—
+            </l>
             <lb ed="TLN" n="312"/>
             <l n="40">
-							nam tu quidem hercle certo non 
-							<abbr expan="sanus es">sanu's</abbr>
-							 satis,
-						</l>
+              nam tu quidem hercle certo non 
+              <abbr expan="sanus es">sanu's</abbr>
+               satis,
+            </l>
             <lb ed="TLN" n="313"/>
             <l>Menaechme, qui nunc ipsus male dicas tibi—</l>
             <lb ed="TLN" n="314-315"/>
@@ -1955,10 +1955,10 @@ Added to repository.
             <l>fecisti funus med absente prandio.</l>
             <lb ed="TLN" n="493"/>
             <l>
-							cur 
-							<abbr expan="ausus es">ausu's</abbr>
-							 facere, quoi ego aeque heres eram?
-						</l>
+              cur 
+              <abbr expan="ausus es">ausu's</abbr>
+               facere, quoi ego aeque heres eram?
+            </l>
           </sp>
           <sp who="#menaechmvs">
             <speaker>Men.</speaker>
@@ -3391,10 +3391,10 @@ Added to repository.
             <speaker>Sen.</speaker>
             <lb ed="TLN" n="825"/>
             <l>
-							Iam vero, Menaechme, satis 
-							<abbr expan="iocatus es">iocatu's</abbr>
-							. nunc hanc rem gere.
-						</l>
+              Iam vero, Menaechme, satis 
+              <abbr expan="iocatus es">iocatu's</abbr>
+              . nunc hanc rem gere.
+            </l>
           </sp>
           <sp who="#menaechmvs">
             <speaker>Men.</speaker>
@@ -3818,10 +3818,10 @@ Added to repository.
             <l part="M">Tu istic, qui mihi</l>
             <lb ed="TLN" n="935"/>
             <l>
-							etiam me iunctis quadrigis 
-							<abbr expan="minitatus es">minitatu's</abbr>
-							 prosternere.
-						</l>
+              etiam me iunctis quadrigis 
+              <abbr expan="minitatus es">minitatu's</abbr>
+               prosternere.
+            </l>
             <lb ed="TLN" n="936-940"/>
             <l>egomet haec te vidi facere, égomet haec ted arguo.</l>
           </sp>
@@ -3842,10 +3842,10 @@ Added to repository.
             <speaker>Sen.</speaker>
             <lb ed="TLN" n="946"/>
             <l>
-							Obsecro hercle, medice, propere, quidquid 
-							<abbr expan="facturus es">facturu's</abbr>
-							, face.
-						</l>
+              Obsecro hercle, medice, propere, quidquid 
+              <abbr expan="facturus es">facturu's</abbr>
+              , face.
+            </l>
             <lb ed="TLN" n="947"/>
             <l part="I">non vides hominem insanire?</l>
           </sp>
@@ -4504,10 +4504,10 @@ Added to repository.
             <speaker>Men.</speaker>
             <lb ed="TLN" n="1104"/>
             <l n="45">
-							Mira memoras. utinam efficere quod 
-							<abbr expan="pollicitus es">pollicitu's</abbr>
-							 possies.
-						</l>
+              Mira memoras. utinam efficere quod 
+              <abbr expan="pollicitus es">pollicitu's</abbr>
+               possies.
+            </l>
           </sp>
           <sp who="#messenio">
             <speaker>Mess.</speaker>
