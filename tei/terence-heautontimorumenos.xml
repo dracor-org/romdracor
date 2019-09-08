@@ -3660,8 +3660,8 @@ new additions
             <lb ed="TLN" n="616"/>
             <l>Quid est? isne tibi videtur? </l>
           </sp>
-          <sp who="#nu">
-            <speaker>Nu</speaker>
+          <sp who="#nutrix">
+            <speaker>Nu.</speaker>
             <l part="Y">
                Dixi equidem ubi mihi ostendisti ilico 
               <lb ed="TLN" n="617"/>
@@ -3672,7 +3672,7 @@ new additions
             <speaker>So.</speaker>
             <l part="Y"> At ut satis contemplata modo sis, mea nutrix. </l>
           </sp>
-          <sp who="#nu">
+          <sp who="#nutrix">
             <speaker>Nu.</speaker>
             <l part="Y"> Satis.</l>
           </sp>
@@ -5706,8 +5706,8 @@ new additions
             </l>
             <l>Menedeme, non sum apud me. </l>
           </sp>
-          <sp who="#tme.">
-            <speaker>TMe.</speaker>
+          <sp who="#menedemus">
+            <speaker>Me.</speaker>
             <l part="Y">
                Tene istuc loqui? 
               <lb ed="TLN" n="922"/>

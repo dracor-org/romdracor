@@ -67,6 +67,9 @@
           <person xml:id="polynices">
             <persName>Polynices</persName>
           </person>
+          <person xml:id="eteocles">
+            <persName>Eteocles</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>

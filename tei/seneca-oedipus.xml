@@ -49,7 +49,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp sex="UNKNOWN" xml:id="chorus">
+          <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus Thebanorvm</name>
           </personGrp>
           <person xml:id="nuntius">
@@ -58,7 +58,7 @@
           <person xml:id="oedipus">
             <persName>Oedipus</persName>
           </person>
-          <person xml:id="creo">
+          <person xml:id="creon">
             <persName>Creo</persName>
           </person>
           <person xml:id="iocasta">
@@ -67,8 +67,14 @@
           <person xml:id="phorbas">
             <persName>Phorbas</persName>
           </person>
-          <person xml:id="senexcorinthius">
+          <person xml:id="senex">
             <persName>Senex Corinthius</persName>
+          </person>
+          <person xml:id="teiresias">
+            <persName>Teiresia</persName>
+          </person>
+          <person xml:id="manto">
+            <persName>Manto</persName>
           </person>
         </listPerson>
       </particDesc>

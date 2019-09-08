@@ -71,9 +71,9 @@
           <person xml:id="megaronides">
             <persName>Megaronides</persName>
           </person>
-          <person xml:id="omnes">
-            <persName>Omnes</persName>
-          </person>
+          <personGrp xml:id="omnes">
+            <name>Omnes</name>
+          </personGrp>
           <person xml:id="philto">
             <persName>Philto</persName>
           </person>

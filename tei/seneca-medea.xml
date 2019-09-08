@@ -49,10 +49,10 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp sex="UNKNOWN" xml:id="chorus">
+          <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus</name>
           </personGrp>
-          <person xml:id="creo">
+          <person xml:id="creon">
             <persName>Creo</persName>
           </person>
           <person xml:id="iason">

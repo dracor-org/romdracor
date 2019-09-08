@@ -86,6 +86,9 @@
           <person xml:id="syncerastvs">
             <persName>Syncerastvs</persName>
           </person>
+          <person xml:id="ancilla" sex="FEMALE">
+            <persName>Ancilla</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
@@ -1304,7 +1307,7 @@ Added to repository.
             <lb ed="TLN" n="332"/>
             <l part="I">salve extra pretium.</l>
           </sp>
-          <sp who="#anc.">
+          <sp who="#ancilla">
             <speaker>Anc.</speaker>
             <l part="M">Tum pol ego et oleum et operam perdidi.</l>
           </sp>

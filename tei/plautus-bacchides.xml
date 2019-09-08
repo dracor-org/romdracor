@@ -363,7 +363,7 @@ Added to repository.
             <lb ed="TLN" n="35"/>
             <l part="I">Quíd si hoc potis est út tu taceas, égo loquar?</l>
           </sp>
-          <sp who="#soror.">
+          <sp who="#soror">
             <speaker>Soror.</speaker>
             <l part="M">Lepidé, licet.</l>
           </sp>
@@ -372,7 +372,7 @@ Added to repository.
             <lb ed="TLN" n="36"/>
             <l>Vbi me fugiet memoria, ibi tu facito ut subvenias, soror.</l>
           </sp>
-          <sp who="#sor.">
+          <sp who="#soror">
             <speaker>Sor.</speaker>
             <lb ed="TLN" n="37"/>
             <l>Pol magis metuo, ne defuerit mi in monendo oratio.</l>
@@ -502,7 +502,7 @@ Added to repository.
             <lb ed="TLN" n="64"/>
             <l n="30">animum fodicant, bona distimulant, facta et famam sauciant.</l>
           </sp>
-          <sp who="#sor.">
+          <sp who="#soror">
             <speaker>Sor.</speaker>
             <lb ed="TLN" n="65"/>
             <l part="I">Quid ab hac metuis?</l>
@@ -692,7 +692,7 @@ Added to repository.
             <speaker>Pist.</speaker>
             <l part="M">Prius hic adero quam te amare desinam.—</l>
           </sp>
-          <sp who="#sor.">
+          <sp who="#soror">
             <speaker>Sor.</speaker>
             <lb ed="TLN" n="101"/>
             <l part="I">Bene me accipies advenientem, mea soror.</l>
@@ -701,7 +701,7 @@ Added to repository.
             <speaker>Bacch.</speaker>
             <l part="M">Quid ita, obsecro?</l>
           </sp>
-          <sp who="#sor.">
+          <sp who="#soror">
             <speaker>Sor.</speaker>
             <lb ed="TLN" n="102"/>
             <l>Quia piscatus meo quidem animo hic tibi hodie evenit bonus.</l>
@@ -713,7 +713,7 @@ Added to repository.
             <lb ed="TLN" n="104"/>
             <l n="70">ut hic accipias potius aurum, quam hinc eas cum milite.</l>
           </sp>
-          <sp who="#sor.">
+          <sp who="#soror">
             <speaker>Sor.</speaker>
             <lb ed="TLN" n="105"/>
             <l part="I">Cupio.</l>
@@ -724,7 +724,7 @@ Added to repository.
             <lb ed="TLN" n="106"/>
             <l part="I">nám uti navi vecta es, credo timida es.</l>
           </sp>
-          <sp who="#sor.">
+          <sp who="#soror">
             <speaker>Sor.</speaker>
             <l part="M">Aliquantum, soror.</l>
             <lb ed="TLN" n="107"/>
