@@ -52,28 +52,28 @@
           <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus Thebanorvm</name>
           </personGrp>
-          <person xml:id="nuntius">
+          <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
           </person>
-          <person xml:id="oedipus">
+          <person xml:id="oedipus" sex="MALE" ana="https://www.wikidata.org/wiki/Q130890">
             <persName>Oedipus</persName>
           </person>
-          <person xml:id="creon">
+          <person xml:id="creon" sex="MALE" ana="https://www.wikidata.org/wiki/Q732066">
             <persName>Creo</persName>
           </person>
-          <person xml:id="iocasta">
+          <person xml:id="iocasta" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131445">
             <persName>Iocasta</persName>
           </person>
-          <person xml:id="phorbas">
+          <person xml:id="phorbas" sex="MALE">
             <persName>Phorbas</persName>
           </person>
-          <person xml:id="senex">
+          <person xml:id="senex" sex="MALE">
             <persName>Senex Corinthius</persName>
           </person>
-          <person xml:id="teiresias">
+          <person xml:id="teiresias" sex="MALE" ana="https://www.wikidata.org/wiki/Q656881">
             <persName>Teiresia</persName>
           </person>
-          <person xml:id="manto">
+          <person xml:id="manto" sex="MALE">
             <persName>Manto</persName>
           </person>
         </listPerson>

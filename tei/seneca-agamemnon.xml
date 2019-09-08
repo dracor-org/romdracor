@@ -49,19 +49,19 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="aegisthus">
+          <person xml:id="aegisthus" sex="MALE" ana="https://www.wikidata.org/wiki/Q212091>
             <persName>Aegisthus</persName>
           </person>
-          <person xml:id="clytemestra">
+          <person xml:id="clytemestra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131157">
             <persName>Clytemestra</persName>
           </person>
-          <person xml:id="nutrix">
+          <person xml:id="nutrix" sex="FEMALE">
             <persName>Nutrix</persName>
           </person>
-          <person xml:id="agamemnon">
+          <person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/wiki/Q128176">
             <persName>Agamemno</persName>
           </person>
-          <person xml:id="cassandra">
+          <person xml:id="cassandra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q170779">
             <persName>Cassandra</persName>
           </person>
           <personGrp xml:id="chorus" sex="UNKNOWN">
@@ -70,7 +70,7 @@
           <personGrp xml:id="chorus2" sex="UNKNOWN">
             <name>Chorus Iliadum</name>
           </personGrp>
-          <person xml:id="electra">
+          <person xml:id="electra" sex="FEMALE"  ana="https://www.wikidata.org/wiki/Q131651">
             <persName>Electra</persName>
           </person>
           <person xml:id="eurybates">
@@ -79,7 +79,7 @@
           <person xml:id="strophius">
             <persName>Strophius</persName>
           </person>
-          <person xml:id="thyestis">
+          <person xml:id="thyestis" sex="MALE" ana="https://www.wikidata.org/wiki/Q622504">
             <persName>Thyestis</persName>
           </person>
           <person xml:id="umbra">

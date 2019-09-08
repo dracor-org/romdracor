@@ -49,7 +49,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="alcmena">
+          <person xml:id="alcmena" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q190543"> 
             <persName>Alcmena</persName>
           </person>
           <person xml:id="hyllus">
@@ -64,16 +64,16 @@
           <person xml:id="deianira">
             <persName>Deianira</persName>
           </person>
-          <person xml:id="nutrix">
+          <person xml:id="nutrix" sex="FEMALE">
             <persName>Nutrix</persName>
           </person>
           <person xml:id="nuntius">
             <persName>Nuntius</persName>
           </person>
-          <person xml:id="hercules">
+          <person xml:id="hercules" sex="MALE" ana="https://www.wikidata.org/wiki/Q122248">
             <persName>Hercules</persName>
           </person>
-          <person xml:id="philoctetes">
+          <person xml:id="philoctetes" sex="MALE" ana="https://www.wikidata.org/wiki/Q212827">
             <persName>Philoctetes</persName>
           </person>
           <person xml:id="iole">
@@ -82,7 +82,7 @@
           <person xml:id="lichas">
             <persName>Lichas</persName>
           </person>
-          <person xml:id="voxherculis">
+          <person xml:id="voxherculis" sex="MALE" ana="https://www.wikidata.org/wiki/Q122248">
             <persName>Vox Herculis</persName>
           </person>
         </listPerson>

@@ -49,31 +49,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="andromacha">
+          <person xml:id="andromacha" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q19376">
             <persName>Andromacha</persName>
           </person>
-          <person xml:id="astyanax">
+          <person xml:id="astyanax" sex="MALE" ana="https://www.wikidata.org/wiki/Q334787">
             <persName>Astyanax</persName>
           </person>
           <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus</name>
           </personGrp>
-          <person xml:id="hecuba">
+          <person xml:id="hecuba" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q193433">
             <persName>Hecvba</persName>
           </person>
-          <person xml:id="helena">
+          <person xml:id="helena" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q164061">
             <persName>Helena</persName>
           </person>
-          <person xml:id="nuntius">
+          <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
           </person>
-          <person xml:id="pyrrhus">
+          <person xml:id="pyrrhus" sex="MALE" ana="https://www.wikidata.org/wiki/Q322639">
             <persName>Pyrrhus</persName>
           </person>
           <person xml:id="senex">
             <persName>Senex</persName>
           </person>
-          <person xml:id="agamemnon">
+          <person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/wiki/Q128176">
             <persName>Agamemnon</persName>
           </person>
           <person xml:id="calchas">
@@ -82,7 +82,7 @@
           <person xml:id="talthybius">
             <name>Talthybius</name>
           </person>
-          <person xml:id="ulixes">
+          <person xml:id="ulixes" sex="MALE" ana="https://www.wikidata.org/wiki/Q47231">
             <persName>Ulixes</persName>
           </person>
         </listPerson>

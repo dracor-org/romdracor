@@ -52,25 +52,25 @@
           <personGrp sex="UNKNOWN" xml:id="chorus">
             <name>Chorus Romanorum</name>
           </personGrp>
-          <person xml:id="nero">
+          <person xml:id="nero" sex="MALE" ana="https://www.wikidata.org/wiki/Q1413">
             <persName>Nero</persName>
           </person>
           <person xml:id="nuntius">
             <name>Nuntius</name>
           </person>
-          <person xml:id="nutrix">
+          <person xml:id="nutrix" sex="FEMALE">
             <persName>Nutrix</persName>
           </person>
-          <person xml:id="poppaea">
+          <person xml:id="poppaea" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q230716">
             <persName>Poppaea</persName>
           </person>
-          <person xml:id="octavia">
+          <person xml:id="octavia" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q231262">
             <persName>Octavia</persName>
           </person>
           <person xml:id="praefectus">
             <persName>Praefectus</persName>
           </person>
-          <person xml:id="seneca">
+          <person xml:id="seneca" sex="MALE" ana="https://www.wikidata.org/wiki/Q2054">
             <persName>Seneca</persName>
           </person>
         </listPerson>
