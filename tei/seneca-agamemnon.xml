@@ -58,16 +58,16 @@
           <person xml:id="nutrix">
             <persName>Nutrix</persName>
           </person>
-          <person xml:id="agamemno">
+          <person xml:id="agamemnon">
             <persName>Agamemno</persName>
           </person>
           <person xml:id="cassandra">
             <persName>Cassandra</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="chorus">
+          <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus Mycenaeorum</name>
           </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="chorus2">
+          <personGrp xml:id="chorus2" sex="UNKNOWN">
             <name>Chorus Iliadum</name>
           </personGrp>
           <person xml:id="electra">

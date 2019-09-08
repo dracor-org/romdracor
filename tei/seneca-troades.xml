@@ -55,7 +55,7 @@
           <person xml:id="astyanax">
             <persName>Astyanax</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="chorus">
+          <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus</name>
           </personGrp>
           <person xml:id="hecuba">
@@ -70,8 +70,8 @@
           <person xml:id="pyrrhus">
             <persName>Pyrrhus</persName>
           </person>
-          <person xml:id="polyxena">
-            <persName>Polyxena</persName>
+          <person xml:id="senex">
+            <persName>Senex</persName>
           </person>
           <person xml:id="agamemnon">
             <persName>Agamemnon</persName>
