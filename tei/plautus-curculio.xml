@@ -50,34 +50,34 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="cappadox">
+          <person xml:id="cappadox" sex="MALE">
             <persName>Cappadox</persName>
           </person>
-          <person xml:id="choragvs">
+          <person xml:id="choragvs" sex="MALE">
             <persName>Choragvs</persName>
           </person>
-          <person xml:id="cocvs">
+          <person xml:id="cocvs" sex="MALE">
             <persName>Cocvs</persName>
           </person>
-          <person xml:id="cvrcvlio">
+          <person xml:id="cvrcvlio" sex="MALE">
             <persName>Cvrcvlio</persName>
           </person>
-          <person xml:id="leaena">
+          <person xml:id="leaena" sex="FEMALE">
             <persName>Leaena</persName>
           </person>
-          <person xml:id="lyco">
+          <person xml:id="lyco" sex="MALE">
             <persName>Lyco</persName>
           </person>
-          <person xml:id="palinvrvs">
+          <person xml:id="palinvrvs" sex="MALE">
             <persName>Palinvrvs</persName>
           </person>
-          <person xml:id="phaedromvs">
+          <person xml:id="phaedromvs" sex="MALE">
             <persName>Phaedromvs</persName>
           </person>
-          <person xml:id="planesivm">
+          <person xml:id="planesivm" sex="FEMALE">
             <persName>Planesivm</persName>
           </person>
-          <person xml:id="therapontigonvs">
+          <person xml:id="therapontigonvs" sex="MALE">
             <persName>Therapontigonvs</persName>
           </person>
         </listPerson>

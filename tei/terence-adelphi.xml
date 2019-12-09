@@ -54,43 +54,43 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="aeschinus">
+          <person xml:id="aeschinus" sex="MALE">
             <persName>Aeschinus</persName>
           </person>
-          <person xml:id="canthara">
+          <person xml:id="canthara" sex="FEMALE">
             <persName>Canthara</persName>
           </person>
-          <person xml:id="ctesipho">
+          <person xml:id="ctesipho" sex="MALE">
             <persName>Ctesipho</persName>
           </person>
-          <person xml:id="demea">
+          <person xml:id="demea" sex="MALE">
             <persName>Demea</persName>
           </person>
-          <person xml:id="dromo">
+          <person xml:id="dromo" sex="MALE">
             <persName>Dromo</persName>
           </person>
-          <person xml:id="geta">
+          <person xml:id="geta" sex="MALE">
             <persName>Geta</persName>
           </person>
-          <person xml:id="hegio">
+          <person xml:id="hegio" sex="MALE">
             <persName>Hegio</persName>
           </person>
-          <person xml:id="micio">
+          <person xml:id="micio" sex="MALE">
             <persName>Micio</persName>
           </person>
           <personGrp xml:id="omnes" sex="UNKNOWN">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="pamphila">
+          <person xml:id="pamphila" sex="FEMALE">
             <persName>Pamphila</persName>
           </person>
-          <person xml:id="sannio">
+          <person xml:id="sannio" sex="MALE">
             <persName>Sannio</persName>
           </person>
-          <person xml:id="sostrata">
+          <person xml:id="sostrata" sex="FEMALE">
             <persName>Sostrata</persName>
           </person>
-          <person xml:id="syrus">
+          <person xml:id="syrus" sex="MALE">
             <persName>Syrus</persName>
           </person>
         </listPerson>

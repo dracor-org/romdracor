@@ -50,43 +50,43 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="acrotelevtivm">
+          <person xml:id="acrotelevtivm" sex="FEMALE">
             <persName>Acrotelevtivm</persName>
           </person>
-          <person xml:id="artotrogvs">
+          <person xml:id="artotrogvs" sex="MALE">
             <persName>Artotrogvs</persName>
           </person>
-          <person xml:id="cario">
+          <person xml:id="cario" sex="MALE">
             <persName>Cario</persName>
           </person>
-          <person xml:id="lvcrio">
+          <person xml:id="lvcrio" sex="MALE">
             <persName>Lvcrio</persName>
           </person>
-          <person xml:id="milphidippa">
+          <person xml:id="milphidippa" sex="FEMALE">
             <persName>Milphidippa</persName>
           </person>
-          <person xml:id="palaestrio">
+          <person xml:id="palaestrio" sex="MALE">
             <persName>Palaestrio</persName>
           </person>
-          <person xml:id="periplectomenvs">
+          <person xml:id="periplectomenvs" sex="MALE">
             <persName>Periplectomenvs</persName>
           </person>
-          <person xml:id="philocomasivm">
+          <person xml:id="philocomasivm" sex="FEMALE">
             <persName>Philocomasivm</persName>
           </person>
-          <person xml:id="plevsicles">
+          <person xml:id="plevsicles" sex="MALE">
             <persName>Plevsicles</persName>
           </person>
-          <person xml:id="pver">
+          <person xml:id="pver" sex="MALE">
             <persName>Pver</persName>
           </person>
-          <person xml:id="pyrgopolynices">
+          <person xml:id="pyrgopolynices" sex="MALE">
             <persName>Pyrgopolynices</persName>
           </person>
-          <person xml:id="sceledrvs">
+          <person xml:id="sceledrvs" sex="MALE">
             <persName>Sceledrvs</persName>
           </person>
-          <person xml:id="servvs">
+          <person xml:id="servvs" sex="MALE">
             <persName>Servvs</persName>
           </person>
         </listPerson>

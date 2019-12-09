@@ -50,40 +50,40 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="adelphasivm">
+          <person xml:id="adelphasivm" sex="FEMALE">
             <persName>Adelphasivm</persName>
           </person>
-          <person xml:id="advocati">
-            <persName>Advocati</persName>
-          </person>
-          <person xml:id="agorastocles">
+          <personGrp xml:id="advocati" sex="UNKNOWN">
+            <name>Advocati</name>
+          </personGrp>
+          <person xml:id="agorastocles" sex="MALE">
             <persName>Agorastocles</persName>
           </person>
-          <person xml:id="antamonides">
+          <person xml:id="antamonides" sex="MALE">
             <persName>Antamonides</persName>
           </person>
-          <person xml:id="anterastilis">
+          <person xml:id="anterastilis" sex="FEMALE">
             <persName>Anterastilis</persName>
           </person>
-          <person xml:id="collybiscvs">
+          <person xml:id="collybiscvs" sex="MALE">
             <persName>Collybiscvs</persName>
           </person>
-          <person xml:id="giddenes">
+          <person xml:id="giddenes" sex="FEMALE">
             <persName>Giddenes</persName>
           </person>
-          <person xml:id="hanno">
+          <person xml:id="hanno" sex="MALE">
             <persName>Hanno</persName>
           </person>
-          <person xml:id="lycvs">
+          <person xml:id="lycvs" sex="MALE">
             <persName>Lycvs</persName>
           </person>
-          <person xml:id="milphio">
+          <person xml:id="milphio" sex="MALE">
             <persName>Milphio</persName>
           </person>
-          <person xml:id="pver">
+          <person xml:id="pver" sex="MALE">
             <persName>Pver</persName>
           </person>
-          <person xml:id="syncerastvs">
+          <person xml:id="syncerastvs" sex="MALE">
             <persName>Syncerastvs</persName>
           </person>
           <person xml:id="ancilla" sex="FEMALE">

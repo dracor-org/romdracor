@@ -50,37 +50,37 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="callicles">
+          <person xml:id="callicles" sex="MALE">
             <persName>Callicles</persName>
           </person>
-          <person xml:id="charmides">
+          <person xml:id="charmides" sex="MALE">
             <persName>Charmides</persName>
           </person>
-          <person xml:id="inopia">
+          <person xml:id="inopia" sex="FEMALE">>
             <persName>Inopia</persName>
           </person>
-          <person xml:id="lesbonicvs">
+          <person xml:id="lesbonicvs" sex="MALE">
             <persName>Lesbonicvs</persName>
           </person>
-          <person xml:id="lvxvria">
+          <person xml:id="lvxvria" sex="FEMALE">>
             <persName>Lvxvria</persName>
           </person>
-          <person xml:id="lysiteles">
+          <person xml:id="lysiteles" sex="MALE">
             <persName>Lysiteles</persName>
           </person>
-          <person xml:id="megaronides">
+          <person xml:id="megaronides" sex="MALE">
             <persName>Megaronides</persName>
           </person>
-          <personGrp xml:id="omnes">
+          <personGrp xml:id="omnes" sex="UNKNOWN">>
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="philto">
+          <person xml:id="philto" sex="MALE">
             <persName>Philto</persName>
           </person>
-          <person xml:id="stasimvs">
+          <person xml:id="stasimvs" sex="MALE">
             <persName>Stasimvs</persName>
           </person>
-          <person xml:id="sycophanta">
+          <person xml:id="sycophanta" sex="MALE">
             <persName>Sycophanta</persName>
           </person>
         </listPerson>

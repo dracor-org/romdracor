@@ -50,46 +50,46 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="acropolistis">
+          <person xml:id="acropolistis" sex="FEMALE">
             <persName>Acropolistis</persName>
           </person>
-          <person xml:id="apoecides">
+          <person xml:id="apoecides" sex="MALE">
             <persName>Apoecides</persName>
           </person>
-          <person xml:id="chaeribvlvs">
+          <person xml:id="chaeribvlvs" sex="MALE">
             <persName>Chaeribvlvs</persName>
           </person>
-          <person xml:id="danista">
+          <person xml:id="danista" sex="MALE">
             <persName>Danista</persName>
           </person>
-          <person xml:id="epidicvs">
+          <person xml:id="epidicvs" sex="MALE">
             <persName>Epidicvs</persName>
           </person>
-          <person xml:id="fidicina">
+          <person xml:id="fidicina" sex="FEMALE">
             <persName>Fidicina</persName>
           </person>
-          <person xml:id="miles">
+          <person xml:id="miles" sex="MALE">
             <persName>Miles</persName>
           </person>
-          <person xml:id="periphanes">
+          <person xml:id="periphanes" sex="MALE">
             <persName>Periphanes</persName>
           </person>
-          <person xml:id="philippa">
+          <person xml:id="philippa" sex="FEMALE">
             <persName>Philippa</persName>
           </person>
-          <person xml:id="poeta">
+          <person xml:id="poeta" sex="MALE">
             <persName>Poeta</persName>
           </person>
-          <person xml:id="servvs">
+          <person xml:id="servvs" sex="MALE">
             <persName>Servvs</persName>
           </person>
-          <person xml:id="stratippocles">
+          <person xml:id="stratippocles" sex="MALE">
             <persName>Stratippocles</persName>
           </person>
-          <person xml:id="telestis">
+          <person xml:id="telestis" sex="FEMALE">
             <persName>Telestis</persName>
           </person>
-          <person xml:id="thesprio">
+          <person xml:id="thesprio" sex="MALE">
             <persName>Thesprio</persName>
           </person>
         </listPerson>

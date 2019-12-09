@@ -54,43 +54,43 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="byrrhia">
+          <person xml:id="byrrhia" sex="MALE">
             <persName>Byrrhia</persName>
           </person>
-          <person xml:id="charintus">
+          <person xml:id="charintus" sex="MALE">
             <persName>Charintus</persName>
           </person>
-          <person xml:id="chremes">
+          <person xml:id="chremes" sex="MALE">
             <persName>Chremes</persName>
           </person>
-          <person xml:id="crito">
+          <person xml:id="crito" sex="MALE">
             <persName>Crito</persName>
           </person>
-          <person xml:id="davus">
+          <person xml:id="davus" sex="MALE">
             <persName>Davus</persName>
           </person>
-          <person xml:id="dromo">
+          <person xml:id="dromo" sex="MALE">
             <persName>Dromo</persName>
           </person>
-          <person xml:id="glycerium">
+          <person xml:id="glycerium" sex="FEMALE">
             <persName>Glycerium</persName>
           </person>
-          <person xml:id="lesbia">
+          <person xml:id="lesbia" sex="FEMALE">
             <persName>Lesbia</persName>
           </person>
-          <person xml:id="mysis">
+          <person xml:id="mysis" sex="FEMALE">
             <persName>Mysis</persName>
           </person>
           <personGrp xml:id="omnes" sex="UNKNOWN">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="pamphilus">
+          <person xml:id="pamphilus" sex="MALE">
             <persName>Pamphilus</persName>
           </person>
-          <person xml:id="simo">
+          <person xml:id="simo" sex="MALE">
             <persName>Simo</persName>
           </person>
-          <person xml:id="sosia">
+          <person xml:id="sosia" sex="MALE">
             <persName>Sosia</persName>
           </person>
         </listPerson>

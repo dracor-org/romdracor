@@ -50,37 +50,37 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antipho">
+          <person xml:id="antipho" sex="MALE">
             <persName>Antipho</persName>
           </person>
-          <person xml:id="crocotivm">
+          <person xml:id="crocotivm" sex="FEMALE">
             <persName>Crocotivm</persName>
           </person>
-          <person xml:id="epignomvs">
+          <person xml:id="epignomvs" sex="MALE">
             <persName>Epignomvs</persName>
           </person>
-          <person xml:id="gelasimvs">
+          <person xml:id="gelasimvs" sex="MALE">
             <persName>Gelasimvs</persName>
           </person>
-          <person xml:id="pamphilippvs">
+          <person xml:id="pamphilippvs" sex="MALE">
             <persName>Pamphilippvs</persName>
           </person>
-          <person xml:id="panegyris">
+          <person xml:id="panegyris" sex="FEMALE">
             <persName>Panegyris</persName>
           </person>
-          <person xml:id="pinacivm">
+          <person xml:id="pinacivm" sex="MALE">
             <persName>Pinacivm</persName>
           </person>
-          <person xml:id="sangarinvs">
+          <person xml:id="sangarinvs" sex="MALE">
             <persName>Sangarinvs</persName>
           </person>
-          <person xml:id="soror">
+          <person xml:id="soror" sex="FEMALE">
             <persName>Soror</persName>
           </person>
-          <person xml:id="stephanivm">
+          <person xml:id="stephanivm" sex="FEMALE">
             <persName>Stephanivm</persName>
           </person>
-          <person xml:id="stichvs">
+          <person xml:id="stichvs" sex="MALE">
             <persName>Stichvs</persName>
           </person>
         </listPerson>

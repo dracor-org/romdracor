@@ -54,49 +54,49 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antipho">
+          <person xml:id="antipho" sex="MALE">
             <persName>Antipho</persName>
           </person>
-          <person xml:id="chaerea">
+          <person xml:id="chaerea" sex="MALE">
             <persName>Chaerea</persName>
           </person>
-          <person xml:id="chremes">
+          <person xml:id="chremes" sex="MALE">
             <persName>Chremes</persName>
           </person>
-          <person xml:id="dorias">
+          <person xml:id="dorias" sex="FEMALE">
             <persName>Dorias</persName>
           </person>
-          <person xml:id="dorus">
+          <person xml:id="dorus" sex="MALE">
             <persName>Dorus</persName>
           </person>
-          <person xml:id="gnatho">
+          <person xml:id="gnatho" sex="MALE">
             <persName>Gnatho</persName>
           </person>
-          <person xml:id="laches">
+          <person xml:id="laches" sex="MALE">
             <persName>Laches</persName>
           </person>
-          <person xml:id="parmeno">
+          <person xml:id="parmeno" sex="MALE">
             <persName>Parmeno</persName>
           </person>
-          <person xml:id="phaedria">
+          <person xml:id="phaedria" sex="MALE">
             <persName>Phaedria</persName>
           </person>
           <personGrp xml:id="omnes" sex="UNKNOWN">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="pythias">
+          <person xml:id="pythias" sex="FEMALE">
             <persName>Pythias</persName>
           </person>
-          <person xml:id="sanga">
+          <person xml:id="sanga" sex="MALE">
             <persName>Sanga</persName>
           </person>
-          <person xml:id="sophrona">
+          <person xml:id="sophrona" sex="FEMALE">
             <persName>Sophrona</persName>
           </person>
-          <person xml:id="thais">
+          <person xml:id="thais" sex="FEMALE">
             <persName>Thais</persName>
           </person>
-          <person xml:id="thraso">
+          <person xml:id="thraso" sex="MALE">
             <persName>Thraso</persName>
           </person>
         </listPerson>

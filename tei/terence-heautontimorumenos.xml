@@ -53,40 +53,40 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antiphila">
+          <person xml:id="antiphila" sex="FEMALE">
             <persName>Antiphila</persName>
           </person>
-          <person xml:id="bacchis">
+          <person xml:id="bacchis" sex="FEMALE">
             <persName>Bacchis</persName>
           </person>
-          <person xml:id="chremes">
+          <person xml:id="chremes" sex="MALE">
             <persName>Chremes</persName>
           </person>
-          <person xml:id="clinia">
+          <person xml:id="clinia" sex="MALE">
             <persName>Clinia</persName>
           </person>
-          <person xml:id="clitipho">
+          <person xml:id="clitipho" sex="MALE">
             <persName>Clitipho</persName>
           </person>
-          <person xml:id="dromo">
+          <person xml:id="dromo" sex="MALE">
             <persName>Dromo</persName>
           </person>
-          <person xml:id="menedemus">
+          <person xml:id="menedemus" sex="MALE">
             <persName>Menedemus</persName>
           </person>
-          <person xml:id="nutrix">
+          <person xml:id="nutrix" sex="FEMALE">
             <persName>Nutrix</persName>
           </person>
-          <person xml:id="phrygia">
+          <person xml:id="phrygia" sex="FEMALE">
             <persName>Phrygia</persName>
           </person>
           <personGrp xml:id="omnes" sex="UNKNOWN">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="sostrata">
+          <person xml:id="sostrata" sex="FEMALE">
             <persName>Sostrata</persName>
           </person>
-          <person xml:id="syrus">
+          <person xml:id="syrus" sex="MALE">
             <persName>Syrus</persName>
           </person>
         </listPerson>

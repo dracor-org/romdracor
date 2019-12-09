@@ -50,49 +50,49 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="ampelisca">
+          <person xml:id="ampelisca" sex="FEMALE">
             <persName>Ampelisca</persName>
           </person>
-          <person xml:id="arctvrvs">
+          <person xml:id="arctvrvs" sex="MALE">
             <persName>Arctvrvs</persName>
           </person>
-          <person xml:id="charmides">
+          <person xml:id="charmides" sex="MALE">
             <persName>Charmides</persName>
           </person>
-          <person xml:id="daemones">
+          <person xml:id="daemones" sex="MALE">
             <persName>Daemones</persName>
           </person>
-          <person xml:id="gripvs">
+          <person xml:id="gripvs" sex="MALE">
             <persName>Gripvs</persName>
           </person>
-          <person xml:id="labrax">
+          <person xml:id="labrax" sex="MALE">
             <persName>Labrax</persName>
           </person>
-          <person xml:id="lor.alter">
-            <persName>Lor. alter</persName>
-          </person>
-          <person xml:id="lorarivs">
+          <personGrp xml:id="loralter" sex="UNKNOWN">
+            <name>Lor. alter</name>
+          </personGrp>
+          <person xml:id="lorarivs" sex="MALE">
             <persName>Lorarivs</persName>
           </person>
-          <person xml:id="palaestra">
+          <person xml:id="palaestra" sex="FEMALE">
             <persName>Palaestra</persName>
           </person>
-          <person xml:id="piscatores">
-            <persName>Piscatores</persName>
-          </person>
-          <person xml:id="plesidippvs">
+          <personGrp xml:id="piscatores" sex="UNKNOWN">
+            <name>Piscatores</name>
+          </personGrp>
+          <person xml:id="plesidippvs" sex="MALE">
             <persName>Plesidippvs</persName>
           </person>
-          <person xml:id="ptolemocratia">
+          <person xml:id="ptolemocratia" sex="FEMALE">
             <persName>Ptolemocratia</persName>
           </person>
-          <person xml:id="pvellae">
-            <persName>Pvellae</persName>
-          </person>
-          <person xml:id="sceparnio">
+          <personGrp xml:id="pvellae" sex="FEMALE">
+            <name>Pvellae</name>
+          </personGrp>
+          <person xml:id="sceparnio" sex="MALE">
             <persName>Sceparnio</persName>
           </person>
-          <person xml:id="trachalio">
+          <person xml:id="trachalio" sex="MALE">
             <persName>Trachalio</persName>
           </person>
         </listPerson>
@@ -3202,7 +3202,7 @@ Added to repository.
             <lb ed="TLN" n="831"/>
             <l part="I">me adire ad illas propius?</l>
           </sp>
-          <sp who="#lor.alter">
+          <sp who="#loralter">
             <speaker>Lor.</speaker>
             <l part="M">Nil nobis quidem.</l>
           </sp>
@@ -3211,7 +3211,7 @@ Added to repository.
             <lb ed="TLN" n="832"/>
             <l part="I">Numquid molestum mihi erit?</l>
           </sp>
-          <sp who="#lor.alter">
+          <sp who="#loralter">
             <speaker>Lor.</speaker>
             <l part="M">Nil, si caveris.</l>
           </sp>
@@ -3220,7 +3220,7 @@ Added to repository.
             <lb ed="TLN" n="833"/>
             <l part="I">Quid est quod caveam?</l>
           </sp>
-          <sp who="#lor.alter">
+          <sp who="#loralter">
             <speaker>Lor.</speaker>
             <l part="M">Em, a crasso infortunio.</l>
           </sp>
@@ -3229,7 +3229,7 @@ Added to repository.
             <lb ed="TLN" n="834"/>
             <l part="I">Quaeso hercle, abire ut liceat.</l>
           </sp>
-          <sp who="#lor.alter">
+          <sp who="#loralter">
             <speaker>Lor.</speaker>
             <l part="M">Abeas, si velis.</l>
           </sp>
@@ -3240,7 +3240,7 @@ Added to repository.
             <lb ed="TLN" n="836"/>
             <l part="I">[non] accedam potius.</l>
           </sp>
-          <sp who="#lor.alter">
+          <sp who="#loralter">
             <speaker>Lor.</speaker>
             <l part="M">Illic astato ilico.</l>
           </sp>
@@ -3471,7 +3471,7 @@ Added to repository.
             <lb ed="TLN" n="879"/>
             <l part="I">manete, dúm ego huc redeo.</l>
           </sp>
-          <sp who="#lor.alter">
+          <sp who="#loralter">
             <speaker>Lor.</speaker>
             <l part="M">Equidem suadeo,</l>
             <lb ed="TLN" n="880"/>
@@ -3487,7 +3487,7 @@ Added to repository.
             <speaker>Labr.</speaker>
             <l part="M">Fures mi estis.</l>
           </sp>
-          <sp who="#lor.alter">
+          <sp who="#loralter">
             <speaker>Lor.</speaker>
             <l part="M">Quid, fures? rape.</l>
           </sp>

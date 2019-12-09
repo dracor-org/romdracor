@@ -54,37 +54,37 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="bacchis">
+          <person xml:id="bacchis" sex="FEMALE">
             <persName>Bacchis</persName>
           </person>
-          <person xml:id="laches">
+          <person xml:id="laches" sex="MALE">
             <persName>Laches</persName>
           </person>
-          <person xml:id="myrrhina">
+          <person xml:id="myrrhina" sex="FEMALE">
             <persName>Myrrhina</persName>
           </person>
-          <person xml:id="pamphilus">
+          <person xml:id="pamphilus" sex="MALE">
             <persName>Pamphilus</persName>
           </person>
-          <person xml:id="parmeno">
+          <person xml:id="parmeno" sex="MALE">
             <persName>Parmeno</persName>
           </person>
-          <person xml:id="phidippus">
+          <person xml:id="phidippus" sex="MALE">
             <persName>Phidippus</persName>
           </person>
-          <person xml:id="philotis">
+          <person xml:id="philotis" sex="FEMALE">
             <persName>Philotis</persName>
           </person>
-          <person xml:id="sosia">
+          <person xml:id="sosia" sex="MALE">
             <persName>Sosia</persName>
           </person>
           <personGrp xml:id="omnes" sex="UNKNOWN">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="sostrata">
+          <person xml:id="sostrata" sex="FEMALE">
             <persName>Sostrata</persName>
           </person>
-          <person xml:id="syra">
+          <person xml:id="syra" sex="FEMALE">
             <persName>Syra</persName>
           </person>
         </listPerson>

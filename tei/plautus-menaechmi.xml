@@ -50,31 +50,31 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="ancilla">
+          <person xml:id="ancilla" sex="FEMALE">
             <persName>Ancilla</persName>
           </person>
-          <person xml:id="cylindrvs">
+          <person xml:id="cylindrvs" sex="MALE">>
             <persName>Cylindrvs</persName>
           </person>
-          <person xml:id="erotivm">
+          <person xml:id="erotivm" sex="FEMALE">
             <persName>Erotivm</persName>
           </person>
-          <person xml:id="matrona">
+          <person xml:id="matrona" sex="FEMALE">
             <persName>Matrona</persName>
           </person>
-          <person xml:id="medicvs">
+          <person xml:id="medicvs" sex="MALE">>
             <persName>Medicvs</persName>
           </person>
-          <person xml:id="menaechmvs">
+          <person xml:id="menaechmvs" sex="MALE">>
             <persName>Menaechmvs</persName>
           </person>
-          <person xml:id="messenio">
+          <person xml:id="messenio" sex="MALE">>
             <persName>Messenio</persName>
           </person>
-          <person xml:id="penicvlvs">
+          <person xml:id="penicvlvs" sex="MALE">>
             <persName>Penicvlvs</persName>
           </person>
-          <person xml:id="senex">
+          <person xml:id="senex" sex="MALE">>
             <persName>Senex</persName>
           </person>
         </listPerson>
