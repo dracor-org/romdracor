@@ -70,16 +70,16 @@
           <person xml:id="pyrrhus" sex="MALE" ana="https://www.wikidata.org/wiki/Q322639">
             <persName>Pyrrhus</persName>
           </person>
-          <person xml:id="senex">
+          <person xml:id="senex" sex="MALE">
             <persName>Senex</persName>
           </person>
           <person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/wiki/Q128176">
             <persName>Agamemnon</persName>
           </person>
-          <person xml:id="calchas">
+          <person xml:id="calchas" sex="MALE" ana="https://www.wikidata.org/wiki/Q725527">
             <persName>Calchas</persName>
           </person>
-          <person xml:id="talthybius">
+          <person xml:id="talthybius" sex="MALE" ana="https://www.wikidata.org/wiki/Q1367860">
             <name>Talthybius</name>
           </person>
           <person xml:id="ulixes" sex="MALE" ana="https://www.wikidata.org/wiki/Q47231">

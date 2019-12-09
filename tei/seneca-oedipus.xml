@@ -73,7 +73,7 @@
           <person xml:id="teiresias" sex="MALE" ana="https://www.wikidata.org/wiki/Q656881">
             <persName>Teiresia</persName>
           </person>
-          <person xml:id="manto" sex="MALE">
+          <person xml:id="manto" sex="FEMALE">
             <persName>Manto</persName>
           </person>
         </listPerson>

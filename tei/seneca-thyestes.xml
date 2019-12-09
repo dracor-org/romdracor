@@ -52,10 +52,10 @@
           <person xml:id="atreus" sex="MALE" ana="https://www.wikidata.org/wiki/Q192469">
             <persName>Atreus</persName>
           </person>
-          <person xml:id="satelles">
+          <person xml:id="satelles"" sex="MALE">
             <persName>Satelles</persName>
           </person>
-          <person xml:id="furia">
+          <person xml:id="furia" sex="FEMALE">
             <persName>Furia</persName>
           </person>
           <person xml:id="tantalus" sex="MALE" ana="https://www.wikidata.org/wiki/Q515531">
@@ -144,7 +144,7 @@
       <milestone n="1" unit="card"/>
       <pb id="p.281"/>
       <stage>Tantali Umbra Furia</stage>
-      <sp who="#umbra">
+      <sp who="#tantaliumbra">
         <speaker>Tantali Umbra</speaker>
         <milestone n="1" unit="line"/>
         <l>Quis inferorum sede ab infausta extrahit</l>
@@ -289,7 +289,7 @@
         <l>quas ipse fugeres— siste, quo praeceps ruis?</l>
       </sp>
       <milestone n="68" unit="card"/>
-      <sp who="#umbra">
+      <sp who="#tantaliumbra">
         <speaker>Tant.</speaker>
         <milestone n="68" unit="line"/>
         <l>Ad stagna et amnes et recedentes aquas</l>
@@ -335,7 +335,7 @@
         <milestone n="86" unit="line"/>
         <l part="I">pectus tumultu,</l>
       </sp>
-      <sp who="#umbra">
+      <sp who="#tantaliumbra">
         <speaker>Tant.</speaker>
         <l part="F">Me pati poenas decet,</l>
         <milestone n="87" unit="line"/>

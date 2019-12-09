@@ -55,11 +55,14 @@
           <person xml:id="nero" sex="MALE" ana="https://www.wikidata.org/wiki/Q1413">
             <persName>Nero</persName>
           </person>
-          <person xml:id="nuntius">
+          <person xml:id="nuntius" sex="MALE">
             <name>Nuntius</name>
           </person>
           <person xml:id="nutrix" sex="FEMALE">
-            <persName>Nutrix</persName>
+            <persName>Nutrix Octaviae</persName>
+          </person>
+          <person xml:id="nutrix2" sex="FEMALE">
+            <persName>Nutrix Poppaeae</persName>
           </person>
           <person xml:id="poppaea" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q230716">
             <persName>Poppaea</persName>
@@ -67,7 +70,7 @@
           <person xml:id="octavia" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q231262">
             <persName>Octavia</persName>
           </person>
-          <person xml:id="praefectus">
+          <person xml:id="praefectus" sex="MALE">
             <persName>Praefectus</persName>
           </person>
           <person xml:id="seneca" sex="MALE" ana="https://www.wikidata.org/wiki/Q2054">
@@ -1912,7 +1915,7 @@
         <l>telisque feris principis aulam.</l>
       </sp>
       <stage>Nutrix Poppaea</stage>
-      <sp who="#nutrix">
+      <sp who="#nutrix2">
         <milestone unit="line" ed="exclude" n="690"/>
         <l n="690">Quo trepida gressum coniugis thalamis tui</l>
         <milestone unit="line" ed="exclude" n="691"/>
@@ -2019,7 +2022,7 @@
         <milestone unit="line" ed="exclude" n="739"/>
         <l>aut quem cruorem coniugis vidi mei?</l>
       </sp>
-      <sp who="#nutrix">
+      <sp who="#nutrix2">
         <speaker>Nvtr.</speaker>
         <milestone unit="line" ed="exclude" n="740"/>
         <l n="740">Quaecumque mentis agitat intentus vigor, </l>

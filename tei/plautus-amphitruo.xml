@@ -50,22 +50,22 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="alcvmena">
+          <person xml:id="alcvmena" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q190543">
             <persName>Alcvmena</persName>
           </person>
-          <person xml:id="amphitrvo">
+          <person xml:id="amphitrvo" sex="MALE" ana="https://www.wikidata.org/wiki/Q206214">
             <persName>Amphitrvo</persName>
           </person>
-          <person xml:id="bromia">
+          <person xml:id="bromia" sex="FEMALE">
             <persName>Bromia</persName>
           </person>
-          <person xml:id="ivppiter">
+          <person xml:id="ivppiter" sex="MALE" ana="https://www.wikidata.org/wiki/Q4649">
             <persName>Ivppiter</persName>
           </person>
-          <person xml:id="mercvrivs">
+          <person xml:id="mercvrivs" sex="MALE" ana="https://www.wikidata.org/wiki/Q1150">
             <persName>Mercvrivs</persName>
           </person>
-          <person xml:id="sosia">
+          <person xml:id="sosia"sex="MALE">
             <persName>Sosia</persName>
           </person>
         </listPerson>

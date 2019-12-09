@@ -52,7 +52,7 @@
           <person xml:id="alcmena" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q190543"> 
             <persName>Alcmena</persName>
           </person>
-          <person xml:id="hyllus">
+          <person xml:id="hyllus" sex="MALE" ana="https://www.wikidata.org/wiki/Q847268">
             <persName>Hyllus</persName>
           </person>
           <personGrp sex="UNKNOWN" xml:id="chorus">
@@ -61,13 +61,13 @@
           <personGrp sex="UNKNOWN" xml:id="chorus2">
             <name>Chorus Aetolarum Mulierum</name>
           </personGrp>
-          <person xml:id="deianira">
+          <person xml:id="deianira" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q272000">
             <persName>Deianira</persName>
           </person>
           <person xml:id="nutrix" sex="FEMALE">
             <persName>Nutrix</persName>
           </person>
-          <person xml:id="nuntius">
+          <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
           </person>
           <person xml:id="hercules" sex="MALE" ana="https://www.wikidata.org/wiki/Q122248">
@@ -76,10 +76,10 @@
           <person xml:id="philoctetes" sex="MALE" ana="https://www.wikidata.org/wiki/Q212827">
             <persName>Philoctetes</persName>
           </person>
-          <person xml:id="iole">
+          <person xml:id="iole" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q744147">
             <persName>Iole</persName>
           </person>
-          <person xml:id="lichas">
+          <person xml:id="lichas" sex="MALE" ana="https://www.wikidata.org/wiki/Q922330">
             <persName>Lichas</persName>
           </person>
           <person xml:id="voxherculis" sex="MALE" ana="https://www.wikidata.org/wiki/Q122248">

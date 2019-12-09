@@ -50,37 +50,37 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="anthrax">
+          <person xml:id="anthrax" sex="MALE">
             <persName>Anthrax</persName>
           </person>
-          <person xml:id="congrio">
+          <person xml:id="congrio" sex="MALE">
             <persName>Congrio</persName>
           </person>
-          <person xml:id="evclio">
+          <person xml:id="evclio" sex="MALE">
             <persName>Evclio</persName>
           </person>
-          <person xml:id="evnomia">
+          <person xml:id="evnomia" sex="FEMALE">
             <persName>Evnomia</persName>
           </person>
-          <person xml:id="larfamiliaris">
+          <person xml:id="larfamiliaris" sex="MALE">
             <persName>Lar familiaris</persName>
           </person>
-          <person xml:id="lyconides">
+          <person xml:id="lyconides" sex="MALE">
             <persName>Lyconides</persName>
           </person>
-          <person xml:id="megadorvs">
+          <person xml:id="megadorvs" sex="MALE">
             <persName>Megadorvs</persName>
           </person>
-          <person xml:id="phaedrivm">
+          <person xml:id="phaedrivm" sex="FEMALE">
             <persName>Phaedrivm</persName>
           </person>
-          <person xml:id="pythodicvs">
+          <person xml:id="pythodicvs" sex="MALE">
             <persName>Pythodicvs</persName>
           </person>
-          <person xml:id="staphyla">
+          <person xml:id="staphyla" sex="FEMALE">
             <persName>Staphyla</persName>
           </person>
-          <person xml:id="strobilvs">
+          <person xml:id="strobilvs" sex="MALE">
             <persName>Strobilvs</persName>
           </person>
         </listPerson>

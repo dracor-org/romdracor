@@ -58,7 +58,7 @@
           <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
           </person>
-          <person xml:id="satelles">
+          <person xml:id="satelles" sex="UNKNOWN">
             <persName>Satelles</persName>
           </person>
           <person xml:id="oedipus" sex="MALE" ana="https://www.wikidata.org/wiki/Q130890">

@@ -50,43 +50,40 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="alcesimarchvs">
+          <person xml:id="alcesimarchvs" sex="MALE">
             <persName>Alcesimarchvs</persName>
           </person>
-          <person xml:id="avxilivm">
+          <person xml:id="avxilivm" sex="MALE">
             <persName>Avxilivm</persName>
           </person>
-          <person xml:id="caterva">
-            <persName>Caterva</persName>
-          </person>
-          <person xml:id="demipho">
+          <personGrp xml:id="caterva" sex="UNKNOWN">
+            <name>Caterva</name>
+          </personGrp>
+          <person xml:id="demipho" sex="MALE">
             <persName>Demipho</persName>
           </person>
-          <person xml:id="gymnasivm">
+          <person xml:id="gymnasivm" sex="FEMALE">
             <persName>Gymnasivm</persName>
           </person>
-          <person xml:id="halisca">
+          <person xml:id="halisca" sex="FEMALE">
             <persName>Halisca</persName>
           </person>
-          <person xml:id="lampadio">
+          <person xml:id="lampadio" sex="MALE">
             <persName>Lampadio</persName>
           </person>
-          <person xml:id="lena">
-            <persName>Lena</persName>
-          </person>
-          <person xml:id="melaenis">
+          <person xml:id="melaenis" sex="FEMALE">
             <persName>Melaenis</persName>
           </person>
-          <person xml:id="phanostrata">
+          <person xml:id="phanostrata" sex="FEMALE">
             <persName>Phanostrata</persName>
           </person>
-          <person xml:id="selenivm">
+          <person xml:id="selenivm" sex="FEMALE">
             <persName>Selenivm</persName>
           </person>
-          <person xml:id="senex">
+          <person xml:id="senex" sex="FEMALE">
             <persName>Senex</persName>
           </person>
-          <person xml:id="servvs">
+          <person xml:id="servvs" sex="MALE">
             <persName>Servvs</persName>
           </person>
         </listPerson>
@@ -197,7 +194,7 @@ Added to repository.
             <lb ed="TLN" n="13"/>
             <l>quae vós arbitrábor velle, éa ut expetéssam.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena</speaker>
             <lb ed="TLN" n="14"/>
             <l>Quód ille dixit, quí secundo vénto vectus ést tranquilló mari,</l>
@@ -213,7 +210,7 @@ Added to repository.
             <lb ed="TLN" n="18"/>
             <l part="I">Quid ita, amabo?</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Raro nimium dabat quod biberem, id merum infuscabat.</l>
           </sp>
@@ -222,7 +219,7 @@ Added to repository.
             <lb ed="TLN" n="19-20"/>
             <l part="I">Amábo, hicine ístud decét?</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Iusque fásque est:</l>
             <lb ed="TLN" n="21"/>
@@ -234,7 +231,7 @@ Added to repository.
             <lb ed="TLN" n="22"/>
             <l part="I">quía me colitis et mágni facitis.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Decet pol, mea Selenium,</l>
             <lb ed="TLN" n="23"/>
@@ -279,7 +276,7 @@ Added to repository.
             <lb ed="TLN" n="42"/>
             <l n="40" part="I">At satius fuerat eam viro dare nuptum potius.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Heia,</l>
             <lb ed="TLN" n="43"/>
@@ -294,7 +291,7 @@ Added to repository.
             <lb ed="TLN" n="46"/>
             <l>Necesse est, quo tu me modo voles esse, ita esse, mater.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="47"/>
             <l n="45">Ecastor haud me paenitet, si ut dicis ita futura es.</l>
@@ -310,7 +307,7 @@ Added to repository.
             <lb ed="TLN" n="51"/>
             <l part="I">Di faxint.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Sine opera tua di horunc nil facere possunt.</l>
           </sp>
@@ -426,7 +423,7 @@ Added to repository.
             <lb ed="TLN" n="77"/>
             <l n="75">quom ego illum unum mi exoptavi, quicum aetatem degerem.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="78"/>
             <l>Matronae magis cónducibilest istuc, mea Selenium,</l>
@@ -448,7 +445,7 @@ Added to repository.
             <lb ed="TLN" n="85"/>
             <l>ut me, quém ego amarem graviter, sineret cúm eo vivere.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="86"/>
             <l>Stulte ecastor fecit. sed tu enumquam cum quiquam viro</l>
@@ -461,7 +458,7 @@ Added to repository.
             <lb ed="TLN" n="88"/>
             <l part="I">neque pudícitiam meam mi álius quisquam imminuit.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Obsecro,</l>
             <lb ed="TLN" n="89"/>
@@ -479,7 +476,7 @@ Added to repository.
             <lb ed="TLN" n="93"/>
             <l part="I">blanditiis, muneribus, donis.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Mihi istunc vellem hominem dari,</l>
             <lb ed="TLN" n="94"/>
@@ -491,7 +488,7 @@ Added to repository.
             <lb ed="TLN" n="95"/>
             <l part="I">coepi amare contra ego illum, et ille me.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">O mea Selenium,</l>
             <lb ed="TLN" n="96"/>
@@ -514,7 +511,7 @@ Added to repository.
             <lb ed="TLN" n="103"/>
             <l part="I">eum uxorem ducturum esse aliam.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Nihil amori iniuriumst.</l>
           </sp>
@@ -525,7 +522,7 @@ Added to repository.
             <lb ed="TLN" n="105"/>
             <l>esse et hic servare apud me. nam ad matrem accersita sum.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="106"/>
             <l>Quamquam istud mihi erit molestum triduom, et damnum dabis,</l>
@@ -591,7 +588,7 @@ Added to repository.
             <lb ed="TLN" n="118"/>
             <l part="I">visa amare.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Istoc ergo auris graviter obtundo tuas,</l>
             <lb ed="TLN" n="119"/>
@@ -601,7 +598,7 @@ Added to repository.
             <speaker>Gymn.</speaker>
             <l part="M">Numquid me vis?</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <l part="M">Vt valeas.</l>
           </sp>
@@ -611,7 +608,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="120"/>
             <l>Idem míhi magnae quod parti est vitium mulierum</l>
@@ -1285,7 +1282,7 @@ Added to repository.
           <cit n="5">
             <bibl>Prisc.&amp;3GL&amp;2.388K</bibl>
             <quote>
-              <sp who="#lena">
+              <sp who="#senex">
                 <speaker>Lena.</speaker>
                 <lb ed="TLN" n="374"/>
                 <l n="120">Me respondere postulas? iniurium est.</l>
@@ -1312,7 +1309,7 @@ Added to repository.
           <cit n="7">
             <bibl>Festus372M</bibl>
             <quote>
-              <sp who="#lena">
+              <sp who="#senex">
                 <speaker>Lena.</speaker>
                 <lb ed="TLN" n="378"/>
                 <l>Quin is, si itura es? nimium is vegrandi gradu.</l>
@@ -2309,7 +2306,7 @@ Added to repository.
             <lb ed="TLN" n="665"/>
             <l>haec sunt, quibuscum tu extulisti nostram filiolam ad necem.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>L.</speaker>
             <lb ed="TLN" n="666"/>
             <l part="I">Sanane es?</l>
@@ -2318,7 +2315,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Haec sunt profecto.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>L.</speaker>
             <l part="M">Pergin?</l>
           </sp>
@@ -2326,7 +2323,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Haec sunt.</l>
           </sp>
-          <sp who="#lena">
+          <sp who="#senex">
             <speaker>L.</speaker>
             <l part="M">Si mihi</l>
             <lb ed="TLN" n="667"/>

@@ -55,10 +55,10 @@
           <person xml:id="theseus" sex="MALE" ana="https://www.wikidata.org/wiki/Q1320718">
             <persName>Theseus</persName>
           </person>
-          <person xml:id="megara">
+          <person xml:id="megara" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q929768">>
             <persName>Megara</persName>
           </person>
-          <person xml:id="lycus">
+          <person xml:id="lycus" sex="MALE">
             <persName>Lycus</persName>
           </person>
           <personGrp sex="UNKNOWN" xml:id="chorus">
@@ -67,7 +67,7 @@
           <person xml:id="hercules" sex="MALE" ana="https://www.wikidata.org/wiki/Q122248">
             <persName>Hercules</persName>
           </person>
-          <person xml:id="iuno">
+          <person xml:id="iuno" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q125046">
             <persName>Iuno</persName>
           </person>
         </listPerson>

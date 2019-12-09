@@ -70,20 +70,17 @@
           <personGrp xml:id="chorus2" sex="UNKNOWN">
             <name>Chorus Iliadum</name>
           </personGrp>
-          <person xml:id="electra" sex="FEMALE"  ana="https://www.wikidata.org/wiki/Q131651">
+          <person xml:id="electra" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131651">
             <persName>Electra</persName>
           </person>
-          <person xml:id="eurybates">
+          <person xml:id="eurybates" sex="MALE" ana="https://www.wikidata.org/wiki/Q2665082">
             <name>Eurybates</name>
           </person>
-          <person xml:id="strophius">
+          <person xml:id="strophius" sex="MALE" ana="https://www.wikidata.org/wiki/Q1421896">
             <persName>Strophius</persName>
           </person>
           <person xml:id="thyestis" sex="MALE" ana="https://www.wikidata.org/wiki/Q622504">
             <persName>Thyestis</persName>
-          </person>
-          <person xml:id="umbra">
-            <persName>Umbra</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -176,7 +173,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb id="p.243"/>
-      <sp who="#thyestis">
+      <sp who="#thyestisumbra">
         <speaker>Thyestis Umbra</speaker>
         <milestone unit="line" ed="exclude" n="1"/>
         <l>Opaca linquens Ditis inferni loca</l>

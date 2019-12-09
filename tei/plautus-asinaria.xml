@@ -50,37 +50,37 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="argyrippvs">
+          <person xml:id="argyrippvs" sex="MALE">
             <persName>Argyrippvs</persName>
           </person>
-          <person xml:id="artemona">
+          <person xml:id="artemona" sex="FEMALE">
             <persName>Artemona</persName>
           </person>
-          <person xml:id="cleareta">
+          <person xml:id="cleareta" sex="FEMALE">
             <persName>Cleareta</persName>
           </person>
-          <person xml:id="demaenetvs">
+          <person xml:id="demaenetvs" sex="MALE">
             <persName>Demaenetvs</persName>
           </person>
-          <person xml:id="diabolvs">
+          <person xml:id="diabolvs" sex="MALE">
             <persName>Diabolvs</persName>
           </person>
-          <person xml:id="grex">
-            <persName>Grex</persName>
-          </person>
-          <person xml:id="leonida">
+          <personGrp xml:id="grex" sex="UNKNOWN">
+            <name>Grex</name>
+          </personGrp>
+          <person xml:id="leonida" sex="MALE">
             <persName>Leonida</persName>
           </person>
-          <person xml:id="libanvs">
+          <person xml:id="libanvs" sex="MALE">
             <persName>Libanvs</persName>
           </person>
-          <person xml:id="mercator">
+          <person xml:id="mercator" sex="MALE">
             <persName>Mercator</persName>
           </person>
-          <person xml:id="parasitvs">
+          <person xml:id="parasitvs" sex="MALE">
             <persName>Parasitvs</persName>
           </person>
-          <person xml:id="philaenivm">
+          <person xml:id="philaenivm" sex="FEMALE">
             <persName>Philaenivm</persName>
           </person>
         </listPerson>
