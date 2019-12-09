@@ -52,13 +52,13 @@
           <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus</name>
           </personGrp>
-          <person xml:id="creon" sex="MALE" ana="https://www.wikidata.org/wiki/Q732066">
+          <person xml:id="creon" sex="MALE" ana="https://www.wikidata.org/entity/Q732066">
             <persName>Creo</persName>
           </person>
-          <person xml:id="iason" sex="MALE" ana="https://www.wikidata.org/wiki/Q176758">
+          <person xml:id="iason" sex="MALE" ana="https://www.wikidata.org/entity/Q176758">
             <persName>Iason</persName>
           </person>
-          <person xml:id="medea" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q174278">
+          <person xml:id="medea" sex="FEMALE" ana="https://www.wikidata.org/entity/Q174278">
             <persName>Medea</persName>
           </person>
           <person xml:id="nutrix" sex="FEMALE">

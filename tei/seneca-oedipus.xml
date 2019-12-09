@@ -55,13 +55,13 @@
           <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
           </person>
-          <person xml:id="oedipus" sex="MALE" ana="https://www.wikidata.org/wiki/Q130890">
+          <person xml:id="oedipus" sex="MALE" ana="https://www.wikidata.org/entity/Q130890">
             <persName>Oedipus</persName>
           </person>
-          <person xml:id="creon" sex="MALE" ana="https://www.wikidata.org/wiki/Q732066">
+          <person xml:id="creon" sex="MALE" ana="https://www.wikidata.org/entity/Q732066">
             <persName>Creo</persName>
           </person>
-          <person xml:id="iocasta" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131445">
+          <person xml:id="iocasta" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131445">
             <persName>Iocasta</persName>
           </person>
           <person xml:id="phorbas" sex="MALE">
@@ -70,7 +70,7 @@
           <person xml:id="senex" sex="MALE">
             <persName>Senex Corinthius</persName>
           </person>
-          <person xml:id="teiresias" sex="MALE" ana="https://www.wikidata.org/wiki/Q656881">
+          <person xml:id="teiresias" sex="MALE" ana="https://www.wikidata.org/entity/Q656881">
             <persName>Teiresia</persName>
           </person>
           <person xml:id="manto" sex="FEMALE">

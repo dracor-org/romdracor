@@ -49,10 +49,10 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antigona" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131351">
+          <person xml:id="antigona" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131351">
             <persName>Antigona</persName>
           </person>
-          <person xml:id="iocasta" sex="FEMALE" ana="https://www.wikidata.org/wiki/Q131445">
+          <person xml:id="iocasta" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131445">
             <persName>Iocasta</persName>
           </person>
           <person xml:id="nuntius" sex="MALE">
@@ -61,13 +61,13 @@
           <person xml:id="satelles" sex="UNKNOWN">
             <persName>Satelles</persName>
           </person>
-          <person xml:id="oedipus" sex="MALE" ana="https://www.wikidata.org/wiki/Q130890">
+          <person xml:id="oedipus" sex="MALE" ana="https://www.wikidata.org/entity/Q130890">
             <persName>Oedipus</persName>
           </person>
-          <person xml:id="polynices" sex="MALE" ana="https://www.wikidata.org/wiki/Q334817">
+          <person xml:id="polynices" sex="MALE" ana="https://www.wikidata.org/entity/Q334817">
             <persName>Polynices</persName>
           </person>
-          <person xml:id="eteocles" sex="MALE" ana="https://www.wikidata.org/wiki/Q506550">
+          <person xml:id="eteocles" sex="MALE" ana="https://www.wikidata.org/entity/Q506550">
             <persName>Eteocles</persName>
           </person>
         </listPerson>
