@@ -54,46 +54,46 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antipho">
+          <person xml:id="antipho" sex="MALE">
             <persName>Antipho</persName>
           </person>
-          <person xml:id="chremies">
+          <person xml:id="chremies" sex="MALE">
             <persName>Chremies</persName>
           </person>
-          <person xml:id="cratinus">
+          <person xml:id="cratinus" sex="MALE">
             <persName>Cratinus</persName>
           </person>
-          <person xml:id="crito">
+          <person xml:id="crito" sex="MALE">
             <persName>Crito</persName>
           </person>
-          <person xml:id="davus">
+          <person xml:id="davus" sex="MALE">
             <persName>Davus</persName>
           </person>
-          <person xml:id="hegio">
+          <person xml:id="hegio" sex="MALE">
             <persName>Hegio</persName>
           </person>
-          <person xml:id="demipho">
+          <person xml:id="demipho" sex="MALE">
             <persName>Demipho</persName>
           </person>
-          <person xml:id="dorio">
+          <person xml:id="dorio" sex="MALE">
             <persName>Dorio</persName>
           </person>
-          <person xml:id="geta">
+          <person xml:id="geta" sex="MALE">
             <persName>Geta</persName>
           </person>
           <personGrp xml:id="omnes" sex="UNKNOWN">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="nausistrata">
+          <person xml:id="nausistrata" sex="FEMALE">
             <persName>Nausistrata</persName>
           </person>
-          <person xml:id="phaedria">
+          <person xml:id="phaedria" sex="MALE">
             <persName>Phaedria</persName>
           </person>
-          <person xml:id="phormio">
+          <person xml:id="phormio" sex="MALE">
             <persName>Phormio</persName>
           </person>
-          <person xml:id="sophrona">
+          <person xml:id="sophrona" sex="FEMALE">
             <persName>Sophrona</persName>
           </person>
         </listPerson>
