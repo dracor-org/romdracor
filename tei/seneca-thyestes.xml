@@ -52,7 +52,7 @@
           <person xml:id="atreus" sex="MALE" ana="https://www.wikidata.org/wiki/Q192469">
             <persName>Atreus</persName>
           </person>
-          <person xml:id="satelles"" sex="MALE">
+          <person xml:id="satelles" sex="MALE">
             <persName>Satelles</persName>
           </person>
           <person xml:id="furia" sex="FEMALE">
