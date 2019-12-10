@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="latin">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
     <fileDesc>
       <titleStmt>
