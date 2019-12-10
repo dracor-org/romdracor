@@ -18,7 +18,7 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q646990</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q646990</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -52,7 +52,7 @@
           <personGrp sex="UNKNOWN" xml:id="chorus">
             <name>Chorus Romanorum</name>
           </personGrp>
-          <person xml:id="nero" sex="MALE" ana="https://www.wikidata.org/entity/Q1413">
+          <person xml:id="nero" sex="MALE" ana="http://www.wikidata.org/entity/Q1413">
             <persName>Nero</persName>
           </person>
           <person xml:id="nuntius" sex="MALE">
@@ -64,16 +64,16 @@
           <person xml:id="nutrix2" sex="FEMALE">
             <persName>Nutrix Poppaeae</persName>
           </person>
-          <person xml:id="poppaea" sex="FEMALE" ana="https://www.wikidata.org/entity/Q230716">
+          <person xml:id="poppaea" sex="FEMALE" ana="http://www.wikidata.org/entity/Q230716">
             <persName>Poppaea</persName>
           </person>
-          <person xml:id="octavia" sex="FEMALE" ana="https://www.wikidata.org/entity/Q231262">
+          <person xml:id="octavia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231262">
             <persName>Octavia</persName>
           </person>
           <person xml:id="praefectus" sex="MALE">
             <persName>Praefectus</persName>
           </person>
-          <person xml:id="seneca" sex="MALE" ana="https://www.wikidata.org/entity/Q2054">
+          <person xml:id="seneca" sex="MALE" ana="http://www.wikidata.org/entity/Q2054">
             <persName>Seneca</persName>
           </person>
         </listPerson>

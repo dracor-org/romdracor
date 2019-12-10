@@ -18,7 +18,7 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q3990982</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3990982</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -49,7 +49,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="atreus" sex="MALE" ana="https://www.wikidata.org/entity/Q192469">
+          <person xml:id="atreus" sex="MALE" ana="http://www.wikidata.org/entity/Q192469">
             <persName>Atreus</persName>
           </person>
           <person xml:id="satelles" sex="MALE">
@@ -58,19 +58,19 @@
           <person xml:id="furia" sex="FEMALE">
             <persName>Furia</persName>
           </person>
-          <person xml:id="tantalus" sex="MALE" ana="https://www.wikidata.org/entity/Q515531">
+          <person xml:id="tantalus" sex="MALE" ana="http://www.wikidata.org/entity/Q515531">
             <persName>Tantalus</persName>
           </person>
-          <person xml:id="plisthenes" sex="MALE" ana="https://www.wikidata.org/entity/Q3392478">
+          <person xml:id="plisthenes" sex="MALE" ana="http://www.wikidata.org/entity/Q3392478">
             <persName>Plisthenes Taciti</persName>
           </person>
           <personGrp sex="UNKNOWN" xml:id="chorus">
             <name>Chorus</name>
           </personGrp>
-          <person xml:id="tantaliumbra" sex="MALE" ana="https://www.wikidata.org/entity/Q515531">
+          <person xml:id="tantaliumbra" sex="MALE" ana="http://www.wikidata.org/entity/Q515531">
             <persName>Tantali Umbra</persName>
           </person>
-          <person xml:id="thyestes" sex="MALE" ana="https://www.wikidata.org/entity/Q622504">
+          <person xml:id="thyestes" sex="MALE" ana="http://www.wikidata.org/entity/Q622504">
             <persName>Thyestes</persName>
           </person>
         </listPerson>

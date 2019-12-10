@@ -18,7 +18,7 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q777435</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q777435</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -52,19 +52,19 @@
           <personGrp sex="UNKNOWN" xml:id="chorus">
             <name>Chorus Cressae</name>
           </personGrp>
-          <person xml:id="hippolytus" sex="MALE" ana="https://www.wikidata.org/entity/Q338201">
+          <person xml:id="hippolytus" sex="MALE" ana="http://www.wikidata.org/entity/Q338201">
             <persName>Hippolytus</persName>
           </person>
           <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
           </person>
-          <person xml:id="theseus" sex="MALE" ana="https://www.wikidata.org/entity/Q1320718">
+          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
             <persName>Theseus</persName>
           </person>
           <person xml:id="nutrix" sex="FEMALE">
             <persName>Nutrix</persName>
           </person>
-          <person xml:id="phaedra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q212818">
+          <person xml:id="phaedra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q212818">
             <persName>Phaedra</persName>
           </person>
         </listPerson>

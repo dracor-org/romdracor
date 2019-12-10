@@ -18,7 +18,7 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q3999195</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3999195</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -49,40 +49,40 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="andromacha" sex="FEMALE" ana="https://www.wikidata.org/entity/Q19376">
+          <person xml:id="andromacha" sex="FEMALE" ana="http://www.wikidata.org/entity/Q19376">
             <persName>Andromacha</persName>
           </person>
-          <person xml:id="astyanax" sex="MALE" ana="https://www.wikidata.org/entity/Q334787">
+          <person xml:id="astyanax" sex="MALE" ana="http://www.wikidata.org/entity/Q334787">
             <persName>Astyanax</persName>
           </person>
           <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus</name>
           </personGrp>
-          <person xml:id="hecuba" sex="FEMALE" ana="https://www.wikidata.org/entity/Q193433">
+          <person xml:id="hecuba" sex="FEMALE" ana="http://www.wikidata.org/entity/Q193433">
             <persName>Hecvba</persName>
           </person>
-          <person xml:id="helena" sex="FEMALE" ana="https://www.wikidata.org/entity/Q164061">
+          <person xml:id="helena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
             <persName>Helena</persName>
           </person>
           <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
           </person>
-          <person xml:id="pyrrhus" sex="MALE" ana="https://www.wikidata.org/entity/Q322639">
+          <person xml:id="pyrrhus" sex="MALE" ana="http://www.wikidata.org/entity/Q322639">
             <persName>Pyrrhus</persName>
           </person>
           <person xml:id="senex" sex="MALE">
             <persName>Senex</persName>
           </person>
-          <person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/entity/Q128176">
+          <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Agamemnon</persName>
           </person>
-          <person xml:id="calchas" sex="MALE" ana="https://www.wikidata.org/entity/Q725527">
+          <person xml:id="calchas" sex="MALE" ana="http://www.wikidata.org/entity/Q725527">
             <persName>Calchas</persName>
           </person>
-          <person xml:id="talthybius" sex="MALE" ana="https://www.wikidata.org/entity/Q1367860">
+          <person xml:id="talthybius" sex="MALE" ana="http://www.wikidata.org/entity/Q1367860">
             <name>Talthybius</name>
           </person>
-          <person xml:id="ulixes" sex="MALE" ana="https://www.wikidata.org/entity/Q47231">
+          <person xml:id="ulixes" sex="MALE" ana="http://www.wikidata.org/entity/Q47231">
             <persName>Ulixes</persName>
           </person>
         </listPerson>

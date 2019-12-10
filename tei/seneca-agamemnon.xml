@@ -18,7 +18,7 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q15059087</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q15059087</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -49,19 +49,19 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="aegisthus" sex="MALE" ana="https://www.wikidata.org/entity/Q212091">
+          <person xml:id="aegisthus" sex="MALE" ana="http://www.wikidata.org/entity/Q212091">
             <persName>Aegisthus</persName>
           </person>
-          <person xml:id="clytemestra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131157">
+          <person xml:id="clytemestra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131157">
             <persName>Clytemestra</persName>
           </person>
           <person xml:id="nutrix" sex="FEMALE">
             <persName>Nutrix</persName>
           </person>
-          <person xml:id="agamemnon" sex="MALE" ana="https://www.wikidata.org/entity/Q128176">
+          <person xml:id="agamemnon" sex="MALE" ana="http://www.wikidata.org/entity/Q128176">
             <persName>Agamemno</persName>
           </person>
-          <person xml:id="cassandra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q170779">
+          <person xml:id="cassandra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q170779">
             <persName>Cassandra</persName>
           </person>
           <personGrp xml:id="chorus" sex="UNKNOWN">
@@ -70,16 +70,16 @@
           <personGrp xml:id="chorus2" sex="UNKNOWN">
             <name>Chorus Iliadum</name>
           </personGrp>
-          <person xml:id="electra" sex="FEMALE" ana="https://www.wikidata.org/entity/Q131651">
+          <person xml:id="electra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
             <persName>Electra</persName>
           </person>
-          <person xml:id="eurybates" sex="MALE" ana="https://www.wikidata.org/entity/Q2665082">
+          <person xml:id="eurybates" sex="MALE" ana="http://www.wikidata.org/entity/Q2665082">
             <name>Eurybates</name>
           </person>
-          <person xml:id="strophius" sex="MALE" ana="https://www.wikidata.org/entity/Q1421896">
+          <person xml:id="strophius" sex="MALE" ana="http://www.wikidata.org/entity/Q1421896">
             <persName>Strophius</persName>
           </person>
-          <person xml:id="thyestis" sex="MALE" ana="https://www.wikidata.org/entity/Q622504">
+          <person xml:id="thyestis" sex="MALE" ana="http://www.wikidata.org/entity/Q622504">
             <persName>Thyestis</persName>
           </person>
         </listPerson>

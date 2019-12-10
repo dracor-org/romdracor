@@ -18,7 +18,7 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q3785162</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q3785162</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -49,13 +49,13 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="amphitryon" sex="MALE" ana="https://www.wikidata.org/entity/Q206214">
+          <person xml:id="amphitryon" sex="MALE" ana="http://www.wikidata.org/entity/Q206214">
             <persName>Amphitryon</persName>
           </person>
-          <person xml:id="theseus" sex="MALE" ana="https://www.wikidata.org/entity/Q1320718">
+          <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
             <persName>Theseus</persName>
           </person>
-          <person xml:id="megara" sex="FEMALE" ana="https://www.wikidata.org/entity/Q929768">>
+          <person xml:id="megara" sex="FEMALE" ana="http://www.wikidata.org/entity/Q929768">>
             <persName>Megara</persName>
           </person>
           <person xml:id="lycus" sex="MALE">
@@ -64,10 +64,10 @@
           <personGrp sex="UNKNOWN" xml:id="chorus">
             <name>Chorus</name>
           </personGrp>
-          <person xml:id="hercules" sex="MALE" ana="https://www.wikidata.org/entity/Q122248">
+          <person xml:id="hercules" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
             <persName>Hercules</persName>
           </person>
-          <person xml:id="iuno" sex="FEMALE" ana="https://www.wikidata.org/entity/Q125046">
+          <person xml:id="iuno" sex="FEMALE" ana="http://www.wikidata.org/entity/Q125046">
             <persName>Iuno</persName>
           </person>
         </listPerson>

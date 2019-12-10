@@ -18,7 +18,7 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="https://www.wikidata.org/entity/">Q475025</idno>
+        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q475025</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -51,19 +51,19 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="alcvmena" sex="FEMALE" ana="https://www.wikidata.org/entity/Q190543">
+          <person xml:id="alcvmena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q190543">
             <persName>Alcvmena</persName>
           </person>
-          <person xml:id="amphitrvo" sex="MALE" ana="https://www.wikidata.org/entity/Q206214">
+          <person xml:id="amphitrvo" sex="MALE" ana="http://www.wikidata.org/entity/Q206214">
             <persName>Amphitrvo</persName>
           </person>
           <person xml:id="bromia" sex="FEMALE">
             <persName>Bromia</persName>
           </person>
-          <person xml:id="ivppiter" sex="MALE" ana="https://www.wikidata.org/entity/Q4649">
+          <person xml:id="ivppiter" sex="MALE" ana="http://www.wikidata.org/entity/Q4649">
             <persName>Ivppiter</persName>
           </person>
-          <person xml:id="mercvrivs" sex="MALE" ana="https://www.wikidata.org/entity/Q1150">
+          <person xml:id="mercvrivs" sex="MALE" ana="http://www.wikidata.org/entity/Q1150">
             <persName>Mercvrivs</persName>
           </person>
           <person xml:id="sosia" sex="MALE">
