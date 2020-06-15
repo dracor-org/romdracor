@@ -86,6 +86,9 @@
           <person xml:id="tranio" sex="MALE">
             <persName>Tranio</persName>
           </person>
+          <person xml:id="scapha" sex="MALE">
+            <persName>Scapha</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
@@ -570,7 +573,7 @@ Added to repository.
             <lb ed="TLN" n="158"/>
             <l>nec quom me melius, mea Scapha, rear esse deficatam.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="159"/>
             <l>Eventus rebus omnibus, velut horno messis magna</l>
@@ -581,7 +584,7 @@ Added to repository.
             <speaker>Philem.</speaker>
             <l part="M">Quíd ea messis attinet ad meam lavationem?</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="161"/>
             <l n="5" part="I">Nihilo plus quam lavatio tua ad messim.</l>
@@ -605,7 +608,7 @@ Added to repository.
             <lb ed="TLN" n="167"/>
             <l>volo mé placere Philolachi, meo ocello, meo patrono.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="168"/>
             <l>Quin tu te exornas moribus lepidis, quom lepida tute es?</l>
@@ -624,7 +627,7 @@ Added to repository.
             <lb ed="TLN" n="172"/>
             <l part="I">Quid nunc?</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Quid est?</l>
           </sp>
@@ -632,7 +635,7 @@ Added to repository.
             <speaker>Philem.</speaker>
             <l part="M">Quin me aspice et contempla, ut haec me deceat.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="173"/>
             <l>Virtute formae id evenit, te ut deceat quidquid habeas.</l>
@@ -649,7 +652,7 @@ Added to repository.
             <lb ed="TLN" n="176"/>
             <l n="20" part="I">Nolo ego te adsentari mihi.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Nimis tú quidem stulta es mulier.</l>
             <lb ed="TLN" n="177"/>
@@ -664,7 +667,7 @@ Added to repository.
             <lb ed="TLN" n="181"/>
             <l>Ego verum amo, verum volo dici mihi: mendacem odi.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="182"/>
             <l n="25">Ita tu me ames, ita Philolaches tuos té amet, ut venusta es.</l>
@@ -678,7 +681,7 @@ Added to repository.
             <lb ed="TLN" n="185"/>
             <l>periisti: quod promiseram tibi donum, perdidisti.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="186"/>
             <l>Equidem pol miror tam catam, tam docilem te et bene doctam</l>
@@ -689,7 +692,7 @@ Added to repository.
             <speaker>Philem.</speaker>
             <l part="M">Quin mone quaéso, si quid erro.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="188"/>
             <l>Tu ecastor erras, quae quidem illum expectes unum atque illi</l>
@@ -712,7 +715,7 @@ Added to repository.
             <lb ed="TLN" n="194"/>
             <l part="I">Nolo ego mihi male te, Scapha, praecipere.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Stulta es plane,</l>
             <lb ed="TLN" n="195"/>
@@ -725,7 +728,7 @@ Added to repository.
             <lb ed="TLN" n="197"/>
             <l n="40" part="I">Non spero.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Insperata accidunt magis saépe quam quae speres.</l>
             <lb ed="TLN" n="198"/>
@@ -758,7 +761,7 @@ Added to repository.
             <lb ed="TLN" n="207"/>
             <l n="50">bene hercle factum et gaudeo mihi nihil esse huius causa.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="208"/>
             <l part="I">Inscita ecastor tu quidem es.</l>
@@ -767,7 +770,7 @@ Added to repository.
             <speaker>Philem.</speaker>
             <l part="M">Quapropter?</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Quae istuc &lt;cures&gt;,</l>
             <lb ed="TLN" n="209"/>
@@ -777,7 +780,7 @@ Added to repository.
             <speaker>Philem.</speaker>
             <l part="M">Cur obsecro non curem?</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Libera es iam.</l>
             <lb ed="TLN" n="210"/>
@@ -799,7 +802,7 @@ Added to repository.
             <lb ed="TLN" n="215"/>
             <l>Scapha, id tu mihi ne suadeas, ut illúm minoris pendam.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="216"/>
             <l>At hoc únum facito cogites: si illum inservibis solum</l>
@@ -827,7 +830,7 @@ Added to repository.
             <lb ed="TLN" n="223"/>
             <l>te liberasso denuo et ni Scapham enicasso.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="224"/>
             <l>Si tibi sat acceptum est fore tibi victum sempiternum</l>
@@ -850,7 +853,7 @@ Added to repository.
             <lb ed="TLN" n="230"/>
             <l>quam te me vivo umquam sinam egere aut mendicare.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="231"/>
             <l part="I">Quid illís futurum est ceteris qui té amant?</l>
@@ -868,7 +871,7 @@ Added to repository.
             <lb ed="TLN" n="234"/>
             <l>ut ego exheredem meis bonis me faciam atque haec sit heres.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="235"/>
             <l>Iam ista quidem absumpta res erit: dies nóctesque estur bibitur,</l>
@@ -900,7 +903,7 @@ Added to repository.
             <lb ed="TLN" n="244"/>
             <l>quae pro me causam diceret, patronum liberavi.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="245"/>
             <l>Video te nihili pendere prae Philolache omnis homines.</l>
@@ -916,7 +919,7 @@ Added to repository.
             <lb ed="TLN" n="249"/>
             <l>ornata ut sim, quom huc adveniat Philolaches voluptas mea.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="250"/>
             <l>Mulier quae se suamque aetatem spernit, speculo ei usus est:</l>
@@ -935,7 +938,7 @@ Added to repository.
             <lb ed="TLN" n="254"/>
             <l>Suo quique loco (viden?) capillus satis compositust commode.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="255"/>
             <l>Vbi tu commoda es, capillum commodum esse credito.</l>
@@ -952,7 +955,7 @@ Added to repository.
             <lb ed="TLN" n="258"/>
             <l part="I">Cedo cerussam.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Quid cerussa opust nám?</l>
           </sp>
@@ -960,7 +963,7 @@ Added to repository.
             <speaker>Philem.</speaker>
             <l part="M">Qui malas oblinam.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="259"/>
             <l>Vna operá ebur atramento candefacere postules.</l>
@@ -975,7 +978,7 @@ Added to repository.
             <lb ed="TLN" n="261"/>
             <l part="I">Tum tu igitur cedo purpurissum.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Non do. scita es tu quidem.</l>
             <lb ed="TLN" n="262"/>
@@ -996,7 +999,7 @@ Added to repository.
             <lb ed="TLN" n="266"/>
             <l>nimis velim lapidem, qui ego illi speculo diminuam caput.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="267"/>
             <l n="110" part="I">Linteum cape atque exterge tibi manus.</l>
@@ -1005,7 +1008,7 @@ Added to repository.
             <speaker>Philem.</speaker>
             <l part="M">Quid ita, obsecro?</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="268"/>
             <l>Vt speculum tenuisti, metuo né olant argentum manus:</l>
@@ -1024,7 +1027,7 @@ Added to repository.
             <lb ed="TLN" n="272"/>
             <l n="115" part="I">Etiamne unguentis unguendam censes?</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Minime feceris.</l>
           </sp>
@@ -1033,7 +1036,7 @@ Added to repository.
             <lb ed="TLN" n="273"/>
             <l part="I">Quapropter?</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Quia ecastor mulier recte olet, ubi nihil olet.</l>
             <lb ed="TLN" n="274"/>
@@ -1061,7 +1064,7 @@ Added to repository.
             <lb ed="TLN" n="282"/>
             <l n="125">Agedum contempla aurum et pallam, satin haec &lt;me&gt; deceat, Scapha.</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <lb ed="TLN" n="283"/>
             <l part="I">Non me istuc curare oportet.</l>
@@ -1070,7 +1073,7 @@ Added to repository.
             <speaker>Philem.</speaker>
             <l part="M">Quem obsecro igitur?</l>
           </sp>
-          <sp who="#sc.">
+          <sp who="#scapha">
             <speaker>Sc.</speaker>
             <l part="M">Eloquar:</l>
             <lb ed="TLN" n="284-285"/>
@@ -2193,7 +2196,7 @@ Added to repository.
             <lb ed="TLN" n="514"/>
             <l n="85">Nihil ego formido, pax mihi est cum mortuis.</l>
           </sp>
-          <sp who="#intvs.">
+          <sp who="#theopropides">
             <speaker>Intvs.</speaker>
             <lb ed="TLN" n="515"/>
             <l part="I">Heus, Tranio.</l>
@@ -2204,7 +2207,7 @@ Added to repository.
             <lb ed="TLN" n="516"/>
             <l>nihil ego commerui, neque istas percussi fores.</l>
           </sp>
-          <sp who="#intvs.">
+          <sp who="#theopropides">
             <speaker>Intvs.</speaker>
             <lb ed="TLN" n="517"/>
             <l part="I">Quaeso—&lt;</l>

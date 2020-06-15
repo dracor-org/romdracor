@@ -68,12 +68,12 @@
           <person xml:id="labrax" sex="MALE">
             <persName>Labrax</persName>
           </person>
-          <personGrp xml:id="loralter" sex="UNKNOWN">
-            <name>Lor. alter</name>
-          </personGrp>
-          <person xml:id="lorarivs" sex="MALE">
+              <person xml:id="lorarivs" sex="MALE">
             <persName>Lorarivs</persName>
           </person>
+          <personGrp xml:id="lor_alter" sex="MALE">
+            <name>Lor. alter</name>
+          </personGrp>
           <person xml:id="palaestra" sex="FEMALE">
             <persName>Palaestra</persName>
           </person>
@@ -1294,7 +1294,7 @@ Added to repository.
             <speaker>Trach.</speaker>
             <l part="M">Melius ominare.</l>
           </sp>
-          <sp who="#amph.">
+          <sp who="#ampelisca">
             <speaker>Amph.</speaker>
             <lb ed="TLN" n="338"/>
             <l>Verum omnes sapientes decet conferre et fabulari.</l>
@@ -3189,7 +3189,7 @@ Added to repository.
             <lb ed="TLN" n="828"/>
             <l part="I">heus, Ampelisca.</l>
           </sp>
-          <sp who="#lor. alter">
+          <sp who="#lor_alter">
             <speaker>Lor. alter</speaker>
             <l part="M">Cave sis infortunio.</l>
           </sp>
@@ -3202,7 +3202,7 @@ Added to repository.
             <lb ed="TLN" n="831"/>
             <l part="I">me adire ad illas propius?</l>
           </sp>
-          <sp who="#loralter">
+          <sp who="#lorarivs">
             <speaker>Lor.</speaker>
             <l part="M">Nil nobis quidem.</l>
           </sp>
@@ -3211,7 +3211,7 @@ Added to repository.
             <lb ed="TLN" n="832"/>
             <l part="I">Numquid molestum mihi erit?</l>
           </sp>
-          <sp who="#loralter">
+          <sp who="#lorarivs">
             <speaker>Lor.</speaker>
             <l part="M">Nil, si caveris.</l>
           </sp>
@@ -3220,7 +3220,7 @@ Added to repository.
             <lb ed="TLN" n="833"/>
             <l part="I">Quid est quod caveam?</l>
           </sp>
-          <sp who="#loralter">
+          <sp who="#lorarivs">
             <speaker>Lor.</speaker>
             <l part="M">Em, a crasso infortunio.</l>
           </sp>
@@ -3229,7 +3229,7 @@ Added to repository.
             <lb ed="TLN" n="834"/>
             <l part="I">Quaeso hercle, abire ut liceat.</l>
           </sp>
-          <sp who="#loralter">
+          <sp who="#lorarivs">
             <speaker>Lor.</speaker>
             <l part="M">Abeas, si velis.</l>
           </sp>
@@ -3240,7 +3240,7 @@ Added to repository.
             <lb ed="TLN" n="836"/>
             <l part="I">[non] accedam potius.</l>
           </sp>
-          <sp who="#loralter">
+          <sp who="#lorarivs">
             <speaker>Lor.</speaker>
             <l part="M">Illic astato ilico.</l>
           </sp>
@@ -3471,7 +3471,7 @@ Added to repository.
             <lb ed="TLN" n="879"/>
             <l part="I">manete, dúm ego huc redeo.</l>
           </sp>
-          <sp who="#loralter">
+          <sp who="#lorarivs">
             <speaker>Lor.</speaker>
             <l part="M">Equidem suadeo,</l>
             <lb ed="TLN" n="880"/>
@@ -3487,7 +3487,7 @@ Added to repository.
             <speaker>Labr.</speaker>
             <l part="M">Fures mi estis.</l>
           </sp>
-          <sp who="#loralter">
+          <sp who="#lorarivs">
             <speaker>Lor.</speaker>
             <l part="M">Quid, fures? rape.</l>
           </sp>

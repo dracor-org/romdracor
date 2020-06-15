@@ -53,7 +53,7 @@
           <person xml:id="ancilla" sex="FEMALE">
             <persName>Ancilla</persName>
           </person>
-          <person xml:id="cylindrvs" sex="MALE">>
+          <person xml:id="cylindrvs" sex="MALE">
             <persName>Cylindrvs</persName>
           </person>
           <person xml:id="erotivm" sex="FEMALE">
@@ -62,21 +62,27 @@
           <person xml:id="matrona" sex="FEMALE">
             <persName>Matrona</persName>
           </person>
-          <person xml:id="medicvs" sex="MALE">>
+          <person xml:id="medicvs" sex="MALE">
             <persName>Medicvs</persName>
           </person>
-          <person xml:id="menaechmvs" sex="MALE">>
+          <person xml:id="menaechmvs" sex="MALE">
             <persName>Menaechmvs</persName>
           </person>
-          <person xml:id="messenio" sex="MALE">>
+          <person xml:id="sosicles" sex="MALE">
+            <persName>Sosicles</persName>
+          </person>
+          <person xml:id="messenio" sex="MALE">
             <persName>Messenio</persName>
           </person>
-          <person xml:id="penicvlvs" sex="MALE">>
+          <person xml:id="penicvlvs" sex="MALE">
             <persName>Penicvlvs</persName>
           </person>
-          <person xml:id="senex" sex="MALE">>
+          <person xml:id="senex" sex="MALE">
             <persName>Senex</persName>
           </person>
+          <personGrp xml:id="lorarii" sex="MALE">
+            <name>Lorarii</name>
+          </personGrp>
         </listPerson>
       </particDesc>
       <textClass>
@@ -4081,7 +4087,7 @@ Added to repository.
             <lb ed="TLN" n="1015"/>
             <l part="I">vos scelesti, vos rapacis, vos praedones.</l>
           </sp>
-          <sp who="#lorarii.">
+          <sp who="#lorarii">
             <speaker>Lorarii.</speaker>
             <l part="M">Periimus.</l>
             <lb ed="TLN" n="1016"/>
@@ -4235,7 +4241,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="8" type="scene">
-          <sp who="#menaechmvs (sosicles">
+          <sp who="#menaechmvs">
             <speaker>Menaechmvs (sosicles)</speaker>
             <lb ed="TLN" n="1050"/>
             <l>Men hodie usquam convenisse te, audax, audes dicere,</l>
@@ -4258,7 +4264,7 @@ Added to repository.
             <lb ed="TLN" n="1057"/>
             <l>praecucurristi obviam, ut quae fecisti infitias eas.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1058"/>
             <l part="I">Liberum ego te iussi abire?</l>
@@ -4267,7 +4273,7 @@ Added to repository.
             <speaker>Mess.</speaker>
             <l part="M">Certo.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Quin certissimumst,</l>
             <lb ed="TLN" n="1059"/>
@@ -4295,7 +4301,7 @@ Added to repository.
             <speaker>Mes.</speaker>
             <l part="M">Speculum tuom.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1063"/>
             <l part="I">Quid negoti est?</l>
@@ -4304,7 +4310,7 @@ Added to repository.
             <speaker>Mes.</speaker>
             <l part="M">Tuast imago. tam consimilest quam potest.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1064"/>
             <l n="5">Pol profecto haud est dissimilis, meam quom formam noscito.</l>
@@ -4326,7 +4332,7 @@ Added to repository.
             <lb ed="TLN" n="1068"/>
             <l part="I">&lt;obsequi&gt;. mihi est Menaechmo nomen.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Immo edepol mihi.</l>
           </sp>
@@ -4335,7 +4341,7 @@ Added to repository.
             <lb ed="TLN" n="1069"/>
             <l n="10" part="I">Siculus sum Syracusanus.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Eadem urbs et patria est mihi.</l>
           </sp>
@@ -4344,7 +4350,7 @@ Added to repository.
             <lb ed="TLN" n="1070"/>
             <l part="I">Quid ego ex te audio?</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Hoc quod res est.</l>
           </sp>
@@ -4358,7 +4364,7 @@ Added to repository.
             <lb ed="TLN" n="1073"/>
             <l>quaeso ignoscas, si quid stulte dixi atque imprudens tibi.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1074"/>
             <l n="15">Delirare mihi videre: non commeministi, simul</l>
@@ -4377,7 +4383,7 @@ Added to repository.
             <speaker>Men.</speaker>
             <l part="M">At ego me.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Quae haec fabulast?</l>
             <lb ed="TLN" n="1078"/>
@@ -4387,7 +4393,7 @@ Added to repository.
             <speaker>Men.</speaker>
             <l part="M">Me esse dico, Moscho prognatum patre.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1079"/>
             <l n="20" part="I">Tun meo patre es prognatus?</l>
@@ -4409,7 +4415,7 @@ Added to repository.
             <lb ed="TLN" n="1084"/>
             <l n="25" part="I">sevocabo erum. Menaechme.</l>
           </sp>
-          <sp who="#men. sos.">
+          <sp who="#menaechmvs #sosicles">
             <speaker>Men. Sos.</speaker>
             <l part="M">Quid vis?</l>
           </sp>
@@ -4423,7 +4429,7 @@ Added to repository.
             <speaker>Men.</speaker>
             <l part="M">Non ego.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1086"/>
             <l part="I">At ego.</l>
@@ -4432,7 +4438,7 @@ Added to repository.
             <speaker>Mess.</speaker>
             <l part="M">Te volo igitur. huc concede.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Concessi. quid est?</l>
           </sp>
@@ -4449,7 +4455,7 @@ Added to repository.
             <lb ed="TLN" n="1091"/>
             <l>memorat. meliust nos adire átque hunc percontarier.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1092"/>
             <l>Hercle qui tu me admonuisti recte, et habeo gratiam.</l>
@@ -4462,7 +4468,7 @@ Added to repository.
             <speaker>Mess.</speaker>
             <l part="M">Spero.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Et ego item spero fore.</l>
           </sp>
@@ -4532,7 +4538,7 @@ Added to repository.
             <speaker>Mess.</speaker>
             <l part="M">Est itidem tibi?</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1108"/>
             <l part="I">Est.</l>
@@ -4545,7 +4551,7 @@ Added to repository.
             <speaker>Men.</speaker>
             <l part="M">Ita vero.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Et mihi.</l>
           </sp>
@@ -4562,7 +4568,7 @@ Added to repository.
             <speaker>Mess.</speaker>
             <l part="M">Quid tu?</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Quippini?</l>
           </sp>
@@ -4580,7 +4586,7 @@ Added to repository.
             <lb ed="TLN" n="1113"/>
             <l>inter homines me deerrare á patre atque inde avehi.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1114"/>
             <l n="55" part="I">Iuppiter supreme, serva me.</l>
@@ -4626,7 +4632,7 @@ Added to repository.
             <speaker>Men.</speaker>
             <l part="M">Gemini ambo eramus.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Di me servatum volunt.</l>
           </sp>
@@ -4635,7 +4641,7 @@ Added to repository.
             <lb ed="TLN" n="1121"/>
             <l part="I">Si interpellas, ego tacebo potius.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Taceo.</l>
           </sp>
@@ -4651,7 +4657,7 @@ Added to repository.
             <lb ed="TLN" n="1123"/>
             <l>quod nunc est, Menaechmo: íllum tum vocabant Sosiclem.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1124"/>
             <l n="65">Signa adgnovi, contineri quin complectar non queo.</l>
@@ -4663,7 +4669,7 @@ Added to repository.
             <lb ed="TLN" n="1126"/>
             <l>Quo modo igitur post Menaechmo nomen est factum tibi?</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1127"/>
             <l>Postquam ad nos renuntiatum est te * et patrem esse mortuom,</l>
@@ -4675,7 +4681,7 @@ Added to repository.
             <lb ed="TLN" n="1129-1130"/>
             <l n="70" part="I">Credo ita esse factum ut dicis. sed mi hoc responde.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Roga.</l>
           </sp>
@@ -4684,7 +4690,7 @@ Added to repository.
             <lb ed="TLN" n="1131"/>
             <l part="I">Quid erat nomen nostrae matri?</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Teuximarchae.</l>
           </sp>
@@ -4694,7 +4700,7 @@ Added to repository.
             <lb ed="TLN" n="1132"/>
             <l>o salve, insperate multis annis post quem conspicor.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1133"/>
             <l>Frater, et tu, quém ego multis miseriis laboribus</l>
@@ -4727,7 +4733,7 @@ Added to repository.
             <lb ed="TLN" n="1140"/>
             <l n="80" part="I">quo modo haec ad te pervenit?</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Meretrix huc ad prandium</l>
             <lb ed="TLN" n="1141"/>
@@ -4752,7 +4758,7 @@ Added to repository.
             <lb ed="TLN" n="1147"/>
             <l>Optimum atque aequissimum orat, frater: fac causa mea.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1148"/>
             <l part="I">Liber esto.</l>
@@ -4766,7 +4772,7 @@ Added to repository.
             <lb ed="TLN" n="1149-1150"/>
             <l>Sed meliorest opus auspicio, ut liber perpetuo siem.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <lb ed="TLN" n="1151"/>
             <l>Quoniam haec evenerunt, frater, nostra éx sententia,</l>
@@ -4781,7 +4787,7 @@ Added to repository.
             <lb ed="TLN" n="1154"/>
             <l part="I">eamus intro, frater.</l>
           </sp>
-          <sp who="#sos.">
+          <sp who="#sosicles">
             <speaker>Sos.</speaker>
             <l part="M">Fiat.</l>
           </sp>

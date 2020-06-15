@@ -62,7 +62,7 @@
           <person xml:id="evnomia" sex="FEMALE">
             <persName>Evnomia</persName>
           </person>
-          <person xml:id="larfamiliaris" sex="MALE">
+          <person xml:id="lar_familiaris" sex="MALE">
             <persName>Lar familiaris</persName>
           </person>
           <person xml:id="lyconides" sex="MALE">
@@ -156,7 +156,7 @@ Added to repository.
     <body>
       <div1 n="prol." type="act">
         <head>PROLOGVS</head>
-        <sp who="#lar familiaris">
+        <sp who="#lar_familiaris">
           <speaker>Lar familiaris</speaker>
           <lb ed="TLN" n="1"/>
           <l>Ne quis miretur qui sim, paucis eloquar.</l>
@@ -1094,14 +1094,16 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <lb ed="TLN" n="268"/>
-          <l>ubi tu es, quae deblateravisti iam vicinis omnibus,</l>
-          <lb ed="TLN" n="269"/>
-          <l>meae me filiae daturum dotem? heus, Staphyla, te voco.</l>
-          <lb ed="TLN" n="270"/>
-          <l>ecquid audis? vascula intus pure propera atque elue:</l>
-          <lb ed="TLN" n="271"/>
-          <l>filiam despondi ego: hodie huic nuptum Megadoro dabo.</l>
+          <sp who="#evclio">
+            <lb ed="TLN" n="268"/>
+            <l>ubi tu es, quae deblateravisti iam vicinis omnibus,</l>
+            <lb ed="TLN" n="269"/>
+            <l>meae me filiae daturum dotem? heus, Staphyla, te voco.</l>
+            <lb ed="TLN" n="270"/>
+            <l>ecquid audis? vascula intus pure propera atque elue:</l>
+            <lb ed="TLN" n="271"/>
+            <l>filiam despondi ego: hodie huic nuptum Megadoro dabo.</l>
+          </sp>
           <sp who="#staphyla">
             <speaker>Staphyla</speaker>
             <lb ed="TLN" n="272"/>
@@ -2760,7 +2762,7 @@ Added to repository.
             <lb ed="TLN" n="733"/>
             <l part="I">Quo, obsecro, pacto esse possum?</l>
           </sp>
-          <sp who="#larfamiliaris">
+          <sp who="#lyconides">
             <speaker>L.</speaker>
             <l part="M">Quia istuc facinus, quod tuom</l>
             <lb ed="TLN" n="734"/>
@@ -2965,7 +2967,7 @@ Added to repository.
             <lb ed="TLN" n="773"/>
             <l part="I">Neque &lt;eum&gt; scis qui abstulerit?</l>
           </sp>
-          <sp who="#larfamiliaris">
+          <sp who="#lyconides">
             <speaker>L.</speaker>
             <l part="M">Istuc quoque bona.</l>
           </sp>
@@ -3130,7 +3132,7 @@ Added to repository.
             <lb ed="TLN" n="810"/>
             <l>quis me Athenis nunc magis quisquam est homo cui di sint propitii?</l>
           </sp>
-          <sp who="#larfamiliaris">
+          <sp who="#lyconides">
             <speaker>L.</speaker>
             <lb ed="TLN" n="811"/>
             <l part="I">Certo enim ego vocem hic loquentis modo mi audire visus sum.</l>
@@ -3141,7 +3143,7 @@ Added to repository.
             <lb ed="TLN" n="812"/>
             <l n="5" part="I">érumne ego aspició meum?</l>
           </sp>
-          <sp who="#larfamiliaris">
+          <sp who="#lyconides">
             <speaker>L.</speaker>
             <l part="M">Videón ego hunc servóm meum?</l>
           </sp>
@@ -3150,7 +3152,7 @@ Added to repository.
             <lb ed="TLN" n="813"/>
             <l part="I">Ipsus est.</l>
           </sp>
-          <sp who="#larfamiliaris">
+          <sp who="#lyconides">
             <speaker>L.</speaker>
             <l part="M">Haud alius est.</l>
           </sp>
@@ -3158,7 +3160,7 @@ Added to repository.
             <speaker>S.</speaker>
             <l part="M">Congrediar.</l>
           </sp>
-          <sp who="#larfamiliaris">
+          <sp who="#lyconides">
             <speaker>L.</speaker>
             <l part="M">Contollam gradum.</l>
             <lb ed="TLN" n="814-815"/>
@@ -3192,7 +3194,7 @@ Added to repository.
             <lb ed="TLN" n="820"/>
             <l part="I">Ere, mane, eloquar iam, ausculta.</l>
           </sp>
-          <sp who="#larfamiliaris">
+          <sp who="#lyconides">
             <speaker>L.</speaker>
             <l part="M">Age ergo loquere.</l>
           </sp>
@@ -3202,7 +3204,7 @@ Added to repository.
             <lb ed="TLN" n="821"/>
             <l part="I">ere, divitias nimias.</l>
           </sp>
-          <sp who="#larfamiliaris">
+          <sp who="#lyconides">
             <speaker>L.</speaker>
             <l part="M">Vbinam?</l>
           </sp>

@@ -69,6 +69,9 @@
           <person xml:id="sosia" sex="MALE">
             <persName>Sosia</persName>
           </person>
+          <person xml:id="blepharo" sex="MALE">
+            <persName>Blepharo</persName>
+          </person>
         </listPerson>
       </particDesc>
       <textClass>
@@ -4190,7 +4193,7 @@ Added to repository.
           <cit n="14">
             <bibl>Non.233M</bibl>
             <quote>
-              <sp who="#bleph.">
+              <sp who="#blepharo">
                 <speaker>(Bleph.)</speaker>
                 <lb ed="TLN" n="1034p"/>
                 <l n="30">animam comprime</l>
@@ -4242,7 +4245,7 @@ Added to repository.
           <cit n="19">
             <bibl>Non.285M</bibl>
             <quote>
-              <sp who="#amph. sive ivpp.">
+              <sp who="#amphitrvo #ivppiter">
                 <speaker>(Amph. sive Ivpp.)</speaker>
                 <lb ed="TLN" n="1034v"/>
                 <l>Qui nequeas nostrorum uter sit Amphitruo decernere.</l>
@@ -4251,7 +4254,7 @@ Added to repository.
           </cit>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#bleph.">
+          <sp who="#blepharo">
             <speaker>(Bleph.)</speaker>
             <lb ed="TLN" n="1035"/>
             <l>Vós inter vos partite; ego abeo, mihi negotium est;</l>
@@ -4263,7 +4266,7 @@ Added to repository.
             <lb ed="TLN" n="1037"/>
             <l part="I">Blepharo, quaeso ut advocatus mi adsis neve abeas.</l>
           </sp>
-          <sp who="#bleph.">
+          <sp who="#blepharo">
             <speaker>Bleph.</speaker>
             <l part="M">Vale.</l>
             <lb ed="TLN" n="1038"/>
