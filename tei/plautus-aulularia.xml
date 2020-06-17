@@ -2371,7 +2371,7 @@ Added to repository.
             <speaker>E.</speaker>
             <l part="M">Auferre non potes.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>St.</speaker>
             <l part="M">Quid vis tibi?</l>
           </sp>
@@ -2431,7 +2431,7 @@ Added to repository.
             <lb ed="TLN" n="645"/>
             <l part="I">Quid abstulisti hinc?</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Di me perdant. si ego tui quicquam abstuli</l>
             <lb ed="TLN" n="646"/>
@@ -2450,7 +2450,7 @@ Added to repository.
             <speaker>E.</speaker>
             <l part="M">Ne inter tunicas habeas.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Tempta qua lubet.</l>
           </sp>
@@ -2463,7 +2463,7 @@ Added to repository.
             <lb ed="TLN" n="650"/>
             <l part="I">dexteram.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Em.</l>
           </sp>
@@ -2471,7 +2471,7 @@ Added to repository.
             <speaker>E.</speaker>
             <l part="M">Nunc laevam ostende.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Quin equidem ambas profero.</l>
           </sp>
@@ -2480,7 +2480,7 @@ Added to repository.
             <lb ed="TLN" n="651"/>
             <l part="I">Iam scrutari mitto. redde huc.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Quid reddam?</l>
           </sp>
@@ -2490,7 +2490,7 @@ Added to repository.
             <lb ed="TLN" n="652"/>
             <l n="25" part="I">certe habes.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Habeo ego? quid habeo?</l>
           </sp>
@@ -2528,7 +2528,7 @@ Added to repository.
             <lb ed="TLN" n="660"/>
             <l part="I">fugin hinc ab oculis? abin an non?</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Abeo.</l>
           </sp>
@@ -3137,7 +3137,7 @@ Added to repository.
             <lb ed="TLN" n="811"/>
             <l part="I">Certo enim ego vocem hic loquentis modo mi audire visus sum.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Hem,</l>
             <lb ed="TLN" n="812"/>
@@ -3147,7 +3147,7 @@ Added to repository.
             <speaker>L.</speaker>
             <l part="M">Videón ego hunc servóm meum?</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <lb ed="TLN" n="813"/>
             <l part="I">Ipsus est.</l>
@@ -3156,7 +3156,7 @@ Added to repository.
             <speaker>L.</speaker>
             <l part="M">Haud alius est.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Congrediar.</l>
           </sp>
@@ -3189,7 +3189,7 @@ Added to repository.
             <speaker>Lyc.</speaker>
             <l part="M">Iamne autem, ut soles? deludis.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <lb ed="TLN" n="820"/>
             <l part="I">Ere, mane, eloquar iam, ausculta.</l>
@@ -3198,7 +3198,7 @@ Added to repository.
             <speaker>L.</speaker>
             <l part="M">Age ergo loquere.</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Repperi hodie,</l>
             <lb ed="TLN" n="821"/>
@@ -3208,7 +3208,7 @@ Added to repository.
             <speaker>L.</speaker>
             <l part="M">Vbinam?</l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Quadrilibrem, inquam, aulam auri plenam.</l>
           </sp>
@@ -3266,7 +3266,7 @@ Added to repository.
                esse in arca.
             </l>
           </sp>
-          <sp who="#staphyla">
+          <sp who="#strobilvs">
             <speaker>S.</speaker>
             <l part="M">Soleo hercle ego garrire nugas.</l>
           </sp>

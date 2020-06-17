@@ -68,12 +68,12 @@
           <person xml:id="labrax" sex="MALE">
             <persName>Labrax</persName>
           </person>
-              <person xml:id="lorarivs" sex="MALE">
+          <person xml:id="lorarivs" sex="MALE">
             <persName>Lorarivs</persName>
           </person>
-          <personGrp xml:id="lor_alter" sex="MALE">
-            <name>Lor. alter</name>
-          </personGrp>
+          <person xml:id="lor_alter" sex="MALE">
+            <persName>Lor. alter</persName>
+          </person>
           <person xml:id="palaestra" sex="FEMALE">
             <persName>Palaestra</persName>
           </person>
