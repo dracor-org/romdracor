@@ -989,7 +989,7 @@ Added to repository.
             <lb ed="TLN" n="273"/>
             <l part="I">{(&amp;7Alc&amp;.)} Quid si amo? *</l>
           </sp>
-          <sp who="#t.">
+          <sp who="#gymnasivm">
             <speaker>(T.)</speaker>
             <l part="M">* est amor</l>
             <lb ed="TLN" n="274"/>
@@ -1003,7 +1003,7 @@ Added to repository.
             <lb ed="TLN" n="278"/>
             <l>mihi nunquam quisquam *</l>
           </sp>
-          <sp who="#t.">
+          <sp who="#gymnasivm">
             <speaker>(T.)</speaker>
             <lb ed="TLN" n="279"/>
             <l n="55">Immo maxumus.</l>
@@ -1052,7 +1052,7 @@ Added to repository.
             <speaker>Serv.</speaker>
             <l part="M">Sanus hic non est satis.</l>
           </sp>
-          <sp who="#t.">
+          <sp who="#gymnasivm">
             <speaker>T.</speaker>
             <lb ed="TLN" n="290"/>
             <l>Ab anu esse credo nocitum, cum illaec sic facit.</l>
@@ -1092,7 +1092,7 @@ Added to repository.
             <lb ed="TLN" n="297"/>
             <l>Praestigiator, siquidem hic non es atque ades.</l>
           </sp>
-          <sp who="#t.">
+          <sp who="#gymnasivm">
             <speaker>T.</speaker>
             <lb ed="TLN" n="298"/>
             <l>Video ego te Amoris valde tactum toxico,</l>
@@ -1103,7 +1103,7 @@ Added to repository.
             <speaker>Alc.</speaker>
             <l part="M">Mone.</l>
           </sp>
-          <sp who="#t.">
+          <sp who="#gymnasivm">
             <speaker>T.</speaker>
             <lb ed="TLN" n="300"/>
             <l>Cave sís cum Amore tu unquam bellum sumpseris.</l>
@@ -1113,7 +1113,7 @@ Added to repository.
             <lb ed="TLN" n="301"/>
             <l part="I">Quid faciam?</l>
           </sp>
-          <sp who="#t.">
+          <sp who="#gymnasivm">
             <speaker>T.</speaker>
             <l part="M">Ad matrem eius devenias domum,</l>
             <lb ed="TLN" n="302"/>
