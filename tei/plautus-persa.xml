@@ -50,28 +50,28 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="dordalvs" sex="MALE">
-            <persName>Dordalvs</persName>
+          <person xml:id="dordalus" sex="MALE" role="leno">
+            <persName>Dordalus</persName>
           </person>
-          <person xml:id="lemniselenis" sex="FEMALE">
+          <person xml:id="lemniselenis" sex="FEMALE" role="meretrix">
             <persName>Lemniselenis</persName>
           </person>
-          <person xml:id="paegnivm" sex="MALE">
-            <persName>Paegnivm</persName>
+          <person xml:id="paegnium" sex="MALE" role="puer">
+            <persName>Paegnium</persName>
           </person>
-          <person xml:id="sagaristio" sex="MALE">
+          <person xml:id="sagaristio" sex="MALE" role="servus">
             <persName>Sagaristio</persName>
           </person>
-          <person xml:id="satvrio" sex="MALE">
-            <persName>Satvrio</persName>
+          <person xml:id="saturio" sex="MALE" role="parasitus">
+            <persName>Saturio</persName>
           </person>
-          <person xml:id="sophoclidisca" sex="FEMALE">
+          <person xml:id="sophoclidisca" sex="FEMALE" role="ancilla">
             <persName>Sophoclidisca</persName>
           </person>
-          <person xml:id="toxilvs" sex="MALE">
-            <persName>Toxilvs</persName>
+          <person xml:id="toxilus" sex="MALE" role="servus">
+            <persName>Toxilus</persName>
           </person>
-          <person xml:id="virgo" sex="FEMALE">
+          <person xml:id="virgo" sex="FEMALE" role="virgo">
             <persName>Virgo</persName>
           </person>
         </listPerson>
@@ -153,8 +153,8 @@ Added to repository.
     <body>
       <div1 n="1" type="act">
         <div2 n="1" type="scene">
-          <sp who="#toxilvs">
-            <speaker>Toxilvs</speaker>
+          <sp who="#toxilus">
+            <speaker>Toxilus</speaker>
             <lb ed="TLN" n="1"/>
             <l>Qui amáns egens ingressus est princeps in Amoris vias,</l>
             <lb ed="TLN" n="2"/>
@@ -183,7 +183,7 @@ Added to repository.
             <lb ed="TLN" n="12"/>
             <l>quin mi imperet, quin me suis negotiis praefulciat.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="13"/>
             <l part="I">Quís illic est qui cóntra me astat?</l>
@@ -192,7 +192,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quís hic est qui sic cóntra me astat?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="14"/>
             <l part="I">Similis est Sagaristionis.</l>
@@ -201,7 +201,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Toxilus híc quidem meus amicust.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="15"/>
             <l n="15" part="I">Ís est profecto.</l>
@@ -210,7 +210,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Eum esse opinor.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Congrediar.</l>
           </sp>
@@ -218,7 +218,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Contra adgredibor.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="16"/>
             <l part="I">O Sagaristio, di ament te.</l>
@@ -229,7 +229,7 @@ Added to repository.
             <lb ed="TLN" n="17"/>
             <l part="I">út vales?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Út queo.</l>
           </sp>
@@ -237,7 +237,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quíd agitur?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Vívitur.</l>
           </sp>
@@ -246,7 +246,7 @@ Added to repository.
             <lb ed="TLN" n="18"/>
             <l part="I">Sátin ergo ex sententia?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Si eveniunt quae exopto, satis.</l>
           </sp>
@@ -255,7 +255,7 @@ Added to repository.
             <lb ed="TLN" n="19"/>
             <l part="I">Nimis stúlte amicis utere.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quid iam?</l>
           </sp>
@@ -263,7 +263,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Imperare oportet.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="20"/>
             <l n="20">Mihi quidem tu iám eras mortuos, quia non te visitabam.</l>
@@ -273,7 +273,7 @@ Added to repository.
             <lb ed="TLN" n="21"/>
             <l part="I">Negotium edepol—</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Ferreum fortasse?</l>
           </sp>
@@ -283,7 +283,7 @@ Added to repository.
             <lb ed="TLN" n="22"/>
             <l>fui praéferratus apud molas tribunus vapularis.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="23"/>
             <l part="I">Vetus iam ístaec militiast tua.</l>
@@ -292,7 +292,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Satin tu úsque valuisti?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Hau probe.</l>
           </sp>
@@ -301,7 +301,7 @@ Added to repository.
             <lb ed="TLN" n="24"/>
             <l part="I">Ergo edepol palles.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Saucius factus sum in Veneris proelio:</l>
             <lb ed="TLN" n="25"/>
@@ -311,7 +311,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Iam servi hic amant?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="26"/>
             <l>Quíd ego faciam? disne advorser? quasi Titani cum eis belligerem</l>
@@ -323,7 +323,7 @@ Added to repository.
             <lb ed="TLN" n="28"/>
             <l>Vide modo, ulmeae catapultae tuom ne transfigant latus.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="29"/>
             <l>Básilice ágito eleútheria.</l>
@@ -333,7 +333,7 @@ Added to repository.
             <lb ed="TLN" n="29a"/>
             <l n="30" part="I">Quíd iam?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quia erus peregri est.</l>
           </sp>
@@ -343,7 +343,7 @@ Added to repository.
             <lb ed="TLN" n="30"/>
             <l part="I">péregri est?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Si tu tibi bene esse</l>
             <lb ed="TLN" n="30a"/>
@@ -356,7 +356,7 @@ Added to repository.
             <lb ed="TLN" n="32"/>
             <l>Váh, iam scapulae pruriunt, quia te ístaec audivi loqui.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="33"/>
             <l n="35" part="I">Sed hoc me únum excruciat.</l>
@@ -365,7 +365,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quidnam id est?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="34"/>
             <l>Haéc dies summa hódie est, mea amíca sitne líbera,</l>
@@ -376,7 +376,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quid núnc vis ergo?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="35"/>
             <l part="I">&lt;Fácere ami&gt;cum tibi me potis es sempiternum.</l>
@@ -385,7 +385,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quem ad modum?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="36"/>
             <l>Út mihi des nummos sescentos, quós pro capite illius pendam,</l>
@@ -405,7 +405,7 @@ Added to repository.
             <lb ed="TLN" n="42"/>
             <l n="45" part="I">qui ípsus sitiat.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Sicine hoc te mihi fácere?</l>
           </sp>
@@ -413,7 +413,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quid faciam?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Rogas?</l>
             <lb ed="TLN" n="43"/>
@@ -423,7 +423,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Tu fác idem quod rogas me.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="44"/>
             <l part="I">Quaesivi, nusquam repperi.</l>
@@ -432,7 +432,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quaeram equidem, si quis credat.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="45"/>
             <l part="I">Nempe habeo in mundo.</l>
@@ -443,7 +443,7 @@ Added to repository.
             <lb ed="TLN" n="46"/>
             <l part="I">hoc meumst ut faciam sedulo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quidquid erit, recipe te ad me.</l>
             <lb ed="TLN" n="47"/>
@@ -453,7 +453,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Si quid erit, &lt;te fac&gt;iam ut scias.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="48"/>
             <l>* obsecro te resecro&lt;que&gt;, operam da hánc mihi</l>
@@ -464,7 +464,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Ah, odio me énicas.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="49"/>
             <l>Amóris vitio, non meo, nunc tibi morologus fio.</l>
@@ -474,7 +474,7 @@ Added to repository.
             <lb ed="TLN" n="50"/>
             <l part="I">At pol ego aps te concessero.—</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Iamne ábis? bene ambulato.</l>
             <lb ed="TLN" n="51"/>
@@ -484,8 +484,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#satvrio">
-            <speaker>Satvrio</speaker>
+          <sp who="#saturio">
+            <speaker>Saturio</speaker>
             <lb ed="TLN" n="53"/>
             <l>Veterem atque antiquom quaestum maio&lt;rum meum&gt;</l>
             <lb ed="TLN" n="54"/>
@@ -547,8 +547,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#toxilvs">
-            <speaker>Toxilvs</speaker>
+          <sp who="#toxilus">
+            <speaker>Toxilus</speaker>
             <lb ed="TLN" n="81"/>
             <l>Omnem rem inveni, ut sua sibi pecunia</l>
             <lb ed="TLN" n="82"/>
@@ -568,29 +568,29 @@ Added to repository.
             <lb ed="TLN" n="89"/>
             <l>iam pól ille hic aderit, credo, congerro meus.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="90"/>
             <l n="10" part="I">Me dicit, euge.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Lautum credo e balineis</l>
             <lb ed="TLN" n="91"/>
             <l part="I">iam hic adfuturum.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Vt ordine omnem rem tenet.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="92"/>
             <l>Collyrae facite ut madeant et colyphia,</l>
             <lb ed="TLN" n="93"/>
             <l part="I">ne mihi incócta detis.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Rem loquitur meram.</l>
             <lb ed="TLN" n="94"/>
@@ -604,67 +604,67 @@ Added to repository.
             <lb ed="TLN" n="98"/>
             <l>nolo in vesicam quod eat, in ventrem volo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="99"/>
             <l part="I">Prope me hic nescio quis loquitur.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">O mi Iuppiter</l>
             <lb ed="TLN" n="100"/>
             <l n="20">terrestris, te coepulonus compellat tuos.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="101"/>
             <l>O Saturio, opportune advenisti mihi.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="102"/>
             <l>Mendacium edepol dicis, atque haud te decet:</l>
             <lb ed="TLN" n="103"/>
             <l>nam essurio venio, non advenio saturio.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="104"/>
             <l>At edes, nam iam intus ventris fumant focula.</l>
             <lb ed="TLN" n="105"/>
             <l n="25" part="I">calefieri iussi reliquias.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Pernam quidem</l>
             <lb ed="TLN" n="106"/>
             <l>ius est adponi frigidam postridie.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="107"/>
             <l part="I">Ita fieri iussi.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Ecquid hallecis?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Vah, rogas?</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="108"/>
             <l part="I">Sapis múltum ad genium.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Sed &lt;tu&gt;, ecquid meministi, here</l>
             <lb ed="TLN" n="109"/>
             <l>qua de re ego tecum mentionem feceram?</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="110"/>
             <l n="30">Memini: ut murena et conger ne calefierent;</l>
@@ -675,18 +675,18 @@ Added to repository.
             <lb ed="TLN" n="113"/>
             <l>dum mane est, omnis esse mortalis decet.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="114"/>
             <l part="I">Nimis paéne manest.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Mane quod tu occeperis</l>
             <lb ed="TLN" n="115"/>
             <l n="35">negotium agere, id totum procedit diem.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="116"/>
             <l>Quaeso animum advorte hoc. iám heri narravi tibi</l>
@@ -695,7 +695,7 @@ Added to repository.
             <lb ed="TLN" n="118"/>
             <l part="I">dares utendos mutuos.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Memini et scio,</l>
             <lb ed="TLN" n="119"/>
@@ -715,66 +715,66 @@ Added to repository.
             <lb ed="TLN" n="126"/>
             <l>qui familiarem suam vitam oblectet modo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="127"/>
             <l>Iam nolo argentum: filiam utendam tuam</l>
             <lb ed="TLN" n="128"/>
             <l part="I">mihi da.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Numquam edepol cuiquam etiam utendam dedi.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="129"/>
             <l part="I">Non ad istuc quod tu insimulas.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Quid eam vis?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Scies.</l>
             <lb ed="TLN" n="130"/>
             <l n="50" part="I">quia forma lepida et liberali est.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Res itast.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="131"/>
             <l>Hic leno neque te novit neque gnatam tuam.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="132"/>
             <l>Me ut quisquam norit, nisi ille qui praebet cibum?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="133"/>
             <l>Ita est. hoc tu mihi reperire argentum potes.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="134"/>
             <l part="I">Cupio hercle.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Tum tu me sine illam vendere.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="135"/>
             <l n="55" part="I">Tun illam vendas?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Immo alium adlegavero</l>
             <lb ed="TLN" n="136"/>
@@ -784,13 +784,13 @@ Added to repository.
             <lb ed="TLN" n="138"/>
             <l part="I">huc est cum commigravit.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Pereunt reliquiae.</l>
             <lb ed="TLN" n="139"/>
             <l part="I">posterius istuc tamen potest.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Scin quam potest?</l>
             <lb ed="TLN" n="140"/>
@@ -804,14 +804,14 @@ Added to repository.
             <lb ed="TLN" n="144"/>
             <l>quid nunc? quid est? quin dicis quid facturus sis?</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="145"/>
             <l n="65">Quaeso hercle me quoque etiam vende, si lubet,</l>
             <lb ed="TLN" n="146"/>
             <l part="I">dum saturum vendas.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">
               Hoc, si 
@@ -819,12 +819,12 @@ Added to repository.
               , face.
             </l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="147"/>
             <l part="I">Faciam equidem quae vis.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Bene facis. propera, abi domum;</l>
             <lb ed="TLN" n="148"/>
@@ -838,13 +838,13 @@ Added to repository.
             <lb ed="TLN" n="152"/>
             <l part="I">et ut adfleat, cum ea memoret.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Etiam tu taces?</l>
             <lb ed="TLN" n="153"/>
             <l>ter tanto peior ipsa est quam illam tu esse vis.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="154"/>
             <l>Lepide hercle dicis. sed scin quid facias? cape</l>
@@ -853,56 +853,56 @@ Added to repository.
             <lb ed="TLN" n="156"/>
             <l part="I">quam ille habeat qui hanc lenoni huic vendat.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Eu, probe.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="157"/>
             <l part="I">Quasi sit peregrinus.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Laudo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Et tu gnatam tuam</l>
             <lb ed="TLN" n="158"/>
             <l>ornatam adduce lepide in peregrinum modum.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="159"/>
             <l part="I"><foreign lang="greek">po/qen</foreign>
                ornamenta?
             </l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Abs chorago sumito;</l>
             <lb ed="TLN" n="160"/>
             <l n="80">dare debet: praebenda aediles locaverunt.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="161"/>
             <l>Iam faxo hic aderunt. sed ego nihil horunc scio.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="162"/>
             <l>Nihil hercle vero. nam ubi ego argentum accepero,</l>
             <lb ed="TLN" n="163"/>
             <l>continuo tu illam a lenone adserito manu.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="164"/>
             <l>Sibi habeat, si non extemplo ab eo abduxero.—</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="165"/>
             <l n="85">Abi et istuc cura. interibi egó puerum volo</l>
@@ -957,103 +957,103 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#toxilvs">
-            <speaker>Toxilvs</speaker>
+          <sp who="#toxilus">
+            <speaker>Toxilus</speaker>
             <lb ed="TLN" n="183"/>
             <l>Sátin haec tibi sunt plána et certa? sátin haec meministi ét tenes?</l>
           </sp>
-          <sp who="#paegnivm">
-            <speaker>Paegnivm</speaker>
+          <sp who="#paegnium">
+            <speaker>Paegnium</speaker>
             <lb ed="TLN" n="184"/>
             <l part="I">Melius quam tu qui docuisti.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Ain véro, verbereum caput?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>P.</speaker>
             <lb ed="TLN" n="185"/>
             <l part="I">Aio enim véro.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Quid ergo dixi?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>P.</speaker>
             <l part="M">Ego recte apud illam dixero.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="186"/>
             <l part="I">Non edepol scis.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Da hercle pignus, ni omnia memini et scio,</l>
             <lb ed="TLN" n="187"/>
             <l n="5">et quidem sí scis tute, quot hodie habeas digitos in manu.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="188"/>
             <l part="I">Egon dem pignus tecum?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Audacter, si lubido est perdere.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <lb ed="TLN" n="189"/>
             <l part="I">Bona pax sit potius.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>P.</speaker>
             <l part="M">Tum tu igitur sine me ire.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Et iubeo et sino;</l>
             <lb ed="TLN" n="190"/>
             <l>sed ita volo te ire, ut domí sis, cum ego te esse illi censeam.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="191"/>
             <l part="I">Faciam.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quo ergo is nunc?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Domum: uti domi sim, quom illi censeas.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="192"/>
             <l n="10">Scelus tu pueri es, atque ob istánc rem ego aliqui te peculiabo.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="193"/>
             <l>Scio fide hercle erili ut soleat impudicitia opprobrari</l>
             <lb ed="TLN" n="194"/>
             <l>nec subigi queantur umquam, ut pro éa fide habeant iudicem.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <lb ed="TLN" n="195"/>
             <l part="I">Abi modo.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>P.</speaker>
             <l part="M">Ego laudabis faxo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Sed has tabellas, Paegnium,</l>
             <lb ed="TLN" n="196"/>
@@ -1064,18 +1064,18 @@ Added to repository.
             <lb ed="TLN" n="197"/>
             <l n="15">Cesso ire ego quo missa sum?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>P.</speaker>
             <lb ed="TLN" n="198"/>
             <l part="I">Eo ego.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">I sane. ego domum ibo. face rem hanc cum cura geras.</l>
             <lb ed="TLN" n="199"/>
             <l part="I">vola curriculo.—</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Istuc marinus passer per circum solet.</l>
             <lb ed="TLN" n="200"/>
@@ -1086,7 +1086,7 @@ Added to repository.
             <lb ed="TLN" n="201"/>
             <l part="I">Paegnium hic quidem est.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>P.</speaker>
             <l part="M">Sophoclidisca haéc peculiarest eius</l>
             <lb ed="TLN" n="202"/>
@@ -1096,7 +1096,7 @@ Added to repository.
             <speaker>S.</speaker>
             <l part="M">Nullus esse hodie hóc puero peior perhibetur.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="203"/>
             <l part="I">Compellabo.</l>
@@ -1105,7 +1105,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Commorandust.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Apud hanc obieci *</l>
           </sp>
@@ -1114,7 +1114,7 @@ Added to repository.
             <lb ed="TLN" n="204"/>
             <l>Paegnium, deliciae pueri, salve. quid agis? ut vales?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="205"/>
             <l part="I">Sophoclidisca, di me amabunt.</l>
@@ -1123,7 +1123,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Quid me?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Vtrum hercle &lt;di volent&gt;;</l>
             <lb ed="TLN" n="206"/>
@@ -1134,7 +1134,7 @@ Added to repository.
             <lb ed="TLN" n="207"/>
             <l n="25" part="I">Mitte male loqui.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Quom ut digna es dico, bene, non male loquor.</l>
           </sp>
@@ -1143,7 +1143,7 @@ Added to repository.
             <lb ed="TLN" n="208"/>
             <l part="I">Quid agis?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Feminam scelestam te astans contra contuor.</l>
           </sp>
@@ -1152,7 +1152,7 @@ Added to repository.
             <lb ed="TLN" n="209"/>
             <l>Certe equidem puerum peiorem quam te novi neminem.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="210"/>
             <l part="I">Quid male facio aut quoi male dico?</l>
@@ -1161,7 +1161,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Quoi pol cumque occasio est.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="211"/>
             <l part="I">Nemo homo umquam ita arbitratust.</l>
@@ -1170,7 +1170,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">At pol multi esse ita sciunt.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="212"/>
             <l n="30" part="I">Heia.</l>
@@ -1179,7 +1179,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Beia.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Tuo ex ingenio mores alienos probas.</l>
           </sp>
@@ -1188,7 +1188,7 @@ Added to repository.
             <lb ed="TLN" n="213"/>
             <l>Fateor ego profecto me esse ut decet lenonis familiae.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="214"/>
             <l part="I">Satis iam dictum habeo.</l>
@@ -1197,7 +1197,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Sed quid tu? confitere ut te autumo?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="215"/>
             <l part="I">Fatear, si ita sim.</l>
@@ -1206,7 +1206,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Iam ábi, vicisti.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Abi núnciam ergo.</l>
           </sp>
@@ -1216,7 +1216,7 @@ Added to repository.
             <lb ed="TLN" n="216"/>
             <l part="I">quó agis?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Quo tu?</l>
           </sp>
@@ -1224,7 +1224,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Dic tu. &lt;</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Dic tu.</l>
           </sp>
@@ -1232,7 +1232,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">&gt; Prior rogavi.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">At post scies.</l>
           </sp>
@@ -1241,7 +1241,7 @@ Added to repository.
             <lb ed="TLN" n="217"/>
             <l n="35" part="I">Eo ego hinc haud longe.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Et quidem ego haud longe &lt;hinc eo&gt;.</l>
           </sp>
@@ -1249,7 +1249,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Quo ergo &lt;is&gt;, scelus?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="218"/>
             <l>Nisi scieró prius ex te, tu ex me numquam hoc quod rogitas scies.</l>
@@ -1259,7 +1259,7 @@ Added to repository.
             <lb ed="TLN" n="219"/>
             <l>Numquam ecastor hodie scibis prius quam ex te audivero.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="220"/>
             <l part="I">Itane est?</l>
@@ -1268,7 +1268,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Itane est.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Mala es.</l>
           </sp>
@@ -1278,7 +1278,7 @@ Added to repository.
               .
             </l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Decet me.</l>
           </sp>
@@ -1286,7 +1286,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Me quidem addecet.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="221"/>
             <l>Quid ais? certumnest celare, quó iter facias, pessuma?</l>
@@ -1296,7 +1296,7 @@ Added to repository.
             <lb ed="TLN" n="222"/>
             <l n="40">Offirmastin occultare quo te immittas, pessume?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="223"/>
             <l>Par pari respondes dicto. abi iam, quando ita certa res.</l>
@@ -1307,7 +1307,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Asta.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">At propero.</l>
           </sp>
@@ -1315,7 +1315,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Et pol ego item.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="225"/>
             <l part="I">Ecquid habes?</l>
@@ -1324,7 +1324,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Ecquid tú?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Nil equidem.</l>
           </sp>
@@ -1332,7 +1332,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Cedo manum ergo.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Estne haec manus?</l>
           </sp>
@@ -1341,7 +1341,7 @@ Added to repository.
             <lb ed="TLN" n="226"/>
             <l part="I">Vbi illa altera ést furtifica laeva?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <l part="M">Domi eccam. huc nullam attuli.</l>
           </sp>
@@ -1350,7 +1350,7 @@ Added to repository.
             <lb ed="TLN" n="227"/>
             <l n="45" part="I">Habes nescio quid.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Ne me attrecta, subigitatrix.</l>
           </sp>
@@ -1358,7 +1358,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Sin te amo?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="228"/>
             <l part="I">Male operam locas.</l>
@@ -1367,7 +1367,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Qui?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Quia enim nihil amas, quom ingratum amas.</l>
           </sp>
@@ -1380,7 +1380,7 @@ Added to repository.
             <lb ed="TLN" n="231"/>
             <l part="I">tu quidem haud étiam es octoginta pondo.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">At confidentia</l>
             <lb ed="TLN" n="232"/>
@@ -1392,7 +1392,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Quid iam?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Quia peritae praedico.</l>
             <lb ed="TLN" n="234"/>
@@ -1402,7 +1402,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Mane.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Molesta es.</l>
           </sp>
@@ -1412,7 +1412,7 @@ Added to repository.
             <lb ed="TLN" n="235"/>
             <l part="I">quó agas te.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Ad vos.</l>
           </sp>
@@ -1420,7 +1420,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Et pol ego ad vos.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Quid eo?</l>
           </sp>
@@ -1428,7 +1428,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Quid id ad te attinet?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="236"/>
             <l part="I">Enim non ibis nunc, vicissim nisi scio.</l>
@@ -1439,7 +1439,7 @@ Added to repository.
               .
             </l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <l part="M">Lubet.</l>
             <lb ed="TLN" n="237"/>
@@ -1450,7 +1450,7 @@ Added to repository.
             <lb ed="TLN" n="238"/>
             <l part="I">Malitia certare tecum miseria est.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Mers tu mala es.</l>
           </sp>
@@ -1459,7 +1459,7 @@ Added to repository.
             <lb ed="TLN" n="239"/>
             <l part="I">Quid est quod metuas?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <l part="M">Idem istuc quod tu.</l>
           </sp>
@@ -1469,7 +1469,7 @@ Added to repository.
             <lb ed="TLN" n="240"/>
             <l>[ne hoc cuiquam homini edicerem, omnes muti ut loquerentur prius.]</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="241"/>
             <l>Edictum est magno opere mihi, ne quoiquam hoc homini crederem,</l>
@@ -1482,7 +1482,7 @@ Added to repository.
             <lb ed="TLN" n="243"/>
             <l part="I">fide data credamus.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Novi: omnes sunt lenae levifidae,</l>
             <lb ed="TLN" n="244"/>
@@ -1493,7 +1493,7 @@ Added to repository.
             <lb ed="TLN" n="245"/>
             <l part="I">Dic amabo.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <l part="M">Dic amabo.</l>
           </sp>
@@ -1501,7 +1501,7 @@ Added to repository.
             <speaker>So.</speaker>
             <l part="M">Nolo ames.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <l part="M">Facile impetras.</l>
           </sp>
@@ -1510,7 +1510,7 @@ Added to repository.
             <lb ed="TLN" n="246"/>
             <l part="I">Tecum habeto.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Et tu hoc taceto.</l>
           </sp>
@@ -1518,7 +1518,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Tacitum erit.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Celabitur.</l>
           </sp>
@@ -1527,7 +1527,7 @@ Added to repository.
             <lb ed="TLN" n="247"/>
             <l n="65" part="I">Toxilo has fero tabellas tuo ero.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Abi, eccillum domi.</l>
             <lb ed="TLN" n="248"/>
@@ -1538,7 +1538,7 @@ Added to repository.
             <lb ed="TLN" n="249"/>
             <l part="I">Quid istic scriptum?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Iuxta tecum, si tu nescis, nescio;</l>
             <lb ed="TLN" n="250"/>
@@ -1548,7 +1548,7 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Ábeo.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Et ego ábiero.—</l>
           </sp>
@@ -1607,8 +1607,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
-          <sp who="#paegnivm">
-            <speaker>Paegnivm</speaker>
+          <sp who="#paegnium">
+            <speaker>Paegnium</speaker>
             <lb ed="TLN" n="272"/>
             <l part="I">Pensúm meum, quod datumst, cónfeci. nunc dómum propero.</l>
           </sp>
@@ -1618,7 +1618,7 @@ Added to repository.
             <lb ed="TLN" n="273"/>
             <l part="I">Paégnium, ausculta.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <l part="M">Emere oportet, quem tibi oboediré velis.</l>
           </sp>
@@ -1626,7 +1626,7 @@ Added to repository.
             <speaker>S.</speaker>
             <l part="M">Asta.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="274"/>
             <l>Exhibeas molestiam, ut opínor, si quid debeam,</l>
@@ -1637,7 +1637,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Scelerate, etiam respicis?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="276"/>
             <l n="5">Scio ego quid sim aetatis, eo istuc maledictum impune auferes.</l>
@@ -1647,7 +1647,7 @@ Added to repository.
             <lb ed="TLN" n="277"/>
             <l part="I">Vbi Tóxilus est tuus érus?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Vbi illí libet, néque te consulit.</l>
           </sp>
@@ -1657,7 +1657,7 @@ Added to repository.
             <lb ed="TLN" n="278"/>
             <l>dicís ubi sit, venéfice?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="279"/>
             <l>Néscio, inquam, ulmítriba tu.</l>
@@ -1667,7 +1667,7 @@ Added to repository.
             <lb ed="TLN" n="280"/>
             <l part="I">Male dícis maiorí.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Prior proméritus perpetiáre.</l>
             <lb ed="TLN" n="280a"/>
@@ -1678,7 +1678,7 @@ Added to repository.
             <lb ed="TLN" n="281"/>
             <l part="I">Dicisne mi, ubi sit Toxilus?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Dico ut perpetuo pereas.</l>
           </sp>
@@ -1687,7 +1687,7 @@ Added to repository.
             <lb ed="TLN" n="282"/>
             <l part="I">Caedere hodie tu restibus.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Tua quidem, cucule, causa!</l>
             <lb ed="TLN" n="283"/>
@@ -1698,7 +1698,7 @@ Added to repository.
             <lb ed="TLN" n="284"/>
             <l part="I">Video ego te: iam incubitatus es.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Ita sum. quid id ad te [attinet]?</l>
             <lb ed="TLN" n="285"/>
@@ -1708,7 +1708,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Confidens.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Sum hercle vero.</l>
             <lb ed="TLN" n="286"/>
@@ -1719,7 +1719,7 @@ Added to repository.
             <lb ed="TLN" n="287"/>
             <l part="I">Potin ut molestus ne sies?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Quod dicis facere non quis.</l>
           </sp>
@@ -1728,7 +1728,7 @@ Added to repository.
             <lb ed="TLN" n="288"/>
             <l part="I">Abi in malam rem.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Pa.</speaker>
             <l part="M">At tu domum: nam ibi tibi parata praestost.</l>
           </sp>
@@ -1737,7 +1737,7 @@ Added to repository.
             <lb ed="TLN" n="289"/>
             <l part="I">Vadatur hic me.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Vtinam vades desint, in carcere ut sis.</l>
           </sp>
@@ -1746,7 +1746,7 @@ Added to repository.
             <lb ed="TLN" n="290"/>
             <l n="20" part="I">Quid hoc?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Quid est?</l>
           </sp>
@@ -1754,7 +1754,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Etiam, scelus, male loquere?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Tandem ut liceat,</l>
             <lb ed="TLN" n="291"/>
@@ -1766,7 +1766,7 @@ Added to repository.
             <lb ed="TLN" n="292"/>
             <l part="I">quid dedero.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Nil, nam nil habes.</l>
           </sp>
@@ -1774,7 +1774,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Di deaeque me omnes perdant—</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="293"/>
             <l part="I">Amicus sum, eveniant volo tibi quae optas.</l>
@@ -1785,7 +1785,7 @@ Added to repository.
             <lb ed="TLN" n="294"/>
             <l>nisi te hodie, si prehendero, defigam in terram colaphis.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="295"/>
             <l n="25">Tun me defigas? te cruci ipsum adfigent propediem alii.</l>
@@ -1797,7 +1797,7 @@ Added to repository.
             <lb ed="TLN" n="297"/>
             <l part="I">ni linguae moderari queam. potin abeas?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Abigis facile.</l>
             <lb ed="TLN" n="298"/>
@@ -1815,8 +1815,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="5" type="scene">
-          <sp who="#toxilvs">
-            <speaker>Toxilvs</speaker>
+          <sp who="#toxilus">
+            <speaker>Toxilus</speaker>
             <lb ed="TLN" n="302"/>
             <l>Paratum iam esse dicito, unde argentum sit futurum,</l>
             <lb ed="TLN" n="303"/>
@@ -1830,7 +1830,7 @@ Added to repository.
             <speaker>Sophoclidisca</speaker>
             <l part="M">Magis cálleo quam aprugnum callum callet.—</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="306"/>
             <l n="5" part="I">Propera, abi domum. *</l>
@@ -1841,7 +1841,7 @@ Added to repository.
             <lb ed="TLN" n="307"/>
             <l>subnixis alis me inferam atque amicibor gloriose.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="308"/>
             <l part="I">Sed quís hic ansatus ambulat?</l>
@@ -1850,7 +1850,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Magnifice conscreabor.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="309"/>
             <l>Sagaristio hic quidemst. quíd agitur, Sagaristio? ut valetur?</l>
@@ -1863,7 +1863,7 @@ Added to repository.
             <lb ed="TLN" n="311"/>
             <l n="10">videbitur. factum volo. venito. promoneto.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="312"/>
             <l part="I">Quid hoc híc in collo tibi tumet?</l>
@@ -1874,7 +1874,7 @@ Added to repository.
             <lb ed="TLN" n="313"/>
             <l>nam ubi quí mala tangit manu, dolores cooriuntur.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="314"/>
             <l part="I">Quando istaec innatast tibi?</l>
@@ -1883,7 +1883,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Hodie.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Secari iubeas.</l>
           </sp>
@@ -1892,7 +1892,7 @@ Added to repository.
             <lb ed="TLN" n="315"/>
             <l>Metuo, ne immaturam secem, ne exhibeat plus negoti.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="316"/>
             <l n="15" part="I">Inspicere morbum tuom lubet.</l>
@@ -1903,7 +1903,7 @@ Added to repository.
             <lb ed="TLN" n="317"/>
             <l part="I">a cornu.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quid iam?</l>
           </sp>
@@ -1911,7 +1911,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quia boves bini hic sunt in crumina.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="318"/>
             <l>Emitte sodes, ne enices fame; sine ire pastum.</l>
@@ -1921,7 +1921,7 @@ Added to repository.
             <lb ed="TLN" n="319"/>
             <l>Enim métuo, ut possim reicere in bubile, ne vagentur.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="320"/>
             <l part="I">Ego reiciam. habe animum bonum.</l>
@@ -1932,7 +1932,7 @@ Added to repository.
             <lb ed="TLN" n="321"/>
             <l n="20">sequere hac sis. argentum hic inest, quod mecum dudum orasti.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="322"/>
             <l part="I">Quid tú ais?</l>
@@ -1943,7 +1943,7 @@ Added to repository.
             <lb ed="TLN" n="323"/>
             <l part="I">nunc mi Eretria erit haec tua domus.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Nimis tú facete loquere.</l>
             <lb ed="TLN" n="324"/>
@@ -1957,7 +1957,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Tanto melior.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="327"/>
             <l>Et mulier ut sit libera atque ipse ultro det argentum.</l>
@@ -1972,8 +1972,8 @@ Added to repository.
       </div1>
       <div1 n="3" type="act">
         <div2 n="1" type="scene">
-          <sp who="#satvrio">
-            <speaker>Satvrio</speaker>
+          <sp who="#saturio">
+            <speaker>Saturio</speaker>
             <lb ed="TLN" n="329"/>
             <l>Quae res bene vortat mi et tibi et ventri meo</l>
             <lb ed="TLN" n="330"/>
@@ -1999,7 +1999,7 @@ Added to repository.
             <lb ed="TLN" n="338"/>
             <l n="10">tuin véntris causa filiam vendas tuam?</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="339"/>
             <l>Mirum quin regis Phílippi causa aut Attali</l>
@@ -2011,7 +2011,7 @@ Added to repository.
             <lb ed="TLN" n="341"/>
             <l>Vtrum tú pro ancilla mé habes an pro filia?</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="342"/>
             <l>Vtrum hercle magis in ventris rem videbitur.</l>
@@ -2031,7 +2031,7 @@ Added to repository.
             <lb ed="TLN" n="348"/>
             <l n="20">gravior paupertas fit, fides sublestior.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="349"/>
             <l part="I">Enim véro odiosa es.</l>
@@ -2044,7 +2044,7 @@ Added to repository.
             <lb ed="TLN" n="351"/>
             <l>nam inimici famam non ita ut natast ferunt.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="352"/>
             <l>Ferant eantque maximam malam crucem;</l>
@@ -2060,7 +2060,7 @@ Added to repository.
             <lb ed="TLN" n="356"/>
             <l>etiam tum vivit, cum esse credas mortuam.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="357"/>
             <l part="I">Quid? metuis, ne te vendam?</l>
@@ -2071,7 +2071,7 @@ Added to repository.
             <lb ed="TLN" n="358"/>
             <l n="30" part="I">verum insimulari nolo.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">At nequiquam nevis.</l>
             <lb ed="TLN" n="359"/>
@@ -2091,7 +2091,7 @@ Added to repository.
             <lb ed="TLN" n="364"/>
             <l>ego nunc quod non futurumst formido tamen.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="365"/>
             <l>Virgo atque mulier nulla erit quin sit mala,</l>
@@ -2105,7 +2105,7 @@ Added to repository.
             <lb ed="TLN" n="368"/>
             <l n="40">quae reticet, si quid fieri pervorse videt.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="369"/>
             <l part="I">Malo cavere meliust te.</l>
@@ -2127,7 +2127,7 @@ Added to repository.
             <lb ed="TLN" n="372"/>
             <l>verum ei rei operam do, ne alii dicant, quibus licet.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="373"/>
             <l n="45">Dicat quod quisque volt; ego de hac sententia</l>
@@ -2140,7 +2140,7 @@ Added to repository.
             <lb ed="TLN" n="375"/>
             <l part="I">sapienter potius facias quam stulte.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Lubet.</l>
           </sp>
@@ -2151,7 +2151,7 @@ Added to repository.
             <lb ed="TLN" n="377"/>
             <l>verum lubere hau lubeat, sí liceat mihi.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="378"/>
             <l n="50">Futura es dicto oboediens an non patri?</l>
@@ -2161,7 +2161,7 @@ Added to repository.
             <lb ed="TLN" n="379"/>
             <l part="I">Futura.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Scis iam tibi quae praecepi?</l>
           </sp>
@@ -2169,7 +2169,7 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Omnia.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="380"/>
             <l part="I">Et ut surrupta fueris?</l>
@@ -2178,7 +2178,7 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Docte calleo.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="381"/>
             <l part="I">Et qui parentes fuerint?</l>
@@ -2193,7 +2193,7 @@ Added to repository.
             <lb ed="TLN" n="384"/>
             <l>ne haec fama faciat repudiosas nuptias.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="385"/>
             <l>Tace, stúlta. non tu nunc hominum mores vides?</l>
@@ -2209,7 +2209,7 @@ Added to repository.
             <lb ed="TLN" n="389"/>
             <l part="I">me esse indotatam.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Cave sis tu istuc dixeris.</l>
             <lb ed="TLN" n="390"/>
@@ -2238,7 +2238,7 @@ Added to repository.
             <lb ed="TLN" n="398"/>
             <l n="70">vel tu me vende vel face quid tibi lubet.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="399"/>
             <l part="I">Bonum aequomque oras. sequere hac.—</l>
@@ -2249,8 +2249,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#dordalvs">
-            <speaker>Dordalvs</speaker>
+          <sp who="#dordalus">
+            <speaker>Dordalus</speaker>
             <lb ed="TLN" n="400"/>
             <l>Quidnam esse acturum hunc dicam vicinum meum,</l>
             <lb ed="TLN" n="401"/>
@@ -2264,18 +2264,18 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#toxilvs">
-            <speaker>Toxilvs</speaker>
+          <sp who="#toxilus">
+            <speaker>Toxilus</speaker>
             <lb ed="TLN" n="405"/>
             <l part="I">Curate isti intus, iam égo domum me recipiam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Oh,</l>
             <lb ed="TLN" n="406"/>
             <l part="I">Toxile, quid agitur?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Oh, lutum lenonium,</l>
             <lb ed="TLN" n="407"/>
@@ -2303,7 +2303,7 @@ Added to repository.
                credere?
             </l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="417"/>
             <l>Sine respirare me, ut tibi respondeam.</l>
@@ -2326,12 +2326,12 @@ Added to repository.
             <lb ed="TLN" n="426"/>
             <l>pro liberanda amica, ut omnes audiant.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="427"/>
             <l>Tace, obsecro hercle. ne tua vox valide valet.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="428"/>
             <l>Referundae ego habeo linguam natam gratiae.</l>
@@ -2340,14 +2340,14 @@ Added to repository.
             <lb ed="TLN" n="430"/>
             <l>nisi me haec defendet, numquam delinget salem.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="431"/>
             <l>Iam omitte iratus esse. id tibi suscensui,</l>
             <lb ed="TLN" n="432"/>
             <l>quia te negabas credere argentum mihi.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="433"/>
             <l>Mirum quin tibi ego crederém, ut idem mihi</l>
@@ -2358,16 +2358,16 @@ Added to repository.
             <lb ed="TLN" n="436"/>
             <l>fugiunt quam ex porta ludis cum emissust lepus.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="437"/>
             <l part="I">Cape hoc sis.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quin das?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Nummi sescenti hic erunt,</l>
             <lb ed="TLN" n="438"/>
@@ -2375,25 +2375,25 @@ Added to repository.
             <lb ed="TLN" n="439"/>
             <l n="35" part="I">atque huc continuo adduce.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Iam faxo hic erit.</l>
             <lb ed="TLN" n="440"/>
             <l>non hercle, quoi nunc hoc dem spectandum, scio.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="441"/>
             <l>Fortasse metuis in manum concredere?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="442"/>
             <l>Mirum quin * * [citius iam a foro argentarii</l>
             <lb ed="TLN" n="443"/>
             <l>abeunt, quam in cursu rotula circumvortitur.]</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="444"/>
             <l n="40">Abi istác travorsis angiportis ad forum;</l>
@@ -2402,29 +2402,29 @@ Added to repository.
             <lb ed="TLN" n="446"/>
             <l part="I">per hortum.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Iam hic faxo aderit.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">At ne propalam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="447"/>
             <l part="I">Sapienter sane.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Supplicatum cras eat.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="448"/>
             <l part="I">Ita hercle vero.—</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Dum stas, reditum oportuit.</l>
           </sp>
@@ -2465,7 +2465,7 @@ Added to repository.
             <lb ed="TLN" n="462"/>
             <l part="I">Numquid moror?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">
               Euge, euge, 
@@ -2485,7 +2485,7 @@ Added to repository.
             <lb ed="TLN" n="466"/>
             <l n="5" part="I">numquam aeque sunt meditati.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Lepide hercle adiuvas.</l>
             <lb ed="TLN" n="467"/>
@@ -2497,8 +2497,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#dordalvs">
-            <speaker>Dordalvs</speaker>
+          <sp who="#dordalus">
+            <speaker>Dordalus</speaker>
             <lb ed="TLN" n="470"/>
             <l>Quoí homini di própitii sunt, áliquid obiciúnt lucri;</l>
             <lb ed="TLN" n="471"/>
@@ -2520,7 +2520,7 @@ Added to repository.
             <lb ed="TLN" n="479"/>
             <l n="10">bonus volo iam ex hoc die esse—quod neque fiet neque fuit.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="480"/>
             <l>Hunc hominem ego hodie in trasennam doctis deducam dolis,</l>
@@ -2529,30 +2529,30 @@ Added to repository.
             <lb ed="TLN" n="482"/>
             <l part="I">quid agis?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Credo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Únde agis te, Dordale?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Credo tibi.</l>
             <lb ed="TLN" n="483"/>
             <l part="I">di dent, quae velis.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Eho, an iám manu emisisti mulierem?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <lb ed="TLN" n="484"/>
             <l n="15" part="I">Crédo edepol, credo, inquam, tibi.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">
               Iam liberta 
@@ -2560,17 +2560,17 @@ Added to repository.
               ?
             </l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Enicas.</l>
             <lb ed="TLN" n="485-486"/>
             <l part="I">quin tíbi me dico crédere.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Dic bona fíde: iam liberast?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Ólim.</l>
             <lb ed="TLN" n="487"/>
@@ -2578,35 +2578,35 @@ Added to repository.
             <lb ed="TLN" n="488"/>
             <l part="I">líbera, inquam, est: ecquid audis?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">At tibi di bene faciant omnes.</l>
             <lb ed="TLN" n="489"/>
             <l>númquam enim pósthac tibi nec tuorum quoiquam quod nolis volam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="490"/>
             <l n="20">Abi, né iura, satis crédo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="491"/>
             <l part="I">Vbi núnc tua libertást?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Apud te.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Ain, apud mést?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Aio, inquam, apud te ést, inquam.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="492"/>
             <l>Ita mé di ament, ut ob ístam rem tibi múlta bona instant á me.</l>
@@ -2617,62 +2617,62 @@ Added to repository.
             <lb ed="TLN" n="495"/>
             <l n="25" part="I">vivás.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Bene dictis tuís bene facta aurés meae auxilium expóscunt.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="496"/>
             <l>Tuom prómeritumst, merito út faciam. et ut mé scias esse ita fácturum,</l>
             <lb ed="TLN" n="497"/>
             <l part="I">tabellás tene has, péllege.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Istaé quid ad mé?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Immo ád te attinént et tuá refert.</l>
             <lb ed="TLN" n="498"/>
             <l part="I">nam ex Pérsia sunt haec állatae mihi a méo ero.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Quando?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Haud dúdum.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="499"/>
             <l part="I">Quid istaé narrant?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Percóntare ex ipsís. ipsae tibi nárrabunt.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="500"/>
             <l n="30" part="I">Cedo sáne [mihi].</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">At clare récitato.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Tace, dúm pellego.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Hau verbúm faciam</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="501"/>
             <l>Salutem dicit Toxilo Timarchides</l>
@@ -2699,25 +2699,25 @@ Added to repository.
             <lb ed="TLN" n="512"/>
             <l>nam is mihi honores suae domi habuit maxumos.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="513"/>
             <l>Quíd id ad me aut ad meam rem refert, Persae quid rerum gerant</l>
             <lb ed="TLN" n="514"/>
             <l part="I">aut quid erus tuos?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Tace, stultiloque; nescis quid te instet boni</l>
             <lb ed="TLN" n="515"/>
             <l n="45">neque quam tibi Fortuna faculam lucrifera adlucere volt.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="516"/>
             <l part="I">Quae istaec lucrifera est Fortuna?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Istas, quae norunt, roga.</l>
             <lb ed="TLN" n="517"/>
@@ -2725,17 +2725,17 @@ Added to repository.
             <lb ed="TLN" n="518"/>
             <l part="I">sed, ut occepisti, ex tabellis nosce rem.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Bene me mones.</l>
             <lb ed="TLN" n="519"/>
             <l part="I">fac silentium.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Nunc ad illud venies quod refert tua.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="520"/>
             <l n="50">Iste quí tabellas adfert adduxit simul</l>
@@ -2754,23 +2754,23 @@ Added to repository.
             <lb ed="TLN" n="527"/>
             <l>haec cura, et hospes cura ut curetur. vale.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="528"/>
             <l>Quíd igitur? postquam recitasti quod erat cerae creditum,</l>
             <lb ed="TLN" n="529"/>
             <l part="I">iam mihi credis?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Vbi nunc illest hospes, qui hasce huc attulit?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="530"/>
             <l n="60" part="I">Iam hic credo aderit: arcessivit illam a navi.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Nil mi opust</l>
             <lb ed="TLN" n="531"/>
@@ -2778,91 +2778,91 @@ Added to repository.
             <lb ed="TLN" n="532"/>
             <l>nisi mancipio accipio, quid eo mi opus est mercimonio?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="533"/>
             <l>Tacen an non taces? numquam ego te tam esse matulam credidi.</l>
             <lb ed="TLN" n="534"/>
             <l part="I">quid metuis?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Metuo hercle vero. sensi ego iam compluriens,</l>
             <lb ed="TLN" n="535"/>
             <l n="65">neque mi haud imperito eveniet, tali ut in luto haeream.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="536"/>
             <l part="I">Nil pericli mihi videtur.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Scio istuc, sed metuo mihi.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="537"/>
             <l>Mea quidem istuc nil refert: tua ego hoc facio gratia,</l>
             <lb ed="TLN" n="538"/>
             <l>ut tibi recte conciliandi primo facerem copiam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="539-540"/>
             <l>Gratiam habeo. sed te de aliis, quam alios de te suaviust</l>
             <lb ed="TLN" n="541"/>
             <l n="70" part="I">fieri doctos.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Ne quis vero ex Arabia penitissuma</l>
             <lb ed="TLN" n="542"/>
             <l part="I">persequatur. etiam tu illam destinas?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Videam modo</l>
             <lb ed="TLN" n="543"/>
             <l part="I">mercimonium.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Aequa dicis. séd optume eccum ipse advenit</l>
             <lb ed="TLN" n="544"/>
             <l part="I">hospes ille, qui has tabellas attulit.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Hicinest?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Hic est.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="545"/>
             <l part="I">Haecine illást furtiva virgo?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Iuxta tecum aeque scio,</l>
             <lb ed="TLN" n="546"/>
             <l n="75">nisi quia specie quidem edepol liberalist, quisquis est.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="547"/>
             <l part="I">Sat edepol concinnast facie.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Vt contemptim carnufex.</l>
             <lb ed="TLN" n="548"/>
             <l part="I">taciti contemplemur formam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Laudo consilium tuom.</l>
           </sp>
@@ -2878,12 +2878,12 @@ Added to repository.
             <lb ed="TLN" n="550"/>
             <l>Vrbis speciem vidi, hominum móres perspexi parum.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="551"/>
             <l>Numquid in principió cessavit verbum docte dicere?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="552"/>
             <l>Hau potui etiam in primo verbo perspiceré sapientiam.</l>
@@ -2904,7 +2904,7 @@ Added to repository.
             <lb ed="TLN" n="557"/>
             <l part="I">septimum periurium,</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Euge.</l>
           </sp>
@@ -2918,44 +2918,44 @@ Added to repository.
             <lb ed="TLN" n="560"/>
             <l>ubi ea aderúnt, centumplex murus rebus servandis parumst.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="561"/>
             <l part="I">Quid ais tu?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quid vis?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Tu in illis es decem sodalibus:</l>
             <lb ed="TLN" n="562"/>
             <l part="I">té in exilium ire hinc oportet.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quid iam?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quia periurus es.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <lb ed="TLN" n="563"/>
             <l n="15" part="I">Verba quidem haud indocte fecit.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Ex tuo, inquam, usust: eme hanc.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <lb ed="TLN" n="564"/>
             <l part="I">Edepol qui cum hanc magis contemplo, magis placet.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Si hanc emeris,</l>
             <lb ed="TLN" n="565"/>
@@ -2967,11 +2967,11 @@ Added to repository.
             <lb ed="TLN" n="568"/>
             <l n="20" part="I">venient ad te comissatum.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">At ego intro mitti votuero.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="569"/>
             <l>At enim illi noctu occentabunt ostium, exurent fores:</l>
@@ -2984,29 +2984,29 @@ Added to repository.
             <lb ed="TLN" n="573"/>
             <l n="25">ferreas tute tibi impingi iubeas crassas compedis.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="574"/>
             <l part="I">I sis in malum cruciatum.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">I sane tu, [hanc eme atque] ausculta mihi.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="575"/>
             <l part="I">Modo uti sciam, quanti indicet.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Vin huc vocem?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Ego illo accessero.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="576"/>
             <l part="I">Quid agis, hospes?</l>
@@ -3019,7 +3019,7 @@ Added to repository.
             <lb ed="TLN" n="578"/>
             <l n="30">si potest; si non potest, iri hinc volo quantum potest.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="579"/>
             <l part="I">Salvos sis, adulescens.</l>
@@ -3028,7 +3028,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Siquidem hanc vendidero pretio suo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="580"/>
             <l>At qui aut hoc emptore vendes pulchre, aut alio non potis.</l>
@@ -3038,11 +3038,11 @@ Added to repository.
             <lb ed="TLN" n="581"/>
             <l part="I">Esne tu huic amicus?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Tam quam di omnes qui caelum colunt.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="582"/>
             <l>Tum tu mi es inimicus certus. nam generi lenonio</l>
@@ -3054,7 +3054,7 @@ Added to repository.
             <lb ed="TLN" n="584"/>
             <l part="I">Hoc age. opusnest hac tibi empta?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Si tibi venissest opus,</l>
             <lb ed="TLN" n="585"/>
@@ -3065,11 +3065,11 @@ Added to repository.
             <lb ed="TLN" n="586"/>
             <l part="I">Indica, fac pretium.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Tua mers est, tua indicatiost.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="587"/>
             <l part="I">Aequom hic orat.</l>
@@ -3078,16 +3078,16 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Vin bene emere?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Vin tu pulchre vendere?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="588"/>
             <l n="40" part="I">Ego scio hercle utrumque velle.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Age, indica prognariter.</l>
           </sp>
@@ -3096,29 +3096,29 @@ Added to repository.
             <lb ed="TLN" n="589"/>
             <l part="I">Prius dico: hanc mancupio nemo tibi dabit. iam scis?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Scio.</l>
             <lb ed="TLN" n="590"/>
             <l>indica, minimo daturus qui sis, qui duci queat.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="591"/>
             <l>Tace, tace. nimis tú quidem hercle homo stultus es pueriliter.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="592"/>
             <l part="I">Quid ita?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quia enim te ex puella prius percontari volo</l>
             <lb ed="TLN" n="593"/>
             <l n="45" part="I">quae ad rem referúnt.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Atque hercle tu me monuisti hau male.</l>
             <lb ed="TLN" n="594"/>
@@ -3126,7 +3126,7 @@ Added to repository.
             <lb ed="TLN" n="595"/>
             <l>ni hic adesses. quantum est adhibere hominem amicum, ubi quid geras.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="596"/>
             <l>Quo genere aut qua in patria nata sit aut quibus parentibus,</l>
@@ -3135,11 +3135,11 @@ Added to repository.
             <lb ed="TLN" n="598"/>
             <l n="50" part="I">volo te percontari.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quin laudo, inquam, consilium tuom.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <lb ed="TLN" n="599"/>
             <l part="I">Nisi molestum est, percontari hanc paucis hic volt.</l>
@@ -3150,7 +3150,7 @@ Added to repository.
             <lb ed="TLN" n="600"/>
             <l part="I">suo arbitratu.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quid stas? adi sis tute atque ipse itidem roga,</l>
             <lb ed="TLN" n="601"/>
@@ -3160,7 +3160,7 @@ Added to repository.
             <lb ed="TLN" n="603"/>
             <l n="55" part="I">eumpse adire, ut ne contemnat te ille.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Satis recte mones.</l>
             <lb ed="TLN" n="604"/>
@@ -3170,7 +3170,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">A terra ad caelum, quid lubet.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="605"/>
             <l part="I">Iube dum eam hoc accedat ad me.</l>
@@ -3181,7 +3181,7 @@ Added to repository.
             <lb ed="TLN" n="606"/>
             <l part="I">percontare, exquire quid vis.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Age, age nunc tu, in proelium</l>
             <lb ed="TLN" n="607"/>
@@ -3193,16 +3193,16 @@ Added to repository.
             <lb ed="TLN" n="608"/>
             <l n="60">curabo ut praedati pulchre ad castra convertamini.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="609"/>
             <l part="I">Concede istuc, ego illam adducam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Age, ut rem esse in nostram putas.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <lb ed="TLN" n="610"/>
             <l part="I">Ehodum huc, virgo. vide sis quid agas.</l>
@@ -3211,17 +3211,17 @@ Added to repository.
             <speaker>V.</speaker>
             <l part="M">Taceas, curabo ut voles.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="611"/>
             <l>Sequere me. adduco hanc, si quid vis ex hac percontarier.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <lb ed="TLN" n="612"/>
             <l part="I">Enim volo te adesse.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Hau possum quin huic operam dem hospiti,</l>
             <lb ed="TLN" n="613"/>
@@ -3231,16 +3231,16 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Immo i modo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="614"/>
             <l part="I">Do tibi ego operam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Tibi ibidem das, ubi tu tuom amicum adiuvas.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="615"/>
             <l part="I">Exquire. heus tu, advigila.</l>
@@ -3251,7 +3251,7 @@ Added to repository.
             <lb ed="TLN" n="616"/>
             <l>scio ego officium meum, ut quae rogiter vera, ut accepi, eloquar.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="617"/>
             <l part="I">Virgo, híc homo probus est.</l>
@@ -3260,7 +3260,7 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Credo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Non diu apud hunc servies.</l>
           </sp>
@@ -3269,7 +3269,7 @@ Added to repository.
             <lb ed="TLN" n="618"/>
             <l n="70">Ita pol spero, si parentes facient officium suom.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="619"/>
             <l>Nolo ego te mirari, si nos ex te percontabimur</l>
@@ -3282,22 +3282,22 @@ Added to repository.
             <lb ed="TLN" n="621"/>
             <l>servitus mea mi interdixit, ne quid mirer meum malum.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="622"/>
             <l part="I">Noli flere.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Ah, di istam perdant, ita catast et callida.</l>
             <lb ed="TLN" n="623"/>
             <l n="75" part="I">ut sapiens habet cór, quam dicit quod opust!</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quid nomen tibist?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="624"/>
             <l part="I">Nunc metuo ne peccet.</l>
@@ -3306,37 +3306,37 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Lucridi nomen in patria fuit.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="625"/>
             <l>Nomen atque omen quantivis iam est preti. quin tu hanc emis?</l>
             <lb ed="TLN" n="626"/>
             <l part="I">nimis pavebam, ne peccaret. expedivit.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Si te emam,</l>
             <lb ed="TLN" n="627"/>
             <l part="I">mihi quoque Lucridem confido fore te.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Tu si hanc emeris,</l>
             <lb ed="TLN" n="628"/>
             <l n="80">numquam hercle hunc mensem vortentem, credo, servibit tibi.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="629"/>
             <l part="I">Ita velim quidem hercle.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Optata ut evenant, operam addito.</l>
             <lb ed="TLN" n="630"/>
             <l part="I">nihil adhuc peccavit etiam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Vbi tu nata es?</l>
           </sp>
@@ -3346,7 +3346,7 @@ Added to repository.
             <lb ed="TLN" n="631"/>
             <l>mater dixit, in culina, in angulo ad laevam manum.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="632"/>
             <l>Haec erit tibi fausta meretrix: natast in calido loco,</l>
@@ -3357,7 +3357,7 @@ Added to repository.
             <lb ed="TLN" n="635"/>
             <l part="I">lepide lusit.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">At ego patriam te rogo quae sit tua.</l>
           </sp>
@@ -3366,7 +3366,7 @@ Added to repository.
             <lb ed="TLN" n="636"/>
             <l part="I">Quae mihi sít, nisi haec ubi nunc sum?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">At ego illam quaero quae fuit.</l>
           </sp>
@@ -3377,7 +3377,7 @@ Added to repository.
             <lb ed="TLN" n="638"/>
             <l n="90">tamquam hominem, quando animam ecflavit, quid eum quaeras qui fuit?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="639"/>
             <l>Ita me di bene ament, sapienter. atque equidem miseret tamen.</l>
@@ -3390,14 +3390,14 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Dico equidem: quando hic servio, haec patriast mea.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="642"/>
             <l>Iam de istoc rogare omitte (non vides nolle eloqui?)</l>
             <lb ed="TLN" n="643"/>
             <l n="95" part="I">ne suarúm se miseriarum in memoriam inducas.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quid est?</l>
             <lb ed="TLN" n="644"/>
@@ -3407,12 +3407,12 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Non captus, sed quod habuit perdidit.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="645"/>
             <l>Haec erit bono genere nata: nil scit nisi verum loqui.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="646"/>
             <l part="I">Quis fuit? dic nomen.</l>
@@ -3423,7 +3423,7 @@ Added to repository.
             <lb ed="TLN" n="647"/>
             <l>nunc et illúm miserum et me miseram aéquom est nominarier.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="648"/>
             <l n="100" part="I">Quoius modi is &lt;suo&gt; ín populo habitust?</l>
@@ -3434,28 +3434,28 @@ Added to repository.
             <lb ed="TLN" n="649"/>
             <l part="I">servi liberique amabant.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Hominem miserum praedicas,</l>
             <lb ed="TLN" n="650"/>
             <l>quom ét ipsus prorsus perditust et benevolentis perdidit.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="651"/>
             <l part="I">Emam, opinor.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Etiam opinor? summo genere esse arbitror;</l>
             <lb ed="TLN" n="652"/>
             <l part="I">divitias tu ex istac facies.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Ita di faxint.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Eme modo.</l>
           </sp>
@@ -3466,15 +3466,15 @@ Added to repository.
             <lb ed="TLN" n="654"/>
             <l part="I">veniisse, ipse aderit et me abs te redimet.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Quid nunc?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Quid est?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="655"/>
             <l part="I">Audin quid ait?</l>
@@ -3483,7 +3483,7 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Nam etsi res sunt fractae, amici sunt tamen.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="656"/>
             <l>Ne sis plora; libera eris actutum, si crebro cades.</l>
@@ -3494,14 +3494,14 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Dum quidem ne nímis diu tua sim, volo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="658"/>
             <l n="110">Satin ut meminit libertatis? dabit haec tibi grandis bolos.</l>
             <lb ed="TLN" n="659"/>
             <l>age si quid agis. ego ad hunc redeo. sequere. redduco hanc tibi.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="660"/>
             <l part="I">Adulescens, vin vendere istanc?</l>
@@ -3510,7 +3510,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Magis libet quam perdere.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="661"/>
             <l>Tum tu pauca in verba confer: qui datur, tanti indica.</l>
@@ -3520,7 +3520,7 @@ Added to repository.
             <lb ed="TLN" n="662"/>
             <l>Faciam ita ut te velle video, út emas. habe centum minis.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="663"/>
             <l n="115" part="I">Nimiumst.</l>
@@ -3529,7 +3529,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Octoginta.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Nimiumst.</l>
           </sp>
@@ -3539,7 +3539,7 @@ Added to repository.
             <lb ed="TLN" n="664"/>
             <l part="I">quod nunc dicam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quid id est ergo? eloquere actutum atque indica.</l>
           </sp>
@@ -3548,22 +3548,22 @@ Added to repository.
             <lb ed="TLN" n="665"/>
             <l>Tuo periclo sexaginta haec dabitur argenti minis.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="666"/>
             <l part="I">Toxilé, quid ago?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Di deaeque te agitant irati, scelus,</l>
             <lb ed="TLN" n="667"/>
             <l part="I">qui hanc non properes destinare.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Habeto.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">
               Eu, 
@@ -3578,12 +3578,12 @@ Added to repository.
             <lb ed="TLN" n="669"/>
             <l>Heus tu, etiam pro vestimentis huc decem accedent minae.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="670"/>
             <l part="I">Abscedent enim, nón accedent.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Tace sis, non tu illum vides</l>
             <lb ed="TLN" n="671"/>
@@ -3591,22 +3591,22 @@ Added to repository.
             <lb ed="TLN" n="671a"/>
             <l>* * atque ut dignust perit.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="672"/>
             <l n="125" part="I">Heus tu serva istum.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quin tu is intro?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Abeo atque argentum affero.—</l>
           </sp>
         </div2>
         <div2 n="5" type="scene">
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="673"/>
             <l>Edepol dedisti, virgo, operam adlaudabilem,</l>
@@ -3619,7 +3619,7 @@ Added to repository.
             <lb ed="TLN" n="675"/>
             <l>boni fit, esse id et grave et gratum solet.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="676"/>
             <l>Audin tu, Persa? ubi argentum ab hoc acceperis,</l>
@@ -3630,7 +3630,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Ne doce.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="678"/>
             <l>Per angiportum rursum te ad me recipito</l>
@@ -3641,7 +3641,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quod futurum est praedicas.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="680"/>
             <l>At ne cum argento protinam permittas domum,</l>
@@ -3652,15 +3652,15 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quod te dignumst, me dignum esse vis?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="682"/>
             <l n="10">Tace, párce voci: praeda progreditur foras.</l>
           </sp>
         </div2>
         <div2 n="6" type="scene">
-          <sp who="#dordalvs">
-            <speaker>Dordalvs</speaker>
+          <sp who="#dordalus">
+            <speaker>Dordalus</speaker>
             <lb ed="TLN" n="683"/>
             <l>Probae hic argenti sunt sexaginta minae,</l>
             <lb ed="TLN" n="684"/>
@@ -3670,7 +3670,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quid ei nummi sciunt?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="685"/>
             <l>Cruminam hanc emere aut facere uti remigret domum.</l>
@@ -3682,12 +3682,12 @@ Added to repository.
             <lb ed="TLN" n="687"/>
             <l n="5">impure, avare, ne crumillam amitteres?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="688"/>
             <l>Sine quaeso. quando lenost, nil mirum facit.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="689"/>
             <l>Lucro faciundo ego auspicavi in hunc diem:</l>
@@ -3702,7 +3702,7 @@ Added to repository.
             <lb ed="TLN" n="692"/>
             <l n="10" part="I">impone.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Vero fiat.</l>
           </sp>
@@ -3712,7 +3712,7 @@ Added to repository.
             <lb ed="TLN" n="693"/>
             <l part="I">me voltis?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quid tam properas?</l>
           </sp>
@@ -3726,7 +3726,7 @@ Added to repository.
             <lb ed="TLN" n="696"/>
             <l>eum ego ut requiram átque uti redimam volo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="697"/>
             <l n="15">Atque edepol tu me commonuisti haú male.</l>
@@ -3739,16 +3739,16 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quippe qui frater siet.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="700"/>
             <l part="I">Quid est tibi nomen?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">* quod ad te attinet.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="701"/>
             <l part="I">Quid attinet non scire?</l>
@@ -3765,7 +3765,7 @@ Added to repository.
             <lb ed="TLN" n="705"/>
             <l>Quodsemelarripides Numquameripides. em tibi.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="706"/>
             <l>Eu hercle, nomen multimodis scriptumst tuom.</l>
@@ -3779,7 +3779,7 @@ Added to repository.
             <lb ed="TLN" n="709"/>
             <l part="I">voltis?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Vale.</l>
           </sp>
@@ -3787,7 +3787,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Et vos, nam animus iam in navist meus.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="710"/>
             <l part="I">Cras ires potius, hodie hic cenares.</l>
@@ -3798,7 +3798,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="7" type="scene">
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="711"/>
             <l>Postquam illic &lt;hinc&gt; abiit, dicere hic quidvis licet.</l>
@@ -3807,7 +3807,7 @@ Added to repository.
             <lb ed="TLN" n="713"/>
             <l>nam non emisti hanc, verum fecisti lucri.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="714"/>
             <l>Ille quidem iam scit, quid negoti gesserit,</l>
@@ -3820,13 +3820,13 @@ Added to repository.
             <lb ed="TLN" n="718"/>
             <l part="I">in Persas? nugas.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Credidi gratum fore</l>
             <lb ed="TLN" n="719"/>
             <l part="I">beneficium meum apud te.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Immo equidem gratiam</l>
             <lb ed="TLN" n="720"/>
@@ -3834,18 +3834,18 @@ Added to repository.
             <lb ed="TLN" n="721"/>
             <l part="I">mihi dare bonam operam.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Tibine ego? immo sedulo.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="722"/>
             <l>Attat, oblitus sum intus dudum edicere</l>
             <lb ed="TLN" n="723"/>
             <l part="I">quae volui edicta. adserva hanc.—</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Salvast haec quidem.</l>
           </sp>
@@ -3854,7 +3854,7 @@ Added to repository.
             <lb ed="TLN" n="724"/>
             <l part="I">Pater nunc cessat.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Quid si admoneam?</l>
           </sp>
@@ -3862,18 +3862,18 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Tempus est.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="725"/>
             <l n="15">Heus, Saturio, exi. nunc est illa occasio</l>
             <lb ed="TLN" n="726"/>
             <l part="I">inimicum ulcisci.</l>
           </sp>
-          <sp who="#satvrio">
-            <speaker>Satvrio</speaker>
+          <sp who="#saturio">
+            <speaker>Saturio</speaker>
             <l part="M">Ecce me. numquid moror?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="727"/>
             <l>Age, illúc abscede procul e conspectu, tace;</l>
@@ -3886,7 +3886,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Dictum sapienti sat est.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="730"/>
             <l n="20" part="I">Tunc, quando abiero—</l>
@@ -3897,42 +3897,42 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="8" type="scene">
-          <sp who="#dordalvs">
-            <speaker>Dordalvs</speaker>
+          <sp who="#dordalus">
+            <speaker>Dordalus</speaker>
             <lb ed="TLN" n="731"/>
             <l>Transcidi loris omnis adveniens domi,</l>
             <lb ed="TLN" n="732"/>
             <l>ita mihi supellex squalet atque aedes meae.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="733"/>
             <l part="I">Redis tu tandem?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Redeo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Ne ego hodie tibi</l>
             <lb ed="TLN" n="734"/>
             <l part="I">bona multa feci.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Fateor, habeo gratiam.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="735"/>
             <l n="5" part="I">Num quippiam aliud me vis?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Vt bene sit tibi.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="736"/>
             <l>Pol istúc quidem omen iám ego usurpabo domi,</l>
@@ -3941,8 +3941,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="9" type="scene">
-          <sp who="#satvrio">
-            <speaker>Satvrio</speaker>
+          <sp who="#saturio">
+            <speaker>Saturio</speaker>
             <lb ed="TLN" n="738"/>
             <l>Nisi ego illum hominem perdo, perii. atque optume</l>
             <lb ed="TLN" n="739"/>
@@ -3952,12 +3952,12 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Salve multum, mi pater.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="740"/>
             <l part="I">Salve, mea gnata.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Ei, Persa me pessum dedit.</l>
           </sp>
@@ -3966,7 +3966,7 @@ Added to repository.
             <lb ed="TLN" n="741"/>
             <l part="I">Pater hic meus est.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Hem, quid? pater? perii oppido.</l>
             <lb ed="TLN" n="742"/>
@@ -3974,36 +3974,36 @@ Added to repository.
             <lb ed="TLN" n="743"/>
             <l part="I">minas sexaginta?</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Ego pol te faciam, scelus,</l>
             <lb ed="TLN" n="744"/>
             <l part="I">te quoque etiam ipsum ut lamenteris.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Occidi.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="745"/>
             <l part="I">Age ambula in ius, leno.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quid me in ius vocas?</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="746"/>
             <l>Illi apud praetorem dicam. sed ego in ius voco.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="747"/>
             <l n="10" part="I">Nonne antestaris?</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Tuan ego causa, carnufex,</l>
             <lb ed="TLN" n="748"/>
@@ -4011,20 +4011,20 @@ Added to repository.
             <lb ed="TLN" n="749"/>
             <l>qui hic commercaris civis homines liberos?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="750"/>
             <l part="I">Sine dicam.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Nolo.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Aúdi.</l>
           </sp>
-          <sp who="#satvrio">
+          <sp who="#saturio">
             <speaker>Sat.</speaker>
             <l part="M">Surdus sum. ambula.</l>
             <lb ed="TLN" n="751"/>
@@ -4040,8 +4040,8 @@ Added to repository.
       </div1>
       <div1 n="5" type="act">
         <div2 n="1" type="scene">
-          <sp who="#toxilvs">
-            <speaker>Toxilvs</speaker>
+          <sp who="#toxilus">
+            <speaker>Toxilus</speaker>
             <lb ed="TLN" n="753"/>
             <l>Hostíbus victis, civíbus salvis, re plácida, pacibus pérfectis,</l>
             <lb ed="TLN" n="754"/>
@@ -4072,7 +4072,7 @@ Added to repository.
             <lb ed="TLN" n="763"/>
             <l part="I">Toxíle mi, cur ego síne te sum, cur tu aútem sine me es?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Ágedum ergo,</l>
             <lb ed="TLN" n="764"/>
@@ -4082,7 +4082,7 @@ Added to repository.
             <speaker>Lemn.</speaker>
             <l part="M">Ego véro.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Oh, nihil hoc mágis dulcest.</l>
             <lb ed="TLN" n="765"/>
@@ -4093,7 +4093,7 @@ Added to repository.
             <lb ed="TLN" n="766"/>
             <l part="I">Omnía quae tu vis, éa cupio.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Mutúa fiunt a me. age, age ergo,</l>
             <lb ed="TLN" n="767"/>
@@ -4103,7 +4103,7 @@ Added to repository.
             <speaker>Sagaristio</speaker>
             <l part="M">Ego níl moror: cedo parem, quém pepigi.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="768"/>
             <l part="I">Temperí.</l>
@@ -4112,7 +4112,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Mi istuc temperí serost.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Hoc age, accúmbe. hunc diém suavem</l>
             <lb ed="TLN" n="769"/>
@@ -4125,7 +4125,7 @@ Added to repository.
             <lb ed="TLN" n="771"/>
             <l>Age, púere, ab summo séptenis cyathís committe hos lúdos.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="772"/>
             <l>Move mánus, propera, Paegniúm, tarde cyathós mihi das, cedo sáne.</l>
@@ -4138,7 +4138,7 @@ Added to repository.
             <speaker>Lemn.</speaker>
             <l part="M">Tua factum ópera.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="775"/>
             <l n="25">Bene omníbus nobis. hoc méa manus tuaé poclúm donat, ut amántem</l>
@@ -4149,18 +4149,18 @@ Added to repository.
             <speaker>Lemn.</speaker>
             <l part="M">Cédo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Accípe.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Bene eí qui invidét mi et eí qui hoc gaúdet.</l>
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#dordalvs">
-            <speaker>Dordalvs</speaker>
+          <sp who="#dordalus">
+            <speaker>Dordalus</speaker>
             <lb ed="TLN" n="777"/>
             <l>Qui súnt † qui erunt quiqué fuerunt quiqué futuri sunt pósthac,</l>
             <lb ed="TLN" n="778"/>
@@ -4186,7 +4186,7 @@ Added to repository.
             <lb ed="TLN" n="789-790"/>
             <l part="I">salvéto, et tu, bona líberta.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Dordálus hic quidemst.</l>
           </sp>
@@ -4194,7 +4194,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quin iúbe adire.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="791"/>
             <l part="I">Adi, sí libet.</l>
@@ -4203,35 +4203,35 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Agite, adplaúdamus.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Dordále, homo lepidissúme, salve.</l>
             <lb ed="TLN" n="792"/>
             <l>locus híc tuos est, hic accumbe. férte aquam pédibus. praeben tú puere?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="793"/>
             <l n="15">Ne sís me uno digito áttigeris, ne te ád terram, scelus, ádfligam.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="794"/>
             <l>At tíbi ego hoc continuó cyatho oculum éxcutiam † tuum.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="795"/>
             <l>Quid aís, crux, stimulorúm tritor? quo módo me hodie versávisti,</l>
             <lb ed="TLN" n="796"/>
             <l>ut me ín tricas coniécisti, quo módo de Persa mánus mi aditast?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="797"/>
             <l>Iurgium hínc auféras, si sápias.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="798"/>
             <l n="20" part="I">At, bóna liberta, haec scívisti et me célavisti?</l>
@@ -4244,22 +4244,22 @@ Added to repository.
             <lb ed="TLN" n="801"/>
             <l part="I">magis pár agerest.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Vrítur cor mi.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Da illí cantharum, extingue ígnem, si</l>
             <lb ed="TLN" n="802"/>
             <l>cor úritur, caput ne ardéscat.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="803"/>
             <l>Lúdos me fácitis, intéllego.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="804"/>
             <l n="25">Vín cinaedúm novom tíbi dari, Paégnium?</l>
@@ -4268,37 +4268,37 @@ Added to repository.
             <lb ed="TLN" n="806"/>
             <l>huí, babae, básilice te íntulisti ét facete.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="807"/>
             <l>Decét me facétum esse, et húnc inridére</l>
             <lb ed="TLN" n="808"/>
             <l>lenónem lubídost, quandó dignus ést.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="809"/>
             <l n="30" part="I">Perge út coeperás.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Hoc, léno, tibí.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="810"/>
             <l part="I">Perií perculít me prope.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Em, serva rúsum.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="811"/>
             <l>Delúde, ut lubet, erus dum hínc abest.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="812"/>
             <l>Viden út tuis dictis páreo?</l>
@@ -4307,50 +4307,50 @@ Added to repository.
             <lb ed="TLN" n="814"/>
             <l n="35" part="I">atque hóc, quod tibí suadeó, facis?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Quid ést id?</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="815"/>
             <l>Restím tu tibí cápe crassam ac suspende te.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="816"/>
             <l>Cave sís me attigás, ne tibi hóc scipióne</l>
             <lb ed="TLN" n="817"/>
             <l part="I">malúm magnum dém.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">Vteré, te condóno.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="818"/>
             <l>Iam iám, Paegnium, da paúsam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="819"/>
             <l n="40" part="I">Égo pol vos erádicabo.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <l part="M">At te ílle, qui suprá nos habitat,</l>
             <lb ed="TLN" n="820"/>
             <l>qui tibi male volt maleque faciet. non hi dicunt, verum ego.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="821"/>
             <l>Age, circumfer mulsum, bibere da usque plenis cantharis.</l>
             <lb ed="TLN" n="822"/>
             <l>iam diu fáctum est, postquam bibimus; nimis diu sicci sumus.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="823"/>
             <l>Di faciant ut id bibatis quod vos numquam transeat.</l>
@@ -4362,13 +4362,13 @@ Added to repository.
             <lb ed="TLN" n="825"/>
             <l part="I">faciebat. vide vero, si tibi satis placet.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Me quoque volo</l>
             <lb ed="TLN" n="826"/>
             <l>reddere, Diodorus quem olim faciebat in Ionia.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="827"/>
             <l part="I">Malum ego vobis dabo, ni abitis.</l>
@@ -4379,25 +4379,25 @@ Added to repository.
             <lb ed="TLN" n="828"/>
             <l>iam ego tibi, si me inritassis, Persam adducam denuo.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <lb ed="TLN" n="829"/>
             <l n="50">[iam taceo hercle] Atque tu Persa es, qui me usque ádmutilavisti ad cutem.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <lb ed="TLN" n="830"/>
             <l part="I">Tace, stulte: hic eius geminust frater.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Hicinest?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>T.</speaker>
             <l part="M">Ac geminissumus.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="831"/>
             <l part="I">Di deaeque et te et geminum fratrem excrucient.</l>
@@ -4408,11 +4408,11 @@ Added to repository.
             <lb ed="TLN" n="832"/>
             <l part="I">nám ego nil merui.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">At enim quod ille meruit, tibi id obsit volo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="833"/>
             <l part="I">Agite sultis, hunc lúdificemus.</l>
@@ -4423,7 +4423,7 @@ Added to repository.
             <lb ed="TLN" n="834"/>
             <l n="55" part="I">et me haud par est.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Credo eo, quia non ínconciliavit, cúm te emo.</l>
           </sp>
@@ -4432,7 +4432,7 @@ Added to repository.
             <lb ed="TLN" n="835"/>
             <l part="I">At tamen non—tamen—</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Cave ergo sis maló, et sequere me.</l>
             <lb ed="TLN" n="836"/>
@@ -4451,7 +4451,7 @@ Added to repository.
             <lb ed="TLN" n="841"/>
             <l>Pol bene facta tua me hortantur, tuo ut imperio paream.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="842"/>
             <l>Ego sum tibi patronus plane, qui huic pro te argentum dedi.</l>
@@ -4462,7 +4462,7 @@ Added to repository.
             <speaker>Lemn.</speaker>
             <l part="M">Meo ego ín loco sedulo cúrabo.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="844"/>
             <l n="65" part="I">Certo ílli homines mihi néscio quid mali cónsulunt, quod faciánt.</l>
@@ -4471,7 +4471,7 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Heus vos.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="845"/>
             <l part="I">Quid aís?</l>
@@ -4482,26 +4482,26 @@ Added to repository.
             <lb ed="TLN" n="846"/>
             <l part="I">hicinést, qui fuit quondám fortis?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Quae haec rés est? ei, colaphó me icit.</l>
             <lb ed="TLN" n="847"/>
             <l part="I">malum vóbis dabo.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">At tibi nós dedimus dabimúsque etiam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Ei, natis pérvellit.</l>
           </sp>
-          <sp who="#paegnivm">
+          <sp who="#paegnium">
             <speaker>Paeg.</speaker>
             <lb ed="TLN" n="848"/>
             <l part="I">Licet: iám diu saepe sunt éxpunctae.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Loqueré tu etiam, frustúm pueri?</l>
           </sp>
@@ -4510,7 +4510,7 @@ Added to repository.
             <lb ed="TLN" n="849"/>
             <l n="70">Patróne mi, i intro, amábo, ad cenam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="850"/>
             <l>Mea Ignávia, tu nunc me ínrides?</l>
@@ -4520,7 +4520,7 @@ Added to repository.
             <lb ed="TLN" n="851"/>
             <l part="I">Quíane te vocó, bene ut tíbi sit?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>D.</speaker>
             <l part="M">Nólo mihi bene ésse.</l>
           </sp>
@@ -4528,26 +4528,26 @@ Added to repository.
             <speaker>L.</speaker>
             <l part="M">Ne sit.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="852"/>
             <l>Quíd igitur? sescénti nummi quíd agunt, quas turbás danunt?</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <lb ed="TLN" n="853"/>
             <l>Mále disperii, scíunt referre próbe inimico grátiam.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="854"/>
             <l n="75" part="I">Satis súmpsimus súpplici iam.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Fateór, manus vobís do.</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="855"/>
             <l>Et póst dabis sub fúrcis.</l>
@@ -4557,13 +4557,13 @@ Added to repository.
             <lb ed="TLN" n="856"/>
             <l part="I">Abi íntro—in crucem.</l>
           </sp>
-          <sp who="#dordalvs">
+          <sp who="#dordalus">
             <speaker>Dor.</speaker>
             <l part="M">Án me hic parum éxercitum hísce</l>
             <lb ed="TLN" n="857"/>
             <l part="I">habént?</l>
           </sp>
-          <sp who="#toxilvs">
+          <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <l part="M">Convenísse te Tóxilum me *</l>
             <lb ed="TLN" n="858"/>

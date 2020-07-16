@@ -54,43 +54,43 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="byrrhia" sex="MALE">
+          <person xml:id="byrrhia" sex="MALE" role="servus">
             <persName>Byrrhia</persName>
           </person>
-          <person xml:id="charintus" sex="MALE">
-            <persName>Charintus</persName>
+          <person xml:id="charinus" sex="MALE" role="adulescens">
+            <persName>Charinus</persName>
           </person>
-          <person xml:id="chremes" sex="MALE">
+          <person xml:id="chremes" sex="MALE" role="senex">
             <persName>Chremes</persName>
           </person>
-          <person xml:id="crito" sex="MALE">
+          <person xml:id="crito" sex="MALE" role="senex">
             <persName>Crito</persName>
           </person>
-          <person xml:id="davus" sex="MALE">
+          <person xml:id="davus" sex="MALE" role="servus">
             <persName>Davus</persName>
           </person>
-          <person xml:id="dromo" sex="MALE">
+          <person xml:id="dromo" sex="MALE" role="lorarius">
             <persName>Dromo</persName>
           </person>
-          <person xml:id="glycerium" sex="FEMALE">
+          <person xml:id="glycerium" sex="FEMALE" role="meretrix">
             <persName>Glycerium</persName>
           </person>
-          <person xml:id="lesbia" sex="FEMALE">
+          <person xml:id="lesbia" sex="FEMALE" role="obstetrix">
             <persName>Lesbia</persName>
           </person>
-          <person xml:id="mysis" sex="FEMALE">
+          <person xml:id="mysis" sex="FEMALE" role="ancilla">
             <persName>Mysis</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="pamphilus" sex="MALE">
+          <person xml:id="pamphilus" sex="MALE" role="adulescens">
             <persName>Pamphilus</persName>
           </person>
-          <person xml:id="simo" sex="MALE">
+          <person xml:id="simo" sex="MALE" role="senex">
             <persName>Simo</persName>
           </person>
-          <person xml:id="sosia" sex="MALE">
+          <person xml:id="sosia" sex="MALE" role="libertus">
             <persName>Sosia</persName>
           </person>
         </listPerson>
@@ -1731,7 +1731,7 @@ new additions
       <div1 n="2" type="act">
         <div2 n="1" type="scene">
           <stage>CHARINUS. BYRRHIA. PAMPHILUS.</stage>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="301"/>
             <l>Quid ais Byrrhia? datume illa Pamphilo hodie nuptum?</l>
@@ -1740,7 +1740,7 @@ new additions
             <speaker>By.</speaker>
             <l part="Y"> Sic est.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="302"/>
             <l>Qui scis?</l>
@@ -1749,7 +1749,7 @@ new additions
             <speaker>By.</speaker>
             <l part="Y"> Apud forum modo e Davo audivi.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Vae misero mihi.
@@ -1770,7 +1770,7 @@ new additions
             </l>
             <l>Id velis quod possit.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Nil volo aliud nisi Philumenam.</l>
           </sp>
@@ -1786,7 +1786,7 @@ new additions
             </l>
             <l>Quam id loqui quo magis libido frustra incendatur tua.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="309"/>
             <l>
@@ -1799,7 +1799,7 @@ new additions
             <speaker>By.</speaker>
             <l part="Y"> Age age, ut libet.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Sed Pamphilum
@@ -1811,7 +1811,7 @@ new additions
             <speaker>By.</speaker>
             <l part="Y"> Quid hic agit?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="312"/>
             <l>
@@ -1828,7 +1828,7 @@ new additions
             <speaker>By.</speaker>
             <l part="Y"> Id aliquid nihil est.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Byrrhia,
@@ -1844,7 +1844,7 @@ new additions
             </l>
             <l>Ut te arbitretur sibi paratum moechum si illam duxerit?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="317"/>
             <l>Abin' hinc in malam rem cum suspicione istac, scelus?</l>
@@ -1854,7 +1854,7 @@ new additions
             <lb ed="TLN" n="318"/>
             <l>Charinum video: salve.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                O salve Pamphile.
@@ -1871,7 +1871,7 @@ new additions
             </l>
             <l>Sed istuc quidnam est?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Hodie uxorem ducis?</l>
           </sp>
@@ -1879,7 +1879,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Aiunt.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Pamphile,
@@ -1891,7 +1891,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Quid ita?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Hei mihi,
@@ -1920,7 +1920,7 @@ new additions
             </l>
             <l n="25">Numquidnam amplius tibi cum illa fuit Charine?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Ah Pamphile
@@ -1932,7 +1932,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Quam vellem.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Nunc te per amicitiam et per amorem obsecro
@@ -1944,7 +1944,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Dabo equidem operam.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Sed si id non potes,
@@ -1956,7 +1956,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Cordi?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Saltem aliquot dies
@@ -1980,7 +1980,7 @@ new additions
             </l>
             <l>Nuptias effugere ego istas malo, quam tu adipiscier.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="333"/>
             <l>Reddidisti animum.</l>
@@ -1997,7 +1997,7 @@ new additions
             </l>
             <l n="35">Ego id agam qui mihi ne detur.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Sat habeo.</l>
           </sp>
@@ -2009,7 +2009,7 @@ new additions
             </l>
             <l>Video cuius consilio fretus sum.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                At tu hercle haud quidquam mihi;
@@ -2033,7 +2033,7 @@ new additions
             </l>
             <l>Ut metum in quo nunc est adimam, atque expleam animum gaudio?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="340"/>
             <l>Laetus est nescio quid.</l>
@@ -2047,7 +2047,7 @@ new additions
             <lb ed="TLN" n="341"/>
             <l>Quem ego nunc credo, si iam audierit sibi paratas nuptias--</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="342"/>
             <l n="5">Audin' tu illum?</l>
@@ -2060,7 +2060,7 @@ new additions
             </l>
             <l>Sed ubi quaeram? quo nunc primum intendam?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Cessas adloqui?</l>
           </sp>
@@ -2098,7 +2098,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Quid timeas scio.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="347"/>
             <l n="10">Mea quidem hercle certe in dubio vita est.</l>
@@ -2128,7 +2128,7 @@ new additions
             </l>
             <l>Id paves ne ducas tu illam, tu autem ut ducas.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Rem tenes.</l>
           </sp>
@@ -2210,7 +2210,7 @@ new additions
             </l>
             <l n="25">Cum illo advenio solitudo ante ostium: iam id gaudeo.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="363"/>
             <l>Recte dicis.</l>
@@ -2260,7 +2260,7 @@ new additions
             </l>
             <l>Olera et pisciculos minutos ferre obolo in coenam seni.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="370"/>
             <l>Liberatus sum hodie Dave tua opera.</l>
@@ -2269,7 +2269,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Ac nullus quidem.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="371"/>
             <l>Quid ita? Nempe huic prorsus illam non dat.</l>
@@ -2286,7 +2286,7 @@ new additions
             </l>
             <l>Nisi vides, nisi senis amicos oras, ambis.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Bene mones.
@@ -3867,7 +3867,7 @@ new additions
       <div1 n="4" type="act">
         <div2 n="1" type="scene">
           <stage>CHARINUS. PAMPHILUS. DAVUS.</stage>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="626"/>
             <l>
@@ -3941,7 +3941,7 @@ new additions
             <lb ed="TLN" n="643"/>
             <l>Charine et me et te imprudens, nisi quid Di respiciunt, perdidi.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="644"/>
             <l>Itane imprudens? tandem inventa est causa: solvisti fidem.</l>
@@ -3951,7 +3951,7 @@ new additions
             <lb ed="TLN" n="645"/>
             <l n="20">Quid tandem?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Etiam nunc me ducere istis dictis postulas?</l>
           </sp>
@@ -3960,7 +3960,7 @@ new additions
             <lb ed="TLN" n="646"/>
             <l>Quid istuc est?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Postquam me amare dixi complacita est tibi.
@@ -3973,7 +3973,7 @@ new additions
             <lb ed="TLN" n="648"/>
             <l>Falsus es.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Nonne tibi satis esse hoc visum solidum est gaudium,
@@ -3997,7 +3997,7 @@ new additions
             </l>
             <l>Meus carnufex.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Quid istuc tam mirum est de te si exemplum capit?</l>
           </sp>
@@ -4006,7 +4006,7 @@ new additions
             <lb ed="TLN" n="653"/>
             <l>Haud istuc dicas si cognoris vel me vel amorem meum.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="654"/>
             <l>
@@ -4028,7 +4028,7 @@ new additions
             </l>
             <l>Nec postulabat nunc quisquam uxorem dare.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="659"/>
             <l>Scio: tu coactus tua voluntate es.</l>
@@ -4041,7 +4041,7 @@ new additions
             </l>
             <l n="35">Non dum scis.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Scio equidem illam ducturum esse te.</l>
           </sp>
@@ -4058,7 +4058,7 @@ new additions
             </l>
             <l>Suadere, orare, usque adeo donec perpulit.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="664"/>
             <l>Quis homo istuc?</l>
@@ -4067,7 +4067,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Davus.--</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Davus?</l>
           </sp>
@@ -4075,7 +4075,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> interturbat.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Quamobrem?</l>
           </sp>
@@ -4087,7 +4087,7 @@ new additions
             </l>
             <l n="40">Nisi mihi deos satis scio fuisse iratos qui eis auscultaverim.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="666"/>
             <l>Factum hoc est Dave?</l>
@@ -4096,7 +4096,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Factum.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Hem, quid ais scelus?
@@ -4117,7 +4117,7 @@ new additions
             <lb ed="TLN" n="670"/>
             <l n="45">Deceptus sum at non defatigatus.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Scio.</l>
           </sp>
@@ -4249,7 +4249,7 @@ new additions
             </l>
             <l>Nam idcirco arcessor, nuptias quod mihi apparari sensit.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="692"/>
             <l>Quibus quidem quam facile potuerat quiesci si hic quiesset.</l>
@@ -4312,7 +4312,7 @@ new additions
             </l>
             <l>Quis videor?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Miser aeque atque ego.</l>
           </sp>
@@ -4320,7 +4320,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Consilium quaero.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Fortis!</l>
           </sp>
@@ -4342,7 +4342,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Quin iam habeo.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Quid est?</l>
           </sp>
@@ -4350,7 +4350,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Huic, non tibi habeo, ne erres.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="706"/>
             <l>Sat habeo.</l>
@@ -4380,7 +4380,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Quid tu? quo hinc te agis?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Verum vis dicam?</l>
           </sp>
@@ -4392,7 +4392,7 @@ new additions
             </l>
             <l>Narrationis incipit mihi initium.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Quid me fiet?</l>
           </sp>
@@ -4405,7 +4405,7 @@ new additions
             </l>
             <l>Quantum huic promoveo nuptias?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Dave attamen.</l>
           </sp>
@@ -4413,7 +4413,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Quid ergo?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="713"/>
             <l>Ut ducam.</l>
@@ -4422,7 +4422,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Ridiculum.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Huc face ad me ut venias si quid poteris.</l>
           </sp>
@@ -4431,7 +4431,7 @@ new additions
             <lb ed="TLN" n="714"/>
             <l n="30">Quid veniam? nihil habeo.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> At tamen siquid.</l>
           </sp>
@@ -4439,7 +4439,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Age veniam.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Si quid
@@ -6218,7 +6218,7 @@ new additions
         </div2>
         <div2 n="5" type="scene">
           <stage>CHARINUS. PAMPHILUS.</stage>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="958"/>
             <l>Proviso quid agat Pamphilus; atque eccum.</l>
@@ -6247,7 +6247,7 @@ new additions
             </l>
             <l>Sed quem ego mihi potissimum optem nunc cui haec narrem dari?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="964"/>
             <l>Quid illud gaudi est?</l>
@@ -6315,7 +6315,7 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> O factum bene!</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y"> Hem!</l>
           </sp>
@@ -6341,7 +6341,7 @@ new additions
             <lb ed="TLN" n="972"/>
             <l>Nec mora ulla est quin eam uxorem ducam.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Num ille somniat
@@ -6361,7 +6361,7 @@ new additions
             </l>
             <l>Solus est quem diligunt Di.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Salvus sum si haec vera sunt.
@@ -6373,7 +6373,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Quis homo est? O Charine in tempore ipso mihi advenis.</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="976"/>
             <l>Bene factum.</l>
@@ -6382,7 +6382,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Audistine?</l>
           </sp>
-          <sp who="#chremes">
+          <sp who="#charinus">
             <speaker>Ch.</speaker>
             <l part="Y">
                Omnia: age me in tuis secundis respice.

@@ -54,37 +54,37 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="bacchis" sex="FEMALE">
+          <person xml:id="bacchis" sex="FEMALE" role="meretrix">
             <persName>Bacchis</persName>
           </person>
-          <person xml:id="laches" sex="MALE">
+          <person xml:id="laches" sex="MALE" role="senex">
             <persName>Laches</persName>
           </person>
-          <person xml:id="myrrhina" sex="FEMALE">
+          <person xml:id="myrrhina" sex="FEMALE" role="matrona">
             <persName>Myrrhina</persName>
           </person>
-          <person xml:id="pamphilus" sex="MALE">
+          <person xml:id="pamphilus" sex="MALE" role="adulescens">
             <persName>Pamphilus</persName>
           </person>
-          <person xml:id="parmeno" sex="MALE">
+          <person xml:id="parmeno" sex="MALE" role="servus">
             <persName>Parmeno</persName>
           </person>
-          <person xml:id="phidippus" sex="MALE">
+          <person xml:id="phidippus" sex="MALE" role="senex">
             <persName>Phidippus</persName>
           </person>
-          <person xml:id="philotis" sex="FEMALE">
+          <person xml:id="philotis" sex="FEMALE" role="meretrix">
             <persName>Philotis</persName>
           </person>
-          <person xml:id="sosia" sex="MALE">
+          <person xml:id="sosia" sex="MALE" role="servus">
             <persName>Sosia</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="sostrata" sex="FEMALE">
+          <person xml:id="sostrata" sex="FEMALE" role="matrona">
             <persName>Sostrata</persName>
           </person>
-          <person xml:id="syra" sex="FEMALE">
+          <person xml:id="syra" sex="FEMALE" role="anus lena">
             <persName>Syra</persName>
           </person>
         </listPerson>
@@ -1359,7 +1359,7 @@ new additions
         </div2>
         <div2 n="2" type="scene">
           <stage>PHIDIPPUS. LACHES. SOSTRATA.</stage>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="244"/>
             <l>
@@ -1446,7 +1446,7 @@ new additions
             </l>
             <l n="20">Hoc si rescierit: eo domum studeo haec prius quam ille ut redeat.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="264"/>
             <l>
@@ -1471,7 +1471,7 @@ new additions
             </l>
             <l n="25">Eho, numquidnam accusat virum?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Minime; nam postquam attendi
@@ -1504,7 +1504,7 @@ new additions
             <lb ed="TLN" n="273"/>
             <l n="30">Certumne est istuc?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Nunc quidem ut videtur: sed numquid vis?
@@ -2452,7 +2452,7 @@ new additions
             <lb ed="TLN" n="452"/>
             <l>Dixtin dudum illam dixisse se exspectare filium?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="453"/>
             <l>Factum.</l>
@@ -2492,7 +2492,7 @@ new additions
             <lb ed="TLN" n="457"/>
             <l>Gnate mi, salve.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Bene factum te advenisse, Pamphile;
@@ -2551,7 +2551,7 @@ new additions
             </l>
             <l>Nam illum vivum et salvum vellem.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Impune optare istuc licet:
@@ -2564,7 +2564,7 @@ new additions
             <lb ed="TLN" n="467"/>
             <l>Heri Philumenam ad se arcessi hic iussit: die iussisse te.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="468"/>
             <l>Noli fodere: iussi.</l>
@@ -2573,7 +2573,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Sed eam iam remittet.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y"> Scilicet.</l>
           </sp>
@@ -2682,7 +2682,7 @@ new additions
             </l>
             <l>Quandoquidem illam a me distrahit necessitas.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="494"/>
             <l>Tibi id in manu est ne fiat.</l>
@@ -2711,7 +2711,7 @@ new additions
             </l>
             <l>Mane, inquam: quo abis?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y"> Quae haec est pertinacia?</l>
           </sp>
@@ -2724,7 +2724,7 @@ new additions
             </l>
             <l>Quamobrem te orabam filiam ut remitteres.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="500"/>
             <l>
@@ -2746,7 +2746,7 @@ new additions
             <lb ed="TLN" n="504"/>
             <l>Ecce autem tu quoque proterve iracundus es.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="505"/>
             <l>Percontumax redisti huc nobis, Pamphile.</l>
@@ -2756,7 +2756,7 @@ new additions
             <lb ed="TLN" n="506"/>
             <l n="55">Decedet iam ira haec, etsi merito iratus est.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="507"/>
             <l>
@@ -2769,7 +2769,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Etiam mecum litigas?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="509"/>
             <l>
@@ -2833,7 +2833,7 @@ new additions
             </l>
             <l>Sed ostium concrepuit. Credo ipsum exire ad me: nulla sum.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="523"/>
             <l>
@@ -2846,7 +2846,7 @@ new additions
             <speaker>MIy.</speaker>
             <l part="Y"> Mihine, mi vir?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="525"/>
             <l>
@@ -2863,7 +2863,7 @@ new additions
             <speaker>My.</speaker>
             <l part="Y"> Quibus?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                At rogitas?
@@ -2879,7 +2879,7 @@ new additions
             </l>
             <l>Perii: ex quo censes nisi ex illo cui data est nuptum, obsecro?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="530"/>
             <l>
@@ -2913,7 +2913,7 @@ new additions
             <lb ed="TLN" n="537"/>
             <l>Misera sum.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Utinam sciam ita esse istuc sed nunc mihi in mentem venit
@@ -2934,7 +2934,7 @@ new additions
             <lb ed="TLN" n="541"/>
             <l n="25">Quamvis causam hunc suspicari quam ipsam veram mavolo.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="542"/>
             <l>
@@ -2968,7 +2968,7 @@ new additions
             </l>
             <l>Ut eo essem animo, si ex usu esset nostro hoc matrimonium?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="550"/>
             <l>
@@ -3017,7 +3017,7 @@ new additions
             </l>
             <l>Redde; sin est autem ut nolit, recte ego consului meae.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="561"/>
             <l n="45">
@@ -3337,7 +3337,7 @@ new additions
         </div2>
         <div2 n="4" type="scene">
           <stage>PHIDIPPUS. LACHES. PAMPHILUS.</stage>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="624"/>
             <l>
@@ -3362,7 +3362,7 @@ new additions
             </l>
             <l n="5">Phidippe, in ipso tempore ostendis.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y"> Quid est?</l>
           </sp>
@@ -3380,7 +3380,7 @@ new additions
             </l>
             <l>Ne revereatur minus iam quo redeat domum.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Ah,
@@ -3401,7 +3401,7 @@ new additions
             <lb ed="TLN" n="635"/>
             <l>Dum ne reducam, turbent porro quam velint.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="636"/>
             <l>
@@ -3427,7 +3427,7 @@ new additions
             <lb ed="TLN" n="640"/>
             <l>Puerum? quem puerum?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Natus est nobis nepos:
@@ -3460,7 +3460,7 @@ new additions
             </l>
             <l>Quam hoc mihi videtur factum prave proloqui.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="648"/>
             <l n="25">Non tibi illud factum minus placet quam mihi, Lache.</l>
@@ -3546,7 +3546,7 @@ new additions
             </l>
             <l>Quae careat culpa? an quia non delinquunt viri?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="665"/>
             <l>
@@ -3699,7 +3699,7 @@ new additions
             </l>
             <l>Quamobrem abs te abiret?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y"> Plane hic divinat; nam id est.</l>
           </sp>
@@ -3763,7 +3763,7 @@ new additions
             </l>
             <l>Puerum, Phidippe, mihi cedo; ego alam.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Maxime.
@@ -3796,7 +3796,7 @@ new additions
             <lb ed="TLN" n="716"/>
             <l>Quid ergo agam, Phidippe? quid das consili?</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="717"/>
             <l>
@@ -3822,7 +3822,7 @@ new additions
             </l>
             <l>Et te oro porro in hac re adiutor sis mihi.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y">
                Ah,
@@ -4060,7 +4060,7 @@ new additions
         </div2>
         <div2 n="2" type="scene">
           <stage>PHIDIPPUS. LACHES. BACCHIS.</stage>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="769"/>
             <l>
@@ -4082,7 +4082,7 @@ new additions
             </l>
             <l n="5">Phidippe, Bacchis deierat persancte.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <l part="Y"> Haecine ea est?</l>
           </sp>
@@ -4090,7 +4090,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Haec est.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="774"/>
             <l>Nec pol istae metuunt Deos; neque has respicere Deos opinor.</l>
@@ -4137,7 +4137,7 @@ new additions
             </l>
             <l>Profecto in hac re nihil mali est quod sit discidio dignum.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="785"/>
             <l>Velim quidem hercle.</l>
@@ -4146,7 +4146,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Exquire: adest: quod satis sit faciet ipsa.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="786"/>
             <l>
@@ -4183,7 +4183,7 @@ new additions
             <lb ed="TLN" n="792"/>
             <l>At haec amicae erunt, ubi quamobrem adveneris resciscent.</l>
           </sp>
-          <sp who="#philotis">
+          <sp who="#phidippus">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="793"/>
             <l n="25">

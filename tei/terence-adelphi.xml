@@ -54,43 +54,43 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="aeschinus" sex="MALE">
+          <person xml:id="aeschinus" sex="MALE" role="adulescens">
             <persName>Aeschinus</persName>
           </person>
-          <person xml:id="canthara" sex="FEMALE">
+          <person xml:id="canthara" sex="FEMALE" role="nutrix">
             <persName>Canthara</persName>
           </person>
-          <person xml:id="ctesipho" sex="MALE">
+          <person xml:id="ctesipho" sex="MALE" role="adulescens">
             <persName>Ctesipho</persName>
           </person>
-          <person xml:id="demea" sex="MALE">
+          <person xml:id="demea" sex="MALE" role="senex">
             <persName>Demea</persName>
           </person>
-          <person xml:id="dromo" sex="MALE">
+          <person xml:id="dromo" sex="MALE" role="servus">
             <persName>Dromo</persName>
           </person>
-          <person xml:id="geta" sex="MALE">
+          <person xml:id="geta" sex="MALE" role="servus">
             <persName>Geta</persName>
           </person>
-          <person xml:id="hegio" sex="MALE">
+          <person xml:id="hegio" sex="MALE" role="senex">
             <persName>Hegio</persName>
           </person>
-          <person xml:id="micio" sex="MALE">
+          <person xml:id="micio" sex="MALE" role="senex">
             <persName>Micio</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="pamphila" sex="FEMALE">
+          <person xml:id="pamphila" sex="FEMALE" role="virgo">
             <persName>Pamphila</persName>
           </person>
-          <person xml:id="sannio" sex="MALE">
+          <person xml:id="sannio" sex="MALE" role="leno">
             <persName>Sannio</persName>
           </person>
-          <person xml:id="sostrata" sex="FEMALE">
+          <person xml:id="sostrata" sex="FEMALE" role="matrona">
             <persName>Sostrata</persName>
           </person>
-          <person xml:id="syrus" sex="MALE">
+          <person xml:id="syrus" sex="MALE" role="servus">
             <persName>Syrus</persName>
           </person>
         </listPerson>

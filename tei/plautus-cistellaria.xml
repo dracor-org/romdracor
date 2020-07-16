@@ -50,41 +50,44 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="alcesimarchvs" sex="MALE">
-            <persName>Alcesimarchvs</persName>
+          <person xml:id="alcesimarchus" sex="MALE" role="adulescens">
+            <persName>Alcesimarchus</persName>
           </person>
-          <person xml:id="avxilivm" sex="MALE">
-            <persName>Avxilivm</persName>
+          <person xml:id="auxilium" sex="MALE" role="deus prologus">
+            <persName>Auxilium</persName>
           </person>
-          <personGrp xml:id="caterva" sex="UNKNOWN">
+          <personGrp xml:id="caterva" sex="UNKNOWN" role="caterva">
             <name>Caterva</name>
           </personGrp>
-          <person xml:id="demipho" sex="MALE">
+          <person xml:id="demipho" sex="MALE" role="senex">
             <persName>Demipho</persName>
           </person>
-          <person xml:id="gymnasivm" sex="FEMALE">
-            <persName>Gymnasivm</persName>
+          <person xml:id="gymnasium" sex="FEMALE" role="meretrix">
+            <persName>Gymnasium</persName>
           </person>
-          <person xml:id="halisca" sex="FEMALE">
+          <person xml:id="halisca" sex="FEMALE" role="ancilla">
             <persName>Halisca</persName>
           </person>
-          <person xml:id="lampadio" sex="MALE">
+          <person xml:id="lampadio" sex="MALE" role="servus">
             <persName>Lampadio</persName>
           </person>
-          <person xml:id="melaenis" sex="FEMALE">
+          <person xml:id="lena" sex="FEMALE" role="lena">
+            <persName>Lena</persName>
+          </person>
+          <person xml:id="melaenis" sex="FEMALE" role="lena">
             <persName>Melaenis</persName>
           </person>
-          <person xml:id="phanostrata" sex="FEMALE">
+          <person xml:id="phanostrata" sex="FEMALE" role="matrona">
             <persName>Phanostrata</persName>
           </person>
-          <person xml:id="selenivm" sex="FEMALE">
-            <persName>Selenivm</persName>
+          <person xml:id="selenium" sex="FEMALE" role="meretrix">
+            <persName>Selenium</persName>
           </person>
-          <person xml:id="senex" sex="FEMALE">
+          <person xml:id="senex" sex="MALE" role="senex">
             <persName>Senex</persName>
           </person>
-          <person xml:id="servvs" sex="MALE">
-            <persName>Servvs</persName>
+          <person xml:id="servus" sex="MALE" role="servus">
+            <persName>Servus</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -159,8 +162,8 @@ Added to repository.
     <body>
       <div1 n="1" type="act">
         <div2 n="1" type="scene">
-          <sp who="#selenivm">
-            <speaker>Selenivm</speaker>
+          <sp who="#selenium">
+            <speaker>Selenium</speaker>
             <lb ed="TLN" n="1"/>
             <l>Cum ego ántehac te amávi et mi amícam esse crévi,</l>
             <lb ed="TLN" n="2"/>
@@ -176,8 +179,8 @@ Added to repository.
             <lb ed="TLN" n="7"/>
             <l>éo ego vos amo ét eo á me magnam iniistis gratiam.</l>
           </sp>
-          <sp who="#gymnasivm">
-            <speaker>Gymnasivm</speaker>
+          <sp who="#gymnasium">
+            <speaker>Gymnasium</speaker>
             <lb ed="TLN" n="8"/>
             <l>Pol isto quidem nos pretio facile est frequentare</l>
             <lb ed="TLN" n="9"/>
@@ -187,14 +190,14 @@ Added to repository.
             <lb ed="TLN" n="11"/>
             <l>accépisti apúd te, ut sempér meminerímus.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="12"/>
             <l>Lubénti edepol ánimo factum ét fiet á me,</l>
             <lb ed="TLN" n="13"/>
             <l>quae vós arbitrábor velle, éa ut expetéssam.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena</speaker>
             <lb ed="TLN" n="14"/>
             <l>Quód ille dixit, quí secundo vénto vectus ést tranquilló mari,</l>
@@ -205,33 +208,33 @@ Added to repository.
             <lb ed="TLN" n="17"/>
             <l>néc nisi disciplina apud te fuit quicquam ibi quin mihi placeret.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="18"/>
             <l part="I">Quid ita, amabo?</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Raro nimium dabat quod biberem, id merum infuscabat.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="19-20"/>
             <l part="I">Amábo, hicine ístud decét?</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Iusque fásque est:</l>
             <lb ed="TLN" n="21"/>
             <l n="20" part="I">nemo álienus híc est.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Meritó vostro amó vos,</l>
             <lb ed="TLN" n="22"/>
             <l part="I">quía me colitis et mágni facitis.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Decet pol, mea Selenium,</l>
             <lb ed="TLN" n="23"/>
@@ -271,12 +274,12 @@ Added to repository.
             <lb ed="TLN" n="41"/>
             <l>causa pepuli ad meretricium quaestum, nisi ut ne ésurirem.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="42"/>
             <l n="40" part="I">At satius fuerat eam viro dare nuptum potius.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Heia,</l>
             <lb ed="TLN" n="43"/>
@@ -286,12 +289,12 @@ Added to repository.
             <lb ed="TLN" n="45"/>
             <l>nam si haec non nubat, lugubri fame familia pereat.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="46"/>
             <l>Necesse est, quo tu me modo voles esse, ita esse, mater.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="47"/>
             <l n="45">Ecastor haud me paenitet, si ut dicis ita futura es.</l>
@@ -302,16 +305,16 @@ Added to repository.
             <lb ed="TLN" n="50"/>
             <l>multisque damno et mihi lucro siné meo saepe eris sumptu.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="51"/>
             <l part="I">Di faxint.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Sine opera tua di horunc nil facere possunt.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="52"/>
             <l n="50">Equidem hercle addam operam sedulo; sed tu aufer istaec verba.</l>
@@ -328,7 +331,7 @@ Added to repository.
             <lb ed="TLN" n="58"/>
             <l>noli, obsecro, lacrumis tuis mi exercitum imperare.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="59"/>
             <l>Méd excrucio, mea Gymnasium: male mihi est, male maceror;</l>
@@ -337,85 +340,85 @@ Added to repository.
             <lb ed="TLN" n="61"/>
             <l>quid dicam, nisi stultitia mea me in maerorem rapi?</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="62"/>
             <l n="60">Indidem unde oritur facito ut facias stultitiam sepelibilem.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="63"/>
             <l part="I">Quid faciam?</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">In latebras abscondas pectore penitissimo.</l>
             <lb ed="TLN" n="64"/>
             <l>tuam stultitiam sola facito ut scías sine aliis arbitris.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="65"/>
             <l part="I">At mihi cordolium est.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">Quid? id unde est tibi cor? commemora obsecro;</l>
             <lb ed="TLN" n="66"/>
             <l>quod neque ego habeo neque quisquam alia mulier, ut perhibent viri.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="67"/>
             <l n="65">Siquid est quod doleát, dolet; si aútem non est—tamen hoc hic dolet.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="68"/>
             <l part="I">Amat haec mulier.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Eho an amare occipere amarum est, obsecro?</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="69"/>
             <l>Namque ecastor Amor et melle et felle est fecundissimus;</l>
             <lb ed="TLN" n="70"/>
             <l>gustui dat dulce, amarum ad satietatem usque oggerit.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="71"/>
             <l>Ad istam faciem est morbus, qui me, mea Gymnasium, macerat.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="72"/>
             <l n="70" part="I">Perfidiosus est Amor.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Ergo in mé peculatum facit.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="73"/>
             <l part="I">Bono animo es, erit isti morbo melius.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Confidam fore,</l>
             <lb ed="TLN" n="74"/>
             <l>si medicus veniat qui huic morbo facere medicinam potest.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="75"/>
             <l part="I">Veniet.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Spissum istuc amanti est verbum, veniet, nisi venit.</l>
             <lb ed="TLN" n="76"/>
@@ -423,7 +426,7 @@ Added to repository.
             <lb ed="TLN" n="77"/>
             <l n="75">quom ego illum unum mi exoptavi, quicum aetatem degerem.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="78"/>
             <l>Matronae magis cónducibilest istuc, mea Selenium,</l>
@@ -434,7 +437,7 @@ Added to repository.
             <lb ed="TLN" n="81"/>
             <l>non potest suam rem obtinere sola sine multis viris.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="82"/>
             <l n="80">Hoc volo agatis. qua accersitae causa ad me estis, eloquar.</l>
@@ -445,26 +448,26 @@ Added to repository.
             <lb ed="TLN" n="85"/>
             <l>ut me, quém ego amarem graviter, sineret cúm eo vivere.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="86"/>
             <l>Stulte ecastor fecit. sed tu enumquam cum quiquam viro</l>
             <lb ed="TLN" n="87"/>
             <l n="85" part="I">consuevisti?</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Nisi quidem cum Alcesimarcho, nemine,</l>
             <lb ed="TLN" n="88"/>
             <l part="I">neque pudícitiam meam mi álius quisquam imminuit.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Obsecro,</l>
             <lb ed="TLN" n="89"/>
             <l part="I">quó is homo insinuavit pacto se ad te?</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Per Dionysia</l>
             <lb ed="TLN" n="90"/>
@@ -476,19 +479,19 @@ Added to repository.
             <lb ed="TLN" n="93"/>
             <l part="I">blanditiis, muneribus, donis.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Mihi istunc vellem hominem dari,</l>
             <lb ed="TLN" n="94"/>
             <l part="I">ut ego illum vorsarem!</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Quid opust verbis? consuetudine</l>
             <lb ed="TLN" n="95"/>
             <l part="I">coepi amare contra ego illum, et ille me.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">O mea Selenium,</l>
             <lb ed="TLN" n="96"/>
@@ -496,7 +499,7 @@ Added to repository.
             <lb ed="TLN" n="97"/>
             <l n="95">melius illi multo, quém ames, consulas quam rei tuae.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="98"/>
             <l>At ille conceptis iuravit verbis apud matrem meam,</l>
@@ -511,25 +514,25 @@ Added to repository.
             <lb ed="TLN" n="103"/>
             <l part="I">eum uxorem ducturum esse aliam.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Nihil amori iniuriumst.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="104"/>
             <l>Nunc te amabo ut hanc hic &lt;unum&gt; triduom hoc solum sinas</l>
             <lb ed="TLN" n="105"/>
             <l>esse et hic servare apud me. nam ad matrem accersita sum.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="106"/>
             <l>Quamquam istud mihi erit molestum triduom, et damnum dabis,</l>
             <lb ed="TLN" n="107"/>
             <l n="105" part="I">faciam.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Facis benigne et amice. sed tu, Gymnasium mea,</l>
             <lb ed="TLN" n="108"/>
@@ -543,72 +546,72 @@ Added to repository.
             <lb ed="TLN" n="112"/>
             <l n="110" part="I">ego volo ire.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">Vt mi excivisti lacrimas.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Gymnasium mea,</l>
             <lb ed="TLN" n="113"/>
             <l part="I">bene vale.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">Cura te, amabo. sicine immunda, obsecro,</l>
             <lb ed="TLN" n="114"/>
             <l part="I">ibis?</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Immundas fortunas aequom est squalorem sequi.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="115"/>
             <l part="I">Amiculum hoc sustolle saltem.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Sine trahi, cum egomet trahor.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="116"/>
             <l part="I">Quando ita tibi lubet, vale atque salve.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Si possim, velim.—</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="117"/>
             <l n="115">Numquid me vis, mater, intro quin eam? ecastor mihi</l>
             <lb ed="TLN" n="118"/>
             <l part="I">visa amare.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Istoc ergo auris graviter obtundo tuas,</l>
             <lb ed="TLN" n="119"/>
             <l part="I">ne quem ames. abi intro.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">Numquid me vis?</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <l part="M">Vt valeas.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">Vale.—</l>
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#senex">
+          <sp who="#lena">
             <speaker>Lena.</speaker>
             <lb ed="TLN" n="120"/>
             <l>Idem míhi magnae quod parti est vitium mulierum</l>
@@ -671,8 +674,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#avxilivm">
-            <speaker>Avxilivm</speaker>
+          <sp who="#auxilium">
+            <speaker>Auxilium</speaker>
             <lb ed="TLN" n="149"/>
             <l>Vtrumque haec, et multiloqua et multibiba, est anus.</l>
             <lb ed="TLN" n="150"/>
@@ -786,8 +789,8 @@ Added to repository.
       </div1>
       <div1 n="2" type="act">
         <div2 n="1" type="scene">
-          <sp who="#alcesimarchvs">
-            <speaker>Alcesimarchvs</speaker>
+          <sp who="#alcesimarchus">
+            <speaker>Alcesimarchus</speaker>
             <lb ed="TLN" n="203"/>
             <l>Credo égo Amorem primum ápud homines carníficinam comméntum.</l>
             <lb ed="TLN" n="204"/>
@@ -847,13 +850,13 @@ Added to repository.
           <cit n="2">
             <bibl>Gel.&amp;3N.A.&amp;6.7.3</bibl>
             <quote>
-              <sp who="#alcesimarchvs">
+              <sp who="#alcesimarchus">
                 <speaker>(Alc.)</speaker>
                 <lb ed="TLN" n="231"/>
                 <l>Pótine tu homo facinus facere strenuom?</l>
               </sp>
-              <sp who="#servvs">
-                <speaker>(Servvs)</speaker>
+              <sp who="#servus">
+                <speaker>(Servus)</speaker>
                 <l part="M">Aliorum affatim est</l>
                 <lb ed="TLN" n="232"/>
                 <l>qui faciant. sane ego me nolo fortem perhiberi virum.</l>
@@ -862,34 +865,34 @@ Added to repository.
               </sp>
             </quote>
           </cit>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="234"/>
             <l part="I">Quia vivo.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Facile id quidem edepol possum, si tu vis.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Volo.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="235"/>
             <l n="30">At enim ne tu exponas pugno os metuo in imperio meo.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="236"/>
             <l part="I">Numquam edepol faciam.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Fidem da.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Do, non facturum esse me.</l>
             <lb ed="TLN" n="237"/>
@@ -897,65 +900,65 @@ Added to repository.
             <lb ed="TLN" n="238"/>
             <l part="I">sum nihili.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Nihili hercle vero es.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">* perdite,</l>
             <lb ed="TLN" n="239"/>
             <l part="I">quae me amaret contra.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Dignus hercle es infortunio.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="240"/>
             <l n="35" part="I">Ei me &lt;tot tam&gt; acerba facere in corde.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Frugi nunquam eris.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="241"/>
             <l>Praesertim quae coniurasset mecum et firmasset fidem,</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="242"/>
             <l>Neque deos neque homines aequom est facere tibi posthac bene.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="243"/>
             <l>Quae esset aetatem exactura mecum in matrimonio,</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="244"/>
             <l>Compedes te capere oportet neque eas unquam ponere.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="245"/>
             <l n="40">Quae mihi esset commendata et meae fidei concredita,</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="246"/>
             <l>Hercle te verberibus multum caedi oportere arbitror.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="247"/>
             <l>Quae mellillam me vocare et suavium solitast suom.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="248"/>
             <l>
@@ -964,23 +967,23 @@ Added to repository.
               , deciens qui furcam feras.
             </l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="249"/>
             <l part="I">Egomet laetor. sed quid auctor nunc mihi es?</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Dicam tibi:</l>
             <lb ed="TLN" n="250"/>
             <l n="45">Supplicium illi des, suspendas te, ne tibi suscenseat.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="251"/>
             <l>Quian *</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="252"/>
             <l>Quid tu ergo * te manuleo</l>
@@ -989,7 +992,7 @@ Added to repository.
             <lb ed="TLN" n="273"/>
             <l part="I">{(&amp;7Alc&amp;.)} Quid si amo? *</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>(T.)</speaker>
             <l part="M">* est amor</l>
             <lb ed="TLN" n="274"/>
@@ -1003,7 +1006,7 @@ Added to repository.
             <lb ed="TLN" n="278"/>
             <l>mihi nunquam quisquam *</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>(T.)</speaker>
             <lb ed="TLN" n="279"/>
             <l n="55">Immo maxumus.</l>
@@ -1016,30 +1019,30 @@ Added to repository.
             <lb ed="TLN" n="283"/>
             <l part="I">{(&amp;7Alc&amp;.)} * ubi tu es?</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Ecce me.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="284"/>
             <l n="60">I, adfer mihi arma ét loricam adducito.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="285"/>
             <l>Loricam adducam?</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="286"/>
             <l part="I">I, curre, equom adfer.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Hercle hic insanit miser.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="287"/>
             <l>Abi atque hastatos multos, multos velites,</l>
@@ -1048,16 +1051,16 @@ Added to repository.
             <lb ed="TLN" n="289"/>
             <l n="65" part="I">ubi sunt quae iussi?</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Sanus hic non est satis.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>T.</speaker>
             <lb ed="TLN" n="290"/>
             <l>Ab anu esse credo nocitum, cum illaec sic facit.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="291"/>
             <l>Vtrum deliras, quaeso, an astans somnias,</l>
@@ -1074,46 +1077,46 @@ Added to repository.
               .
             </l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Dixin égo istaec, obsecro?</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="296"/>
             <l part="I">Modó quidem hercle haec dixisti.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Non praesens quidem.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#servus">
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="297"/>
             <l>Praestigiator, siquidem hic non es atque ades.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>T.</speaker>
             <lb ed="TLN" n="298"/>
             <l>Video ego te Amoris valde tactum toxico,</l>
             <lb ed="TLN" n="299"/>
             <l n="75" part="I">adulescens; eo te magis volo monitum.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Mone.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>T.</speaker>
             <lb ed="TLN" n="300"/>
             <l>Cave sís cum Amore tu unquam bellum sumpseris.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="301"/>
             <l part="I">Quid faciam?</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>T.</speaker>
             <l part="M">Ad matrem eius devenias domum,</l>
             <lb ed="TLN" n="302"/>
@@ -1121,7 +1124,7 @@ Added to repository.
             <lb ed="TLN" n="303"/>
             <l>eamque exores ne tibi suscenseat.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="304"/>
             <l n="80">Expurigabo hercle omnia ad raucam ravim.</l>
@@ -1144,8 +1147,8 @@ Added to repository.
           <l>quamquam vetus cantherius sum, etiam nunc, ut ego opinor,</l>
           <lb ed="TLN" n="308"/>
           <l n="85">adhinnire equolam possum ego hanc, si detur sola soli.</l>
-          <sp who="#gymnasivm">
-            <speaker>Gymnasivm</speaker>
+          <sp who="#gymnasium">
+            <speaker>Gymnasium</speaker>
             <lb ed="TLN" n="309"/>
             <l>Nimis opportune mi evenit rediisse Alcesimarchum;</l>
             <lb ed="TLN" n="310"/>
@@ -1157,7 +1160,7 @@ Added to repository.
             <lb ed="TLN" n="311"/>
             <l>ne sola sis: ego tecum &lt;ero, volo&gt; ego agere, ut tú agas aliquid.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="312"/>
             <l>Nimis lépide exconcinnavit hasce aedis Alcesimarchus.</l>
@@ -1167,7 +1170,7 @@ Added to repository.
             <lb ed="TLN" n="313"/>
             <l n="90">Vt quo&lt;m Ven&gt;us adgreditur, &lt;place&gt;t; lepidumst amare semper.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="314"/>
             <l>Venerem meram haec aedes olent, quia amator expolivit.</l>
@@ -1189,7 +1192,7 @@ Added to repository.
             <lb ed="TLN" n="321"/>
             <l>quid si adeam atque appellem. mali damnique inlecebra, salve.</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="322"/>
             <l>* vapulabis.</l>
@@ -1201,7 +1204,7 @@ Added to repository.
             <lb ed="TLN" n="324"/>
             <l>* * *</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="330"/>
             <l>Intro abeo,</l>
@@ -1210,7 +1213,7 @@ Added to repository.
             <lb ed="TLN" n="332"/>
             <l>* * *</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <lb ed="TLN" n="362"/>
             <l n="105">quid vis.</l>
@@ -1226,7 +1229,7 @@ Added to repository.
             <lb ed="TLN" n="366"/>
             <l part="I">habes pérditui et praedatui?</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">Miser errat, ut ego dixi.</l>
             <lb ed="TLN" n="367"/>
@@ -1241,7 +1244,7 @@ Added to repository.
             <lb ed="TLN" n="370"/>
             <l part="I">nisi meus modo unus filius?</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">Quem quidem ego amem, alius nemo est.</l>
           </sp>
@@ -1250,7 +1253,7 @@ Added to repository.
             <lb ed="TLN" n="371"/>
             <l part="I">At ego *</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>Gymn.</speaker>
             <l part="M">Nil moror: damno sunt tui mihi similes.</l>
           </sp>
@@ -1259,7 +1262,7 @@ Added to repository.
             <lb ed="TLN" n="372"/>
             <l n="115">Quid *</l>
           </sp>
-          <sp who="#gymnasivm">
+          <sp who="#gymnasium">
             <speaker>(Gymn.)</speaker>
             <l part="M">isne est id arbitratus?</l>
             <lb ed="TLN" n="372a"/>
@@ -1268,7 +1271,7 @@ Added to repository.
           <cit n="4">
             <bibl>Prisc.&amp;3GL&amp;2.111K</bibl>
             <quote>
-              <sp who="#gymnasivm">
+              <sp who="#gymnasium">
                 <speaker>(Gym.)</speaker>
                 <lb ed="TLN" n="373"/>
                 <l>datores</l>
@@ -1282,7 +1285,7 @@ Added to repository.
           <cit n="5">
             <bibl>Prisc.&amp;3GL&amp;2.388K</bibl>
             <quote>
-              <sp who="#senex">
+              <sp who="#lena">
                 <speaker>Lena.</speaker>
                 <lb ed="TLN" n="374"/>
                 <l n="120">Me respondere postulas? iniurium est.</l>
@@ -1309,7 +1312,7 @@ Added to repository.
           <cit n="7">
             <bibl>Festus372M</bibl>
             <quote>
-              <sp who="#senex">
+              <sp who="#lena">
                 <speaker>Lena.</speaker>
                 <lb ed="TLN" n="378"/>
                 <l>Quin is, si itura es? nimium is vegrandi gradu.</l>
@@ -1319,7 +1322,7 @@ Added to repository.
           <cit n="8">
             <bibl>Non.198M</bibl>
             <quote>
-              <sp who="#gymnasivm">
+              <sp who="#gymnasium">
                 <speaker>Gymn.</speaker>
                 <lb ed="TLN" n="379"/>
                 <l>Pol ad cubituram, mater, magis sum exercita</l>
@@ -1374,30 +1377,30 @@ Added to repository.
           </cit>
           <lb ed="TLN" n="409"/>
           <l>* * *</l>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="449"/>
             <l>Molestus es.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="450"/>
             <l part="I">Meae issula sua &lt;aede&gt;s egent. ad me &lt;sine ducam&gt;.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Aufer manum.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="451"/>
             <l n="140" part="I">Germana mea sororcula.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Repudio te fraterculum.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="452"/>
             <l part="I">Tum tu igitur, mea matercula.</l>
@@ -1406,33 +1409,33 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Repudio te † fraterculum.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="453"/>
             <l part="I">Opsecro te</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Valeas.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Vt sinas</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Nil moror.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Expurigare me.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="454"/>
             <l part="I">*</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Sine dicám.</l>
           </sp>
@@ -1442,22 +1445,22 @@ Added to repository.
             <lb ed="TLN" n="455"/>
             <l part="I">* at nunc non potest.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Supplicium polliceri volo.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <lb ed="TLN" n="456"/>
             <l n="145" part="I">At mi aps te accipere non libet.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Em omnia</l>
             <lb ed="TLN" n="457"/>
             <l part="I">patior iure infelix.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Volup est neque tis misereri decet.</l>
             <lb ed="TLN" n="458"/>
@@ -1471,7 +1474,7 @@ Added to repository.
             <lb ed="TLN" n="462"/>
             <l>{(&amp;7Sel&amp;.)} dabis.—</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="463"/>
             <l>At egó nec do néque te amíttam hodie, nisi quaé volo tecúm loqui</l>
@@ -1483,7 +1486,7 @@ Added to repository.
             <lb ed="TLN" n="465"/>
             <l part="I">Pótin ut mihi molestus ne sis?</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Quin id est nomen mihi,</l>
             <lb ed="TLN" n="466"/>
@@ -1499,7 +1502,7 @@ Added to repository.
             <lb ed="TLN" n="469"/>
             <l part="I">quia sine omni *</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Dabo</l>
             <lb ed="TLN" n="470"/>
@@ -1512,7 +1515,7 @@ Added to repository.
             <lb ed="TLN" n="472"/>
             <l>similest ius iurandum amantum quasi ius confusicium.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="473"/>
             <l>Nescia *</l>
@@ -1521,7 +1524,7 @@ Added to repository.
             <lb ed="TLN" n="475"/>
             <l>* * *</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="477"/>
             <l n="165">Supplicium dabo *</l>
@@ -1534,7 +1537,7 @@ Added to repository.
             <lb ed="TLN" n="481"/>
             <l part="I">*</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Di deaeque illam perdant † pariter.</l>
             <lb ed="TLN" n="482"/>
@@ -1548,7 +1551,7 @@ Added to repository.
             <lb ed="TLN" n="484"/>
             <l>postremo, si mihi dedisses verba, deis numquam dares.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="485"/>
             <l part="I">Quin equidem illam ducam uxorem.</l>
@@ -1559,7 +1562,7 @@ Added to repository.
             <lb ed="TLN" n="486"/>
             <l>nunc hoc si tibi commodumst, quae *</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="487"/>
             <l n="175">Instruxi illi aurum atque vestem. {(&amp;7Mel&amp;.)} *</l>
@@ -1589,7 +1592,7 @@ Added to repository.
             <lb ed="TLN" n="496"/>
             <l>tu iam, si quid tibi dolebit, scies qua doleat gratia.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="497"/>
             <l n="185" part="I">Di me perdant—</l>
@@ -1598,7 +1601,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Quodcumque optes, tibi velim contingere.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="498"/>
             <l>Si illam uxorem duxero umquam, mihi quam despondit pater.</l>
@@ -1608,7 +1611,7 @@ Added to repository.
             <lb ed="TLN" n="499"/>
             <l>Et me, si umquam tibi uxorem filiam dedero meam.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="500"/>
             <l part="I">Patierin me periurare?</l>
@@ -1623,7 +1626,7 @@ Added to repository.
             <lb ed="TLN" n="503"/>
             <l>hic apud nós iam, Alcesimarche, confregisti tesseram.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="504"/>
             <l part="I">Face semel periclum.</l>
@@ -1632,7 +1635,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Feci saepe, quod factum queror.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="505"/>
             <l part="I">Redde mi illam.</l>
@@ -1643,7 +1646,7 @@ Added to repository.
             <lb ed="TLN" n="506"/>
             <l>quod dedi datum non vellem, quod relicuomst non dabo.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="507"/>
             <l n="195" part="I">Non remissura es mihi illam?</l>
@@ -1652,7 +1655,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Pro me responsas tibi.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="508"/>
             <l part="I">Non remittes?</l>
@@ -1661,7 +1664,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Scis iam dudum omnem meam sententiam.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="509"/>
             <l part="I">Satin istuc tibi in corde certumst?</l>
@@ -1670,7 +1673,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Quin ego commentor quidem.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="510"/>
             <l>Non edepol &lt;ego&gt; istaec tua dicta nunc in auris recipio.</l>
@@ -1680,7 +1683,7 @@ Added to repository.
             <lb ed="TLN" n="511"/>
             <l>Non? hem, quid agis igitur? animum advorte iam, ut quid agas scias.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="512"/>
             <l n="200">At ita me di deaeque, superi atque inferi et medioxumi,</l>
@@ -1693,7 +1696,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Ecastor pater.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="515"/>
             <l part="I">Itaque me Ops opulenta illius avia—</l>
@@ -1702,7 +1705,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Immo mater quidem.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="516"/>
             <l>Iuno filia et Saturnus patruos et summus Iuppiter—</l>
@@ -1713,7 +1716,7 @@ Added to repository.
             <speaker>Mel.</speaker>
             <l part="M">Perge dicere.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="518"/>
             <l>Anne etiam, ut quid consultura sis sciam, pérgis eloqui?</l>
@@ -1723,7 +1726,7 @@ Added to repository.
             <lb ed="TLN" n="519"/>
             <l part="I">Non remittam. definitumst.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Enim vero ita me Iuppiter</l>
             <lb ed="TLN" n="520"/>
@@ -2173,18 +2176,18 @@ Added to repository.
             <lb ed="TLN" n="638"/>
             <l>dic me orare ut aliquis intus prodeat propere ocius.</l>
           </sp>
-          <sp who="#alcesimarchvs">
-            <speaker>Alcesimarchvs</speaker>
+          <sp who="#alcesimarchus">
+            <speaker>Alcesimarchus</speaker>
             <lb ed="TLN" n="639-640"/>
             <l part="I">Recipe me ad te, Mors, amicum et benevolum.</l>
           </sp>
-          <sp who="#selenivm">
-            <speaker>Selenivm</speaker>
+          <sp who="#selenium">
+            <speaker>Selenium</speaker>
             <l part="M">Mater mea,</l>
             <lb ed="TLN" n="641"/>
             <l n="10" part="I">periimus miseraé.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Vtrum hac me feriam an ab laeva latus?</l>
           </sp>
@@ -2193,22 +2196,22 @@ Added to repository.
             <lb ed="TLN" n="642"/>
             <l part="I">Quid tibi est?</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Alcesimarchum non vides? ferrum tenet.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="643"/>
             <l part="I">Ecquid agis? remorare. lumen linque.</l>
           </sp>
-          <sp who="#selenivm">
+          <sp who="#selenium">
             <speaker>Sel.</speaker>
             <l part="M">Amabo, accurrite,</l>
             <lb ed="TLN" n="644"/>
             <l part="I">ne se interemat.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">O Salute méa salus salubrior,</l>
             <lb ed="TLN" n="645"/>
@@ -2219,7 +2222,7 @@ Added to repository.
             <lb ed="TLN" n="646"/>
             <l n="15" part="I">Haud voluisti istuc severum facere.</l>
           </sp>
-          <sp who="#alcesimarchvs">
+          <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Nil mecum tibi,</l>
             <lb ed="TLN" n="647"/>
@@ -2306,7 +2309,7 @@ Added to repository.
             <lb ed="TLN" n="665"/>
             <l>haec sunt, quibuscum tu extulisti nostram filiolam ad necem.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lampadio">
             <speaker>L.</speaker>
             <lb ed="TLN" n="666"/>
             <l part="I">Sanane es?</l>
@@ -2315,7 +2318,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Haec sunt profecto.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lampadio">
             <speaker>L.</speaker>
             <l part="M">Pergin?</l>
           </sp>
@@ -2323,7 +2326,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Haec sunt.</l>
           </sp>
-          <sp who="#senex">
+          <sp who="#lampadio">
             <speaker>L.</speaker>
             <l part="M">Si mihi</l>
             <lb ed="TLN" n="667"/>

@@ -54,46 +54,46 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antipho" sex="MALE">
+          <person xml:id="antipho" sex="MALE" role="adulescens">
             <persName>Antipho</persName>
           </person>
-          <person xml:id="chremies" sex="MALE">
+          <person xml:id="chremies" sex="MALE" role="senex">
             <persName>Chremies</persName>
           </person>
-          <person xml:id="cratinus" sex="MALE">
+          <person xml:id="cratinus" sex="MALE" role="advocatus">
             <persName>Cratinus</persName>
           </person>
-          <person xml:id="crito" sex="MALE">
+          <person xml:id="crito" sex="MALE" role="advocatus">
             <persName>Crito</persName>
           </person>
-          <person xml:id="davus" sex="MALE">
+          <person xml:id="davus" sex="MALE" role="servus">
             <persName>Davus</persName>
           </person>
-          <person xml:id="hegio" sex="MALE">
+          <person xml:id="hegio" sex="MALE" role="advocatus">
             <persName>Hegio</persName>
           </person>
-          <person xml:id="demipho" sex="MALE">
+          <person xml:id="demipho" sex="MALE" role="senex">
             <persName>Demipho</persName>
           </person>
-          <person xml:id="dorio" sex="MALE">
+          <person xml:id="dorio" sex="MALE" role="leno">
             <persName>Dorio</persName>
           </person>
-          <person xml:id="geta" sex="MALE">
+          <person xml:id="geta" sex="MALE" role="servus">
             <persName>Geta</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="nausistrata" sex="FEMALE">
+          <person xml:id="nausistrata" sex="FEMALE" role="matrona">
             <persName>Nausistrata</persName>
           </person>
-          <person xml:id="phaedria" sex="MALE">
+          <person xml:id="phaedria" sex="MALE" role="adulescens">
             <persName>Phaedria</persName>
           </person>
-          <person xml:id="phormio" sex="MALE">
+          <person xml:id="phormio" sex="MALE" role="parasitus">
             <persName>Phormio</persName>
           </person>
-          <person xml:id="sophrona" sex="FEMALE">
+          <person xml:id="sophrona" sex="FEMALE" role="nutrix">
             <persName>Sophrona</persName>
           </person>
         </listPerson>
@@ -1995,7 +1995,7 @@ new additions
         </div2>
         <div2 n="2" type="scene">
           <stage>PHORMIO. GETA.</stage>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="315"/>
             <l>ITANE patris ais conspectum veritum hinc abisse?</l>
@@ -2004,7 +2004,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Admodum.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="316"/>
             <l>Phanium relictam solam?</l>
@@ -2013,7 +2013,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Sic.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Et iratum senem?</l>
           </sp>
@@ -2022,7 +2022,7 @@ new additions
             <lb ed="TLN" n="317"/>
             <l>Oppido.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Ad te summa solum, Phormio, rerum redit.
@@ -2035,7 +2035,7 @@ new additions
             <lb ed="TLN" n="319"/>
             <l n="5">Obsecro te--</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Si rogabit?</l>
           </sp>
@@ -2043,7 +2043,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> In te spes est--</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Eccere.
@@ -2055,7 +2055,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Tu impulisti--</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Sic opinor.</l>
           </sp>
@@ -2063,7 +2063,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Subveni.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="321"/>
             <l>Cedo senem: iam instructa sunt mihi in corde consilia omnia.</l>
@@ -2073,7 +2073,7 @@ new additions
             <lb ed="TLN" n="322"/>
             <l>Quid ages?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Quid vis nisi uti maneat Phanium, atque ex crimine hoc
@@ -2090,7 +2090,7 @@ new additions
             </l>
             <l n="11">Vereor, ne istaec fortitudo in nervum erumpat denique.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Ah,
@@ -2115,7 +2115,7 @@ new additions
             <lb ed="TLN" n="330"/>
             <l>Qui istuc?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Quia non rete accipitri tenditur neque miluo,
@@ -2148,7 +2148,7 @@ new additions
             <lb ed="TLN" n="337"/>
             <l>Non potest satis pro merito ab illo tibi referri gratia.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="338"/>
             <l>
@@ -2174,7 +2174,7 @@ new additions
             <lb ed="TLN" n="343"/>
             <l n="29">Quid istuc verbi est?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Ubi tu dubites quid sumas potissimum.
@@ -2215,7 +2215,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Iratus est.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Quin tu hoc age: st!
@@ -2235,7 +2235,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Negat.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="354"/>
             <l>Neque eius patrem se scire qui fuerit?</l>
@@ -2249,7 +2249,7 @@ new additions
             <lb ed="TLN" n="355"/>
             <l>Ipsum esse opinor de quo agebam. Sequimini.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="356"/>
             <l>Nec Stilphonem ipsum scire qui fuerit?</l>
@@ -2258,7 +2258,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Negat.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="357"/>
             <l n="10">
@@ -2277,7 +2277,7 @@ new additions
             <lb ed="TLN" n="360"/>
             <l>O audaciam! etiam me ultro accusatum advenit?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="361"/>
             <l>
@@ -2311,7 +2311,7 @@ new additions
             <lb ed="TLN" n="368"/>
             <l>Videas te atque ilium ut narras.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                I in malam crucem.
@@ -2332,7 +2332,7 @@ new additions
             <lb ed="TLN" n="372"/>
             <l n="25">Pergin hero absenti male loqui, impurissime?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="373"/>
             <l>Dignum autem hoc illo est.</l>
@@ -2354,7 +2354,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Geta.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="375"/>
             <l>Responde.</l>
@@ -2399,7 +2399,7 @@ new additions
             </l>
             <l>Et qui cognatum me sibi esse diceret.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="382"/>
             <l n="35">Proinde expiscare, quasi non nosses.</l>
@@ -2408,7 +2408,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Nossem?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Ita.</l>
           </sp>
@@ -2417,7 +2417,7 @@ new additions
             <lb ed="TLN" n="383"/>
             <l>Ego me nego: tu qui ais redige in memoriam.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="384"/>
             <l>Eho, tu sobrinum tuum non noras?</l>
@@ -2430,7 +2430,7 @@ new additions
             </l>
             <l>Dic nomen.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Nomen?</l>
           </sp>
@@ -2438,7 +2438,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Maxime. Quid nunc taces?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="386"/>
             <l>Perii hercle: nomen perdidi.</l>
@@ -2447,7 +2447,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Hem, quid ais?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Geta.
@@ -2468,7 +2468,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Stilpho.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Atque adeo quid mea?
@@ -2480,7 +2480,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Quem dixti?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Stilphonem, inquam, noveras?</l>
           </sp>
@@ -2493,7 +2493,7 @@ new additions
             </l>
             <l>Quisquam istoc nomine.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Itane? non te horum pudet?
@@ -2506,7 +2506,7 @@ new additions
             <lb ed="TLN" n="394"/>
             <l>Di tibi malefaciant.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                primus esses memoriter
@@ -2531,7 +2531,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Eu, noster, recte. Heus tu, cave.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="399"/>
             <l>
@@ -2552,7 +2552,7 @@ new additions
             </l>
             <l n="55">Cuius de stultitia dici ut dignum est non potest?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="403"/>
             <l>
@@ -2586,7 +2586,7 @@ new additions
             </l>
             <l>Dotem dare, abduce hanc, minas quinque accipe.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="411"/>
             <l>Ha, ha, he! homo suavis.</l>
@@ -2599,7 +2599,7 @@ new additions
             </l>
             <l n="65">An ne hoc quidelm adipiscar ego, quod ius publicum est?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="413"/>
             <l>
@@ -2625,7 +2625,7 @@ new additions
             <lb ed="TLN" n="418"/>
             <l>Ita proximo quidem! At nos unde? aut quamobrem--</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Ohe,
@@ -2641,7 +2641,7 @@ new additions
             </l>
             <l>Donec perfecero hoc.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Ineptis.</l>
           </sp>
@@ -2649,7 +2649,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Sine modo.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="421"/>
             <l>
@@ -2679,7 +2679,7 @@ new additions
             <lb ed="TLN" n="426"/>
             <l>Iratus est.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Tute idem melius feceris.</l>
           </sp>
@@ -2692,7 +2692,7 @@ new additions
             </l>
             <l>Infelix?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Metuit hic nos, tametsi sedulo
@@ -2704,7 +2704,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Bene habent tibi principia.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Quin quod est
@@ -2724,7 +2724,7 @@ new additions
             </l>
             <l n="85">Amicitiam? aut te visum aut auditum velim?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="433"/>
             <l>
@@ -2738,7 +2738,7 @@ new additions
             <lb ed="TLN" n="435"/>
             <l>Te oblectet; tibi habe.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Minue vero iram.</l>
           </sp>
@@ -2754,7 +2754,7 @@ new additions
             </l>
             <l n="90">Abducere, ego illam eiiciam. Dixi, Phormio.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="438"/>
             <l>
@@ -5351,7 +5351,7 @@ new additions
         </div2>
         <div2 n="5" type="scene">
           <stage>PHORMIO. ANTIPHO.</stage>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="829"/>
             <l>
@@ -5373,7 +5373,7 @@ new additions
             <lb ed="TLN" n="833"/>
             <l n="5">Sed Phormio est. Quid ais?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Quid?</l>
           </sp>
@@ -5385,7 +5385,7 @@ new additions
             </l>
             <l>Quo pacto satietatem amoris ait se velle sumere?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="835"/>
             <l>Vicissim partes tuas acturus est.</l>
@@ -5394,7 +5394,7 @@ new additions
             <speaker>An.</speaker>
             <l part="Y"> Quas?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Ut fugitet patrem.
@@ -5422,7 +5422,7 @@ new additions
             <speaker>An.</speaker>
             <l part="Y"> Vide quis egrediatur.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Geta est.</l>
           </sp>
@@ -5460,7 +5460,7 @@ new additions
             <lb ed="TLN" n="846"/>
             <l>Num tu intelligis hic quid narret?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Num tu?</l>
           </sp>
@@ -5468,7 +5468,7 @@ new additions
             <speaker>An.</speaker>
             <l part="Y"> Nihil.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Tantundem ego.</l>
           </sp>
@@ -5520,7 +5520,7 @@ new additions
             </l>
             <l>Sed isne es quem quaero an non? ipsus est.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Congredere actutum.</l>
           </sp>
@@ -5551,7 +5551,7 @@ new additions
             <speaker>An.</speaker>
             <l part="Y"> Enicas.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="857"/>
             <l>Quin tu hinc pollicitationes aufer, et quod fers cedo.</l>
@@ -5564,7 +5564,7 @@ new additions
             </l>
             <l>Tu quoque hic aderas, Phormio?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Aderam: sed cessas?</l>
           </sp>
@@ -5666,7 +5666,7 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Cum eius consuevit olim matre in Lemno clanculum.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="874"/>
             <l>Somnium. Utine haec ignoraret suum patrem?</l>
@@ -5725,7 +5725,7 @@ new additions
             </l>
             <l>Vale.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Vale, Antipho: bene, ita me Di ament, factum: gaudeo
@@ -5793,7 +5793,7 @@ new additions
             </l>
             <l n="5">Ut auferamus.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Demiphonem, si domi est,
@@ -5805,7 +5805,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> At nos ad te ibamus, Phormio.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="900"/>
             <l>De eadem hac fortasse causa.</l>
@@ -5814,7 +5814,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Ita hercle.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Credidi.
@@ -5843,7 +5843,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Oppido.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="906"/>
             <l>
@@ -5881,7 +5881,7 @@ new additions
             </l>
             <l>Quae tute dudum coram me incusaveras.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="915"/>
             <l>Satis superbe illuditis me.</l>
@@ -5890,7 +5890,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Qui?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Rogas?
@@ -5927,7 +5927,7 @@ new additions
             </l>
             <l>Argentum rursum iube rescribi, Phormio.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="923"/>
             <l n="30">Quodne ego discripsi porro illis quibus debui</l>
@@ -5937,7 +5937,7 @@ new additions
             <lb ed="TLN" n="924"/>
             <l>Quid igitur fiet?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Si vis mihi uxorem dare,
@@ -5974,7 +5974,7 @@ new additions
             </l>
             <l>Aut tua facta adeo?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Irritor.</l>
           </sp>
@@ -5986,7 +5986,7 @@ new additions
             </l>
             <l n="40">Si tibi data esset?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Fac periclum.</l>
           </sp>
@@ -6002,7 +6002,7 @@ new additions
             </l>
             <l>   </l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Quaeso, quid narras?</l>
           </sp>
@@ -6010,7 +6010,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Quin tu mihi argentum cedo.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="936"/>
             <l>Immo vero uxorem tu cedo.</l>
@@ -6019,7 +6019,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> In ius ambula.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="937"/>
             <l>In ius? enimvero si porro esse odiosi pergitis--</l>
@@ -6029,7 +6029,7 @@ new additions
             <lb ed="TLN" n="938"/>
             <l n="45">Quid facies?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Egone? Vos me indotatis modo
@@ -6045,7 +6045,7 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Quid id nostra?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Nihil.
@@ -6061,7 +6061,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Quid est?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="942"/>
             <l>Lemni habuit aliam:--</l>
@@ -6070,7 +6070,7 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Nullus sum.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                ex qua filiam
@@ -6082,7 +6082,7 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Sepultus sum.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="944"/>
             <l>Haec adeo ego illi iam denarrabo.</l>
@@ -6095,7 +6095,7 @@ new additions
             </l>
             <l>Ne facias.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Oh, tune is eras? Ut ludos facit.</l>
           </sp>
@@ -6104,7 +6104,7 @@ new additions
             <lb ed="TLN" n="946"/>
             <l>Missum te facimus.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Fabulae.</l>
           </sp>
@@ -6116,7 +6116,7 @@ new additions
             </l>
             <l>Argentum quod habes condonamus te.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Audio.
@@ -6154,7 +6154,7 @@ new additions
             <lb ed="TLN" n="954"/>
             <l>Monstri, ita me Di ament, simile.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Inieci scrupulum.</l>
           </sp>
@@ -6198,7 +6198,7 @@ new additions
             </l>
             <l n="70">Ulcisci.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Atat, nisi inihi prospicio, haereo.
@@ -6223,7 +6223,7 @@ new additions
             </l>
             <l>Quum e medio excessit unde haec suscepta est tibi.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="968"/>
             <l n="75">
@@ -6289,7 +6289,7 @@ new additions
             </l>
             <l>In ius eamus.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> In ius? huc, si quid libet.</l>
           </sp>
@@ -6303,7 +6303,7 @@ new additions
             <lb ed="TLN" n="983"/>
             <l n="90">Enim solus nequeo: accurre huc.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Una iniuria est
@@ -6315,7 +6315,7 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Lege agito ergo.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Altera est tecum, Chreme.</l>
           </sp>
@@ -6324,7 +6324,7 @@ new additions
             <lb ed="TLN" n="985"/>
             <l>Rape hunc.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Itane agitis? enimvero voce est opus.
@@ -6344,7 +6344,7 @@ new additions
             </l>
             <l>Quantum valet.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Nausistrata, inquam.</l>
           </sp>
@@ -6352,7 +6352,7 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Non taces?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="988"/>
             <l n="95">Taceam?</l>
@@ -6361,7 +6361,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Nisi sequitur, pugnos in ventrem ingere.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="989"/>
             <l>Vel oculum exclude: est ubi vos ulciscar probe.</l>
@@ -6386,7 +6386,7 @@ new additions
             </l>
             <l>Mi vir?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Ehem, quid nunc obstipuisti?</l>
           </sp>
@@ -6398,7 +6398,7 @@ new additions
             </l>
             <l>Non mihi respondes?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Hicine ut tibi respondeat,
@@ -6410,7 +6410,7 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Cave isti quicquam creduas.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="994"/>
             <l n="5">Abi, tange: si non totus friget, me enica.</l>
@@ -6424,7 +6424,7 @@ new additions
             <speaker>Na.</speaker>
             <l part="Y"> Quid ergo est? quid istic narrat?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Iam scies:
@@ -6444,7 +6444,7 @@ new additions
             </l>
             <l>Huic credam qui nihil dixit?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Delirat miser
@@ -6461,7 +6461,7 @@ new additions
             <lb ed="TLN" n="999"/>
             <l n="10">Ego timeo?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Recte sane: quando nihil times,
@@ -6477,7 +6477,7 @@ new additions
             </l>
             <l>Tibi narret?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Eho tu, factum est abs te sedulo
@@ -6502,7 +6502,7 @@ new additions
             <lb ed="TLN" n="1003"/>
             <l>Non opus est dicto.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Tibi quidem: at scito huic opus est.
@@ -6518,7 +6518,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Non taces?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> clam te--</l>
           </sp>
@@ -6526,7 +6526,7 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Hei mihi.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="1005"/>
             <l>Uxorem duxit.</l>
@@ -6535,7 +6535,7 @@ new additions
             <speaker>Na.</speaker>
             <l part="Y"> Mi homo, Di melius duint.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="1006"/>
             <l>Sic factum est.</l>
@@ -6544,7 +6544,7 @@ new additions
             <speaker>Na.</speaker>
             <l part="Y"> Perii misera.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Et inde filiam
@@ -6561,7 +6561,7 @@ new additions
             <lb ed="TLN" n="1008"/>
             <l>Pro Di immortales, facinus indignum, et malum.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="1009"/>
             <l n="20">Hoc actum est.</l>
@@ -6595,7 +6595,7 @@ new additions
             </l>
             <l>Sed ea quill sit ignoscenda.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Verba fiunt mortuo.</l>
           </sp>
@@ -6641,7 +6641,7 @@ new additions
             </l>
             <l>Quid mihi nunc affers quamobrem exspectem aut sperem porro non fore?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="1026"/>
             <l>
@@ -6695,7 +6695,7 @@ new additions
             </l>
             <l>Ignosce: orat; confitetur; purgat: quid vis amplius?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="1036"/>
             <l>
@@ -6708,7 +6708,7 @@ new additions
             <speaker>Na.</speaker>
             <l part="Y"> Quid est?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="1038"/>
             <l>
@@ -6755,7 +6755,7 @@ new additions
             </l>
             <l>Quod is iubebit, faciam.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Mulier sapiens es, Nausistrata.</l>
           </sp>
@@ -6776,7 +6776,7 @@ new additions
             <speaker>Na.</speaker>
             <l part="Y"> Tu tuum nomen die quod est.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y">
                Mihin? Phormio:
@@ -6793,7 +6793,7 @@ new additions
             </l>
             <l>Faciamque et dicam.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Benigne dicis.</l>
           </sp>
@@ -6801,7 +6801,7 @@ new additions
             <speaker>Na.</speaker>
             <l part="Y"> Pol meritum est tuum.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="1052"/>
             <l>
@@ -6814,7 +6814,7 @@ new additions
             <speaker>Na.</speaker>
             <l part="Y"> Cupio.</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Me ad coenam voca.</l>
           </sp>
@@ -6835,7 +6835,7 @@ new additions
             </l>
             <l>Iudex noster?</l>
           </sp>
-          <sp who="#phaedria">
+          <sp who="#phormio">
             <speaker>Ph.</speaker>
             <l part="Y"> Iam hic faxo aderit.</l>
           </sp>

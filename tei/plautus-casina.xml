@@ -50,28 +50,28 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="alcesimvs" sex="MALE">
-            <persName>Alcesimvs</persName>
+          <person xml:id="alcesimus" sex="MALE" role="senex">
+            <persName>Alcesimus</persName>
           </person>
-          <person xml:id="chalinvs" sex="MALE">
-            <persName>Chalinvs</persName>
+          <person xml:id="chalinus" sex="MALE" role="servus">
+            <persName>Chalinus</persName>
           </person>
-          <person xml:id="citrio" sex="MALE">
+          <person xml:id="citrio" sex="MALE" role="cocus">
             <persName>Citrio</persName>
           </person>
-          <person xml:id="cleostrata" sex="FEMALE">
+          <person xml:id="cleostrata" sex="FEMALE" role="matrona">
             <persName>Cleostrata</persName>
           </person>
-          <person xml:id="lysidamvs" sex="MALE">
-            <persName>Lysidamvs</persName>
+          <person xml:id="lysidamus" sex="MALE" role="senex">
+            <persName>Lysidamus</persName>
           </person>
-          <person xml:id="myrrhina" sex="FEMALE">
+          <person xml:id="myrrhina" sex="FEMALE" role="matrona">
             <persName>Myrrhina</persName>
           </person>
-          <person xml:id="olympio" sex="MALE">
+          <person xml:id="olympio" sex="MALE" role="servus">
             <persName>Olympio</persName>
           </person>
-          <person xml:id="pardalisca" sex="FEMALE">
+          <person xml:id="pardalisca" sex="FEMALE" role="ancilla">
             <persName>Pardalisca</persName>
           </person>
         </listPerson>
@@ -341,8 +341,8 @@ Added to repository.
             <lb ed="TLN" n="91"/>
             <l part="I">quid tu, malum, me sequere?</l>
           </sp>
-          <sp who="#chalinvs">
-            <speaker>Chalinvs</speaker>
+          <sp who="#chalinus">
+            <speaker>Chalinus</speaker>
             <l part="M">Quia certum est mihi,</l>
             <lb ed="TLN" n="92"/>
             <l>quasi umbra, quoquo tu ibis, te semper sequi;</l>
@@ -360,7 +360,7 @@ Added to repository.
             <lb ed="TLN" n="97"/>
             <l part="I">Quid tibi negotist mecum?</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Quid ais, impudens?</l>
             <lb ed="TLN" n="98"/>
@@ -371,7 +371,7 @@ Added to repository.
             <lb ed="TLN" n="99"/>
             <l part="I">Lubet.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Quin ruri es in praefectura tua?</l>
             <lb ed="TLN" n="100"/>
@@ -400,7 +400,7 @@ Added to repository.
             <lb ed="TLN" n="110"/>
             <l>ruri incubabo usque in praefectura mea.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="111"/>
             <l>Tun illam ducas? hercle me suspendio,</l>
@@ -412,7 +412,7 @@ Added to repository.
             <lb ed="TLN" n="113"/>
             <l n="25">Mea praedast illa: proin tu te in laqueum induas.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="114"/>
             <l>Ex sterculino effosse, tua illaec praeda sit?</l>
@@ -422,7 +422,7 @@ Added to repository.
             <lb ed="TLN" n="115"/>
             <l part="I">Scies hóc ita esse.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Vae tibi.</l>
           </sp>
@@ -432,7 +432,7 @@ Added to repository.
             <lb ed="TLN" n="116"/>
             <l>si vivo, habebo in nuptiis miserum meis.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="117"/>
             <l part="I">Quid tu mihi facies?</l>
@@ -469,7 +469,7 @@ Added to repository.
             <lb ed="TLN" n="131"/>
             <l>noctu ut condigne te cubes curabitur.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="132"/>
             <l part="I">Quid facies?</l>
@@ -498,7 +498,7 @@ Added to repository.
             <lb ed="TLN" n="142"/>
             <l part="I">abeo intro. taedet tui sermonis.—</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Te sequor.</l>
             <lb ed="TLN" n="143"/>
@@ -686,7 +686,7 @@ Added to repository.
             <lb ed="TLN" n="211"/>
             <l n="35" part="I">sempér tu huic verbo vítato abs tuo víro.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>C.</speaker>
             <l part="M">Cui verbo?</l>
           </sp>
@@ -703,7 +703,7 @@ Added to repository.
             <speaker>M.</speaker>
             <l part="M">Quid est?</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>C.</speaker>
             <l part="M">Ém.</l>
           </sp>
@@ -711,7 +711,7 @@ Added to repository.
             <speaker>M.</speaker>
             <l part="M">Quis est, quém vides?</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>C.</speaker>
             <l part="M">Vir</l>
             <lb ed="TLN" n="213"/>
@@ -734,8 +734,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#lysidamvs">
-            <speaker>Lysidamvs</speaker>
+          <sp who="#lysidamus">
+            <speaker>Lysidamus</speaker>
             <lb ed="TLN" n="217"/>
             <l>Omnibus rebus ego amorem credo et nitoribus nitidis antevenire,</l>
             <lb ed="TLN" n="218"/>
@@ -767,7 +767,7 @@ Added to repository.
             <speaker>C.</speaker>
             <l part="M">Abi atque abstine manum.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="230"/>
             <l>Heiá, mea Iuno, nón decet esse té tam tristem tuó Iovi.</l>
@@ -778,7 +778,7 @@ Added to repository.
             <speaker>C.</speaker>
             <l part="M">Mítte me.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Mane.</l>
           </sp>
@@ -786,7 +786,7 @@ Added to repository.
             <speaker>C.</speaker>
             <l part="M">Non máneo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">At pol ego té sequar.</l>
           </sp>
@@ -795,7 +795,7 @@ Added to repository.
             <lb ed="TLN" n="232"/>
             <l part="I">Óbsecro, sanun est?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Sánus quom téd amo.</l>
           </sp>
@@ -804,7 +804,7 @@ Added to repository.
             <lb ed="TLN" n="233"/>
             <l part="I">Nólo ames.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Nón potes ímpetrare.</l>
           </sp>
@@ -812,7 +812,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Énecas.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="234"/>
             <l part="I">Véra dicás velim.</l>
@@ -821,7 +821,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Crédo ego istúc tibi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="235"/>
             <l part="I">Réspice, o mi lepos.</l>
@@ -832,7 +832,7 @@ Added to repository.
             <lb ed="TLN" n="236"/>
             <l n="20" part="I">unde híc, amabo, unguénta olent?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Oh périi, manufestó miser</l>
             <lb ed="TLN" n="237"/>
@@ -847,7 +847,7 @@ Added to repository.
             <lb ed="TLN" n="240"/>
             <l>sénecta aetate únguentatus pér vias, ignáve, incedis?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="241"/>
             <l n="25" part="I">Pól ego amico dédi cuidam operam, dum émit unguenta.</l>
@@ -858,7 +858,7 @@ Added to repository.
             <lb ed="TLN" n="242"/>
             <l part="I">écquid te pudet?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ómnia quae tu vís.</l>
           </sp>
@@ -866,7 +866,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Vbi in lustrá iacuisti?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="243"/>
             <l part="I">Égone in lustra?</l>
@@ -875,7 +875,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Scío plus quam tu me árbitrare.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quíd id est? quid scis?</l>
           </sp>
@@ -892,7 +892,7 @@ Added to repository.
             <lb ed="TLN" n="246"/>
             <l n="30" part="I">mádes mecastor: víde, palliolum ut rúgat.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Di me et te ínfelicent,</l>
             <lb ed="TLN" n="247"/>
@@ -904,7 +904,7 @@ Added to repository.
             <lb ed="TLN" n="248-250"/>
             <l part="I">bíbe, es, disperde rem.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Óhe, iam satis, uxór, comprime te, nímium tinnis,</l>
             <lb ed="TLN" n="251"/>
@@ -918,7 +918,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Qua de re?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Rogas?</l>
             <lb ed="TLN" n="254"/>
@@ -939,7 +939,7 @@ Added to repository.
             <lb ed="TLN" n="260"/>
             <l part="I">non meminisse.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid iam?</l>
           </sp>
@@ -949,7 +949,7 @@ Added to repository.
             <lb ed="TLN" n="261"/>
             <l>me sinas curare ancillas, quae mea est curatio.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="262"/>
             <l part="I">Qui, malum, homini scutigerulo dáre lubet?</l>
@@ -960,7 +960,7 @@ Added to repository.
             <lb ed="TLN" n="263"/>
             <l n="45" part="I">nos oportet opitulari único.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">At quamquam unicust,</l>
             <lb ed="TLN" n="264"/>
@@ -973,7 +973,7 @@ Added to repository.
             <lb ed="TLN" n="266"/>
             <l part="I">Tu ecastor tibi, homo, malam rem quaeris.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Subolet, sentio.</l>
             <lb ed="TLN" n="267"/>
@@ -983,7 +983,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Tu. nam quid friguttis? quid istuc tam cupide cupis?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="268"/>
             <l n="50">Vt enim frugi servo detur potius quam servo improbo.</l>
@@ -995,7 +995,7 @@ Added to repository.
             <lb ed="TLN" n="270"/>
             <l part="I">ut eam illi permittat?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid si ego autem ab armigero impetro,</l>
             <lb ed="TLN" n="271"/>
@@ -1008,7 +1008,7 @@ Added to repository.
             <lb ed="TLN" n="273"/>
             <l n="55" part="I">tú eum orato, ego autem orabo vilicum.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Sane volo.</l>
           </sp>
@@ -1017,7 +1017,7 @@ Added to repository.
             <lb ed="TLN" n="274"/>
             <l>Iam hic erit. nunc experiemur, nostrum uter sit blandior.—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="275"/>
             <l>Hercules dique istam perdant, quod nunc liceat dicere.</l>
@@ -1032,21 +1032,21 @@ Added to repository.
         <div2 n="4" type="scene">
           <lb ed="TLN" n="279"/>
           <l part="I">qui illum di omnes deaeque perdant.</l>
-          <sp who="#chalinvs">
-            <speaker>Chalinvs</speaker>
+          <sp who="#chalinus">
+            <speaker>Chalinus</speaker>
             <l part="M">Te uxor aiebat tua</l>
             <lb ed="TLN" n="280"/>
             <l part="I">me vocare.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ego énim vocari iussi.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Eloquere quid velis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="281"/>
             <l>Primum ego te porrectiore fronte volo mecum loqui;</l>
@@ -1055,35 +1055,35 @@ Added to repository.
             <lb ed="TLN" n="283"/>
             <l n="5" part="I">probum te et frugi hominem iam pridem esse arbitror.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Intellego.</l>
             <lb ed="TLN" n="284-285"/>
             <l part="I">quin, si ita arbitrare, emittis me manu?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quin id volo.</l>
             <lb ed="TLN" n="286"/>
             <l>sed nihil est, me cupere factum, nisi tu factis adiuvas.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="287"/>
             <l part="I">Quid velis modo id velim me scire.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ausculta, ego eloquar.</l>
             <lb ed="TLN" n="288"/>
             <l>Casinam ego uxorem promisi vilico nostro dare.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="289"/>
             <l n="10" part="I">At tua uxor filiusque promiserunt mihi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Scio.</l>
             <lb ed="TLN" n="290"/>
@@ -1093,25 +1093,25 @@ Added to repository.
             <lb ed="TLN" n="292"/>
             <l>optio haec tua est: utram harum vis condicionem accipe.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="293"/>
             <l>Liber si sim, meo periclo vivam; nunc vivo tuo.</l>
             <lb ed="TLN" n="294"/>
             <l n="15">de Casina certum est concedere homini nato nemini.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="295"/>
             <l>Intro abi atque actutum uxorem huc evoca ante aedis cito,</l>
             <lb ed="TLN" n="296"/>
             <l part="I">et sitellam huc tecum efferto cúm aqua, et sortis.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Satis placet.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="297"/>
             <l>Ego pol istam iam aliquovorsum tragulam decidero.</l>
@@ -1120,31 +1120,31 @@ Added to repository.
             <lb ed="TLN" n="299"/>
             <l n="20" part="I">ibi ego te et suffragatores tuos ulciscar.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Attamen</l>
             <lb ed="TLN" n="300"/>
             <l part="I">mi obtinget sors.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Vt quidem pol pereas cruciatu malo.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="301"/>
             <l>Mi illa nubet, machinare quid lubet quo vis modo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="302"/>
             <l part="I">Abin hinc ab oculis?</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Invitus me vides, vivam tamen.—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="303"/>
             <l>Sumne ego miser homo? satin omnes &lt;res&gt; sunt advorsae mihi?</l>
@@ -1170,7 +1170,7 @@ Added to repository.
             <lb ed="TLN" n="311"/>
             <l>era, qua istuc opera a me impetres quod postulas.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="312"/>
             <l>Salvos sum, salva spes est, ut verba audio.</l>
@@ -1186,7 +1186,7 @@ Added to repository.
             <lb ed="TLN" n="316"/>
             <l>una libella liber possum fieri.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="317"/>
             <l>Quid istúc est? quicum litigas, Olympio?</l>
@@ -1196,7 +1196,7 @@ Added to repository.
             <lb ed="TLN" n="318"/>
             <l n="10" part="I">Cum eadem qua tu semper.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Cum uxoré mea?</l>
           </sp>
@@ -1207,7 +1207,7 @@ Added to repository.
             <lb ed="TLN" n="320"/>
             <l>dies átque noctes cum cane aetatem exigis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="321"/>
             <l part="I">Quid agit, quid loquitur tecum?</l>
@@ -1218,7 +1218,7 @@ Added to repository.
             <lb ed="TLN" n="322"/>
             <l part="I">ne Casinam uxorem ducam.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid tu postea?</l>
           </sp>
@@ -1229,7 +1229,7 @@ Added to repository.
             <lb ed="TLN" n="324"/>
             <l part="I">si is mecum oraret.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Di te servassint mihi.</l>
           </sp>
@@ -1238,7 +1238,7 @@ Added to repository.
             <lb ed="TLN" n="325"/>
             <l>Nunc in fermento totast, ita turget mihi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="326"/>
             <l>Ego edepol illam mediam diruptam velim.</l>
@@ -1254,7 +1254,7 @@ Added to repository.
             <lb ed="TLN" n="330"/>
             <l part="I">inimici familiares.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid id refert tua?</l>
             <lb ed="TLN" n="331"/>
@@ -1275,7 +1275,7 @@ Added to repository.
             <lb ed="TLN" n="337"/>
             <l>quis mihi subveniet tergo aut capiti aut cruribus?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="338"/>
             <l n="30">Opinione melius res tibi habeát tua,</l>
@@ -1289,7 +1289,7 @@ Added to repository.
             <lb ed="TLN" n="341"/>
             <l part="I">tua instat, ne mihi detur.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">At ego sic agam:</l>
             <lb ed="TLN" n="342"/>
@@ -1304,7 +1304,7 @@ Added to repository.
             <lb ed="TLN" n="345"/>
             <l>Quid si sors aliter quam voles evenerit?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="346"/>
             <l>Bene dice. dis sum fretus, deos sperabimus.</l>
@@ -1318,7 +1318,7 @@ Added to repository.
             <lb ed="TLN" n="349"/>
             <l>vidi ego dis fretos saepe multos decipi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="350"/>
             <l part="I">St, táce parumper.</l>
@@ -1327,7 +1327,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Quid vis?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Eccum exit foras</l>
             <lb ed="TLN" n="351"/>
@@ -1342,8 +1342,8 @@ Added to repository.
             <lb ed="TLN" n="353"/>
             <l>Fáce, Chaline, certiorem me, quid meus vir me velit.</l>
           </sp>
-          <sp who="#chalinvs">
-            <speaker>Chalinvs</speaker>
+          <sp who="#chalinus">
+            <speaker>Chalinus</speaker>
             <lb ed="TLN" n="354"/>
             <l>Ille edepol videre ardentem te extra portam mortuam.</l>
           </sp>
@@ -1352,11 +1352,11 @@ Added to repository.
             <lb ed="TLN" n="355"/>
             <l part="I">Credo ecastor velle.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">At pol ego hau credo, sed certo scio.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="356"/>
             <l>Plus artificum est mihi quam rebar: hariolum hunc habeo domi.</l>
@@ -1365,7 +1365,7 @@ Added to repository.
             <lb ed="TLN" n="358"/>
             <l part="I">sequere. quid vos agitis?</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Adsunt quae imperavisti omnia:</l>
             <lb ed="TLN" n="359"/>
@@ -1375,19 +1375,19 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Te uno adest plus quam ego volo.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="360"/>
             <l>Tibi quidem edepol ita videtur; stimulus ego nunc sum tibi,</l>
             <lb ed="TLN" n="361"/>
             <l>fodico corculum; adsudascis iam ex metu, mastigia.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <lb ed="TLN" n="362"/>
             <l n="10" part="I">Tace, Chaline.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Ch.</speaker>
             <l part="M">Comprime istum.</l>
           </sp>
@@ -1395,7 +1395,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Immo istunc, qui didicit dare.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="363"/>
             <l>Adpone hic sitellam, sortis cedo mihi. animum advortite.</l>
@@ -1409,7 +1409,7 @@ Added to repository.
             <lb ed="TLN" n="366"/>
             <l part="I">Tibi daretur illa?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Mihi enim—ah, non id volui dicere:</l>
             <lb ed="TLN" n="367"/>
@@ -1421,7 +1421,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Pol tu quidem, atque etiam facis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="369"/>
             <l>Huic—immo hercle mihi—vah, tandem redii vix veram in viam.</l>
@@ -1431,7 +1431,7 @@ Added to repository.
             <lb ed="TLN" n="370"/>
             <l part="I">Per pol saepe peccas.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ita fit, ubi quid tanto opere expetas.</l>
             <lb ed="TLN" n="371"/>
@@ -1441,7 +1441,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Quid est?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="372"/>
             <l n="20">Dicam enim, mea mulsa: de istac Casina huic nostro vilico</l>
@@ -1452,7 +1452,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">At pol ego néque facio neque censeo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="374"/>
             <l part="I">Tum igitur ego sortis utrimque * iam.</l>
@@ -1461,7 +1461,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Quis votat?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="375"/>
             <l>Optimum atque aequissimum istud esse iure iudico.</l>
@@ -1476,22 +1476,22 @@ Added to repository.
             <speaker>O.</speaker>
             <l part="M">Vnum.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Ch.</speaker>
             <l part="M">Iniquom est, quia isti prius quam mihi dedit.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="379"/>
             <l part="I">Accipe hanc sis.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Cedo. mane, unum venit in mentem modo:</l>
             <lb ed="TLN" n="380"/>
             <l part="I">vide ne quae illic insit alia sortis sub aqua.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Verbero,</l>
             <lb ed="TLN" n="381"/>
@@ -1501,7 +1501,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Nulla est. habe quietum animum modo.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="382"/>
             <l n="30" part="I">Quod bonum atque fortunatum sit mihi—</l>
@@ -1514,7 +1514,7 @@ Added to repository.
             <lb ed="TLN" n="384"/>
             <l>sed mane dum: num ista aut populna sors aut abiegnast tua?</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="385"/>
             <l part="I">Quid tu id curas?</l>
@@ -1523,7 +1523,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Quia enim metuo, né in aqua summa natet.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="386"/>
             <l>†Auge cave. conicite sortes nunciam ambo huc. eccere.</l>
@@ -1534,7 +1534,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Noli uxori credere.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Habe animum bonum.</l>
           </sp>
@@ -1543,7 +1543,7 @@ Added to repository.
             <lb ed="TLN" n="388"/>
             <l part="I">Credo hercle, hodie devotabit sortis si attigerit.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Tace.</l>
           </sp>
@@ -1552,7 +1552,7 @@ Added to repository.
             <lb ed="TLN" n="389"/>
             <l part="I">Taceo. deos quaeso—</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Vt quidem tu hodie canem et furcam feras.</l>
           </sp>
@@ -1561,7 +1561,7 @@ Added to repository.
             <lb ed="TLN" n="390"/>
             <l part="I">Mihi ut sortito eveniat—</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Vt quidem hercle pedibus pendeas.</l>
           </sp>
@@ -1570,7 +1570,7 @@ Added to repository.
             <lb ed="TLN" n="391"/>
             <l>At tu ut oculos emungare ex capite per nasum tuos.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="392"/>
             <l n="40">Quid times? paratum oportet esse iam laqueum tibi.</l>
@@ -1580,7 +1580,7 @@ Added to repository.
             <lb ed="TLN" n="393"/>
             <l part="I">Periisti.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Animum advortite ambo.</l>
           </sp>
@@ -1588,7 +1588,7 @@ Added to repository.
             <speaker>O.</speaker>
             <l part="M">Taceo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Nunc tu, Cleostrata,</l>
             <lb ed="TLN" n="394"/>
@@ -1600,7 +1600,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Perdis me.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Lucrum facit.</l>
           </sp>
@@ -1609,7 +1609,7 @@ Added to repository.
             <lb ed="TLN" n="396"/>
             <l part="I">Bene facis.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Deos quaeso—ut tua sors ex sitella effugerit.</l>
           </sp>
@@ -1622,12 +1622,12 @@ Added to repository.
             <lb ed="TLN" n="399"/>
             <l>quondam prognatis, in sortiendo sors deliquerit.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="400"/>
             <l>Tu ut liquescas ipse, actutum virgis calefactabere.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="401"/>
             <l part="I">Hoc age sis, Olympio.</l>
@@ -1636,7 +1636,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Si hic litteratus me sinat.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="402"/>
             <l n="50" part="I">Quod bonum atque fortunatum mihi sit.</l>
@@ -1645,7 +1645,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Ita vero, et mihi.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="403"/>
             <l part="I">Non.</l>
@@ -1654,7 +1654,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Immo hercle.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Immo mihi hercle.</l>
           </sp>
@@ -1662,7 +1662,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Hic vincet, tu vives miser.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="404"/>
             <l>Percide os tu illi † hodie. age, ecquid fit? ne obiexis manum.</l>
@@ -1672,7 +1672,7 @@ Added to repository.
             <lb ed="TLN" n="405"/>
             <l part="I">Compressan palma an porrecta ferio?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Age ut vis.</l>
           </sp>
@@ -1698,16 +1698,16 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Perii, pugnis caedor, Iuppiter.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="408"/>
             <l part="I">Quid tibi tactio hunc fuit?</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Quia iussit haec Iuno mea.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="409"/>
             <l>Patiundum est, siquidem me vivo mea uxor imperium exhibet.</l>
@@ -1723,16 +1723,16 @@ Added to repository.
             <lb ed="TLN" n="411"/>
             <l part="I">vituperat?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Malo, Chaline, tibi cavendum censeo.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="412"/>
             <l n="60" part="I">Temperi, postquam oppugnatum est os.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Age, uxor, nunciam</l>
             <lb ed="TLN" n="413"/>
@@ -1746,11 +1746,11 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Teneo sortem.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ecfer foras.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="416"/>
             <l part="I">
@@ -1763,7 +1763,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Ostende. mea &lt;haec&gt; est.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Ch.</speaker>
             <l part="M">Mala crux éast quidem.</l>
           </sp>
@@ -1772,7 +1772,7 @@ Added to repository.
             <lb ed="TLN" n="417"/>
             <l n="65" part="I">Victus es, Chaline.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Cum nos di iuvere, Olympio,</l>
             <lb ed="TLN" n="418"/>
@@ -1782,7 +1782,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Pietate factum est mea atque maiorum meum.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Ly.</speaker>
             <lb ed="TLN" n="419"/>
             <l part="I">Intro abi, uxor, atque adorna nuptias.</l>
@@ -1791,7 +1791,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Faciam ut iubes.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="420"/>
             <l part="I">Scin tu rus hinc esse ad villam longe quo ducat?</l>
@@ -1800,7 +1800,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Scio.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <lb ed="TLN" n="421"/>
             <l part="I">Intro abi et, quamquam hoc tibi aegre est, tamen fac accures.</l>
@@ -1809,7 +1809,7 @@ Added to repository.
             <speaker>CL.</speaker>
             <l part="M">Licet.—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="422"/>
             <l n="70" part="I">Eamus nos quoque intro, hortemur ut properent.</l>
@@ -1818,15 +1818,15 @@ Added to repository.
             <speaker>O.</speaker>
             <l part="M">Numquid moror?—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="423"/>
             <l>Nam praesente hoc plura verba &lt;fieri&gt; non desidero.—</l>
           </sp>
         </div2>
         <div2 n="7" type="scene">
-          <sp who="#chalinvs">
-            <speaker>Chalinvs</speaker>
+          <sp who="#chalinus">
+            <speaker>Chalinus</speaker>
             <lb ed="TLN" n="424"/>
             <l>Si nunc me suspendam, meam operam luserim</l>
             <lb ed="TLN" n="425"/>
@@ -1863,8 +1863,8 @@ Added to repository.
             <lb ed="TLN" n="438"/>
             <l>cum furca in urbem tamquam carbonarium.</l>
           </sp>
-          <sp who="#lysidamvs">
-            <speaker>Lysidamvs</speaker>
+          <sp who="#lysidamus">
+            <speaker>Lysidamus</speaker>
             <lb ed="TLN" n="439"/>
             <l part="I">Ita fieri oportet.</l>
           </sp>
@@ -1872,7 +1872,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Factum et curatum dabo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="440"/>
             <l>Volui Chalinum, si domi esset, mittere</l>
@@ -1881,7 +1881,7 @@ Added to repository.
             <lb ed="TLN" n="442"/>
             <l>inimico nostro miseriam hanc adiungerem.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="443"/>
             <l>Recessim cedam ad parietem, imitabor nepam;</l>
@@ -1905,7 +1905,7 @@ Added to repository.
             <lb ed="TLN" n="451"/>
             <l n="15" part="I">erit hodie tecum quod amas clam uxorem.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Tace.</l>
             <lb ed="TLN" n="452"/>
@@ -1913,7 +1913,7 @@ Added to repository.
             <lb ed="TLN" n="453"/>
             <l>ob istánc rem quin te deosculer, voluptas mea.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="454"/>
             <l>Quid, deosculere? quae res? quae voluptas tua?</l>
@@ -1925,13 +1925,13 @@ Added to repository.
             <lb ed="TLN" n="456"/>
             <l n="20" part="I">Ecquid amas nunc me?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Immo edepol me quam te minus.</l>
             <lb ed="TLN" n="457"/>
             <l part="I">licetne amplecti te?</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Quid, amplecti?</l>
           </sp>
@@ -1939,7 +1939,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Licet.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="458"/>
             <l>Vt, quia te tango, mel mihi videor lingere.</l>
@@ -1949,7 +1949,7 @@ Added to repository.
             <lb ed="TLN" n="459"/>
             <l>Vltro te, amator, apage te a dorso meo.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="460"/>
             <l>Illuc est, illuc, quod hic hunc fecit vilicum:</l>
@@ -1963,26 +1963,26 @@ Added to repository.
             <lb ed="TLN" n="463"/>
             <l>Vt tibi morigerus hodie, ut voluptati fui.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="464"/>
             <l>Vt tibi, dum vivam, bene velim plus quam mihi.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="465"/>
             <l>Hodie hercle, opinor, hi conturbabunt pedes:</l>
             <lb ed="TLN" n="466"/>
             <l n="30">solet hic barbatos sane sectari senex.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="467"/>
             <l>Vt ego hodie Casinam deosculabor, ut mihi</l>
             <lb ed="TLN" n="468"/>
             <l part="I">bona multa faciam &lt;clam&gt; meam uxorem.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Attatae,</l>
             <lb ed="TLN" n="469"/>
@@ -1990,7 +1990,7 @@ Added to repository.
             <lb ed="TLN" n="470"/>
             <l>hic ipsus Casinam deperit. habeo viros.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="471"/>
             <l n="35">Iam hercle amplexari, iam osculari gestio.</l>
@@ -2000,7 +2000,7 @@ Added to repository.
             <lb ed="TLN" n="472"/>
             <l part="I">Sine prius deduci. quid, malum, properas?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Amo.</l>
           </sp>
@@ -2009,20 +2009,20 @@ Added to repository.
             <lb ed="TLN" n="473"/>
             <l part="I">At non opinor fieri hoc posse hodie.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Potest,</l>
             <lb ed="TLN" n="474"/>
             <l>siquidém cras censes te posse emitti manu.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="475"/>
             <l>Enim véro huc aures magis sunt adhibendae mihi:</l>
             <lb ed="TLN" n="476"/>
             <l n="40">iam ego uno in saltu lepide apros capiam duos.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="477"/>
             <l>Apud hunc sodalem meum atque vicinum mihi</l>
@@ -2036,7 +2036,7 @@ Added to repository.
             <lb ed="TLN" n="480"/>
             <l part="I">Quid eius uxor? ubi erit?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Lepide repperi.</l>
             <lb ed="TLN" n="481"/>
@@ -2060,13 +2060,13 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Astute.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Age modo, fabricamini,</l>
             <lb ed="TLN" n="489"/>
             <l>malo hercle vestro tam vorsuti vivitis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="490"/>
             <l part="I">Scin quid nunc facias?</l>
@@ -2075,7 +2075,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Loquere.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Tene marsuppium,</l>
             <lb ed="TLN" n="491"/>
@@ -2087,23 +2087,23 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Licet.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="493"/>
             <l>Emito sepiolas, lepadas, lolligunculas,</l>
             <lb ed="TLN" n="494"/>
             <l part="I">hordeías.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Immo triticeías, si sapis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="495"/>
             <l part="I">Soleas.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Qui quaeso potius quam sculponeas,</l>
             <lb ed="TLN" n="496"/>
@@ -2114,7 +2114,7 @@ Added to repository.
             <lb ed="TLN" n="497"/>
             <l part="I">Vin lingulacas?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid opust, quando uxor domi est?</l>
             <lb ed="TLN" n="498"/>
@@ -2127,7 +2127,7 @@ Added to repository.
             <lb ed="TLN" n="500"/>
             <l part="I">consulere quid emam potero.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Aéquom oras, abi.</l>
             <lb ed="TLN" n="501"/>
@@ -2141,11 +2141,11 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Iamne abeo?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Volo.—</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="504"/>
             <l>Tribus nón conduci possum libertatibus,</l>
@@ -2174,8 +2174,8 @@ Added to repository.
       </div1>
       <div1 n="3" type="act">
         <div2 n="1" type="scene">
-          <sp who="#lysidamvs">
-            <speaker>Lysidamvs</speaker>
+          <sp who="#lysidamus">
+            <speaker>Lysidamus</speaker>
             <lb ed="TLN" n="515"/>
             <l>Núnc amici ánne inimici sís imago, Alcésime,</l>
             <lb ed="TLN" n="516"/>
@@ -2187,23 +2187,23 @@ Added to repository.
             <lb ed="TLN" n="519"/>
             <l n="5">‘cui sit uxor’ id quoque illuc ponito ad compendium.</l>
           </sp>
-          <sp who="#alcesimvs">
-            <speaker>Alcesimvs</speaker>
+          <sp who="#alcesimus">
+            <speaker>Alcesimus</speaker>
             <lb ed="TLN" n="520"/>
             <l>Miseriorem ego ex amore quam te vidi neminem.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="521"/>
             <l part="I">Fac vacent aedes.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Quin edepol servos, ancillas domo</l>
             <lb ed="TLN" n="522"/>
             <l part="I">certum est omnis mittere ad te.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Oh, nimium scite scitus es.</l>
             <lb ed="TLN" n="523"/>
@@ -2211,47 +2211,47 @@ Added to repository.
             <lb ed="TLN" n="524"/>
             <l n="10">cum cibo suo quique facito ut veniant, quasi eant Sutrium.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="525"/>
             <l part="I">Meminero.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Em, nunc enim te demum nullum scitum scitiust.</l>
             <lb ed="TLN" n="526"/>
             <l part="I">cura, ego ad forum modo ibo: iam hic ero.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Bene ambula.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="527"/>
             <l part="I">Fac habeant linguam tuae aedes.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>A.</speaker>
             <l part="M">Quid ita?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Cum veniam, vocent.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="528"/>
             <l>Attatae, caedundus tú homo es: nimias delicias facis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="529"/>
             <l n="15">Quid me amare refert, nisi sim doctus &lt;ac&gt; dicaculus?</l>
             <lb ed="TLN" n="530"/>
             <l part="I">sed tu cave in quaesitione mihi sis.—</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Vsque adero domi.—</l>
           </sp>
@@ -2276,8 +2276,8 @@ Added to repository.
             <lb ed="TLN" n="538"/>
             <l>non ecastor vilis emptu est, modio qui venit salis.</l>
           </sp>
-          <sp who="#alcesimvs">
-            <speaker>Alcesimvs</speaker>
+          <sp who="#alcesimus">
+            <speaker>Alcesimus</speaker>
             <lb ed="TLN" n="539"/>
             <l>Miror huc iam non arcessi in proxumum uxorem meam,</l>
             <lb ed="TLN" n="540"/>
@@ -2291,7 +2291,7 @@ Added to repository.
             <lb ed="TLN" n="542"/>
             <l part="I">ubi tua uxor?</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Intus illa te, si se arcessas, manet;</l>
             <lb ed="TLN" n="543"/>
@@ -2303,7 +2303,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Sine eam * nolo si occupata est.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Otium est.</l>
           </sp>
@@ -2312,7 +2312,7 @@ Added to repository.
             <lb ed="TLN" n="545"/>
             <l n="15">Nil moror, molesta ei esse nolo; post convenero.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="546"/>
             <l part="I">Non ornatis istic apud vos nuptias?</l>
@@ -2321,7 +2321,7 @@ Added to repository.
             <speaker>Cleost.</speaker>
             <l part="M">Orno et paro.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="547"/>
             <l part="I">Non ergo opus est adiutrice?</l>
@@ -2332,7 +2332,7 @@ Added to repository.
             <lb ed="TLN" n="548"/>
             <l>fuerint, tum istam convenibo. nunc vale, atque istanc iube.—</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="549"/>
             <l>Quid ego nunc faciam? flagitium maxumum feci miser,</l>
@@ -2368,8 +2368,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#lysidamvs">
-            <speaker>Lysidamvs</speaker>
+          <sp who="#lysidamus">
+            <speaker>Lysidamus</speaker>
             <lb ed="TLN" n="563"/>
             <l>Stultitia magna est, mea quidem sententia,</l>
             <lb ed="TLN" n="564"/>
@@ -2402,7 +2402,7 @@ Added to repository.
             <lb ed="TLN" n="576"/>
             <l>Audivi ecastor cum malo magno tuo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="577"/>
             <l n="15">Accedam propius. quid agis, mea festivitas?</l>
@@ -2412,7 +2412,7 @@ Added to repository.
             <lb ed="TLN" n="578"/>
             <l part="I">Te ecastor praestolabar.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Iamne ornata res?</l>
             <lb ed="TLN" n="579"/>
@@ -2430,7 +2430,7 @@ Added to repository.
             <lb ed="TLN" n="583"/>
             <l>negavit posse, quoniam arcesso, mittere.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="584"/>
             <l>Vitium tibi istuc maxumum est, blanda es parum.</l>
@@ -2446,7 +2446,7 @@ Added to repository.
             <lb ed="TLN" n="588"/>
             <l part="I">volo accurare, mi vir.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Propera ergo.</l>
           </sp>
@@ -2460,8 +2460,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
-          <sp who="#alcesimvs">
-            <speaker>Alcesimvs</speaker>
+          <sp who="#alcesimus">
+            <speaker>Alcesimus</speaker>
             <lb ed="TLN" n="591"/>
             <l>Viso huc, amator si a foro rediit domum,</l>
             <lb ed="TLN" n="592"/>
@@ -2469,18 +2469,18 @@ Added to repository.
             <lb ed="TLN" n="593"/>
             <l>sed eccum ante aedis. ad te hercle ibam commodum.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="594"/>
             <l>Et hercle ego ad te. quid ais, vir minimi preti?</l>
             <lb ed="TLN" n="595"/>
             <l n="5" part="I">quid tibi mandavi? quid tecum oravi?</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Quid est?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="596"/>
             <l>Vt bene vocivas aedis fecisti mihi,</l>
@@ -2489,72 +2489,72 @@ Added to repository.
             <lb ed="TLN" n="598"/>
             <l>satin propter te pereo ego atque occasio?</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="599"/>
             <l>Quin tu suspendis te? nempe túte dixeras,</l>
             <lb ed="TLN" n="600"/>
             <l n="10">tuam arcessituram esse uxorem uxorem meam.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="601"/>
             <l>Ergo arcessivisse ait sese, et dixisse te</l>
             <lb ed="TLN" n="602"/>
             <l part="I">eam nón missurum.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Quin eapse ultro mihi</l>
             <lb ed="TLN" n="603"/>
             <l>negavit eius operam se morarier.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="604"/>
             <l>Quin eapse me adlegavit, qui istam arcesserem.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="605"/>
             <l n="15" part="I">Quin nihili facio.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quin me perdis.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Quin benest,</l>
             <lb ed="TLN" n="606"/>
             <l>quin etiam diu morabor, quin cupio tibi—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="607"/>
             <l part="I">Quin—</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <l part="M">Aliquid aegre facere.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quin faciam lubens.</l>
             <lb ed="TLN" n="608"/>
             <l>numquam tibi hodie ‘quin’ erit plus quam mihi.</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="609"/>
             <l>Quin hercle di te perdant postremo quidem.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="610"/>
             <l n="20">Quid nunc? missurusne es ad me uxorem tuam?</l>
           </sp>
-          <sp who="#alcesimvs">
+          <sp who="#alcesimus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="611"/>
             <l>Ducas, easque in maxumam malam crucem</l>
@@ -2565,7 +2565,7 @@ Added to repository.
             <lb ed="TLN" n="614"/>
             <l>meam istúc transire uxorem ad uxorem tuam.—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="615"/>
             <l n="25">Nunc tu mi amicus es in germanum modum.</l>
@@ -2603,7 +2603,7 @@ Added to repository.
             <lb ed="TLN" n="629"/>
             <l>eripite isti gladium, quae suist impos animi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="630"/>
             <l n="10">Nam quid est quod haec huc timida atque exanimata exsiluit foras?</l>
@@ -2614,7 +2614,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Perii, unde meae usurpant aures sonitum?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="632"/>
             <l part="I">Respice modo ad me.</l>
@@ -2623,7 +2623,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">O ere mi—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid tibi est? quid timida es?</l>
           </sp>
@@ -2631,7 +2631,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Perii.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="633"/>
             <l part="I">Quid, periisti?</l>
@@ -2640,7 +2640,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Perii, et tu periisti.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">A, perii? quid ita?</l>
           </sp>
@@ -2649,7 +2649,7 @@ Added to repository.
             <lb ed="TLN" n="634"/>
             <l part="I">Vae tibi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Immo, vae tibi sit.</l>
           </sp>
@@ -2657,7 +2657,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Ne cadam, amabo, tene me.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="635"/>
             <l n="15" part="I">Quidquid est, eloquere mihi cito.</l>
@@ -2668,7 +2668,7 @@ Added to repository.
             <lb ed="TLN" n="636"/>
             <l part="I">face véntum, amabo, pállio.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Timeo hóc negoti quíd siet,</l>
             <lb ed="TLN" n="637-640"/>
@@ -2679,7 +2679,7 @@ Added to repository.
             <lb ed="TLN" n="641"/>
             <l part="I">Óptine aurís, amabo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">I ín malam a mé crucem,</l>
             <lb ed="TLN" n="642"/>
@@ -2696,7 +2696,7 @@ Added to repository.
             <lb ed="TLN" n="646"/>
             <l part="I">Ere mí—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid vis mea me áncilla?</l>
           </sp>
@@ -2704,7 +2704,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Nimiúm saevis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Numeró dicis.</l>
             <lb ed="TLN" n="647"/>
@@ -2722,7 +2722,7 @@ Added to repository.
             <lb ed="TLN" n="652"/>
             <l>quod haúd Atticám condecét disciplínam.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="653"/>
             <l part="I">Quid ést id?</l>
@@ -2731,7 +2731,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Timór praepedít dicta línguae.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="654"/>
             <l n="30" part="I">Possúm scire ego ístuc ex té quid negótist?</l>
@@ -2744,7 +2744,7 @@ Added to repository.
             <lb ed="TLN" n="656"/>
             <l part="I">dare úxorem, ea íntus—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid íntus? quid ést?</l>
           </sp>
@@ -2755,7 +2755,7 @@ Added to repository.
             <lb ed="TLN" n="658"/>
             <l>viró quae suo ínterminetur: vitam—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="659"/>
             <l n="35" part="I">Quid érgo?</l>
@@ -2764,7 +2764,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Ah—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Quid ést?</l>
           </sp>
@@ -2774,7 +2774,7 @@ Added to repository.
             <lb ed="TLN" n="660"/>
             <l part="I">gladium—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Hém.</l>
           </sp>
@@ -2782,7 +2782,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Gladium—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid eúm gladium?</l>
           </sp>
@@ -2791,7 +2791,7 @@ Added to repository.
             <lb ed="TLN" n="661"/>
             <l part="I">Habet.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Eí misero mihi, cúr eum habet?</l>
           </sp>
@@ -2806,7 +2806,7 @@ Added to repository.
             <lb ed="TLN" n="665"/>
             <l part="I">metú mussitánt.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Occidi átque intérii.</l>
             <lb ed="TLN" n="666"/>
@@ -2817,7 +2817,7 @@ Added to repository.
             <lb ed="TLN" n="667"/>
             <l part="I">Insánit.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Sceléstissimum me esse crédo.</l>
           </sp>
@@ -2826,7 +2826,7 @@ Added to repository.
             <lb ed="TLN" n="668"/>
             <l>Immó si sciás dicta quaé dixit hódie—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="669"/>
             <l n="45" part="I">Istúc expetó scire. quíd dixit?</l>
@@ -2839,7 +2839,7 @@ Added to repository.
             <lb ed="TLN" n="671"/>
             <l>occísurum eum hác nocte quícum cubáret.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="672"/>
             <l part="I">Men óccidet?</l>
@@ -2848,7 +2848,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Án quippiam ád te attinét?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Vah.</l>
           </sp>
@@ -2857,7 +2857,7 @@ Added to repository.
             <lb ed="TLN" n="673"/>
             <l part="I">Quid cúm ea negóti tibíst?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Peccavi:</l>
             <lb ed="TLN" n="674"/>
@@ -2868,7 +2868,7 @@ Added to repository.
             <lb ed="TLN" n="675"/>
             <l>Sciéns de via ín semitám degrédere.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="676"/>
             <l part="I">Numquíd mihi minátur?</l>
@@ -2879,7 +2879,7 @@ Added to repository.
             <lb ed="TLN" n="677"/>
             <l part="I">plús quam cuiquam.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Quam ob rem?</l>
           </sp>
@@ -2893,7 +2893,7 @@ Added to repository.
             <lb ed="TLN" n="681"/>
             <l part="I">áb ea uti caveás tibi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Perii hércle egó miser.</l>
           </sp>
@@ -2901,7 +2901,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Dígnus &lt;es&gt;.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="682"/>
             <l>Neque ést neque fuít me senéx quisquam amátor</l>
@@ -2918,7 +2918,7 @@ Added to repository.
             <lb ed="TLN" n="688"/>
             <l part="I">ego húnc missa súm ludere.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Heús Pardalísca.</l>
           </sp>
@@ -2927,7 +2927,7 @@ Added to repository.
             <lb ed="TLN" n="689"/>
             <l part="I">Quid ést?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Est—</l>
           </sp>
@@ -2935,7 +2935,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Quid?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Ést quod volo éxquirere éx te.</l>
           </sp>
@@ -2944,7 +2944,7 @@ Added to repository.
             <lb ed="TLN" n="690"/>
             <l part="I">Moram óffers mihi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Át tu mihi óffers maerórem.</l>
             <lb ed="TLN" n="691"/>
@@ -2955,7 +2955,7 @@ Added to repository.
             <lb ed="TLN" n="692"/>
             <l n="65" part="I">Habét, sed duós.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid, duós?</l>
           </sp>
@@ -2965,7 +2965,7 @@ Added to repository.
             <lb ed="TLN" n="693"/>
             <l>occísurum aít, alteró vilicum hódie.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="694"/>
             <l>Occísissimús sum omniúm qui vivont.</l>
@@ -2979,7 +2979,7 @@ Added to repository.
             <lb ed="TLN" n="697"/>
             <l n="70" part="I">Nemo aúdet prope áccedere.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Éxoret.</l>
           </sp>
@@ -2991,7 +2991,7 @@ Added to repository.
             <lb ed="TLN" n="699"/>
             <l>nisí se sciát vilicó non datum íri.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="700"/>
             <l>Atque íngratiís, quia non vólt, nubet hódie.</l>
@@ -3006,7 +3006,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Saepícule peccas.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="704"/>
             <l>Timór praepedít verba. vérum, obsecró te,</l>
@@ -3019,7 +3019,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Núntiabo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <lb ed="TLN" n="707"/>
             <l n="80" part="I">Ét tu orato.</l>
@@ -3028,7 +3028,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Et ego órabo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">At blande órato, ut solés. sed audin?</l>
             <lb ed="TLN" n="708-709"/>
@@ -3039,7 +3039,7 @@ Added to repository.
             <lb ed="TLN" n="710"/>
             <l part="I">Operám dabo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Face ut ímpetres.</l>
           </sp>
@@ -3050,7 +3050,7 @@ Added to repository.
             <lb ed="TLN" n="712"/>
             <l part="I">remoráre me.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Abi et cúra.</l>
             <lb ed="TLN" n="713-719"/>
@@ -3083,7 +3083,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Áttat. cesso mágnufice patriciéque amicirier átque ita ero meo ire ádvorsum?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="724-725"/>
             <l n="5" part="I">Bone vír, salve.</l>
@@ -3092,7 +3092,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Fateór.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid fit?</l>
           </sp>
@@ -3100,7 +3100,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Tu amás: ego ésurio et sitio.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="726"/>
             <l part="I">Lepide éxcuratus incéssisti.</l>
@@ -3109,7 +3109,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Aha, hodie * *</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="727"/>
             <l part="I">Mane véro, quamquam fástidis.</l>
@@ -3118,7 +3118,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Fu fú, fetet tuos míhi sermo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="728"/>
             <l part="I">Quae rés?</l>
@@ -3131,7 +3131,7 @@ Added to repository.
               .
             </l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="729"/>
             <l>
@@ -3150,7 +3150,7 @@ Added to repository.
             <lb ed="TLN" n="731"/>
             <l>potin a me abeas, nisi me vis vomere hodie?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="732"/>
             <l part="I">Máne.</l>
@@ -3159,7 +3159,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Quid est? quis hic ést homo?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="733-735"/>
             <l part="I">Erus súm.</l>
@@ -3168,7 +3168,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Quis erus?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">
               Cuius tú 
@@ -3180,7 +3180,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Servós ego?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Atqué meus.</l>
           </sp>
@@ -3191,7 +3191,7 @@ Added to repository.
             <lb ed="TLN" n="737"/>
             <l n="15" part="I">meménto, meménto.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Mane átque asta.</l>
           </sp>
@@ -3199,7 +3199,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Omítte.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="738"/>
             <l part="I">Servós sum tuós.</l>
@@ -3208,7 +3208,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Optumést.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Opsecró te,</l>
             <lb ed="TLN" n="739"/>
@@ -3220,7 +3220,7 @@ Added to repository.
             <lb ed="TLN" n="740"/>
             <l part="I">sapis sáne.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Tuos sum équidem.</l>
           </sp>
@@ -3229,7 +3229,7 @@ Added to repository.
             <lb ed="TLN" n="741"/>
             <l>Quid mi ópust servo tam néquam?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="742"/>
             <l n="20">Quid núnc? quam mox recreás me?</l>
@@ -3239,7 +3239,7 @@ Added to repository.
             <lb ed="TLN" n="743"/>
             <l>Cená modo si sit cócta.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <lb ed="TLN" n="744-745"/>
             <l part="I">Hisce érgo abeant.</l>
@@ -3254,7 +3254,7 @@ Added to repository.
             <lb ed="TLN" n="748"/>
             <l n="25">stasne etiam? i sis, ego hic habeo. numquid est ceterum quod morae sit?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="749"/>
             <l>Gladiúm Casinam intus habére ait, qui me átque te intérimat.</l>
@@ -3272,7 +3272,7 @@ Added to repository.
             <lb ed="TLN" n="754"/>
             <l part="I">domum.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">At pól malum métuo.</l>
             <lb ed="TLN" n="755"/>
@@ -3287,7 +3287,7 @@ Added to repository.
             <lb ed="TLN" n="758"/>
             <l n="35" part="I">verum í modo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Si tú iubes, em íbitur tecum.</l>
           </sp>
@@ -3342,8 +3342,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#lysidamvs">
-            <speaker>Lysidamvs</speaker>
+          <sp who="#lysidamus">
+            <speaker>Lysidamus</speaker>
             <lb ed="TLN" n="780"/>
             <l>Si sapitis, uxor, vos tamen cenabitis,</l>
             <lb ed="TLN" n="781"/>
@@ -3368,7 +3368,7 @@ Added to repository.
             <lb ed="TLN" n="789"/>
             <l n="10" part="I">foras extrudunt mulieres.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid tu hic agis?</l>
           </sp>
@@ -3377,7 +3377,7 @@ Added to repository.
             <lb ed="TLN" n="790"/>
             <l part="I">Ego eo quo me ipsa misit.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Veron?</l>
           </sp>
@@ -3385,7 +3385,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Serio.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="791"/>
             <l part="I">Quid hic speculare?</l>
@@ -3394,7 +3394,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Nil equidem speculor.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Abi:</l>
             <lb ed="TLN" n="792"/>
@@ -3404,7 +3404,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Eo.—</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="793"/>
             <l>Abi hinc sis ergo, pessumarum pessuma.</l>
@@ -3428,7 +3428,7 @@ Added to repository.
             <lb ed="TLN" n="800"/>
             <l>hymen hymenaee o hymen.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="801"/>
             <l part="I">Quid agis, mea salus?</l>
@@ -3437,7 +3437,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Esurio hercle, atque adeo hau salubriter.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="802"/>
             <l n="5" part="I">At ego amó.</l>
@@ -3448,7 +3448,7 @@ Added to repository.
             <lb ed="TLN" n="803"/>
             <l>mihi ieiunitate iam dudum intestina murmurant.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="804"/>
             <l>Nam quid illaéc nunc tam diu intus remorantur remeligines?</l>
@@ -3460,17 +3460,17 @@ Added to repository.
             <lb ed="TLN" n="806"/>
             <l>Quid si etiam suffundam hymenaeum, si qui citius prodeant?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="807"/>
             <l n="10">Censeo, et ego te adiutabo in nuptiis communibus.</l>
           </sp>
-          <sp who="#lysidamvs #olympio">
+          <sp who="#lysidamus #olympio">
             <speaker>Lys. Ol.</speaker>
             <lb ed="TLN" n="808"/>
             <l>Hymen hymenaee o hymen.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="809"/>
             <l>Perii hercle ego miser, dirumpi hymenaeum cantando licet:</l>
@@ -3482,7 +3482,7 @@ Added to repository.
             <lb ed="TLN" n="811"/>
             <l>Edepol ne tu, sí equos esses, esses indomabilis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="812"/>
             <l n="15" part="I">Quo argumento?</l>
@@ -3491,7 +3491,7 @@ Added to repository.
             <speaker>O.</speaker>
             <l part="M">Nimis tenax es.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">
               Num me 
@@ -3504,7 +3504,7 @@ Added to repository.
             <lb ed="TLN" n="813"/>
             <l>Di melius faciant. sed crepuit ostium, exitur foras.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="814"/>
             <l>Di hercle me cupiunt servatum. iam oboluit Casinus procul.</l>
@@ -3533,7 +3533,7 @@ Added to repository.
             <lb ed="TLN" n="822-825"/>
             <l>Malo máxumo suo hercle ílico, ubi tántillum peccássit.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="826"/>
             <l part="I">Tace.</l>
@@ -3542,7 +3542,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Nón taceo.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">Quae rés?</l>
           </sp>
@@ -3550,7 +3550,7 @@ Added to repository.
             <speaker>O.</speaker>
             <l part="M">Mala malaé male monstrat.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="827"/>
             <l n="10">Faciés tu hanc rém mi ex paráta imparátam.</l>
@@ -3569,7 +3569,7 @@ Added to repository.
             <lb ed="TLN" n="831"/>
             <l>Date érgo, datúrae si umquam éstis hodie.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="832"/>
             <l n="15" part="I">Abíte intro.</l>
@@ -3593,7 +3593,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Ite iám.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ite.</l>
           </sp>
@@ -3601,7 +3601,7 @@ Added to repository.
             <speaker>Par.</speaker>
             <l part="M">Iám valete.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="835"/>
             <l part="I">Iamne ábscessit úxor?</l>
@@ -3610,7 +3610,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Domíst, ne time.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Eúax,</l>
             <lb ed="TLN" n="836"/>
@@ -3626,7 +3626,7 @@ Added to repository.
             <lb ed="TLN" n="839"/>
             <l part="I">meást haec.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Sció, sed meus fructus est prior.</l>
           </sp>
@@ -3635,7 +3635,7 @@ Added to repository.
             <lb ed="TLN" n="840"/>
             <l part="I">Tene hánc lampadem.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ímmo ego hánc tenebo.</l>
             <lb ed="TLN" n="841"/>
@@ -3651,7 +3651,7 @@ Added to repository.
             <lb ed="TLN" n="844"/>
             <l>mea uxórcula. quae res?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="845"/>
             <l part="I">Quid est?</l>
@@ -3662,7 +3662,7 @@ Added to repository.
             <lb ed="TLN" n="846"/>
             <l part="I">quasi lúca bos.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Tacé sis,</l>
             <lb ed="TLN" n="847"/>
@@ -3673,7 +3673,7 @@ Added to repository.
             <lb ed="TLN" n="848"/>
             <l>Edepol papillam bellulam—ei misero mihi.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="849"/>
             <l part="I">Quid est?</l>
@@ -3682,7 +3682,7 @@ Added to repository.
             <speaker>Ol.</speaker>
             <l part="M">Péctus mi icit non cubito, verum ariete.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="850"/>
             <l>Quid tu ergo hanc, quaeso, tractas tam dura manu?</l>
@@ -3694,7 +3694,7 @@ Added to repository.
             <lb ed="TLN" n="852"/>
             <l n="35" part="I">Vah.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Quid negotist?</l>
           </sp>
@@ -3704,7 +3704,7 @@ Added to repository.
             <lb ed="TLN" n="853"/>
             <l part="I">paene exposivit cubito.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Cubitum ergo ire volt.</l>
           </sp>
@@ -3713,7 +3713,7 @@ Added to repository.
             <lb ed="TLN" n="854"/>
             <l part="I">Quin imus ergo?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">I, belle belliatula.—</l>
           </sp>
@@ -4023,8 +4023,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#lysidamvs">
-            <speaker>Lysidamvs</speaker>
+          <sp who="#lysidamus">
+            <speaker>Lysidamus</speaker>
             <lb ed="TLN" n="937"/>
             <l>Máxumo ego ardeo flágitio néc quid agam meis rébus scio,</l>
             <lb ed="TLN" n="938"/>
@@ -4064,18 +4064,18 @@ Added to repository.
             <lb ed="TLN" n="955"/>
             <l part="I">hac dabo protinam &lt;me&gt; et fugiam.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Heus, sta ílico, amátor.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="956-962"/>
             <l n="20">Óccidi, revocór: quasi non aúdiam, abíbo.</l>
           </sp>
         </div2>
         <div2 n="4" type="scene">
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="963"/>
             <l>Úbi tu es, qui cólere mores Mássilienses póstulas?</l>
@@ -4086,7 +4086,7 @@ Added to repository.
             <lb ed="TLN" n="966"/>
             <l>nunc ego tecum aequom arbitrum extra considium captavero.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="967"/>
             <l n="5">Perii, fusti defloccabit iam illic homo lumbos meos.</l>
@@ -4098,7 +4098,7 @@ Added to repository.
             <lb ed="TLN" n="969"/>
             <l part="I">Iubeo te salvere, amator.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ecce autem uxor obviamst:</l>
             <lb ed="TLN" n="970"/>
@@ -4126,20 +4126,20 @@ Added to repository.
             <lb ed="TLN" n="976"/>
             <l>In adulterio, dum moechissat Casinam, credo perdidit.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="977"/>
             <l n="15" part="I">Occidi.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Ch.</speaker>
             <l part="M">Etiamne imus cubitum? Casina sum.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>L.</speaker>
             <l part="M">I in malam crucem.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <lb ed="TLN" n="978"/>
             <l part="I">Non amas me?</l>
@@ -4148,7 +4148,7 @@ Added to repository.
             <speaker>Cleos.</speaker>
             <l part="M">Quin responde, tuo quid factum est pallio?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="979"/>
             <l part="I">Bacchae hercle, uxor—</l>
@@ -4157,7 +4157,7 @@ Added to repository.
             <speaker>Cleos.</speaker>
             <l part="M">Bacchae?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Bacchae hercle, uxor—</l>
           </sp>
@@ -4167,7 +4167,7 @@ Added to repository.
             <lb ed="TLN" n="980"/>
             <l part="I">nam ecastor nunc Bacchae nullae ludunt.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Oblitus fui,</l>
             <lb ed="TLN" n="981"/>
@@ -4177,7 +4177,7 @@ Added to repository.
             <speaker>Cleos.</speaker>
             <l part="M">Quid, Bacchae?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Sin id fieri non potest—</l>
           </sp>
@@ -4186,7 +4186,7 @@ Added to repository.
             <lb ed="TLN" n="982"/>
             <l n="20" part="I">Times ecastor.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Egone?</l>
           </sp>
@@ -4213,7 +4213,7 @@ Added to repository.
             <lb ed="TLN" n="991"/>
             <l>qui étiam me miserum famosum fecit flagitiis suis.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="992"/>
             <l part="I">Non taces?</l>
@@ -4226,7 +4226,7 @@ Added to repository.
             <lb ed="TLN" n="994-995"/>
             <l part="I">túi amoris causa.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Ego istuc feci?</l>
           </sp>
@@ -4236,7 +4236,7 @@ Added to repository.
             <lb ed="TLN" n="996"/>
             <l part="I">te quidem oppresset.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Feci égo istaec dicta quae vos dicitis?</l>
           </sp>
@@ -4245,7 +4245,7 @@ Added to repository.
             <lb ed="TLN" n="997"/>
             <l part="I">Rogitas etiam?</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Si quidem hercle feci, feci nequiter.</l>
           </sp>
@@ -4254,7 +4254,7 @@ Added to repository.
             <lb ed="TLN" n="998"/>
             <l>Redi modo huc intro: monebo, si qui meministi minus.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="999"/>
             <l n="35">Hercle, opinor, potius vobis credam quod vos dicitis.</l>
@@ -4280,7 +4280,7 @@ Added to repository.
             <lb ed="TLN" n="1006"/>
             <l>hanc ex longa longiorem ne faciamus fabulam.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="1007"/>
             <l part="I">Non irata es?</l>
@@ -4289,7 +4289,7 @@ Added to repository.
             <speaker>Cleos.</speaker>
             <l part="M">Non sum irata.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <l part="M">Tuaen fidei credo?</l>
           </sp>
@@ -4297,7 +4297,7 @@ Added to repository.
             <speaker>CL.</speaker>
             <l part="M">Meae.</l>
           </sp>
-          <sp who="#lysidamvs">
+          <sp who="#lysidamus">
             <speaker>Lys.</speaker>
             <lb ed="TLN" n="1008"/>
             <l>Lepidiorem uxorem nemo quisquam quam ego habeo hanc habet.</l>
@@ -4307,7 +4307,7 @@ Added to repository.
             <lb ed="TLN" n="1009"/>
             <l n="45" part="I">Age tu, redde huic scipionem et pallium.</l>
           </sp>
-          <sp who="#chalinvs">
+          <sp who="#chalinus">
             <speaker>Chal.</speaker>
             <l part="M">Tene, si lubet.</l>
             <lb ed="TLN" n="1010"/>

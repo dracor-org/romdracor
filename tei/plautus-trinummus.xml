@@ -50,37 +50,37 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="callicles" sex="MALE">
+          <person xml:id="callicles" sex="MALE" role="senex">
             <persName>Callicles</persName>
           </person>
-          <person xml:id="charmides" sex="MALE">
+          <person xml:id="charmides" sex="MALE" role="senex">
             <persName>Charmides</persName>
           </person>
-          <person xml:id="inopia" sex="FEMALE">>
+          <person xml:id="inopia" sex="FEMALE" role="prologus">
             <persName>Inopia</persName>
           </person>
-          <person xml:id="lesbonicvs" sex="MALE">
-            <persName>Lesbonicvs</persName>
+          <person xml:id="lesbonicus" sex="MALE" role="adulescens">
+            <persName>Lesbonicus</persName>
           </person>
-          <person xml:id="lvxvria" sex="FEMALE">>
-            <persName>Lvxvria</persName>
+          <person xml:id="luxuria" sex="FEMALE" role="prologus">
+            <persName>Luxuria</persName>
           </person>
-          <person xml:id="lysiteles" sex="MALE">
+          <person xml:id="lysiteles" sex="MALE" role="adulescens">
             <persName>Lysiteles</persName>
           </person>
-          <person xml:id="megaronides" sex="MALE">
+          <person xml:id="megaronides" sex="MALE" role="senex">
             <persName>Megaronides</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN">>
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="philto" sex="MALE">
+          <person xml:id="philto" sex="MALE" role="senex">
             <persName>Philto</persName>
           </person>
-          <person xml:id="stasimvs" sex="MALE">
-            <persName>Stasimvs</persName>
+          <person xml:id="stasimus" sex="MALE" role="servus">
+            <persName>Stasimus</persName>
           </person>
-          <person xml:id="sycophanta" sex="MALE">
+          <person xml:id="sycophanta" sex="MALE" role="sycophanta">
             <persName>Sycophanta</persName>
           </person>
         </listPerson>
@@ -159,8 +159,8 @@ Added to repository.
     <body>
       <div1 n="prol." type="act">
         <head>PROLOGVS</head>
-        <sp who="#lvxvria">
-          <speaker>Lvxvria</speaker>
+        <sp who="#luxuria">
+          <speaker>Luxuria</speaker>
           <lb ed="TLN" n="1"/>
           <l>Sequere hac me, gnata, ut munus fungaris tuom.</l>
         </sp>
@@ -169,7 +169,7 @@ Added to repository.
           <lb ed="TLN" n="2"/>
           <l>Sequor, sed finem fore quem dicam nescio.</l>
         </sp>
-        <sp who="#lvxvria">
+        <sp who="#luxuria">
           <speaker>Lvx.</speaker>
           <lb ed="TLN" n="3"/>
           <l>Adest. em illaé sunt aedes, i intro nunciam.—</l>
@@ -1494,8 +1494,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
-          <sp who="#lesbonicvs">
-            <speaker>Lesbonicvs</speaker>
+          <sp who="#lesbonicus">
+            <speaker>Lesbonicus</speaker>
             <lb ed="TLN" n="402"/>
             <l>Minus quíndecim dies sunt, quom pro hisce aedibus</l>
             <lb ed="TLN" n="403"/>
@@ -1503,17 +1503,17 @@ Added to repository.
             <lb ed="TLN" n="404"/>
             <l part="I">estne hoc quod dico, Stasime?</l>
           </sp>
-          <sp who="#stasimvs">
-            <speaker>Stasimvs</speaker>
+          <sp who="#stasimus">
+            <speaker>Stasimus</speaker>
             <l part="M">Quom considero,</l>
             <lb ed="TLN" n="405"/>
             <l part="I">meminisse videor fieri.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Quid factumst eo?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="406"/>
             <l n="5">Comessum, expotum; exussum: elotum in balineis,</l>
@@ -1526,30 +1526,30 @@ Added to repository.
             <lb ed="TLN" n="410"/>
             <l>quam si tu obicias formicis papaverem.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="411"/>
             <l n="10">Minus hercle in istis rebus sumptumst sex minis.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="412"/>
             <l part="I">Quid quod dedisti scortis?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Ibidem una traho.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="413"/>
             <l part="I">Quid quod égo defrudavi?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Em, istaec ratio maxumast.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="414"/>
             <l>Non tibi illud apparere, si sumas, potest;</l>
@@ -1563,12 +1563,12 @@ Added to repository.
             <lb ed="TLN" n="417"/>
             <l>postquam comedit rem, post rationem putat.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="418"/>
             <l>Nequaquam argenti ratio comparet tamen.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="419"/>
             <l>
@@ -1581,7 +1581,7 @@ Added to repository.
             <lb ed="TLN" n="421"/>
             <l n="20" part="I">et ille aédis mancipio abs te accepit?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Admodum.</l>
           </sp>
@@ -1594,19 +1594,19 @@ Added to repository.
             <lb ed="TLN" n="424"/>
             <l>nisi forte in ventrem filio conrepserit.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="425"/>
             <l>Trapezítae mille drachumarúm Olympico,</l>
             <lb ed="TLN" n="426"/>
             <l n="25">quas de ratione dehibuisti, redditae?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="427"/>
             <l part="I">Nempe quás spopondi.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Immó ‘quas dependi’ inquito</l>
             <lb ed="TLN" n="427a"/>
@@ -1614,22 +1614,22 @@ Added to repository.
             <lb ed="TLN" n="428"/>
             <l>pro illo adulescente, quem tu esse aibas divitem.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>L.</speaker>
             <lb ed="TLN" n="429"/>
             <l part="I">Factum.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Vt quidem illud perierit.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>L.</speaker>
             <l part="M">Factum id quoque est.</l>
             <lb ed="TLN" n="430"/>
             <l n="30">nam nunc eum vidi miserum et me eius miseritumst.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="431"/>
             <l>Miseret te aliorum, tui nec miseret nec pudet.</l>
@@ -1639,13 +1639,13 @@ Added to repository.
             <lb ed="TLN" n="432"/>
             <l part="I">Tempust adeundi.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Éstne hic Philto qui advenit?</l>
             <lb ed="TLN" n="433"/>
             <l part="I">is herclest ipsus.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Edepol né ego istum velim</l>
             <lb ed="TLN" n="434"/>
@@ -1658,7 +1658,7 @@ Added to repository.
             <lb ed="TLN" n="436"/>
             <l part="I">salvere, Lesbonicum et Stasimum.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Di duint</l>
             <lb ed="TLN" n="437"/>
@@ -1669,11 +1669,11 @@ Added to repository.
             <lb ed="TLN" n="438"/>
             <l part="I">Bene volt tibi.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Edepol mutuom mecum facit.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="439"/>
             <l>Nequam illud verbumst ‘bene volt’, nisi qui bene facit.</l>
@@ -1693,7 +1693,7 @@ Added to repository.
             <lb ed="TLN" n="445"/>
             <l n="45" part="I">sententia eademst et volo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Hau nosco tuom:</l>
             <lb ed="TLN" n="446"/>
@@ -1710,7 +1710,7 @@ Added to repository.
             <lb ed="TLN" n="450"/>
             <l n="50">ut tuam sororem poscerem uxorem sibi.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="451"/>
             <l>Mearúm me rerum novisse aequomst ordinem.</l>
@@ -1719,7 +1719,7 @@ Added to repository.
             <lb ed="TLN" n="453"/>
             <l>adfinitatem vobis aliam quaerite.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="454"/>
             <l>Satin tu es sanus mentis aut animi tui,</l>
@@ -1728,16 +1728,16 @@ Added to repository.
             <lb ed="TLN" n="456"/>
             <l>ferentárium esse amicum inventum intellego.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="457"/>
             <l part="I">Abin hínc dierecte?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Si hercle ire occipiam, votes.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="458"/>
             <l>Nisi quid me aliud vis, Philto, respondi tibi.</l>
@@ -1753,18 +1753,18 @@ Added to repository.
             <lb ed="TLN" n="462"/>
             <l>utrumque, Lesbonice, in aetate hau bonumst.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="463"/>
             <l part="I">Verum hercle hic dicit.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Oculum ego ecfodiam tibi,</l>
             <lb ed="TLN" n="464"/>
             <l part="I">si verbum addideris.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Hercle qui dicam tamen;</l>
             <lb ed="TLN" n="465"/>
@@ -1777,7 +1777,7 @@ Added to repository.
             <lb ed="TLN" n="467"/>
             <l>vostras cum nostris factiones atque opes?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="468"/>
             <l part="I">Dico.</l>
@@ -1796,12 +1796,12 @@ Added to repository.
             <lb ed="TLN" n="473"/>
             <l>edisne an incenatus cum opulento accubes?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="474"/>
             <l part="I">Edim, nisi si ille votet.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">At pol ego etsi votet</l>
             <lb ed="TLN" n="475"/>
@@ -1820,7 +1820,7 @@ Added to repository.
             <lb ed="TLN" n="480"/>
             <l n="80" part="I">Rem fabulare.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Non tibi dicam dolo:</l>
             <lb ed="TLN" n="481"/>
@@ -1855,7 +1855,7 @@ Added to repository.
             <lb ed="TLN" n="494"/>
             <l>censetur censu ad Acheruntem mortuos.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="495"/>
             <l n="95">Mirum quin tu illo tecum divitias feras.</l>
@@ -1873,7 +1873,7 @@ Added to repository.
             <lb ed="TLN" n="500"/>
             <l n="100">quae res bene vortat—habeon pactam? quid taces?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="501"/>
             <l>Pro di immortales, condicionem quoius modi.</l>
@@ -1883,14 +1883,14 @@ Added to repository.
             <lb ed="TLN" n="502"/>
             <l>Quin fabulare ‘di bene vortant, spondeo’?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="503"/>
             <l>Eheú ubi usus nil erat dícto, spondeo</l>
             <lb ed="TLN" n="504"/>
             <l>dicebat; nunc hic, quom opus est, non quit dicere.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="505"/>
             <l n="105">Quom adfinitate vostra me arbitramini</l>
@@ -1910,11 +1910,11 @@ Added to repository.
             <lb ed="TLN" n="511"/>
             <l part="I">Profecto dotem nil moror.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Certumst dare.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="512"/>
             <l>Nostramne, ere, vis nutricem, quae nos educat,</l>
@@ -1923,13 +1923,13 @@ Added to repository.
             <lb ed="TLN" n="514"/>
             <l part="I">quid edemus nosmet postea?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Etiam tu taces?</l>
             <lb ed="TLN" n="515"/>
             <l n="115" part="I">tibi ego rationem reddam?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Plane periimus,</l>
             <lb ed="TLN" n="516"/>
@@ -1940,7 +1940,7 @@ Added to repository.
             <lb ed="TLN" n="517"/>
             <l part="I">Si quid vis, Stasime.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Huc cóncede aliquantum.</l>
           </sp>
@@ -1948,7 +1948,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Licet.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="518"/>
             <l>Arcano tibi ego hoc dico, ne ille ex te sciat</l>
@@ -1959,7 +1959,7 @@ Added to repository.
             <speaker>Phil.</speaker>
             <l part="M">Crede audacter quidlubet.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="520"/>
             <l n="120">Per deos atque homines dico, ne tu illunc agrum</l>
@@ -1972,7 +1972,7 @@ Added to repository.
             <speaker>Phil.</speaker>
             <l part="M">Audire edepol lubet.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="523"/>
             <l>Primum omnium olim terra cum proscinditur,</l>
@@ -1984,19 +1984,19 @@ Added to repository.
             <lb ed="TLN" n="525"/>
             <l n="125">Apage, Acheruntis ostium in vostrost agro.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="526"/>
             <l>Tum vinum prius quam coctumst pendet putidum.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="527"/>
             <l>Consuadet homini, credo. etsi scelestus est,</l>
             <lb ed="TLN" n="528"/>
             <l part="I">at mi infidelis non est.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Audi cetera.</l>
             <lb ed="TLN" n="529"/>
@@ -2011,7 +2011,7 @@ Added to repository.
             <lb ed="TLN" n="532"/>
             <l>si in opserendo possint interfieri.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="533"/>
             <l>Neque umquam quisquamst, quoius ille ager fuit,</l>
@@ -2028,7 +2028,7 @@ Added to repository.
             <speaker>Phil.</speaker>
             <l part="M">Apage a me istum agrum.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="538"/>
             <l>Magis apage dicas, si omnia ex me audiveris.</l>
@@ -2064,7 +2064,7 @@ Added to repository.
             <lb ed="TLN" n="552"/>
             <l>aequom videtur, qui quidem istius sit modi.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="553"/>
             <l>Hospitium est calamitatis: quid verbis opust?</l>
@@ -2076,7 +2076,7 @@ Added to repository.
             <lb ed="TLN" n="555"/>
             <l n="155" part="I">At tu hercle et illi et alibi.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Cave sis dixeris</l>
             <lb ed="TLN" n="556"/>
@@ -2086,7 +2086,7 @@ Added to repository.
             <speaker>Phil.</speaker>
             <l part="M">Dixisti arcano satis.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="557"/>
             <l>Quin hic quidem cúpit illum ab se abalienarier,</l>
@@ -2098,7 +2098,7 @@ Added to repository.
             <lb ed="TLN" n="559"/>
             <l part="I">Meus quídem hercle numquam fiet.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Si sapies quidem.</l>
             <lb ed="TLN" n="560"/>
@@ -2111,7 +2111,7 @@ Added to repository.
             <lb ed="TLN" n="562"/>
             <l part="I">Redeo ad te, Lesbonice.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Dic sodes mihi,</l>
             <lb ed="TLN" n="563"/>
@@ -2123,22 +2123,22 @@ Added to repository.
             <lb ed="TLN" n="564"/>
             <l>volt fieri liber, verum quod det non habet.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="565"/>
             <l n="165">Et ego esse locuples, verum nequiquam volo.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="566"/>
             <l>Licitumst, si velles; nunc, quom nihil est, non licet.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="567"/>
             <l part="I">Quid tecum, Stasime?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">De istoc quod dixti modo:</l>
             <lb ed="TLN" n="568"/>
@@ -2155,12 +2155,12 @@ Added to repository.
             <lb ed="TLN" n="572"/>
             <l>quae res bene vortat. quid nunc? etiam consulis?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="573"/>
             <l>Quid istíc? quando ita vis: di bene vortant. spondeo.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="574"/>
             <l>Numquam edepol quoiquam &lt;tam&gt; expectatus filius</l>
@@ -2173,23 +2173,23 @@ Added to repository.
             <speaker>Phil.</speaker>
             <l part="M">Ita volo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="577"/>
             <l>Sed, Stasime, abi huc ad meam sororem ad Calliclem,</l>
             <lb ed="TLN" n="578"/>
             <l part="I">dic hoc negoti quo modo actumst.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Ibitur.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="579"/>
             <l part="I">Et gratulator meae sorori.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Scilicet.</l>
           </sp>
@@ -2200,79 +2200,79 @@ Added to repository.
             <lb ed="TLN" n="581"/>
             <l>dies cónstituatur; eadem haec confirmabimus.—</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="582"/>
             <l>[Tu ístuc cura quod iussi. ego iam hic ero.—]</l>
             <lb ed="TLN" n="583"/>
             <l part="I">dic Callicli, me ut convenat.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Quin tu i modo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="584"/>
             <l part="I">De dote ut videat quid opus sit facto.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">I modo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="585"/>
             <l n="185" part="I">Nam certumst sine dote haud dare.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Quin tu i modo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="586"/>
             <l part="I">Neque enim illi damno umquam esse patiar</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Abi modo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="587"/>
             <l part="I">Meam néglegentiam.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">I modo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">&lt;Nullo modo&gt;</l>
             <lb ed="TLN" n="588"/>
             <l part="I">aequom videtur quin quod peccarim</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">I modo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="589"/>
             <l part="I">Potissimum mi id obsit.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">I modo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">O pater,</l>
             <lb ed="TLN" n="590"/>
             <l n="190" part="I">enumquam aspiciam te?—</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">I modo, i modo, i modo.</l>
             <lb ed="TLN" n="591"/>
@@ -2307,8 +2307,8 @@ Added to repository.
             <lb ed="TLN" n="602"/>
             <l part="I">Quó modo tu istuc, Stasime, dixti?</l>
           </sp>
-          <sp who="#stasimvs">
-            <speaker>Stasimvs</speaker>
+          <sp who="#stasimus">
+            <speaker>Stasimus</speaker>
             <l part="M">Nostrum erilem filium</l>
             <lb ed="TLN" n="603"/>
             <l>Lesbonicum suam sororem despondisse. em hoc modo.</l>
@@ -2318,7 +2318,7 @@ Added to repository.
             <lb ed="TLN" n="604"/>
             <l part="I">Cuí homini despondit?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Lysiteli Philtonis filio,</l>
             <lb ed="TLN" n="605"/>
@@ -2330,7 +2330,7 @@ Added to repository.
             <lb ed="TLN" n="606"/>
             <l n="5" part="I">non credibile dicis.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">At tu édepol nullus creduas.</l>
             <lb ed="TLN" n="607"/>
@@ -2340,7 +2340,7 @@ Added to repository.
             <speaker>C.</speaker>
             <l part="M">Quid?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Me nihili pendere.</l>
           </sp>
@@ -2349,7 +2349,7 @@ Added to repository.
             <lb ed="TLN" n="608"/>
             <l part="I">Quam dudum istuc aut ubi actumst?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Ilico hic ante ostium,</l>
             <lb ed="TLN" n="609"/>
@@ -2361,7 +2361,7 @@ Added to repository.
             <lb ed="TLN" n="610"/>
             <l>quam in re salva Lesbonicus factus est frugalior?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="611"/>
             <l n="10">Atque equidem ipsus ultro venit Philto oratum filio.</l>
@@ -2375,7 +2375,7 @@ Added to repository.
             <lb ed="TLN" n="614"/>
             <l>ibo ad meum castigatorem atque ab eo consilium petam.—</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="615"/>
             <l>Propemodum quid illic festinet sentio et subolet mihi:</l>
@@ -2409,8 +2409,8 @@ Added to repository.
             <lb ed="TLN" n="627"/>
             <l>Sta ilico, noli avorsari neque te occultassis mihi.</l>
           </sp>
-          <sp who="#lesbonicvs">
-            <speaker>Lesbonicvs</speaker>
+          <sp who="#lesbonicus">
+            <speaker>Lesbonicus</speaker>
             <lb ed="TLN" n="628"/>
             <l part="I">Potin ut me ire quo profectus sum sinas?</l>
           </sp>
@@ -2420,7 +2420,7 @@ Added to repository.
             <lb ed="TLN" n="629"/>
             <l>Lesbonice, esse videatur, gloriae aut famae, sinam.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="630"/>
             <l part="I">Quod est facillumum, facís.</l>
@@ -2429,7 +2429,7 @@ Added to repository.
             <speaker>Lys.</speaker>
             <l part="M">Quid id est?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Amico iniuriam.</l>
           </sp>
@@ -2438,7 +2438,7 @@ Added to repository.
             <lb ed="TLN" n="631"/>
             <l n="5" part="I">Neque meumst neque facere didici.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Le.</speaker>
             <l part="M">Indoctus quam docte facis.</l>
             <lb ed="TLN" n="632"/>
@@ -2451,7 +2451,7 @@ Added to repository.
             <lb ed="TLN" n="634"/>
             <l part="I">Egone?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Tune.</l>
           </sp>
@@ -2459,7 +2459,7 @@ Added to repository.
             <speaker>Lys.</speaker>
             <l part="M">Quid male facio?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Quod ego nolo, id cum facis.</l>
           </sp>
@@ -2468,7 +2468,7 @@ Added to repository.
             <lb ed="TLN" n="635"/>
             <l part="I">Tuae rei bene consulere cupio.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Tu [mihi] es melior quam egomet mihi?</l>
             <lb ed="TLN" n="636"/>
@@ -2479,7 +2479,7 @@ Added to repository.
             <lb ed="TLN" n="637"/>
             <l>An id est sapere, ut qui beneficium a benevolente repudies?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="638"/>
             <l>Nullum beneficium ésse duco id quod quoi facias non placet.</l>
@@ -2519,7 +2519,7 @@ Added to repository.
             <lb ed="TLN" n="654"/>
             <l>cives obiectare possint tibi, quos tu inimicos habes.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="655"/>
             <l>Omnia ego istaec quae tu dixti scio, vel exsignavero,</l>
@@ -2573,7 +2573,7 @@ Added to repository.
             <lb ed="TLN" n="678"/>
             <l>ne scintillam quidem relinques, genus qui congliscat tuom.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="679"/>
             <l>Facilest inventu: datur ignis, tametsi ab inimico petas.</l>
@@ -2597,7 +2597,7 @@ Added to repository.
             <lb ed="TLN" n="687"/>
             <l>atque eum agrum me habere, quam te, tua qui toleres moenia?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="688"/>
             <l>Nolo ego mihi te tam prospicere, qui meam egestatem leves,</l>
@@ -2619,7 +2619,7 @@ Added to repository.
             <lb ed="TLN" n="695"/>
             <l>Quid? te dictatorem censes fore, si aps té agrum acceperim?</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="696"/>
             <l n="70">Neque volo neque postulo neque censeo, verum tamen</l>
@@ -2643,7 +2643,7 @@ Added to repository.
             <lb ed="TLN" n="704"/>
             <l>id me commissurum ut patiar fieri, ne animum induxeris.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="705"/>
             <l>
@@ -2658,17 +2658,17 @@ Added to repository.
             <lb ed="TLN" n="708"/>
             <l>etiam ob stultitiam tuam te † curis multabo mina.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="709"/>
             <l>Quid tibi intérpellatio aut in consilium huc accessio est?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <lb ed="TLN" n="710"/>
             <l part="I">Eodem pacto, quo huc accessi, apscessero.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Le.</speaker>
             <l part="M">I hac mecum domum,</l>
             <lb ed="TLN" n="711"/>
@@ -2691,7 +2691,7 @@ Added to repository.
             <lb ed="TLN" n="716"/>
             <l n="90">ego amicus numquam tibi ero alio pacto. sic sententia est.—</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="717"/>
             <l>Abiit [hercle] ille quidem. ecquid audis, Lysiteles? ego te volo.</l>
@@ -3906,8 +3906,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <sp who="#stasimvs">
-            <speaker>Stasimvs</speaker>
+          <sp who="#stasimus">
+            <speaker>Stasimus</speaker>
             <lb ed="TLN" n="1008"/>
             <l>Stasime, fac te propere celerem, recipe te ad dominum domum,</l>
             <lb ed="TLN" n="1009"/>
@@ -3931,7 +3931,7 @@ Added to repository.
             <lb ed="TLN" n="1016"/>
             <l>gurguliost exercitór: is hunc hóminem cursuram docet.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1017"/>
             <l n="10">Quid, homo nihili, non pudet te? tribusne te poteriis</l>
@@ -3967,7 +3967,7 @@ Added to repository.
             <speaker>Charm.</speaker>
             <l part="M">Non fugitivost hic homo, commeminit domi.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1028"/>
             <l>Vtinam veteres homin&lt;um mor&gt;es, veteres parsimoniae</l>
@@ -3981,7 +3981,7 @@ Added to repository.
             <lb ed="TLN" n="1031"/>
             <l>vetera quaerit, vetera amare hunc more maiorum scias.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1032"/>
             <l n="25">Nam nunc mores nihili faciunt quod licet, nisi quod lubet:</l>
@@ -3996,7 +3996,7 @@ Added to repository.
             <speaker>Charm.</speaker>
             <l part="M">Morem improbum.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1036"/>
             <l part="I">Strenuiores praeterire more fit.</l>
@@ -4005,7 +4005,7 @@ Added to repository.
             <speaker>Charm.</speaker>
             <l part="M">Nequam quidem.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1037"/>
             <l n="30">Mores leges perduxerunt iam in potestatem suam,</l>
@@ -4023,7 +4023,7 @@ Added to repository.
             <lb ed="TLN" n="1042"/>
             <l n="35">et metuo, si compellabo, ne aliam rem occipiat loqui.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1043"/>
             <l>Neque istis quicquam lege sanctumst: leges mori serviunt,</l>
@@ -4085,7 +4085,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Te volo.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>St.</speaker>
             <lb ed="TLN" n="1060"/>
             <l part="I">Quid si ego me te velle nolo?</l>
@@ -4105,7 +4105,7 @@ Added to repository.
             <lb ed="TLN" n="1062"/>
             <l n="55" part="I">sed si non dicto audiens est, quid ago?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Da magnum malum.</l>
           </sp>
@@ -4114,7 +4114,7 @@ Added to repository.
             <lb ed="TLN" n="1063"/>
             <l part="I">Bene mones, ita facere certumst.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Nisi quidem es obnoxius.</l>
           </sp>
@@ -4123,7 +4123,7 @@ Added to repository.
             <lb ed="TLN" n="1064"/>
             <l>Si bonus es, obnoxius sum; sin secus es, faciam ut iubes.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1065"/>
             <l>Quid id ad me attinet, bonisne servis tu utare an malis?</l>
@@ -4133,7 +4133,7 @@ Added to repository.
             <lb ed="TLN" n="1066"/>
             <l part="I">Quia boni malique in ea re pars tibi est.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Partem alteram</l>
             <lb ed="TLN" n="1067"/>
@@ -4144,7 +4144,7 @@ Added to repository.
             <lb ed="TLN" n="1068"/>
             <l>Sí eris meritus, fiet. respice huc ad me. ego sum Charmides.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1069"/>
             <l>Hem quis est qui mentionem homo hominis fecit optumi?</l>
@@ -4154,7 +4154,7 @@ Added to repository.
             <lb ed="TLN" n="1070"/>
             <l part="I">Ipsus homo optumus.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Mare terra caelum, di vestram fidem,</l>
             <lb ed="TLN" n="1071"/>
@@ -4180,7 +4180,7 @@ Added to repository.
             <lb ed="TLN" n="1075"/>
             <l part="I">quos reliqui hic filium atque filiam?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Vivont, valent.</l>
           </sp>
@@ -4209,7 +4209,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Quonam nisi domum?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1079"/>
             <l part="I">Hicine nos habitare censes?</l>
@@ -4235,7 +4235,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Quid ego ex te audio?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1081"/>
             <l part="I">Vendidit tuos natus aedis.</l>
@@ -4244,7 +4244,7 @@ Added to repository.
             <speaker>Charm.</speaker>
             <l part="M">Perii.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Praesentariis</l>
             <lb ed="TLN" n="1082"/>
@@ -4264,7 +4264,7 @@ Added to repository.
             <lb ed="TLN" n="1083"/>
             <l part="I">quis eas emit?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Callicles, cui tuam rem commendaveras;</l>
             <lb ed="TLN" n="1084"/>
@@ -4275,7 +4275,7 @@ Added to repository.
             <lb ed="TLN" n="1085"/>
             <l part="I">Vbi nunc filius meus habitat?</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Hic in hoc posticulo.</l>
           </sp>
@@ -4284,7 +4284,7 @@ Added to repository.
             <lb ed="TLN" n="1086"/>
             <l part="I">Male disperii.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Credidi aegre tibi id, ubi audisses, fore.</l>
           </sp>
@@ -4301,7 +4301,7 @@ Added to repository.
             <lb ed="TLN" n="1091"/>
             <l part="I">adimit animam mi aegritudo. Stasime, tene me.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <l part="M">Visne aquam</l>
             <lb ed="TLN" n="1092"/>
@@ -4353,7 +4353,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Stasime.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>St.</speaker>
             <l part="M">Hem.</l>
           </sp>
@@ -4373,7 +4373,7 @@ Added to repository.
             <lb ed="TLN" n="1108"/>
             <l>nihil est morae. i, i, ambula, actutum redi.</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1109"/>
             <l part="I">Illic sum atque hic sum.</l>
@@ -4386,7 +4386,7 @@ Added to repository.
             <speaker>Charm.</speaker>
             <l part="M">Sequor.—</l>
           </sp>
-          <sp who="#stasimvs">
+          <sp who="#stasimus">
             <speaker>Stas.</speaker>
             <lb ed="TLN" n="1110"/>
             <l>Hic meo ero amicus solus firmus restitit,</l>
@@ -4691,8 +4691,8 @@ Added to repository.
             <lb ed="TLN" n="1175"/>
             <l>[foras] evocate: ita subitost propere quod eum conventum volo.</l>
           </sp>
-          <sp who="#lesbonicvs">
-            <speaker>Lesbonicvs</speaker>
+          <sp who="#lesbonicus">
+            <speaker>Lesbonicus</speaker>
             <lb ed="TLN" n="1176"/>
             <l>Quis homo tam tumultuoso sonitu me excivit [subito] foras?</l>
           </sp>
@@ -4701,7 +4701,7 @@ Added to repository.
             <lb ed="TLN" n="1177"/>
             <l part="I">Benevolens tuos atque amicus.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Satine salve? dic mihi.</l>
           </sp>
@@ -4710,7 +4710,7 @@ Added to repository.
             <lb ed="TLN" n="1178"/>
             <l>Recte. tuom patrem rediisse salvom peregre gaudeo.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Le.</speaker>
             <lb ed="TLN" n="1179"/>
             <l n="55" part="I">Quis id ait?</l>
@@ -4719,7 +4719,7 @@ Added to repository.
             <speaker>Ly.</speaker>
             <l part="M">Ego.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Le.</speaker>
             <l part="M">Tun vidisti?</l>
           </sp>
@@ -4727,7 +4727,7 @@ Added to repository.
             <speaker>Ly.</speaker>
             <l part="M">Et tute item videas licet.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="1180"/>
             <l part="I">O pater, pater mi, salve.</l>
@@ -4736,7 +4736,7 @@ Added to repository.
             <speaker>Charm.</speaker>
             <l part="M">Salve multum, gnate mi.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="1181"/>
             <l part="I">Si quid tibi, pater, laboris—</l>
@@ -4749,7 +4749,7 @@ Added to repository.
             <lb ed="TLN" n="1183"/>
             <l part="I">haec tibi pactast Callicli &lt;huius&gt; filia.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <l part="M">Ego ducam, pater,</l>
             <lb ed="TLN" n="1184"/>
@@ -4767,7 +4767,7 @@ Added to repository.
             <lb ed="TLN" n="1186"/>
             <l>nam si pro peccatis centum ducat uxores, parumst.</l>
           </sp>
-          <sp who="#lesbonicvs">
+          <sp who="#lesbonicus">
             <speaker>Lesb.</speaker>
             <lb ed="TLN" n="1187"/>
             <l part="I">At iam posthac temperabo.</l>

@@ -54,49 +54,49 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="antipho" sex="MALE">
+          <person xml:id="antipho" sex="MALE" role="adulescens">
             <persName>Antipho</persName>
           </person>
-          <person xml:id="chaerea" sex="MALE">
+          <person xml:id="chaerea" sex="MALE" role="adulescens">
             <persName>Chaerea</persName>
           </person>
-          <person xml:id="chremes" sex="MALE">
+          <person xml:id="chremes" sex="MALE" role="adulescens">
             <persName>Chremes</persName>
           </person>
-          <person xml:id="dorias" sex="FEMALE">
+          <person xml:id="dorias" sex="FEMALE" role="ancilla">
             <persName>Dorias</persName>
           </person>
-          <person xml:id="dorus" sex="MALE">
+          <person xml:id="dorus" sex="MALE" role="eunuchus">
             <persName>Dorus</persName>
           </person>
-          <person xml:id="gnatho" sex="MALE">
+          <person xml:id="gnatho" sex="MALE" role="parasitus">
             <persName>Gnatho</persName>
           </person>
-          <person xml:id="laches" sex="MALE">
+          <person xml:id="laches" sex="MALE" role="servus">
             <persName>Laches</persName>
           </person>
-          <person xml:id="parmeno" sex="MALE">
+          <person xml:id="parmeno" sex="MALE" role="servus">
             <persName>Parmeno</persName>
           </person>
-          <person xml:id="phaedria" sex="MALE">
+          <person xml:id="phaedria" sex="MALE" role="adulescens">
             <persName>Phaedria</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
             <name>Omnes</name>
           </personGrp>
-          <person xml:id="pythias" sex="FEMALE">
+          <person xml:id="pythias" sex="FEMALE" role="ancilla">
             <persName>Pythias</persName>
           </person>
-          <person xml:id="sanga" sex="MALE">
+          <person xml:id="sanga" sex="MALE" role="servus">
             <persName>Sanga</persName>
           </person>
-          <person xml:id="sophrona" sex="FEMALE">
+          <person xml:id="sophrona" sex="FEMALE" role="nutrix">
             <persName>Sophrona</persName>
           </person>
-          <person xml:id="thais" sex="FEMALE">
+          <person xml:id="thais" sex="FEMALE" role="meretrix">
             <persName>Thais</persName>
           </person>
-          <person xml:id="thraso" sex="MALE">
+          <person xml:id="thraso" sex="MALE" role="miles">
             <persName>Thraso</persName>
           </person>
         </listPerson>
@@ -4061,7 +4061,7 @@ new additions
             </l>
             <l>Fugitive? prodi, male conciliate.</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Obsecro.</l>
           </sp>
@@ -4098,7 +4098,7 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> Factum bene!</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <lb ed="TLN" n="674"/>
             <l>Istuc pol vero bene.</l>
@@ -4211,7 +4211,7 @@ new additions
             </l>
             <l>Eho tu! emine ego te?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Emisti.</l>
           </sp>
@@ -4251,7 +4251,7 @@ new additions
             </l>
             <l>Monstrum hominis! non dicturus es?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Venit Chaerea.</l>
           </sp>
@@ -4260,7 +4260,7 @@ new additions
             <lb ed="TLN" n="696"/>
             <l n="30">Fraterne?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Ita.</l>
           </sp>
@@ -4268,7 +4268,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Quando?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Hodie.</l>
           </sp>
@@ -4276,7 +4276,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Quam dudum?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Modo.</l>
           </sp>
@@ -4285,7 +4285,7 @@ new additions
             <lb ed="TLN" n="697"/>
             <l>Quicum?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Cum Parmenone.</l>
           </sp>
@@ -4293,7 +4293,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Norasne eum prius?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <lb ed="TLN" n="698"/>
             <l>Non; nec quis esset umquam audieram dicier.</l>
@@ -4303,7 +4303,7 @@ new additions
             <lb ed="TLN" n="699"/>
             <l>Unde igitur fratrem meum esse scibas?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y">
                Parmeno
@@ -4315,7 +4315,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Occidi.</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <lb ed="TLN" n="701"/>
             <l n="35">Meam ipse induit: post una ambo abierunt foras.</l>
@@ -4350,7 +4350,7 @@ new additions
             </l>
             <l n="40">Dicdum hoc rursum: Chaerea tuam vestem detraxit tibi?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <lb ed="TLN" n="707"/>
             <l>Factum.</l>
@@ -4359,7 +4359,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Et ea est indutus?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Factum.</l>
           </sp>
@@ -4367,7 +4367,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Et pro te huc deductus est?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Ita.</l>
           </sp>
@@ -4397,7 +4397,7 @@ new additions
             </l>
             <l>Verum? vidistin fratrem Chaeream?</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Non.</l>
           </sp>
@@ -4413,7 +4413,7 @@ new additions
             </l>
             <l>Ora me.</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Obsecro te vero, Phaedria.</l>
           </sp>
@@ -4421,7 +4421,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> I intro nunc iam.</l>
           </sp>
-          <sp who="#dorias">
+          <sp who="#dorus">
             <speaker>Do.</speaker>
             <l part="Y"> Oi, ei.</l>
           </sp>
@@ -4463,7 +4463,12 @@ new additions
           <sp who="#pythias">
             <speaker>Py.</speaker>
             <l part="Y">
-               Ita: utrum taceamne an praedicem? Dor. Tu pol, si sapis,
+               Ita: utrum taceamne an praedicem?</l>
+            </sp>
+          <sp who="#dorias">
+            <speaker>Dor.</speaker>
+            <l>
+              Tu pol, si sapis,
               <lb ed="TLN" n="721"/>
             </l>
             <l n="55">

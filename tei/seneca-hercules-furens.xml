@@ -55,7 +55,7 @@
           <person xml:id="theseus" sex="MALE" ana="http://www.wikidata.org/entity/Q1320718">
             <persName>Theseus</persName>
           </person>
-          <person xml:id="megara" sex="FEMALE" ana="http://www.wikidata.org/entity/Q929768">>
+          <person xml:id="megara" sex="FEMALE" ana="http://www.wikidata.org/entity/Q929768">
             <persName>Megara</persName>
           </person>
           <person xml:id="lycus" sex="MALE">

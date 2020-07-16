@@ -50,7 +50,7 @@
       <particDesc>
         <listPerson>
           <personGrp xml:id="chorus" sex="UNKNOWN">
-            <name>Chorus Thebanorvm</name>
+            <name>Chorus Thebanorum</name>
           </personGrp>
           <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
@@ -389,7 +389,7 @@
         <l>si quam salutis Phoebus ostendit viam.</l>
       </sp>
       <sp who="#chorus">
-        <speaker>Chorus Thebanorvm</speaker>
+        <speaker>Chorus Thebanorum</speaker>
         <milestone unit="line" ed="exclude" n="110"/>
         <l n="110">Occidis, Cadmi generosa proles, </l>
         <milestone unit="line" ed="exclude" n="111"/>

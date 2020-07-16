@@ -50,46 +50,46 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="acropolistis" sex="FEMALE">
+          <person xml:id="acropolistis" sex="FEMALE" role="fidicina">
             <persName>Acropolistis</persName>
           </person>
-          <person xml:id="apoecides" sex="MALE">
+          <person xml:id="apoecides" sex="MALE" role="senex">
             <persName>Apoecides</persName>
           </person>
-          <person xml:id="chaeribvlvs" sex="MALE">
-            <persName>Chaeribvlvs</persName>
+          <person xml:id="chaeribulus" sex="MALE" role="adulescens">
+            <persName>Chaeribulus</persName>
           </person>
-          <person xml:id="danista" sex="MALE">
+          <person xml:id="danista" sex="MALE" role="danista">
             <persName>Danista</persName>
           </person>
-          <person xml:id="epidicvs" sex="MALE">
-            <persName>Epidicvs</persName>
+          <person xml:id="epidicus" sex="MALE" role="servus">
+            <persName>Epidicus</persName>
           </person>
-          <person xml:id="fidicina" sex="FEMALE">
+          <person xml:id="fidicina" sex="FEMALE" role="fidicina">
             <persName>Fidicina</persName>
           </person>
-          <person xml:id="miles" sex="MALE">
+          <person xml:id="miles" sex="MALE" role="miles">
             <persName>Miles</persName>
           </person>
-          <person xml:id="periphanes" sex="MALE">
+          <person xml:id="periphanes" sex="MALE" role="senex">
             <persName>Periphanes</persName>
           </person>
-          <person xml:id="philippa" sex="FEMALE">
+          <person xml:id="philippa" sex="FEMALE" role="mulier">
             <persName>Philippa</persName>
           </person>
-          <person xml:id="poeta" sex="MALE">
+          <person xml:id="poeta" sex="MALE" role="poeta">
             <persName>Poeta</persName>
           </person>
-          <person xml:id="servvs" sex="MALE">
-            <persName>Servvs</persName>
+          <person xml:id="servus" sex="MALE" role="servus">
+            <persName>Servus</persName>
           </person>
-          <person xml:id="stratippocles" sex="MALE">
+          <person xml:id="stratippocles" sex="MALE" role="adulescens">
             <persName>Stratippocles</persName>
           </person>
-          <person xml:id="telestis" sex="FEMALE">
+          <person xml:id="telestis" sex="FEMALE" role="virgo">
             <persName>Telestis</persName>
           </person>
-          <person xml:id="thesprio" sex="MALE">
+          <person xml:id="thesprio" sex="MALE" role="servus">
             <persName>Thesprio</persName>
           </person>
         </listPerson>
@@ -165,8 +165,8 @@ Added to repository.
     <body>
       <div1 n="1" type="act">
         <div2 n="1" type="scene">
-          <sp who="#epidicvs">
-            <speaker>Epidicvs</speaker>
+          <sp who="#epidicus">
+            <speaker>Epidicus</speaker>
             <lb ed="TLN" n="1"/>
             <l part="I">Heús, adulescens.</l>
           </sp>
@@ -174,7 +174,7 @@ Added to repository.
             <speaker>Thesprio</speaker>
             <l part="M">Quís properantem mé reprehendit pállio?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="2"/>
             <l part="I">Familiaris.</l>
@@ -183,7 +183,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Fateor, nam odio es nimium familiariter.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="3"/>
             <l part="I">Réspice vero, Thésprio.</l>
@@ -194,7 +194,7 @@ Added to repository.
             <lb ed="TLN" n="4"/>
             <l>Epidicumne ego conspicor?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="5"/>
             <l n="5">Satis recte oculis uteris.</l>
@@ -204,7 +204,7 @@ Added to repository.
             <lb ed="TLN" n="6"/>
             <l part="I">Salve.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Di dent quae velis.</l>
             <lb ed="TLN" n="7"/>
@@ -214,7 +214,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Quid ceterum?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quod eo adsolet:</l>
             <lb ed="TLN" n="8"/>
@@ -224,7 +224,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Spondeo.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quid?</l>
           </sp>
@@ -232,7 +232,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Me accepturum, si dabis.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="9"/>
             <l>Quid tú agis? ut vales? exemplum adesse intellego. euge,</l>
@@ -243,7 +243,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Huic gratia.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="11"/>
             <l>Quám quidem te iam diu</l>
@@ -255,7 +255,7 @@ Added to repository.
             <lb ed="TLN" n="12"/>
             <l part="I">Mínus iam furtificus sum quam antehac.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>E.</speaker>
             <l part="M">Quid ita?</l>
           </sp>
@@ -263,7 +263,7 @@ Added to repository.
             <speaker>T.</speaker>
             <l part="M">Rapio propalam.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="13"/>
             <l>Di immortales te infelicent, ut tu es gradibus grandibus.</l>
@@ -276,7 +276,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Scurra es.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Scio</l>
             <lb ed="TLN" n="16"/>
@@ -288,7 +288,7 @@ Added to repository.
             <lb ed="TLN" n="17"/>
             <l part="I">quid ais? perpetuen valuisti?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Varie.</l>
           </sp>
@@ -298,7 +298,7 @@ Added to repository.
             <lb ed="TLN" n="18"/>
             <l>capreáginum hominum nón placet mihi néque pantherinúm genus.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="19"/>
             <l n="20" part="I">Quid tíbi vis dicam nisi quod est? ut illaé res? responde.</l>
@@ -307,7 +307,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Probe.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="20"/>
             <l part="I">Quid erílis noster filius?</l>
@@ -316,7 +316,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Valet púgilice atque athletice.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="21"/>
             <l>Voluptábilem mihi nuntium tuo advéntu adportas, Thesprio.</l>
@@ -327,7 +327,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Advenit simul.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Vbi is ergo est? nisi si in vidulo</l>
             <lb ed="TLN" n="23"/>
@@ -337,7 +337,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Di te perdant.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Te volo—</l>
             <lb ed="TLN" n="24"/>
@@ -348,7 +348,7 @@ Added to repository.
             <lb ed="TLN" n="25"/>
             <l part="I">Ius dícis.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Me decet.</l>
           </sp>
@@ -356,7 +356,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Iam tu autem nobis praeturam geris?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="26"/>
             <l>Quem díces digniorem esse hominem hódie Athenis alterum?</l>
@@ -368,7 +368,7 @@ Added to repository.
             <lb ed="TLN" n="27"/>
             <l part="I">Epídice, abest.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quidnam?</l>
           </sp>
@@ -380,7 +380,7 @@ Added to repository.
             <lb ed="TLN" n="28"/>
             <l part="I">fasces virgarum.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Vae tibi.</l>
             <lb ed="TLN" n="29"/>
@@ -390,7 +390,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Quid rogas?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Vbi árma sunt Stratíppocli?</l>
           </sp>
@@ -399,7 +399,7 @@ Added to repository.
             <lb ed="TLN" n="30"/>
             <l part="I">Pól illa ad hostis transfugerunt.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>E.</speaker>
             <l part="M">Armane?</l>
           </sp>
@@ -407,7 +407,7 @@ Added to repository.
             <speaker>T.</speaker>
             <l part="M">Atque equidem cito.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="31"/>
             <l>Sérione dicis tu?</l>
@@ -417,7 +417,7 @@ Added to repository.
             <lb ed="TLN" n="31"/>
             <l n="35">Sério, inquam: hostes habent.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="32"/>
             <l part="I">Édepol facinus improbum.</l>
@@ -428,7 +428,7 @@ Added to repository.
             <lb ed="TLN" n="33"/>
             <l part="I">erit illi illa res honori.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Qui?</l>
           </sp>
@@ -440,7 +440,7 @@ Added to repository.
             <lb ed="TLN" n="35"/>
             <l part="I">travolaverunt ad hostis.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Tum ille prognatus Theti</l>
             <lb ed="TLN" n="36"/>
@@ -455,7 +455,7 @@ Added to repository.
             <lb ed="TLN" n="39"/>
             <l part="I">Supersede istis rebus iam.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Tu ipse, ubi lubet, finem face.</l>
           </sp>
@@ -464,7 +464,7 @@ Added to repository.
             <lb ed="TLN" n="40"/>
             <l part="I">Desiste percontarier.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Loquere ipse: ubist Stratippocles?</l>
           </sp>
@@ -473,7 +473,7 @@ Added to repository.
             <lb ed="TLN" n="41"/>
             <l n="45" part="I">Est causa qua causa simul mecum ire veritust.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quidnam id est?</l>
           </sp>
@@ -482,7 +482,7 @@ Added to repository.
             <lb ed="TLN" n="42"/>
             <l part="I">Patrem videre se nevolt etiam nunc.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quapropter?</l>
           </sp>
@@ -494,7 +494,7 @@ Added to repository.
             <lb ed="TLN" n="44"/>
             <l part="I">dé praeda mercatust.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quid ego ex te audio?</l>
           </sp>
@@ -502,7 +502,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Hoc quod fabulor.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="45"/>
             <l part="I">Cúr eam emit?</l>
@@ -511,7 +511,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Animi causa.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quót illic homo animos habet?</l>
             <lb ed="TLN" n="46"/>
@@ -526,7 +526,7 @@ Added to repository.
             <lb ed="TLN" n="49"/>
             <l>Vtcúmque in alto ventust, Epidice, exim velum vortitur.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="50"/>
             <l part="I">Vaé misero mihí, male perdidit me.</l>
@@ -535,7 +535,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Quíd istuc? quidnam est?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="51"/>
             <l n="55" part="I">Quid istanc quam emit, quanti eam emit?</l>
@@ -544,7 +544,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Vili.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Haud istuc te rogo.</l>
           </sp>
@@ -553,7 +553,7 @@ Added to repository.
             <lb ed="TLN" n="52"/>
             <l part="I">Quid ígitur?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quot minis?</l>
           </sp>
@@ -565,7 +565,7 @@ Added to repository.
             <lb ed="TLN" n="54"/>
             <l part="I">in dies minasque argenti singulas nummis.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Papae.</l>
           </sp>
@@ -574,7 +574,7 @@ Added to repository.
             <lb ed="TLN" n="55"/>
             <l>Ét is danista advenit una cúm eo, qui argentum petit.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="56"/>
             <l n="60" part="I">Di immortales, ut ego interii basilice.</l>
@@ -585,7 +585,7 @@ Added to repository.
             <lb ed="TLN" n="57"/>
             <l part="I">Epídice?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Perdidit me.</l>
           </sp>
@@ -593,7 +593,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Quís?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ille qui arma pérdidit.</l>
           </sp>
@@ -602,7 +602,7 @@ Added to repository.
             <lb ed="TLN" n="58"/>
             <l part="I">Nam quíd ita?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quia cottidie ipse ad me ab legione epistulas</l>
             <lb ed="TLN" n="59"/>
@@ -617,7 +617,7 @@ Added to repository.
             <lb ed="TLN" n="62"/>
             <l>videór videre commeruisse hic me absente in te aliquid mali.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="63"/>
             <l part="I">Potin út molestus ne sies?</l>
@@ -626,7 +626,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Abeo.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Asta, abire hinc non sinam.</l>
           </sp>
@@ -635,7 +635,7 @@ Added to repository.
             <lb ed="TLN" n="64"/>
             <l part="I">Quíd nunc me retinés?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Amatne ístam quam emit de praeda?</l>
           </sp>
@@ -645,7 +645,7 @@ Added to repository.
             <lb ed="TLN" n="65"/>
             <l part="I">deperit.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Detegetur corium de tergo meo. †</l>
           </sp>
@@ -654,7 +654,7 @@ Added to repository.
             <lb ed="TLN" n="66"/>
             <l n="70" part="I">Plusque amat quam te umquam amavit.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Iuppiter te perduit.</l>
           </sp>
@@ -667,7 +667,7 @@ Added to repository.
             <lb ed="TLN" n="69"/>
             <l part="I">íbi manere iussit, eo venturust ipsus.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quid ita?</l>
           </sp>
@@ -679,7 +679,7 @@ Added to repository.
             <lb ed="TLN" n="71"/>
             <l n="75">quám id argentum, quod debetur pro illa, denumeraverit.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="72"/>
             <l part="I">Eú edepol res turbulentas.</l>
@@ -688,7 +688,7 @@ Added to repository.
             <speaker>Th.</speaker>
             <l part="M">Mitte me ut eam nunciam.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="73"/>
             <l>Haécine ubi scibit senex,</l>
@@ -702,7 +702,7 @@ Added to repository.
             <lb ed="TLN" n="76"/>
             <l n="80">quó tu intereas modo?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="77"/>
             <l>Quía perire solus nolo, te cupio perire mecum,</l>
@@ -715,7 +715,7 @@ Added to repository.
             <lb ed="TLN" n="79"/>
             <l part="I">cum ístac condicione.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">I sane, siquidem festinas magis.</l>
           </sp>
@@ -724,7 +724,7 @@ Added to repository.
             <lb ed="TLN" n="80"/>
             <l>Numquam hominem quemquam conveni, unde abierim lubentius.—</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="81"/>
             <l n="85">Illic hinc abiit. solus nunc es. quo in loco haec res sit vides,</l>
@@ -786,8 +786,8 @@ Added to repository.
             <lb ed="TLN" n="105"/>
             <l>meorum maerorum atque amorum summam edictavi tibi.</l>
           </sp>
-          <sp who="#chaeribvlvs">
-            <speaker>Chaeribvlvs</speaker>
+          <sp who="#chaeribulus">
+            <speaker>Chaeribulus</speaker>
             <lb ed="TLN" n="106"/>
             <l>Praeter aetatem et virtutem stultus es, Stratippocles.</l>
             <lb ed="TLN" n="107"/>
@@ -802,7 +802,7 @@ Added to repository.
             <lb ed="TLN" n="110"/>
             <l>at pudicitiae eius numquam nec vim nec vitium attuli.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="111"/>
             <l>Iam istoc probior [es] meo quidem animo, cúm in amore temperes.</l>
@@ -814,7 +814,7 @@ Added to repository.
             <lb ed="TLN" n="113"/>
             <l n="10">is est amicus, qui in re dubia re iuvat, ubi rest opus.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="114"/>
             <l part="I">Quid tibi me vis facere?</l>
@@ -825,7 +825,7 @@ Added to repository.
             <lb ed="TLN" n="115"/>
             <l>quod danistae detur, unde ego illud sumpsi faenore.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="116"/>
             <l part="I">Si hercle haberem *</l>
@@ -836,7 +836,7 @@ Added to repository.
             <lb ed="TLN" n="117"/>
             <l>beneficum esse oratione, si ad rem auxilium emortuom est?</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="118"/>
             <l n="15">Quin edepol egomet clamore differor, difflagitor.</l>
@@ -854,7 +854,7 @@ Added to repository.
             <lb ed="TLN" n="123"/>
             <l n="20">quam argenti fuero elocutus ei postremam syllabam.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="124"/>
             <l>Salva res est: bene promittit, spero servabit fidem.</l>
@@ -869,7 +869,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Vbi is est?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Adest.</l>
             <lb ed="TLN" n="128"/>
@@ -879,7 +879,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Tam tibi istuc credo quam mihi.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="129"/>
             <l part="I">Benene usque valuisti?</l>
@@ -888,7 +888,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">A morbo valui, ab animo aeger fui.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="130"/>
             <l>Quod ad me attinuit, ego curavi: quod mandavisti mihi</l>
@@ -901,7 +901,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Perdidisti omnem operam.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Nam qui perdidi?</l>
           </sp>
@@ -910,7 +910,7 @@ Added to repository.
             <lb ed="TLN" n="133"/>
             <l n="30" part="I">Quia meo neque cara est cordi neque placet.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quid retulit</l>
             <lb ed="TLN" n="134"/>
@@ -921,7 +921,7 @@ Added to repository.
             <lb ed="TLN" n="135"/>
             <l>Illam amabam olím, nunc iam alia cura impendet pectori.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="136"/>
             <l>Hercle miserum est ingratum esse hómini id quod facias bene.</l>
@@ -933,7 +933,7 @@ Added to repository.
             <lb ed="TLN" n="138"/>
             <l n="35">Desipiebam mentis, cum illa scripta mittebam tibi.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="139"/>
             <l>Men piacularem oportet fieri ob stultitiam tuam,</l>
@@ -947,7 +947,7 @@ Added to repository.
             <lb ed="TLN" n="142"/>
             <l>celeriter calidis, danistae quas resolvat, et cito.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="143"/>
             <l n="40">Dic modo unde auferre me vis. a quo trápezita peto?</l>
@@ -959,7 +959,7 @@ Added to repository.
             <lb ed="TLN" n="145"/>
             <l>meam domum ne inbitas: tu te in pistrinum *</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="146"/>
             <l>Facile tu istuc sine periclo et cura, corde libero</l>
@@ -971,7 +971,7 @@ Added to repository.
             <lb ed="TLN" n="148"/>
             <l n="45" part="I">Quid tu nunc? patierin ut ego me interimam?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ne feceris.</l>
             <lb ed="TLN" n="149"/>
@@ -982,7 +982,7 @@ Added to repository.
             <lb ed="TLN" n="150"/>
             <l part="I">Nunc places, nunc ego te laudo.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Patiar ego istuc quod lubet.</l>
           </sp>
@@ -991,7 +991,7 @@ Added to repository.
             <lb ed="TLN" n="151"/>
             <l part="I">Quid illa fiet fidicina igitur?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Aliqua res reperibitur,</l>
             <lb ed="TLN" n="152"/>
@@ -1003,7 +1003,7 @@ Added to repository.
             <lb ed="TLN" n="153"/>
             <l n="50" part="I">novi ego te.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Est Euboicus miles locuples, multo auro potens,</l>
             <lb ed="TLN" n="154"/>
@@ -1017,7 +1017,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Iam faxo hic erit.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="157"/>
             <l part="I">Quid hic nunc agimus?</l>
@@ -1028,7 +1028,7 @@ Added to repository.
             <lb ed="TLN" n="158"/>
             <l n="55" part="I">luculentum habeamus.—</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ite intro, ego de re argentaria</l>
             <lb ed="TLN" n="159"/>
@@ -1105,8 +1105,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#epidicvs">
-            <speaker>Epidicvs</speaker>
+          <sp who="#epidicus">
+            <speaker>Epidicus</speaker>
             <lb ed="TLN" n="181"/>
             <l>St, tacéte, habete animúm bonum.</l>
             <lb ed="TLN" n="182"/>
@@ -1134,7 +1134,7 @@ Added to repository.
             <lb ed="TLN" n="192"/>
             <l part="I">íd ego excrucior.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Di hercle omnis me ádiuvant augent amant:</l>
             <lb ed="TLN" n="193"/>
@@ -1159,7 +1159,7 @@ Added to repository.
             <lb ed="TLN" n="201"/>
             <l n="20" part="I">Epidice.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Epidicum quis est qui revocat?</l>
           </sp>
@@ -1172,7 +1172,7 @@ Added to repository.
             <lb ed="TLN" n="202"/>
             <l part="I">Et ego Apoecides sum.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Et ego quidem sum Epidicus. sed, ere, optuma</l>
             <lb ed="TLN" n="203"/>
@@ -1182,7 +1182,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Quid rei est?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="204"/>
             <l part="I">Mane &lt;dum&gt;, sine respirem quaeso.</l>
@@ -1191,7 +1191,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Immo adquiesce.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Animo malest.</l>
           </sp>
@@ -1204,7 +1204,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Clementer, requiesce.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>E.</speaker>
             <l part="M">Animum advortite.</l>
             <lb ed="TLN" n="206"/>
@@ -1216,7 +1216,7 @@ Added to repository.
             <lb ed="TLN" n="207"/>
             <l part="I">dicit factum?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>E.</speaker>
             <l part="M">Ego ita factum esse dico.</l>
           </sp>
@@ -1224,7 +1224,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Scin tu istuc?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>E.</speaker>
             <l part="M">Scio.</l>
           </sp>
@@ -1233,7 +1233,7 @@ Added to repository.
             <lb ed="TLN" n="208"/>
             <l part="I">Qui tu scis?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quia ego ire vidi milites plenis viis;</l>
             <lb ed="TLN" n="209"/>
@@ -1243,7 +1243,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Nimis factum bene.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="210"/>
             <l>Tum captivorum quid ducunt secum! pueros, virgines,</l>
@@ -1256,7 +1256,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Hercle rem gestam bene.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="213"/>
             <l>Tum meretricum numerus tantus, quantum in urbe omni fuit,</l>
@@ -1275,7 +1275,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Quicum, Epidice?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="219"/>
             <l>Cum illa quam tuos gnatus annos multos deamat, deperit,</l>
@@ -1288,7 +1288,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Viden veneficam?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="222"/>
             <l>Sed vestita, aurata, ornata ut lepide, ut concinne, ut nove.</l>
@@ -1298,7 +1298,7 @@ Added to repository.
             <lb ed="TLN" n="223"/>
             <l>Quid erat induta? an regillam induculam an mendiculam?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="224"/>
             <l>Inpluviatam, ut istaec faciunt vestimentis nomina.</l>
@@ -1308,7 +1308,7 @@ Added to repository.
             <lb ed="TLN" n="225"/>
             <l part="I">Vtin inpluvium induta fuerit?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quid istuc tam mirabile est?</l>
             <lb ed="TLN" n="226"/>
@@ -1334,7 +1334,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Qui?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Vocant Laconicum.</l>
             <lb ed="TLN" n="235"/>
@@ -1345,7 +1345,7 @@ Added to repository.
             <lb ed="TLN" n="236"/>
             <l n="55" part="I">Quin tu ut occepisti loquere?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Occepere aliae mulieres</l>
             <lb ed="TLN" n="237"/>
@@ -1361,7 +1361,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Id lubidost scire.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ibi illarum altera</l>
             <lb ed="TLN" n="241"/>
@@ -1371,7 +1371,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Quid?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Tace ergo, ut audias)</l>
             <lb ed="TLN" n="242"/>
@@ -1389,7 +1389,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Perii hercle. quid ego ex te audio?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="247"/>
             <l>Hoc quod actum est. egomet postquam id illas audivi loqui,</l>
@@ -1402,7 +1402,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Intellego.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="250"/>
             <l>Ibi illa interrogavit illam: ‘qui scis? quis id dixit tibi?’</l>
@@ -1417,7 +1417,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Certo ego occidi.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="254"/>
             <l>Haec sic aibat: sic audivisse ex eapse atque epistula.</l>
@@ -1434,7 +1434,7 @@ Added to repository.
             <lb ed="TLN" n="257"/>
             <l part="I">nam ille quidem aut iam hic aderit, credo hercle, aut iam adest.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Si aequom siet</l>
             <lb ed="TLN" n="258"/>
@@ -1446,7 +1446,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Ergo ubi id est, Epidice?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="260"/>
             <l part="I">Atque ad eam rem conducibile.</l>
@@ -1455,7 +1455,7 @@ Added to repository.
             <speaker>Ap.</speaker>
             <l part="M">Quid istuc dubitas dicere?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="261"/>
             <l n="80">Vos priores esse oportet, nos posterius dicere,</l>
@@ -1466,7 +1466,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Eia vero, age díc.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">At deridebitis.</l>
           </sp>
@@ -1475,7 +1475,7 @@ Added to repository.
             <lb ed="TLN" n="263"/>
             <l part="I">Non edepol faciemus.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Immo, si placebit, utitor,</l>
             <lb ed="TLN" n="264"/>
@@ -1488,7 +1488,7 @@ Added to repository.
             <lb ed="TLN" n="266"/>
             <l n="85">Gratiam habeo; fac participes nos tuae sapientiae.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="267"/>
             <l>Continuo arbitretur uxor tuo gnato atque ut fidicinam</l>
@@ -1506,7 +1506,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Facere cupio quidvis, dum id fiat modo.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Em,</l>
             <lb ed="TLN" n="271"/>
@@ -1518,7 +1518,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Qui scis?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Scio.</l>
             <lb ed="TLN" n="273"/>
@@ -1529,7 +1529,7 @@ Added to repository.
             <lb ed="TLN" n="274"/>
             <l part="I">Quin tu eloquere, quid faciemus?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Sic faciundum censeo</l>
             <lb ed="TLN" n="275"/>
@@ -1541,7 +1541,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Quam ad rem istuc refert?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>E.</speaker>
             <l part="M">Rogas?</l>
             <lb ed="TLN" n="277"/>
@@ -1553,7 +1553,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Intellego.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="279"/>
             <l>Vbi erit empta, ut aliquo ex urbe amoveas; nisi quid est tua</l>
@@ -1564,7 +1564,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Immo docte.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quid tua autem, Apoecides?</l>
           </sp>
@@ -1573,7 +1573,7 @@ Added to repository.
             <lb ed="TLN" n="281"/>
             <l n="100">Quid ego iam nisi te commentum nimis astute intellego?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="282"/>
             <l>Iam &lt;simul&gt; igitur amota ei erit omnis consultatio</l>
@@ -1586,7 +1586,7 @@ Added to repository.
             <lb ed="TLN" n="284"/>
             <l part="I">et placet.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">
               Tum tu igitur calide quidquid 
@@ -1599,7 +1599,7 @@ Added to repository.
             <lb ed="TLN" n="285"/>
             <l part="I">Rem hercle loquere.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Et repperi, haec te qui abscedat suspicio.</l>
           </sp>
@@ -1608,7 +1608,7 @@ Added to repository.
             <lb ed="TLN" n="286"/>
             <l n="105" part="I">Sine me scire.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Scibis, audi.</l>
           </sp>
@@ -1616,7 +1616,7 @@ Added to repository.
             <speaker>Ap.</speaker>
             <l part="M">Sapit hic pleno pectore.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="287"/>
             <l>Opus est homine qui illo argentum deferat pro fidicina;</l>
@@ -1627,7 +1627,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Quid iam?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ne te censeat</l>
             <lb ed="TLN" n="289"/>
@@ -1637,7 +1637,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Docte.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quo illum ab illa prohibeas:</l>
             <lb ed="TLN" n="290"/>
@@ -1648,7 +1648,7 @@ Added to repository.
             <lb ed="TLN" n="291"/>
             <l n="110" part="I">Quém hominem inveniemus ad eam rem utilem?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Hic erit optimus,</l>
             <lb ed="TLN" n="292"/>
@@ -1659,7 +1659,7 @@ Added to repository.
             <lb ed="TLN" n="293"/>
             <l part="I">Epidico habeas gratiam.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Sed ego istuc faciam sedulo:</l>
             <lb ed="TLN" n="294"/>
@@ -1671,7 +1671,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Quanti émi potest minimo?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Illane?</l>
             <lb ed="TLN" n="296"/>
@@ -1686,7 +1686,7 @@ Added to repository.
             <lb ed="TLN" n="299"/>
             <l part="I">Quidum?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quia enim mulierem alius illam adulescens deperit,</l>
             <lb ed="TLN" n="300"/>
@@ -1700,7 +1700,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Deos quidem oro.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>E.</speaker>
             <l part="M">Impetras.</l>
           </sp>
@@ -1711,7 +1711,7 @@ Added to repository.
             <lb ed="TLN" n="304"/>
             <l part="I">Epidice, eo veni.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ne abitas prius quam ego ad te venero.</l>
           </sp>
@@ -1724,7 +1724,7 @@ Added to repository.
             <speaker>P.</speaker>
             <l part="M">Sequere tu intro.—</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>E.</speaker>
             <l part="M">I, numera, nil ego te moror.</l>
           </sp>
@@ -1773,8 +1773,8 @@ Added to repository.
             <lb ed="TLN" n="323"/>
             <l part="I">scíre cupió.</l>
           </sp>
-          <sp who="#chaeribvlvs">
-            <speaker>Chaeribvlvs</speaker>
+          <sp who="#chaeribulus">
+            <speaker>Chaeribulus</speaker>
             <l part="M">Per illám tibi cópiam</l>
             <lb ed="TLN" n="324"/>
             <l n="5">copíam parare aliám licet: scivi équidem in principio ilico</l>
@@ -1785,21 +1785,21 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Interii hércle ego.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="326"/>
             <l>Ábsurde facis qui ángas te animi; si hércle ego illum semel préndero,</l>
             <lb ed="TLN" n="327"/>
             <l>númquam inridére nos íllum inultúm sinam servom hominem.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="328"/>
             <l>Quíd illum facere vís, qui, tibi quoi dívitiae domi máxumae sunt,</l>
             <lb ed="TLN" n="329-330"/>
             <l n="10">is númmum nullum habés neque sodáli tuo in te cópiast.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="331"/>
             <l>Si hercle hábeam, polliceár lubens, verum áliquid aliqua aliquó modo</l>
@@ -1811,7 +1811,7 @@ Added to repository.
             <lb ed="TLN" n="333"/>
             <l part="I">Vaé tibi, muricide homo.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <l part="M">Qui tibi lubet mihi male loqui?</l>
           </sp>
@@ -1826,8 +1826,8 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <sp who="#epidicvs">
-            <speaker>Epidicvs</speaker>
+          <sp who="#epidicus">
+            <speaker>Epidicus</speaker>
             <lb ed="TLN" n="337"/>
             <l>Fecísti iam officium tuom, me meum nunc facere oportet.</l>
             <lb ed="TLN" n="338"/>
@@ -1852,7 +1852,7 @@ Added to repository.
             <lb ed="TLN" n="346"/>
             <l n="10" part="I">Quantum hic inest?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quantum sat est, et plus satis: superfit.</l>
             <lb ed="TLN" n="347"/>
@@ -1865,7 +1865,7 @@ Added to repository.
             <lb ed="TLN" n="349"/>
             <l part="I">Nam quid ita?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quia ego tuom patrem faciam parenticidam.</l>
           </sp>
@@ -1874,7 +1874,7 @@ Added to repository.
             <lb ed="TLN" n="350"/>
             <l part="I">Quid istúc est verbi?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Nil moror vetera et volgata verba;</l>
             <lb ed="TLN" n="351"/>
@@ -1904,7 +1904,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">&lt;Iam&gt; teneo.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Nunc cautorem</l>
             <lb ed="TLN" n="358"/>
@@ -1916,7 +1916,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Haud male.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Iam ípse cautor captust.</l>
             <lb ed="TLN" n="360"/>
@@ -1931,7 +1931,7 @@ Added to repository.
             <lb ed="TLN" n="363"/>
             <l part="I">mi adempsit Orcus.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Nunc ego hanc astutiam institui.</l>
             <lb ed="TLN" n="364"/>
@@ -1949,12 +1949,12 @@ Added to repository.
             <lb ed="TLN" n="370"/>
             <l>quasi pro illa argentum acceperit, quae tecum adducta nunc est.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="371"/>
             <l part="I">Vorsutior es quam rota figularis.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Iam ego parabo</l>
             <lb ed="TLN" n="372"/>
@@ -1968,7 +1968,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Vt parate.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="375"/>
             <l>Eam pérmeditatam, meis dolis astutiisque onustam</l>
@@ -1981,7 +1981,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Bene ambulato.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <lb ed="TLN" n="378"/>
             <l part="I">Nimis dóctus ille &lt;est&gt; ad male faciendum.</l>
@@ -1992,7 +1992,7 @@ Added to repository.
             <lb ed="TLN" n="379"/>
             <l n="45" part="I">servavit consiliis suis.</l>
           </sp>
-          <sp who="#chaeribvlvs">
+          <sp who="#chaeribulus">
             <speaker>Chaer.</speaker>
             <l part="M">Abeamus intro hinc ad me.</l>
           </sp>
@@ -2061,8 +2061,8 @@ Added to repository.
             <lb ed="TLN" n="400"/>
             <l part="I">atque audin?</l>
           </sp>
-          <sp who="#servvs">
-            <speaker>Servvs</speaker>
+          <sp who="#servus">
+            <speaker>Servus</speaker>
             <l part="M">Quid vis?</l>
           </sp>
           <sp who="#periphanes">
@@ -3048,8 +3048,8 @@ Added to repository.
             <lb ed="TLN" n="609"/>
             <l>quid illuc est quod illí caperrat frons severitudine?</l>
           </sp>
-          <sp who="#epidicvs">
-            <speaker>Epidicvs</speaker>
+          <sp who="#epidicus">
+            <speaker>Epidicus</speaker>
             <lb ed="TLN" n="610"/>
             <l>Si undecim deos praeter sese secum adducat Iuppiter,</l>
             <lb ed="TLN" n="611"/>
@@ -3065,7 +3065,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Quíd agis, mea commoditas?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quod miser.</l>
           </sp>
@@ -3074,7 +3074,7 @@ Added to repository.
             <lb ed="TLN" n="615"/>
             <l part="I">Quid est tibi?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quin tu mi adornas ad fugam viaticum,</l>
             <lb ed="TLN" n="616"/>
@@ -3087,7 +3087,7 @@ Added to repository.
             <lb ed="TLN" n="618"/>
             <l part="I">Habe bonum animum.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quippe ego quoi libertas in mundo sitast.</l>
           </sp>
@@ -3096,7 +3096,7 @@ Added to repository.
             <lb ed="TLN" n="619"/>
             <l part="I">Ego te servabo.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Edepol me illi melius, si nacti fuant.</l>
             <lb ed="TLN" n="620"/>
@@ -3107,7 +3107,7 @@ Added to repository.
             <lb ed="TLN" n="621"/>
             <l n="15" part="I">Hic est danista, haec illa est autem, quam emi de praeda.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Haecinest?</l>
           </sp>
@@ -3120,7 +3120,7 @@ Added to repository.
             <lb ed="TLN" n="624"/>
             <l>estne consímilis quasi cum signum pictum pulchre aspexeris?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="625"/>
             <l>Ex tuis verbis meum futurum corium pulchrum praedicas,</l>
@@ -3177,7 +3177,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Domist.—</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="634"/>
             <l>Satin ego oculis utilitatem optineo sincere an parum?</l>
@@ -3191,7 +3191,7 @@ Added to repository.
             <lb ed="TLN" n="637"/>
             <l>Quis tu homo es, qui meum parentum nomen memoras et meum?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="638"/>
             <l part="I">Non me nosti?</l>
@@ -3200,7 +3200,7 @@ Added to repository.
             <speaker>Tel.</speaker>
             <l part="M">Quod quidem nunc veniat in mentem mihi.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="639"/>
             <l>Non meministi me auream ad te afferre natali die</l>
@@ -3213,7 +3213,7 @@ Added to repository.
             <lb ed="TLN" n="641"/>
             <l n="35" part="I">tune is es?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ego sum, ét istic frater, qui te mercatust, tuos.</l>
             <lb ed="TLN" n="642"/>
@@ -3224,7 +3224,7 @@ Added to repository.
             <lb ed="TLN" n="643"/>
             <l part="I">Quid pater meus? vivit?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Animo liquido et tranquillo es, tace.</l>
           </sp>
@@ -3233,7 +3233,7 @@ Added to repository.
             <lb ed="TLN" n="644"/>
             <l>Di me ex perdita servatam cupiunt, si vera autumas.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="645"/>
             <l>Non habeo ullam occasionem, ut apud te falsa fabuler.</l>
@@ -3264,16 +3264,16 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Sanan haec est?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Sana, si appellat suom.</l>
           </sp>
-          <sp who="#servvs">
+          <sp who="#stratippocles">
             <speaker>S.</speaker>
             <lb ed="TLN" n="650"/>
             <l>Quid? ego modo &lt;amator sum&gt; huic frater factus, dum intro eo atque exeo?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="651"/>
             <l n="45">Quod boni est id tacitus taceas tute tecum et gaudeas.</l>
@@ -3283,7 +3283,7 @@ Added to repository.
             <lb ed="TLN" n="652"/>
             <l part="I">Perdidisti et repperisti me, soror.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M"><abbr expan="stultus es">Stultu's</abbr>
               , tace.
@@ -3298,7 +3298,7 @@ Added to repository.
             <lb ed="TLN" n="655"/>
             <l part="I">Epidice, fateor—</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Abi intro ac iúbe huic aquam calefieri;</l>
             <lb ed="TLN" n="656"/>
@@ -3309,7 +3309,7 @@ Added to repository.
             <lb ed="TLN" n="657"/>
             <l part="I">Sequere hac me, soror.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ego ad vos Thesprionem iussero</l>
             <lb ed="TLN" n="658"/>
@@ -3321,7 +3321,7 @@ Added to repository.
             <speaker>Str.</speaker>
             <l part="M">Facile istuc erit.—</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="660"/>
             <l>Thesprio, exi istac per hortum, adfer domum auxilium mihi,</l>
@@ -3376,8 +3376,8 @@ Added to repository.
             <lb ed="TLN" n="674"/>
             <l>quaqua tangit, omne amburit, si astes, aestu calefacit.</l>
           </sp>
-          <sp who="#epidicvs">
-            <speaker>Epidicvs</speaker>
+          <sp who="#epidicus">
+            <speaker>Epidicus</speaker>
             <lb ed="TLN" n="675"/>
             <l n="10">Duodecim deis plus quam in caelo deorumst immortalium</l>
             <lb ed="TLN" n="676"/>
@@ -3396,7 +3396,7 @@ Added to repository.
             <lb ed="TLN" n="679"/>
             <l>Dum sine me quaeras, quaeras mea causa vel medio in mari.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="680"/>
             <l n="15">Quid me quaeris? quid laboras? quid hunc sollicitas? ecce me.</l>
@@ -3414,7 +3414,7 @@ Added to repository.
             <lb ed="TLN" n="685"/>
             <l n="20" part="I">Ilicet, vadimonium ultro mi hic facit.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quin colligas?</l>
           </sp>
@@ -3423,7 +3423,7 @@ Added to repository.
             <lb ed="TLN" n="686"/>
             <l part="I">Edepol mancipium scelestum.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Te profecto, Apoecides,</l>
             <lb ed="TLN" n="687"/>
@@ -3433,7 +3433,7 @@ Added to repository.
             <speaker>Ap.</speaker>
             <l part="M">Facile exoras, Epidice.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="688"/>
             <l part="I">Ecquid agis?</l>
@@ -3442,7 +3442,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Tuon arbitratu?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Meo hercle vero atque hau tuo</l>
             <lb ed="TLN" n="689"/>
@@ -3457,7 +3457,7 @@ Added to repository.
             <lb ed="TLN" n="690"/>
             <l n="25">Tragulam in te inicere adornat, nescio quam fabricam facit.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="691"/>
             <l>Tibi moram facis, cum égo solutus asto. age, inquam, colliga.</l>
@@ -3467,7 +3467,7 @@ Added to repository.
             <lb ed="TLN" n="692"/>
             <l part="I">At mihi magis lubet solutum te rogitare.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">At nil scies.</l>
           </sp>
@@ -3480,7 +3480,7 @@ Added to repository.
             <speaker>Ap.</speaker>
             <l part="M">Quid agas? mos geratur.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Frugi es tú homo, Apoecides.</l>
           </sp>
@@ -3489,7 +3489,7 @@ Added to repository.
             <lb ed="TLN" n="694"/>
             <l part="I">Cedo manus igitur.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Morantur nihil. atque arte colliga.</l>
           </sp>
@@ -3498,7 +3498,7 @@ Added to repository.
             <lb ed="TLN" n="695"/>
             <l n="30" part="I">Nihil moror.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Obnoxiose.</l>
           </sp>
@@ -3506,7 +3506,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Facto opere arbitramino.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="696"/>
             <l>Bene hoc habet. age nunciam ex me exquire, rogita quod lubet.</l>
@@ -3522,7 +3522,7 @@ Added to repository.
             <lb ed="TLN" n="698"/>
             <l part="I">filiam meam dicere esse?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Libuit: ea fiducia.</l>
           </sp>
@@ -3531,7 +3531,7 @@ Added to repository.
             <lb ed="TLN" n="699"/>
             <l part="I">Ain tu? libuit?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Aio. vel da pignus, ni ea sit filia.</l>
           </sp>
@@ -3540,7 +3540,7 @@ Added to repository.
             <lb ed="TLN" n="700"/>
             <l n="35" part="I">Quam negat novisse mater?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Ni ergo matris filia est,</l>
             <lb ed="TLN" n="701"/>
@@ -3552,7 +3552,7 @@ Added to repository.
             <lb ed="TLN" n="702"/>
             <l part="I">sed quis east mulier?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Tui gnati amica, ut omnem &lt;rem&gt; scias.</l>
           </sp>
@@ -3561,7 +3561,7 @@ Added to repository.
             <lb ed="TLN" n="703"/>
             <l part="I">Dedin tibi minas triginta ob filiam?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Fateor datas</l>
             <lb ed="TLN" n="704"/>
@@ -3576,7 +3576,7 @@ Added to repository.
             <lb ed="TLN" n="707"/>
             <l part="I">fidicina?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Factum hercle vero, et recte factum iudico.</l>
           </sp>
@@ -3585,7 +3585,7 @@ Added to repository.
             <lb ed="TLN" n="708"/>
             <l part="I">Quid postremo argento factum est quod dedi?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Dicam tibi:</l>
             <lb ed="TLN" n="709"/>
@@ -3600,7 +3600,7 @@ Added to repository.
               ?
             </l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quia mi libitum est.</l>
           </sp>
@@ -3608,7 +3608,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Quae haec, malum, impudentiast?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="711"/>
             <l part="I">Etiam inclamitor quasi servos?</l>
@@ -3617,7 +3617,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Cum tu es liber, gaudeo.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="712"/>
             <l part="I">Merui ut fierem.</l>
@@ -3626,7 +3626,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Tu meruisti?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Vise intro: ego faxo scies</l>
             <lb ed="TLN" n="713"/>
@@ -3636,7 +3636,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Quid est negoti?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Iam ipsa res dicet tibi.</l>
             <lb ed="TLN" n="714"/>
@@ -3655,7 +3655,7 @@ Added to repository.
             <lb ed="TLN" n="715"/>
             <l n="50" part="I">Quid illuc, Epidice, est negoti?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Maxima hercle iniuria</l>
             <lb ed="TLN" n="716"/>
@@ -3666,7 +3666,7 @@ Added to repository.
             <lb ed="TLN" n="717"/>
             <l part="I">Ain tu te illius invenisse filiam?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Inveni, et domi est.</l>
             <lb ed="TLN" n="718"/>
@@ -3677,7 +3677,7 @@ Added to repository.
             <lb ed="TLN" n="719"/>
             <l>Quamne hodie per urbem uterque sumus defessi quaerere?</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="720"/>
             <l n="55">Ego sum defessus reperire, vos defessi quaerere.</l>
@@ -3689,7 +3689,7 @@ Added to repository.
             <lb ed="TLN" n="722"/>
             <l>ut liceat merito huius facere. cedo tu ut exsolvam manus.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="723"/>
             <l part="I">Ne attigas.</l>
@@ -3698,7 +3698,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Ostende vero.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Nolo.</l>
           </sp>
@@ -3706,7 +3706,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Non aequom facis.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="724"/>
             <l>Numquam hercle hodie, nisi supplicium mihi das, me solvi sinam.</l>
@@ -3718,7 +3718,7 @@ Added to repository.
             <lb ed="TLN" n="726"/>
             <l part="I">tibi dabo.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Quid deinde porro?</l>
           </sp>
@@ -3726,7 +3726,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Libertatem.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">At postea?</l>
             <lb ed="TLN" n="727"/>
@@ -3736,7 +3736,7 @@ Added to repository.
             <speaker>Per.</speaker>
             <l part="M">Dabitur, praebebo cibum.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <lb ed="TLN" n="728"/>
             <l part="I">Numquam hercle hodie, nisi me orassis, solves.</l>
@@ -3749,7 +3749,7 @@ Added to repository.
             <lb ed="TLN" n="730"/>
             <l n="65" part="I">at ob eam rem liber esto.</l>
           </sp>
-          <sp who="#epidicvs">
+          <sp who="#epidicus">
             <speaker>Ep.</speaker>
             <l part="M">Invitus do hanc veniam tibi,</l>
             <lb ed="TLN" n="731"/>
