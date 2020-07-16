@@ -224,7 +224,7 @@ new additions
       <div1 n="prologue" type="act">
         <div2 n="0" type="scene">
           <head>Prologus</head>
-          <sp who="prologus">
+          <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
               NE cui sit vestrum mirum, cur partes seni 

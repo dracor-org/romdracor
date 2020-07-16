@@ -162,7 +162,7 @@ Added to repository.
     <body>
       <div1 n="prol." type="act">
         <head>Prologus</head>
-        <sp who="prologus">
+        <sp who="#prologus">
         <lb ed="TLN" n="1"/>
         <l>exporgi meliust lumbos atque exsurgier:</l>
         <lb ed="TLN" n="2"/>

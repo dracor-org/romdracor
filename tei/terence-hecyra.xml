@@ -222,7 +222,7 @@ new additions
       <div1 n="prologue" type="act">
         <div2 n="0" type="scene">
           <head>Prologus</head>
-          <sp who="prologus">
+          <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
               Hecyra est huic nomen fabulae: haec cum data
@@ -254,7 +254,7 @@ new additions
             </l>
           <l>Alias cognostis eius: quaeso hanc nunc noscite.</l>
           </sp>
-          <sp who="alter_prologus">
+          <sp who="#alter_prologus">
           <speaker>Alter Prologus.</speaker>
           <lb ed="TLN" n="9"/>
           <l>

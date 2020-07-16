@@ -159,7 +159,7 @@ Added to repository.
     <body>
       <div1 n="prol." type="act">
         <head>Prologus</head>
-        <sp who="prologus">
+        <sp who="#prologus">
         <lb ed="TLN" n="1"/>
         <l>Salutem primum iam a principio propitiam</l>
         <lb ed="TLN" n="2"/>

@@ -157,7 +157,7 @@ Added to repository.
     <body>
       <div1 n="prol." type="act">
         <head>Prologus</head>
-        <sp who="prologus">
+        <sp who="#prologus">
         <lb ed="TLN" n="1"/>
         <l>Perparvam partem postulat Plautus loci</l>
         <lb ed="TLN" n="2"/>
