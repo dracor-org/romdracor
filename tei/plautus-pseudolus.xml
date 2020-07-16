@@ -50,6 +50,9 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="prologus" sex="UNKNOWN" role="prologus">
+            <persName>Prologus</persName>
+          </person>
           <person xml:id="ballio" sex="MALE" role="leno">
             <persName>Ballio</persName>
           </person>
@@ -158,11 +161,13 @@ Added to repository.
   <text>
     <body>
       <div1 n="prol." type="act">
-        <head>PROLOGVS</head>
+        <head>Prologus</head>
+        <sp who="prologus">
         <lb ed="TLN" n="1"/>
         <l>exporgi meliust lumbos atque exsurgier:</l>
         <lb ed="TLN" n="2"/>
         <l>Plautina longa fabula in scaenam venit.</l>
+        </sp>
       </div1>
       <div1 n="1" type="act">
         <div2 n="1" type="scene">

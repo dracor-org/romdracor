@@ -150,8 +150,8 @@ Added to repository.
   </teiHeader>
   <text>
     <body>
-      <div1 n="1" type="act">
-        <div2 n="prol" type="scene">
+      <div1 n="prol." type="act">
+          <head>Prologus</head>
           <sp who="#mercurius">
             <speaker>Mercurius</speaker>
             <lb ed="TLN" n="1"/>
@@ -459,7 +459,8 @@ Added to repository.
             <lb ed="TLN" n="152"/>
             <l>Iovem et Mercurium facere hístrioniam.</l>
           </sp>
-        </div2>
+      </div1>
+      <div1 n="1" type="act">
         <div2 n="1" type="scene">
           <sp who="#sosia">
             <speaker>Sosia</speaker>

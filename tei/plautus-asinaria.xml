@@ -50,6 +50,9 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="prologus" sex="UNKNOWN" role="prologus">
+            <persName>Prologus</persName>
+          </person>
           <person xml:id="argyrippus" sex="MALE" role="adulescens">
             <persName>Argyrippus</persName>
           </person>
@@ -155,7 +158,8 @@ Added to repository.
   <text>
     <body>
       <div1 n="prol." type="act">
-        <head>PROLOGVS</head>
+        <head>Prologus</head>
+        <sp who="prologus">
         <lb ed="TLN" n="1"/>
         <l>Hoc agite sultis, spectatores, nunciam,</l>
         <lb ed="TLN" n="2"/>
@@ -186,6 +190,7 @@ Added to repository.
         <l>ridicula res est. date benigne operam mihi,</l>
         <lb ed="TLN" n="15"/>
         <l n="15">ut vos, ut alias, pariter nunc Mars adiuvet.</l>
+        </sp>
       </div1>
       <div1 n="1" type="act">
         <div2 n="1" type="scene">

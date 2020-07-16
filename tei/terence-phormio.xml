@@ -54,6 +54,9 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="prologus" sex="UNKNOWN" role="prologus">
+            <persName>Prologus</persName>
+          </person>
           <person xml:id="antipho" sex="MALE" role="adulescens">
             <persName>Antipho</persName>
           </person>
@@ -81,7 +84,7 @@
           <person xml:id="geta" sex="MALE" role="servus">
             <persName>Geta</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="grex">
             <name>Omnes</name>
           </personGrp>
           <person xml:id="nausistrata" sex="FEMALE" role="matrona">
@@ -248,6 +251,7 @@ new additions
       <div1 n="prologue" type="act">
         <div2 n="0" type="scene">
           <head>Prologus</head>
+          <sp who="prologus">
           <lb ed="TLN" n="1"/>
           <l>
               POSTQUAM poeta vetus poetam non potest
@@ -382,6 +386,7 @@ new additions
               <lb ed="TLN" n="34"/>
             </l>
           <l>Bonitasque vestra adiutans atque aequanimitas.</l>
+          </sp>
         </div2>
       </div1>
       <div1 n="1" type="act">

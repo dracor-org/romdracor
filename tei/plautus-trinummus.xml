@@ -71,7 +71,7 @@
           <person xml:id="megaronides" sex="MALE" role="senex">
             <persName>Megaronides</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="grex">
             <name>Omnes</name>
           </personGrp>
           <person xml:id="philto" sex="MALE" role="senex">
@@ -158,7 +158,7 @@ Added to repository.
   <text>
     <body>
       <div1 n="prol." type="act">
-        <head>PROLOGVS</head>
+        <head>Prologus</head>
         <sp who="#luxuria">
           <speaker>Luxuria</speaker>
           <lb ed="TLN" n="1"/>

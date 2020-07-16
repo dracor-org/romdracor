@@ -50,6 +50,9 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="prologus" sex="UNKNOWN" role="prologus">
+            <persName>Prologus</persName>
+          </person>
           <person xml:id="alcesimus" sex="MALE" role="senex">
             <persName>Alcesimus</persName>
           </person>
@@ -152,7 +155,8 @@ Added to repository.
   <text>
     <body>
       <div1 n="prol." type="act">
-        <head>PROLOGVS</head>
+        <head>Prologus</head>
+        <sp who="prologus">
         <lb ed="TLN" n="1"/>
         <l>Salvere iubeo spectatores optumos,</l>
         <lb ed="TLN" n="2"/>
@@ -329,6 +333,7 @@ Added to repository.
         <l>tantum est. valete, bene rem gerite et vincite</l>
         <lb ed="TLN" n="88"/>
         <l>virtute vera, quod fecistis antidhac.</l>
+        </sp>
       </div1>
       <div1 n="1" type="act">
         <div2 n="1" type="scene">

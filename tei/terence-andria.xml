@@ -54,6 +54,9 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="prologus" sex="UNKNOWN" role="prologus">
+            <persName>Prologus</persName>
+          </person>
           <person xml:id="byrrhia" sex="MALE" role="servus">
             <persName>Byrrhia</persName>
           </person>
@@ -81,7 +84,7 @@
           <person xml:id="mysis" sex="FEMALE" role="ancilla">
             <persName>Mysis</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="grex">
             <name>Omnes</name>
           </personGrp>
           <person xml:id="pamphilus" sex="MALE" role="adulescens">
@@ -238,6 +241,7 @@ new additions
       <div1 n="prologue" type="act">
         <div2 n="0" type="scene">
           <head>Prologus</head>
+          <sp who="prologus">
           <lb ed="TLN" n="1"/>
           <l>
               Poeta quum primum animum ad scribendum appulit,
@@ -344,6 +348,7 @@ new additions
               <lb ed="TLN" n="27"/>
             </l>
           <l>Spectandae an exigendae sint vobis prius.</l>
+          </sp>
         </div2>
       </div1>
       <div1 n="1" type="act">

@@ -50,13 +50,16 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="prologus" sex="UNKNOWN" role="prologus">
+            <persName>Prologus</persName>
+          </person>
           <person xml:id="aristophontes" sex="MALE" role="adulescens">
             <persName>Aristophontes</persName>
           </person>
           <personGrp xml:id="captivi" sex="MALE" role="captivi">
             <name>Captivi</name>
           </personGrp>
-          <personGrp xml:id="caterva" sex="UNKNOWN" role="caterva">
+          <personGrp xml:id="caterva" sex="UNKNOWN" role="grex">
             <name>Caterva</name>
           </personGrp>
           <person xml:id="colaphus" sex="MALE" role="lorarius">
@@ -167,7 +170,8 @@ Added to repository.
   <text>
     <body>
       <div1 n="prol." type="act">
-        <head>PROLOGVS</head>
+        <head>Prologus</head>
+        <sp who="prologus">
         <lb ed="TLN" n="1"/>
         <l>Hos quos videtis stare hic captivos duos,</l>
         <lb ed="TLN" n="2"/>
@@ -304,6 +308,7 @@ Added to repository.
         <l>abeo. valete, iudices iustissimi</l>
         <lb ed="TLN" n="68"/>
         <l>domi duellique duellatores optumi.</l>
+        </sp>
       </div1>
       <div1 n="1" type="act">
         <div2 n="1" type="scene">

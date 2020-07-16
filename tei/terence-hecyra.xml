@@ -54,6 +54,12 @@
     <profileDesc>
       <particDesc>
         <listPerson>
+          <person xml:id="prologus" sex="UNKNOWN" role="prologus">
+            <persName>Prologus</persName>
+          </person>
+          <person xml:id="alter_prologus" sex="UNKNOWN" role="prologus">
+            <persName>Alter Prologus</persName>
+          </person>
           <person xml:id="bacchis" sex="FEMALE" role="meretrix">
             <persName>Bacchis</persName>
           </person>
@@ -78,7 +84,7 @@
           <person xml:id="sosia" sex="MALE" role="servus">
             <persName>Sosia</persName>
           </person>
-          <personGrp xml:id="omnes" sex="UNKNOWN" role="caterva grex">
+          <personGrp xml:id="omnes" sex="UNKNOWN" role="grex">
             <name>Omnes</name>
           </personGrp>
           <person xml:id="sostrata" sex="FEMALE" role="matrona">
@@ -216,6 +222,7 @@ new additions
       <div1 n="prologue" type="act">
         <div2 n="0" type="scene">
           <head>Prologus</head>
+          <sp who="prologus">
           <lb ed="TLN" n="1"/>
           <l>
               Hecyra est huic nomen fabulae: haec cum data
@@ -246,10 +253,9 @@ new additions
               <lb ed="TLN" n="8"/>
             </l>
           <l>Alias cognostis eius: quaeso hanc nunc noscite.</l>
-        </div2>
-        <div2 n="1" type="scene">
-          <head>ALTER PROLOGUS.</head>
-          <head>Prologus</head>
+          </sp>
+          <sp who="alter_prologus">
+          <speaker>Alter Prologus.</speaker>
           <lb ed="TLN" n="9"/>
           <l>
               Orator ad vos venio ornatu prologi:
@@ -444,6 +450,7 @@ new additions
               <lb ed="TLN" n="57"/>
             </l>
           <l>Novas expediat posthac pretio emtas meo.</l>
+          </sp>
         </div2>
       </div1>
       <div1 n="1" type="act">
