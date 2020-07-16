@@ -152,7 +152,9 @@ Added to repository.
   <text>
     <body>
       <div1 n="1" type="act">
+        <head>I</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
             <lb ed="TLN" n="1"/>
@@ -484,6 +486,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#saturio">
             <speaker>Saturio</speaker>
             <lb ed="TLN" n="53"/>
@@ -547,6 +550,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
             <lb ed="TLN" n="81"/>
@@ -914,7 +918,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="2" type="act">
+        <head>II</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#sophoclidisca">
             <speaker>Sophoclidisca</speaker>
             <lb ed="TLN" n="168"/>
@@ -957,6 +963,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
             <lb ed="TLN" n="183"/>
@@ -1558,6 +1565,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#sagaristio">
             <speaker>Sagaristio</speaker>
             <lb ed="TLN" n="251"/>
@@ -1607,6 +1615,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#paegnium">
             <speaker>Paegnium</speaker>
             <lb ed="TLN" n="272"/>
@@ -1815,6 +1824,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="5" type="scene">
+          <head>5</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
             <lb ed="TLN" n="302"/>
@@ -1971,7 +1981,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="3" type="act">
+        <head>III</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#saturio">
             <speaker>Saturio</speaker>
             <lb ed="TLN" n="329"/>
@@ -2249,6 +2261,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
             <lb ed="TLN" n="400"/>
@@ -2264,6 +2277,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
             <lb ed="TLN" n="405"/>
@@ -2431,35 +2445,40 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="4" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
-          <lb ed="TLN" n="449"/>
-          <l>si quam rem accures sobrie aut frugaliter,</l>
-          <lb ed="TLN" n="450"/>
-          <l>solet illa recte sub manus succedere.</l>
-          <lb ed="TLN" n="451"/>
-          <l>atque edepol ferme ut quisque rem accurat suam,</l>
-          <lb ed="TLN" n="452"/>
-          <l>sic ei procedit postprincipio, denique</l>
-          <lb ed="TLN" n="453"/>
-          <l n="5">si malus aut nequamst, male res vortunt quas agit,</l>
-          <lb ed="TLN" n="454"/>
-          <l>sin autem frugist, eveniunt frugaliter.</l>
-          <lb ed="TLN" n="455"/>
-          <l>hanc ego rem exorsus sum facete et callide,</l>
-          <lb ed="TLN" n="456"/>
-          <l>igitur proventuram bene confido mihi.</l>
-          <lb ed="TLN" n="457"/>
-          <l>nunc ego lenonem ita hodie intricatum dabo,</l>
-          <lb ed="TLN" n="458"/>
-          <l n="10">ut ipsus sese, qua se expediat, nesciat.</l>
-          <lb ed="TLN" n="459"/>
-          <l>Sagaristio, heus, exi atque educe virginem</l>
-          <lb ed="TLN" n="460"/>
-          <l>et istás tabellas, quas consignavi tibi,</l>
-          <lb ed="TLN" n="461"/>
-          <l>quas tu attulisti mi ab ero meo usque e Persia.</l>
+          <head>1</head>
+          <sp who="#toxilus">
+            <lb ed="TLN" n="449"/>
+            <l>si quam rem accures sobrie aut frugaliter,</l>
+            <lb ed="TLN" n="450"/>
+            <l>solet illa recte sub manus succedere.</l>
+            <lb ed="TLN" n="451"/>
+            <l>atque edepol ferme ut quisque rem accurat suam,</l>
+            <lb ed="TLN" n="452"/>
+            <l>sic ei procedit postprincipio, denique</l>
+            <lb ed="TLN" n="453"/>
+            <l n="5">si malus aut nequamst, male res vortunt quas agit,</l>
+            <lb ed="TLN" n="454"/>
+            <l>sin autem frugist, eveniunt frugaliter.</l>
+            <lb ed="TLN" n="455"/>
+            <l>hanc ego rem exorsus sum facete et callide,</l>
+            <lb ed="TLN" n="456"/>
+            <l>igitur proventuram bene confido mihi.</l>
+            <lb ed="TLN" n="457"/>
+            <l>nunc ego lenonem ita hodie intricatum dabo,</l>
+            <lb ed="TLN" n="458"/>
+            <l n="10">ut ipsus sese, qua se expediat, nesciat.</l>
+            <lb ed="TLN" n="459"/>
+            <l>Sagaristio, heus, exi atque educe virginem</l>
+            <lb ed="TLN" n="460"/>
+            <l>et istás tabellas, quas consignavi tibi,</l>
+            <lb ed="TLN" n="461"/>
+            <l>quas tu attulisti mi ab ero meo usque e Persia.</l>
+          </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#sagaristio">
             <speaker>Sagaristio</speaker>
             <lb ed="TLN" n="462"/>
@@ -2497,6 +2516,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
             <lb ed="TLN" n="470"/>
@@ -2868,6 +2888,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#sagaristio">
             <speaker>Sagaristio</speaker>
             <lb ed="TLN" n="549"/>
@@ -3606,6 +3627,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="5" type="scene">
+          <head>5</head>
           <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="673"/>
@@ -3659,6 +3681,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="6" type="scene">
+          <head>6</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
             <lb ed="TLN" n="683"/>
@@ -3798,6 +3821,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="7" type="scene">
+          <head>7</head>
           <sp who="#toxilus">
             <speaker>Tox.</speaker>
             <lb ed="TLN" n="711"/>
@@ -3897,6 +3921,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="8" type="scene">
+          <head>8</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
             <lb ed="TLN" n="731"/>
@@ -3941,6 +3966,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="9" type="scene">
+          <head>9</head>
           <sp who="#saturio">
             <speaker>Saturio</speaker>
             <lb ed="TLN" n="738"/>
@@ -4039,7 +4065,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="5" type="act">
+        <head>V</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
             <lb ed="TLN" n="753"/>
@@ -4159,6 +4187,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
             <lb ed="TLN" n="777"/>

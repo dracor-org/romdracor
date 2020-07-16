@@ -461,7 +461,9 @@ Added to repository.
           </sp>
       </div1>
       <div1 n="1" type="act">
+        <head>I</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#sosia">
             <speaker>Sosia</speaker>
             <lb ed="TLN" n="153"/>
@@ -1627,6 +1629,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#mercurius">
             <speaker>Merc.</speaker>
             <lb ed="TLN" n="463"/>
@@ -1704,6 +1707,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#iuppiter">
             <speaker>Iuppiter</speaker>
             <lb ed="TLN" n="499"/>
@@ -1927,7 +1931,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="2" type="act">
+        <head>II</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#amphitruo">
             <speaker>Amphitruo</speaker>
             <lb ed="TLN" n="551"/>
@@ -2329,6 +2335,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#alcumena">
             <speaker>Alcumena</speaker>
             <lb ed="TLN" n="633"/>
@@ -3479,7 +3486,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="3" type="act">
+        <head>III</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#iuppiter">
             <speaker>Iuppiter</speaker>
             <lb ed="TLN" n="861"/>
@@ -3527,6 +3536,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#alcumena">
             <speaker>Alcumena</speaker>
             <lb ed="TLN" n="882"/>
@@ -3769,6 +3779,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#sosia">
             <speaker>Sosia</speaker>
             <lb ed="TLN" n="956"/>
@@ -3879,6 +3890,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#mercurius">
             <speaker>Mercurius</speaker>
             <lb ed="TLN" n="984"/>
@@ -3935,7 +3947,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="4" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#amphitruo">
             <speaker>Amphitruo</speaker>
             <lb ed="TLN" n="1009"/>
@@ -3965,6 +3979,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#mercurius">
             <speaker>Mercurius</speaker>
             <lb ed="TLN" n="1021"/>
@@ -4255,6 +4270,7 @@ Added to repository.
           </cit>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#blepharo">
             <speaker>(Bleph.)</speaker>
             <lb ed="TLN" n="1035"/>
@@ -4311,7 +4327,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="5" type="act">
+        <head>V</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#bromia">
             <speaker>Bromia</speaker>
             <lb ed="TLN" n="1053"/>
@@ -4602,6 +4620,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#iuppiter">
             <speaker>Iuppiter</speaker>
             <lb ed="TLN" n="1131"/>

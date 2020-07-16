@@ -166,7 +166,9 @@ Added to repository.
   <text>
     <body>
       <div1 n="1" type="act">
+        <head>I</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#pyrgopolynices">
             <speaker>Pyrgopolynices</speaker>
             <lb ed="TLN" n="1"/>
@@ -472,7 +474,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="2" type="act">
+        <head>II</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#palaestrio">
             <speaker>Palaestrio</speaker>
             <lb ed="TLN" n="79"/>
@@ -632,6 +636,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#periplectomenus">
             <speaker>Periplectomenus</speaker>
             <lb ed="TLN" n="156"/>
@@ -1058,6 +1063,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#sceledrus">
             <speaker>Sceledrus</speaker>
             <lb ed="TLN" n="272"/>
@@ -1508,6 +1514,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#palaestrio">
             <speaker>Pal.</speaker>
             <lb ed="TLN" n="354"/>
@@ -1790,6 +1797,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="5" type="scene">
+          <head>5</head>
           <sp who="#philocomasium">
             <speaker>Phil.</speaker>
             <lb ed="TLN" n="411"/>
@@ -2206,6 +2214,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="6" type="scene">
+          <head>6</head>
           <sp who="#sceledrus">
             <speaker>Sceledrus</speaker>
             <lb ed="TLN" n="481"/>
@@ -2631,7 +2640,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="3" type="act">
+        <head>III</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#palaestrio">
             <speaker>Palaestrio</speaker>
             <lb ed="TLN" n="596"/>
@@ -3350,16 +3361,19 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
-          <lb ed="TLN" n="813"/>
-          <l>quantas res turbo, quantas moveo machinas.</l>
-          <lb ed="TLN" n="814"/>
-          <l>eripiam ego hodie concubinam militi,</l>
-          <lb ed="TLN" n="815"/>
-          <l>si centuriati bene sunt maniplares mei.</l>
-          <lb ed="TLN" n="816"/>
-          <l>sed illúm vocabo. heus Sceledre, nisi negotiumst,</l>
-          <lb ed="TLN" n="817"/>
-          <l n="5">progredere ante aedis, te vocat Palaestrio.</l>
+          <head>2</head>
+          <sp who="#palaestrio">
+            <lb ed="TLN" n="813"/>
+            <l>quantas res turbo, quantas moveo machinas.</l>
+            <lb ed="TLN" n="814"/>
+            <l>eripiam ego hodie concubinam militi,</l>
+            <lb ed="TLN" n="815"/>
+            <l>si centuriati bene sunt maniplares mei.</l>
+            <lb ed="TLN" n="816"/>
+            <l>sed illúm vocabo. heus Sceledre, nisi negotiumst,</l>
+            <lb ed="TLN" n="817"/>
+            <l n="5">progredere ante aedis, te vocat Palaestrio.</l>
+          </sp>
           <sp who="#lucrio">
             <speaker>Lucrio</speaker>
             <lb ed="TLN" n="818"/>
@@ -3596,6 +3610,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#periplectomenus">
             <speaker>Periplectomenus</speaker>
             <lb ed="TLN" n="874"/>
@@ -3918,7 +3933,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="4" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#pyrgopolynices">
             <speaker>Pyrgopolinices</speaker>
             <lb ed="TLN" n="947"/>
@@ -4151,6 +4168,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#milphidippa">
             <speaker>Milphidippa</speaker>
             <lb ed="TLN" n="991"/>
@@ -4748,6 +4766,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#pyrgopolynices">
             <speaker>Pyrg.</speaker>
             <lb ed="TLN" n="1094"/>
@@ -4919,6 +4938,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#acroteleutium">
             <speaker>Acroteleutium</speaker>
             <lb ed="TLN" n="1137"/>
@@ -5194,6 +5214,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="5" type="scene">
+          <head>5</head>
           <sp who="#pyrgopolynices">
             <speaker>Pyrgopolinices</speaker>
             <lb ed="TLN" n="1200"/>
@@ -5271,6 +5292,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="6" type="scene">
+          <head>6</head>
           <sp who="#milphidippa">
             <speaker>Milphidippa</speaker>
             <lb ed="TLN" n="1216"/>
@@ -5731,6 +5753,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="7" type="scene">
+          <head>7</head>
           <sp who="#pleusicles">
             <speaker>Pleusicles</speaker>
             <lb ed="TLN" n="1284"/>
@@ -5827,6 +5850,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="8" type="scene">
+          <head>8</head>
           <sp who="#palaestrio">
             <speaker>Pal.</speaker>
             <lb ed="TLN" n="1311"/>
@@ -6229,6 +6253,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="9" type="scene">
+          <head>9</head>
           <sp who="#puer">
             <speaker>Puer</speaker>
             <lb ed="TLN" n="1378"/>
@@ -6295,7 +6320,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="5" type="act">
+        <head>V</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#periplectomenus">
             <speaker>Periplectomenus</speaker>
             <lb ed="TLN" n="1394"/>

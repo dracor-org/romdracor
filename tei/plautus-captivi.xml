@@ -311,7 +311,9 @@ Added to repository.
         </sp>
       </div1>
       <div1 n="1" type="act">
+        <head>I</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#ergasilus">
             <speaker>Ergasilus</speaker>
             <lb ed="TLN" n="69"/>
@@ -399,6 +401,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#hegio">
             <speaker>Hegio</speaker>
             <lb ed="TLN" n="110"/>
@@ -724,7 +727,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="2" type="act">
+        <head>II</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#lorarii">
             <speaker>Lorarii</speaker>
             <lb ed="TLN" n="195"/>
@@ -941,6 +946,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#hegio">
             <speaker>Hegio</speaker>
             <lb ed="TLN" n="251"/>
@@ -1342,6 +1348,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#hegio">
             <speaker>Heg.</speaker>
             <lb ed="TLN" n="361"/>
@@ -1674,7 +1681,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="3" type="act">
+        <head>III</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#ergasilus">
             <speaker>Ergasilus</speaker>
             <lb ed="TLN" n="461"/>
@@ -1754,6 +1763,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#hegio">
             <speaker>Hegio</speaker>
             <lb ed="TLN" n="498"/>
@@ -1793,6 +1803,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#tyndarus">
             <speaker>Tyndarus</speaker>
             <lb ed="TLN" n="516"/>
@@ -1832,6 +1843,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#hegio">
             <speaker>Hegio</speaker>
             <lb ed="TLN" n="533"/>
@@ -2407,6 +2419,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="5" type="scene">
+          <head>5</head>
           <sp who="#hegio">
             <speaker>Heg.</speaker>
             <lb ed="TLN" n="659"/>
@@ -2762,7 +2775,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="4" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#ergasilus">
             <speaker>Ergasilus</speaker>
             <lb ed="TLN" n="768"/>
@@ -2794,6 +2809,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#hegio">
             <speaker>Hegio</speaker>
             <lb ed="TLN" n="781"/>
@@ -3436,24 +3452,28 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <lb ed="TLN" n="901"/>
-          <l>illic hinc abiit, mihi rem summam credidit cibariam.</l>
-          <lb ed="TLN" n="902"/>
-          <l>di immortales, iam ut ego collos praetruncabo tegoribus,</l>
-          <lb ed="TLN" n="903"/>
-          <l>quanta pernis pestis veniet, quanta labes larido,</l>
-          <lb ed="TLN" n="904"/>
-          <l>quanta sumini absumedo, quanta callo calamitas,</l>
-          <lb ed="TLN" n="905"/>
-          <l n="5">quanta laniis lassitudo, quanta porcinariis.</l>
-          <lb ed="TLN" n="906"/>
-          <l>nam si alia memorem, quae ad ventris victum conducunt, morast.</l>
-          <lb ed="TLN" n="907"/>
-          <l>nunc ibo, ut pro praefectura mea ius dicam larido,</l>
-          <lb ed="TLN" n="908"/>
-          <l>et quae pendent indemnatae pernae, eis auxilium ut feram.—</l>
+          <head>3</head>
+          <sp who="#ergasilus">
+            <lb ed="TLN" n="901"/>
+            <l>illic hinc abiit, mihi rem summam credidit cibariam.</l>
+            <lb ed="TLN" n="902"/>
+            <l>di immortales, iam ut ego collos praetruncabo tegoribus,</l>
+            <lb ed="TLN" n="903"/>
+            <l>quanta pernis pestis veniet, quanta labes larido,</l>
+            <lb ed="TLN" n="904"/>
+            <l>quanta sumini absumedo, quanta callo calamitas,</l>
+            <lb ed="TLN" n="905"/>
+            <l n="5">quanta laniis lassitudo, quanta porcinariis.</l>
+            <lb ed="TLN" n="906"/>
+            <l>nam si alia memorem, quae ad ventris victum conducunt, morast.</l>
+            <lb ed="TLN" n="907"/>
+            <l>nunc ibo, ut pro praefectura mea ius dicam larido,</l>
+            <lb ed="TLN" n="908"/>
+            <l>et quae pendent indemnatae pernae, eis auxilium ut feram.—</l>
+          </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#puer">
             <speaker>Puer</speaker>
             <lb ed="TLN" n="909"/>
@@ -3488,7 +3508,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="5" type="act">
+        <head>V</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#hegio">
             <speaker>Hegio</speaker>
             <lb ed="TLN" n="922"/>
@@ -3616,6 +3638,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#hegio">
             <speaker>Heg.</speaker>
             <lb ed="TLN" n="954"/>
@@ -3726,6 +3749,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#philocrates">
             <speaker>Philocrates</speaker>
             <lb ed="TLN" n="978"/>
@@ -3826,6 +3850,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#tyndarus">
             <speaker>Tyndarus</speaker>
             <lb ed="TLN" n="998"/>

@@ -152,7 +152,9 @@ Added to repository.
   <text>
     <body>
       <div1 n="1" type="act">
+        <head>I</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#palinurus">
             <speaker>Palinurus</speaker>
             <lb ed="TLN" n="1"/>
@@ -607,6 +609,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#leaena">
             <speaker>Leaena</speaker>
             <lb ed="TLN" n="96"/>
@@ -925,6 +928,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#leaena">
             <speaker>Leaena</speaker>
             <lb ed="TLN" n="158"/>
@@ -1219,7 +1223,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="2" type="act">
+        <head>II</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#cappadox">
             <speaker>Cappadox</speaker>
             <lb ed="TLN" n="216"/>
@@ -1355,6 +1361,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#cocus">
             <speaker>Cocus</speaker>
             <lb ed="TLN" n="251"/>
@@ -1486,6 +1493,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#curculio">
             <speaker>Curculio</speaker>
             <lb ed="TLN" n="280"/>
@@ -1856,7 +1864,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="3" type="act">
+        <head>III</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#lyco">
             <speaker>Lyco</speaker>
             <lb ed="TLN" n="371"/>
@@ -2214,7 +2224,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="4" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#choragus">
             <speaker>Choragus</speaker>
             <lb ed="TLN" n="462"/>
@@ -2270,6 +2282,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#curculio">
             <speaker>Curculio</speaker>
             <lb ed="TLN" n="487"/>
@@ -2470,6 +2483,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#therapontigonus">
             <speaker>Therapontigonus</speaker>
             <lb ed="TLN" n="533"/>
@@ -2578,6 +2592,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#cappadox">
             <speaker>Cappadox</speaker>
             <lb ed="TLN" n="557"/>
@@ -2720,7 +2735,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="5" type="act">
+        <head>V</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#curculio">
             <speaker>Curculio</speaker>
             <lb ed="TLN" n="591"/>
@@ -2742,6 +2759,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#planesium">
             <speaker>Planesium</speaker>
             <lb ed="TLN" n="599"/>
@@ -3211,6 +3229,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#cappadox">
             <speaker>Cappadox</speaker>
             <lb ed="TLN" n="679"/>

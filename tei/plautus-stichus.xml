@@ -161,7 +161,9 @@ Added to repository.
   <text>
     <body>
       <div1 n="1" type="act">
+        <head>I</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#panegyris">
             <speaker>Panegyris</speaker>
             <lb ed="TLN" n="1"/>
@@ -343,6 +345,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#antipho">
             <speaker>Antipho</speaker>
             <lb ed="TLN" n="58"/>
@@ -736,6 +739,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#gelasimus">
             <speaker>Gelasimus</speaker>
             <lb ed="TLN" n="155"/>
@@ -1091,7 +1095,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="2" type="act">
+        <head>II</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#pinacium">
             <speaker>Pinacium</speaker>
             <lb ed="TLN" n="274"/>
@@ -1254,6 +1260,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#panegyris">
             <speaker>Panegyris</speaker>
             <lb ed="TLN" n="326"/>
@@ -1714,7 +1721,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="3" type="act">
+        <head>III</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#epignomus">
             <speaker>Epignomus</speaker>
             <lb ed="TLN" n="402"/>
@@ -1874,6 +1883,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#gelasimus">
             <speaker>Gelasimus</speaker>
             <lb ed="TLN" n="454"/>
@@ -2088,7 +2098,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="4" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#antipho">
             <speaker>Antipho</speaker>
             <lb ed="TLN" n="505"/>
@@ -2386,6 +2398,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#gelasimus">
             <speaker>Gelasimus</speaker>
             <lb ed="TLN" n="579"/>
@@ -2725,7 +2738,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="5" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#stichus">
             <speaker>Stichus</speaker>
             <lb ed="TLN" n="641"/>
@@ -2747,6 +2762,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#sangarinus">
             <speaker>Sangarinus</speaker>
             <lb ed="TLN" n="649"/>
@@ -2844,6 +2860,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#stephanium">
             <speaker>Stephanium</speaker>
             <lb ed="TLN" n="673"/>
@@ -2867,6 +2884,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#sangarinus">
             <speaker>Sangarinus</speaker>
             <lb ed="TLN" n="683"/>
@@ -3099,6 +3117,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="5" type="scene">
+          <head>5</head>
           <sp who="#stephanium">
             <speaker>Stephanium</speaker>
             <lb ed="TLN" n="742"/>
@@ -3222,12 +3241,15 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="6" type="scene">
-          <lb ed="TLN" n="762"/>
-          <l>tene tu hóc, educe. dudum placuit potio:</l>
-          <lb ed="TLN" n="763"/>
-          <l>nunc minus gravate iam accipit. tene tu. interim,</l>
-          <lb ed="TLN" n="764"/>
-          <l>meus oculus, da mihi savium, dum illic bibit.</l>
+          <head>6</head>
+          <sp who="#sangarinus">
+            <lb ed="TLN" n="762"/>
+            <l>tene tu hóc, educe. dudum placuit potio:</l>
+            <lb ed="TLN" n="763"/>
+            <l>nunc minus gravate iam accipit. tene tu. interim,</l>
+            <lb ed="TLN" n="764"/>
+            <l>meus oculus, da mihi savium, dum illic bibit.</l>
+          </sp>
           <sp who="#stichus">
             <speaker>Stich.</speaker>
             <lb ed="TLN" n="765"/>
@@ -3244,8 +3266,11 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="7" type="scene">
-          <lb ed="TLN" n="769"/>
-          <l>qui Iónicus aut cinaédicust, qui hoc tále facere póssiet?</l>
+          <head>7</head>
+          <sp who="#sangarinus">
+            <lb ed="TLN" n="769"/>
+            <l>qui Iónicus aut cinaédicust, qui hoc tále facere póssiet?</l>
+          </sp>
           <sp who="#stichus">
             <speaker>Stich.</speaker>
             <lb ed="TLN" n="770"/>

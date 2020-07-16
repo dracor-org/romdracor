@@ -193,7 +193,9 @@ Added to repository.
         </sp>
       </div1>
       <div1 n="1" type="act">
+        <head>I</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#libanus">
             <speaker>Libanus</speaker>
             <lb ed="TLN" n="16"/>
@@ -608,6 +610,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#argyrippus">
             <speaker>Argyrippus</speaker>
             <lb ed="TLN" n="127"/>
@@ -665,6 +668,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#cleareta">
             <speaker>Cleareta</speaker>
             <lb ed="TLN" n="153"/>
@@ -961,7 +965,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="2" type="act">
+        <head>II</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#libanus">
             <speaker>Libanus</speaker>
             <lb ed="TLN" n="249"/>
@@ -1003,6 +1009,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#leonida">
             <speaker>Leonida</speaker>
             <lb ed="TLN" n="267"/>
@@ -1482,6 +1489,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#mercator">
             <speaker>Mercator</speaker>
             <lb ed="TLN" n="381"/>
@@ -1613,6 +1621,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#leonida">
             <speaker>Leonida</speaker>
             <lb ed="TLN" n="407"/>
@@ -2081,7 +2090,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="3" type="act">
+        <head>III</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#cleareta">
             <speaker>Cleareta</speaker>
             <lb ed="TLN" n="504"/>
@@ -2228,6 +2239,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#libanus">
             <speaker>Libanus</speaker>
             <lb ed="TLN" n="545"/>
@@ -2376,6 +2388,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#argyrippus">
             <speaker>Argyrippus</speaker>
             <lb ed="TLN" n="591"/>
@@ -3175,7 +3188,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="4" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#diabolus">
             <speaker>Diabolus</speaker>
             <lb ed="TLN" n="746"/>
@@ -3391,6 +3406,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#diabolus">
             <speaker>Diab.</speaker>
             <lb ed="TLN" n="810"/>
@@ -3448,12 +3464,13 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="5" type="act">
+        <head>V</head>
         <div2 n="1" type="scene">
-          <lb ed="TLN" n="828"/>
-          <l part="I">[</l>
+          <head>1</head>
           <sp who="#argyrippus">
             <speaker>Argyrippus</speaker>
-            <l part="M">Age decumbamus sis, pater.</l>
+            <lb ed="TLN" n="828"/>
+            <l part="I">[Age decumbamus sis, pater.</l>
           </sp>
           <sp who="#demaenetus">
             <speaker>Demaenetus</speaker>
@@ -3570,6 +3587,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#artemona">
             <speaker>Artemona</speaker>
             <lb ed="TLN" n="851"/>

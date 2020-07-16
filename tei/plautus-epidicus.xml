@@ -164,7 +164,9 @@ Added to repository.
   <text>
     <body>
       <div1 n="1" type="act">
+        <head>I</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#epidicus">
             <speaker>Epidicus</speaker>
             <lb ed="TLN" n="1"/>
@@ -779,6 +781,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#stratippocles">
             <speaker>Stratippocles</speaker>
             <lb ed="TLN" n="104"/>
@@ -1049,7 +1052,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="2" type="act">
+        <head>II</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#apoecides">
             <speaker>Apoecides</speaker>
             <lb ed="TLN" n="166"/>
@@ -1105,6 +1110,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#epidicus">
             <speaker>Epidicus</speaker>
             <lb ed="TLN" n="181"/>
@@ -1730,38 +1736,43 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
-          <lb ed="TLN" n="306"/>
-          <l>nullum esse opinor ego agrum in agro Attico</l>
-          <lb ed="TLN" n="307"/>
-          <l>aeque feracem quám hic est noster Periphanes:</l>
-          <lb ed="TLN" n="308"/>
-          <l>quin ex occluso atque obsignato armario</l>
-          <lb ed="TLN" n="309"/>
-          <l>decutio argenti tantum quantum mihi lubet.</l>
-          <lb ed="TLN" n="310"/>
-          <l n="5">quod pol ego metuo si senex resciverit,</l>
-          <lb ed="TLN" n="311"/>
-          <l>ne ulmos parasitos faciat, quae usque attondeant.</l>
-          <lb ed="TLN" n="312"/>
-          <l>sed me una turbat res ratioque, Apoecidi</l>
-          <lb ed="TLN" n="313"/>
-          <l>quam ostendam fidicinam aliquam conducticiam.</l>
-          <lb ed="TLN" n="314"/>
-          <l>atque id quoque habeo: mane me iussit senex</l>
-          <lb ed="TLN" n="315"/>
-          <l n="10">conducere aliquam fidicinam sibi huc domum,</l>
-          <lb ed="TLN" n="316"/>
-          <l>&lt;quae&gt;, dum rem dinam faceret, cantaret sibi;</l>
-          <lb ed="TLN" n="317"/>
-          <l>ea conducetur atque ei praemonstrabitur</l>
-          <lb ed="TLN" n="318"/>
-          <l>quo pacto fiat subdola adversus senem.</l>
-          <lb ed="TLN" n="319"/>
-          <l>ibo intro, argentum accipiam ab damnoso sene.—</l>
+          <head>3</head>
+          <sp who="#epidicus">
+            <lb ed="TLN" n="306"/>
+            <l>nullum esse opinor ego agrum in agro Attico</l>
+            <lb ed="TLN" n="307"/>
+            <l>aeque feracem quám hic est noster Periphanes:</l>
+            <lb ed="TLN" n="308"/>
+            <l>quin ex occluso atque obsignato armario</l>
+            <lb ed="TLN" n="309"/>
+            <l>decutio argenti tantum quantum mihi lubet.</l>
+            <lb ed="TLN" n="310"/>
+            <l n="5">quod pol ego metuo si senex resciverit,</l>
+            <lb ed="TLN" n="311"/>
+            <l>ne ulmos parasitos faciat, quae usque attondeant.</l>
+            <lb ed="TLN" n="312"/>
+            <l>sed me una turbat res ratioque, Apoecidi</l>
+            <lb ed="TLN" n="313"/>
+            <l>quam ostendam fidicinam aliquam conducticiam.</l>
+            <lb ed="TLN" n="314"/>
+            <l>atque id quoque habeo: mane me iussit senex</l>
+            <lb ed="TLN" n="315"/>
+            <l n="10">conducere aliquam fidicinam sibi huc domum,</l>
+            <lb ed="TLN" n="316"/>
+            <l>&lt;quae&gt;, dum rem dinam faceret, cantaret sibi;</l>
+            <lb ed="TLN" n="317"/>
+            <l>ea conducetur atque ei praemonstrabitur</l>
+            <lb ed="TLN" n="318"/>
+            <l>quo pacto fiat subdola adversus senem.</l>
+            <lb ed="TLN" n="319"/>
+            <l>ibo intro, argentum accipiam ab damnoso sene.—</l>
+          </sp>
         </div2>
       </div1>
       <div1 n="3" type="act">
+        <head>III</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#stratippocles">
             <speaker>Stratippocles</speaker>
             <lb ed="TLN" n="320"/>
@@ -1826,6 +1837,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#epidicus">
             <speaker>Epidicus</speaker>
             <lb ed="TLN" n="337"/>
@@ -2005,6 +2017,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="3" type="scene">
+          <head>3</head>
           <sp who="#periphanes">
             <speaker>Periphanes</speaker>
             <lb ed="TLN" n="382"/>
@@ -2185,6 +2198,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="4" type="scene">
+          <head>4</head>
           <sp who="#miles">
             <speaker>Miles</speaker>
             <lb ed="TLN" n="437"/>
@@ -2553,7 +2567,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="4" type="act">
+        <head>IV</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#philippa">
             <speaker>Philippa</speaker>
             <lb ed="TLN" n="526"/>
@@ -2827,6 +2843,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#acropolistis">
             <speaker>Acropolistis</speaker>
             <lb ed="TLN" n="570"/>
@@ -3038,7 +3055,9 @@ Added to repository.
         </div2>
       </div1>
       <div1 n="5" type="act">
+        <head>V</head>
         <div2 n="1" type="scene">
+          <head>1</head>
           <sp who="#stratippocles">
             <speaker>Stratippocles</speaker>
             <lb ed="TLN" n="607"/>
@@ -3338,6 +3357,7 @@ Added to repository.
           </sp>
         </div2>
         <div2 n="2" type="scene">
+          <head>2</head>
           <sp who="#periphanes">
             <speaker>Periphanes</speaker>
             <lb ed="TLN" n="666"/>
