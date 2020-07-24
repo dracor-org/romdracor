@@ -62,7 +62,7 @@
           <person xml:id="eunomia" sex="FEMALE" role="matrona">
             <persName>Eunomia</persName>
           </person>
-          <person xml:id="lar_familiaris" sex="MALE" role="prologus">
+          <person xml:id="lar_familiaris" sex="MALE" role="deus prologus">
             <persName>Lar familiaris</persName>
           </person>
           <person xml:id="lyconides" sex="MALE" role="adulescens">

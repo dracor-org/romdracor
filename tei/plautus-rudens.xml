@@ -53,7 +53,7 @@
           <person xml:id="ampelisca" sex="FEMALE" role="puella">
             <persName>Ampelisca</persName>
           </person>
-          <person xml:id="arcturus" sex="MALE" role="prologus">
+          <person xml:id="arcturus" sex="MALE" role="deus prologus">
             <persName>Arcturus</persName>
           </person>
           <person xml:id="charmides" sex="MALE" role="senex">
@@ -83,7 +83,7 @@
           <person xml:id="plesidippus" sex="MALE" role="adulescens">
             <persName>Plesidippus</persName>
           </person>
-          <person xml:id="ptolemocratia" sex="FEMALE" role="sacerdos Veneris">
+          <person xml:id="ptolemocratia" sex="FEMALE" role="sacerdos">
             <persName>Ptolemocratia</persName>
           </person>
           <person xml:id="sceparnio" sex="MALE" role="servus">

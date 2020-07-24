@@ -53,7 +53,7 @@
           <person xml:id="alcesimarchus" sex="MALE" role="adulescens">
             <persName>Alcesimarchus</persName>
           </person>
-          <person xml:id="auxilium" sex="MALE" role="deus">
+          <person xml:id="auxilium" sex="MALE" role="deus prologus">
             <persName>Auxilium</persName>
           </person>
           <personGrp xml:id="caterva" sex="UNKNOWN" role="grex">

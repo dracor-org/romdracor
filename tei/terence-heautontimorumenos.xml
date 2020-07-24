@@ -53,7 +53,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="prologus" sex="UNKNOWN" role="prologus">
+          <person xml:id="prologus" sex="MALE" role="prologus">
             <persName>Prologus</persName>
           </person>
           <person xml:id="antiphila" sex="FEMALE" role="virgo">

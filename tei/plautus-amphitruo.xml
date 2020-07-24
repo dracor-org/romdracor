@@ -63,7 +63,7 @@
           <person xml:id="iuppiter" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q4649">
             <persName>Iuppiter</persName>
           </person>
-          <person xml:id="mercurius" sex="MALE" role="deus" ana="http://www.wikidata.org/entity/Q1150">
+          <person xml:id="mercurius" sex="MALE" role="deus prologus" ana="http://www.wikidata.org/entity/Q1150">
             <persName>Mercurius</persName>
           </person>
           <person xml:id="sosia" sex="MALE" role="servus">
