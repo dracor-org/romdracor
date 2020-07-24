@@ -213,8 +213,8 @@ new additions
           <roleDesc>libertus.</roleDesc>
         </castItem>
       </castList>
-      <div1 n="introduction" type="act">
-        <div2 n="summary" type="scene">
+      <div n="introduction" type="act">
+        <div n="summary" type="scene">
           <head>INTRODUCTION.</head>
           <p lang="en">
             THE Andria derives its name from Glycerium, the heroine of the play; who was from 
@@ -233,13 +233,13 @@ new additions
             <placeName key="perseus,Athens">Athens</placeName>
              to claim her property. He clears up the previous history of Glycerium, who is joyfully recognized as Chremes' daughter, and all parties are made happy; Simo being with some difficulty gained over to forgive past offences, and to receive his son and Davus into favour again.
           </p>
-        </div2>
-        <div2 n="production" type="scene">
+        </div>
+        <div n="production" type="scene">
           <p>ANDRIA.  ACTA LUDIS MEGALENSIB M. FULVIO ET M. GLABRIONE AEDILIB. CURULIB. EGERUNT L. AMBIVIUS TURPIO, L. ATTILIUS PRAENESTINUS. MODOS FECIT FLACCUS CLAUDII FILIUS, TIBIIS PARIBUS DEXTRIS ET SINISTRIS. ET EST TOTA GRAECA. EDITA M. MARCELLO, CN. SULPITIO COSS.</p>
-        </div2>
-      </div1>
-      <div1 n="prologue" type="act">
-        <div2 n="0" type="scene">
+        </div>
+      </div>
+      <div n="prologue" type="act">
+        <div n="0" type="scene">
           <head>Prologus</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
@@ -349,10 +349,10 @@ new additions
             </l>
           <l>Spectandae an exigendae sint vobis prius.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="1" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="1" type="act">
+        <div n="1" type="scene">
           <stage>SIMO. SOSIA.</stage>
           <sp who="#simo">
             <speaker>Si.</speaker>
@@ -1061,8 +1061,8 @@ new additions
             <speaker>Si.</speaker>
             <l part="Y"> I prae, sequar.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>SIMO. DAVUS.</stage>
           <sp who="#simo">
             <speaker>Si.</speaker>
@@ -1285,8 +1285,8 @@ new additions
             </l>
             <l>Ne temere facias: neque tu hoc dicas tibi non praedictum. Cave.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>DAVUS.</stage>
           <lb ed="TLN" n="206"/>
           <l>
@@ -1374,8 +1374,8 @@ new additions
             <lb ed="TLN" n="227"/>
           </l>
           <l>Conveniam Pamphilum, ne de hac re pater imprudentem opprimat.</l>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>MYSIS.</stage>
           <lb ed="TLN" n="228"/>
           <l>
@@ -1407,8 +1407,8 @@ new additions
             <lb ed="TLN" n="235"/>
           </l>
           <l>Opperiar ut sciam numquidnam haec turbae tristitia adferat.</l>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>PAMPHILUS. MYSIS.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
@@ -1731,10 +1731,10 @@ new additions
             <speaker>My.</speaker>
             <l part="Y"> Teneo.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="2" type="act">
+        <div n="1" type="scene">
           <stage>CHARINUS. BYRRHIA. PAMPHILUS.</stage>
           <sp who="#charinus">
             <speaker>Ch.</speaker>
@@ -2026,8 +2026,8 @@ new additions
             <speaker>By.</speaker>
             <l part="Y"> Ego vero ac libens.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>DAVUS. CHARINUS. PAMPHILUS.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -2299,8 +2299,8 @@ new additions
             </l>
             <l>Ibo: etsi hercle saepe iam me spes haec frustrata est. Vale.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>PAMPHILUS. DAVUS.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
@@ -2498,8 +2498,8 @@ new additions
             <lb ed="TLN" n="403"/>
             <l>Curabitur. Sed pater adest. Cave te esse tristem sentiat.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>SIMO. DAVUS. PAMPHILUS.</stage>
           <sp who="#simo">
             <speaker>Si.</speaker>
@@ -2540,8 +2540,8 @@ new additions
             </l>
             <l>Unum esse verbum si te dices ducere.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>BYRRHIA. SIMO. DAVUS. PAMPHILUS.</stage>
           <sp who="#byrrhia">
             <speaker>By.</speaker>
@@ -2665,8 +2665,8 @@ new additions
             </l>
             <l n="20">Renuntiabo, ut pro hoc malo mihi det malum.</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <stage>DAVUS. SIMO.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -2841,10 +2841,10 @@ new additions
             </l>
             <l>Nam si hic mali est quicquam, hem illic est huic rei caput.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="3" type="act">
+        <div n="1" type="scene">
           <stage>MYSIS. SIMO. DAVUS. LESBIA. GLYCERIUM.</stage>
           <sp who="#mysis">
             <speaker>My.</speaker>
@@ -2994,8 +2994,8 @@ new additions
             </l>
             <l>Nunc huius periclo fit, ego in portu navigo.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>LESBIA. SIMO. DAVUS.</stage>
           <sp who="#lesbia">
             <speaker>Le.</speaker>
@@ -3261,8 +3261,8 @@ new additions
             </l>
             <l>Atque adeo in ipso tempore eccum ipsum obviam.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>SIMO. CHREMES.</stage>
           <sp who="#simo">
             <speaker>Si.</speaker>
@@ -3513,8 +3513,8 @@ new additions
             </l>
             <l>Atque eccum : video ipsum foras exire.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>DAVUS. SIMO. CHREMES.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -3731,8 +3731,8 @@ new additions
             </l>
             <l>Utinam mihi esset aliquid hic quo me nunc praecipitem darem.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>PAMPHILUS. DAVUS.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
@@ -3867,10 +3867,10 @@ new additions
             </l>
             <l>Namque hoc tempus praecavere mihi me haud te ulcisci sinit.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="4" type="act">
+        <div n="1" type="scene">
           <stage>CHARINUS. PAMPHILUS. DAVUS.</stage>
           <sp who="#charinus">
             <speaker>Ch.</speaker>
@@ -4208,8 +4208,8 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> At iam hoc tibi inventum dabo.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>MYSIS. PAMPHILUS. CHARINUS. DAVUS.</stage>
           <sp who="#mysis">
             <speaker>My.</speaker>
@@ -4473,8 +4473,8 @@ new additions
             <speaker>Da.</speaker>
             <l part="Y"> Iam inquam hic adero.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>MYSIS. DAVUS.</stage>
           <sp who="#mysis">
             <speaker>My.</speaker>
@@ -4614,8 +4614,8 @@ new additions
             </l>
             <l>Manebo, ne quod vestrum remorer commodum.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>CHREMES. MYSIS. DAVUS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -5013,8 +5013,8 @@ new additions
             </l>
             <l>Ut fert natura, facias an de industria?</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>CRITO. MYSIS. DAVUS.</stage>
           <sp who="#crito">
             <speaker>Cr.</speaker>
@@ -5148,10 +5148,10 @@ new additions
             <lb ed="TLN" n="820"/>
             <l>Sequar hos: nolo me in tempore hoc videat senex.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="5" type="act">
+        <div n="1" type="scene">
           <stage>CHREMES. SIMO.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -5260,8 +5260,8 @@ new additions
             </l>
             <l>Et nescio qui tibi sum oblitus hodie ac volui dicere.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>DAVTS. CHREMES. SIMO. DROMO.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -5545,8 +5545,8 @@ new additions
             </l>
             <l n="30">Age Pamphile, exi Pamphile: ecquid te pudet?</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>PAMIPHILUS. SIMO. CHREMES.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
@@ -5738,8 +5738,8 @@ new additions
             <lb ed="TLN" n="904"/>
             <l>Pro peccato magno paulum supplici satis est patri.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>CRITO. CHREMES. SIMO. PAMPHILLUS.</stage>
           <sp who="#crito">
             <speaker>Cr.</speaker>
@@ -6220,8 +6220,8 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> O faustum et felicem hunc diem!</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>CHARINUS. PAMPHILUS.</stage>
           <sp who="#charinus">
             <speaker>Ch.</speaker>
@@ -6265,8 +6265,8 @@ new additions
             </l>
             <l>Nam hunc scio mea solide solum gavisurum gaudia.</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <stage>DAVUS. PAMPHILUS. CHARINUS.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -6424,8 +6424,8 @@ new additions
             <speaker>Om.</speaker>
             <l part="Y">Plaudite.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

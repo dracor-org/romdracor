@@ -150,7 +150,7 @@ Added to repository.
   </teiHeader>
   <text>
     <body>
-      <div1 n="prol." type="act">
+      <div n="prol." type="act">
           <head>Prologus</head>
           <sp who="#mercurius">
             <speaker>Mercurius</speaker>
@@ -459,10 +459,10 @@ Added to repository.
             <lb ed="TLN" n="152"/>
             <l>Iovem et Mercurium facere hístrioniam.</l>
           </sp>
-      </div1>
-      <div1 n="1" type="act">
+      </div>
+      <div n="1" type="act">
         <head>I</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#sosia">
             <speaker>Sosia</speaker>
@@ -1627,8 +1627,8 @@ Added to repository.
             <lb ed="TLN" n="462"/>
             <l n="460">ut ego hodie ráso capite calvos capiam pilleum.—</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#mercurius">
             <speaker>Merc.</speaker>
@@ -1705,8 +1705,8 @@ Added to repository.
             <lb ed="TLN" n="498"/>
             <l>cum Alcumena uxore usuraria.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#iuppiter">
             <speaker>Iuppiter</speaker>
@@ -1928,11 +1928,11 @@ Added to repository.
             <lb ed="TLN" n="550"/>
             <l>sed dies e nocte accedat. ibo et Mercurium sequar.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
+        </div>
+      </div>
+      <div n="2" type="act">
         <head>II</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#amphitruo">
             <speaker>Amphitruo</speaker>
@@ -2333,8 +2333,8 @@ Added to repository.
             <lb ed="TLN" n="632"/>
             <l>Vtinam di faxint, infecta dicta re eveniant tua.]</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#alcumena">
             <speaker>Alcumena</speaker>
@@ -3483,11 +3483,11 @@ Added to repository.
             <lb ed="TLN" n="860"/>
             <l n="230">quidquid est, iam ex Naucrate cognato id cognoscam meo.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
+        </div>
+      </div>
+      <div n="3" type="act">
         <head>III</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#iuppiter">
             <speaker>Iuppiter</speaker>
@@ -3534,8 +3534,8 @@ Added to repository.
             <lb ed="TLN" n="881"/>
             <l>si quid vellem imperare. nunc hanc adloquar.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#alcumena">
             <speaker>Alcumena</speaker>
@@ -3777,8 +3777,8 @@ Added to repository.
             <lb ed="TLN" n="955"/>
             <l>atque aperiuntur aedes. exit Sosia.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#sosia">
             <speaker>Sosia</speaker>
@@ -3888,8 +3888,8 @@ Added to repository.
             <lb ed="TLN" n="983"/>
             <l>atque ut ministres mihi, mihi cum sacruficem.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#mercurius">
             <speaker>Mercurius</speaker>
@@ -3944,11 +3944,11 @@ Added to repository.
             <lb ed="TLN" n="1008"/>
             <l n="25">dein susum ascendam in tectum, ut illum hinc prohibeam.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
+        </div>
+      </div>
+      <div n="4" type="act">
         <head>IV</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#amphitruo">
             <speaker>Amphitruo</speaker>
@@ -3977,8 +3977,8 @@ Added to repository.
             <lb ed="TLN" n="1020"/>
             <l>aperite hoc. heus, ecquis hic est? ecquis hoc aperit ostium?</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#mercurius">
             <speaker>Mercurius</speaker>
@@ -4268,8 +4268,8 @@ Added to repository.
               </sp>
             </quote>
           </cit>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#blepharo">
             <speaker>(Bleph.)</speaker>
@@ -4324,11 +4324,11 @@ Added to repository.
             <lb ed="TLN" n="1052"/>
             <l>quin sic faciam ut constitui. pergam in aedis nunciam.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
+        </div>
+      </div>
+      <div n="5" type="act">
         <head>V</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#bromia">
             <speaker>Bromia</speaker>
@@ -4618,8 +4618,8 @@ Added to repository.
             <lb ed="TLN" n="1130"/>
             <l>sed quid hoc? quam valide tonuit. di, obsecro vostram fidem.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#iuppiter">
             <speaker>Iuppiter</speaker>
@@ -4661,8 +4661,8 @@ Added to repository.
             <lb ed="TLN" n="1146"/>
             <l>nunc, spectatores, Iovis súmmi causa clare plaudite.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

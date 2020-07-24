@@ -151,9 +151,9 @@ Added to repository.
   </teiHeader>
   <text>
     <body>
-      <div1 n="1" type="act">
+      <div n="1" type="act">
         <head>I</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#palinurus">
             <speaker>Palinurus</speaker>
@@ -607,8 +607,8 @@ Added to repository.
             <speaker>Pal.</speaker>
             <l part="M">Licet.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#leaena">
             <speaker>Leaena</speaker>
@@ -926,8 +926,8 @@ Added to repository.
             <lb ed="TLN" n="157"/>
             <l>tandem edepol mihi morigeri pessuli fiunt.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#leaena">
             <speaker>Leaena</speaker>
@@ -1220,11 +1220,11 @@ Added to repository.
             <speaker>Phaed.</speaker>
             <l part="M">Sequere me.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
+        </div>
+      </div>
+      <div n="2" type="act">
         <head>II</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#cappadox">
             <speaker>Cappadox</speaker>
@@ -1359,8 +1359,8 @@ Added to repository.
             <lb ed="TLN" n="250"/>
             <l n="35">quod eis respondi, ea omnes stant sententia.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#cocus">
             <speaker>Cocus</speaker>
@@ -1491,8 +1491,8 @@ Added to repository.
             <speaker>Phaed.</speaker>
             <l part="M">Sane censeo.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#curculio">
             <speaker>Curculio</speaker>
@@ -1861,11 +1861,11 @@ Added to repository.
             <speaker>Phaed.</speaker>
             <l part="M">Sequor.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
+        </div>
+      </div>
+      <div n="3" type="act">
         <head>III</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#lyco">
             <speaker>Lyco</speaker>
@@ -2221,11 +2221,11 @@ Added to repository.
             <speaker>Curc.</speaker>
             <l part="M">Leno, cave in té sit mora mihi.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
+        </div>
+      </div>
+      <div n="4" type="act">
         <head>IV</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#choragus">
             <speaker>Choragus</speaker>
@@ -2280,8 +2280,8 @@ Added to repository.
             <lb ed="TLN" n="486"/>
             <l n="25">sed interim fores crepuere: linguae moderandum est mihi.—</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#curculio">
             <speaker>Curculio</speaker>
@@ -2481,8 +2481,8 @@ Added to repository.
             <lb ed="TLN" n="532"/>
             <l>nunc rei divinae operam dabo. certumst bene me curare.—</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#therapontigonus">
             <speaker>Therapontigonus</speaker>
@@ -2590,8 +2590,8 @@ Added to repository.
             <lb ed="TLN" n="556"/>
             <l>ut mi oboedirent, si hic me hodie umbraticus deriserit?</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#cappadox">
             <speaker>Cappadox</speaker>
@@ -2732,11 +2732,11 @@ Added to repository.
             <lb ed="TLN" n="590"/>
             <l>cupio dare mercedem qui illunc ubi sit commonstret mihi.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
+        </div>
+      </div>
+      <div n="5" type="act">
         <head>V</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#curculio">
             <speaker>Curculio</speaker>
@@ -2757,8 +2757,8 @@ Added to repository.
             <lb ed="TLN" n="598"/>
             <l>vix foras me abripui atque effugi. apage istanc canículam.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#planesium">
             <speaker>Planesium</speaker>
@@ -3227,8 +3227,8 @@ Added to repository.
             <lb ed="TLN" n="676"/>
             <l>sed eccúm lenonem, incedit, thensaurum meum.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#cappadox">
             <speaker>Cappadox</speaker>
@@ -3509,8 +3509,8 @@ Added to repository.
             <lb ed="TLN" n="729"/>
             <l>Quae res bene vortat mi et vobis. spectatores, plaudite.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

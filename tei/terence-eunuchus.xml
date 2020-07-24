@@ -229,8 +229,8 @@ new additions
           <roleDesc>miles.</roleDesc>
         </castItem>
       </castList>
-      <div1 n="introduction" type="act">
-        <div2 n="summary" type="scene">
+      <div n="introduction" type="act">
+        <div n="summary" type="scene">
           <head>INTRODUCTION.</head>
           <p lang="en">
             PAMPHILA and Chremes were the children of an Atheniancitizen. Pamphila, while an infant, was carried off from her home atSunium by robbers, and by them sold to a merchant of 
@@ -259,13 +259,13 @@ new additions
             <foreign lang="la">"Plautini sales,"</foreign>
              which were thetrue Roman comedy. It is said to have been purchased by the Aedilesfor the sum of 8000 sesterces (above 64 £ 10 s. sterling), thelargest sum which had been given for any play. The leading incident ofthe plot makes it unfit for the modern stage: but when we say this wesay all that can be said against the play. The execution is highlydelicate, even in the famous scene which describes the successfulissue of Chaerea's scheme. The play is said by the author of the Lifeof Terence to have been acted twice in one day: and no doubt it wasacted on more than one occasion.
           </p>
-        </div2>
-        <div2 n="production" type="scene">
+        </div>
+        <div n="production" type="scene">
           <p>EUNUCHUS.  ACTA LUDIS MEGALENSIBUS, L. POSTUMIO ALBINO L. CORNELIO MERULA AEDILIBUS CURULIBUS. EGERE L. AMBIVIUS TURPIO L. ATILIUS PRAENESTINUS TIBIIS DUABUS DEXTRIS. GRAECA MENANDRU. ACTA II. MODOS FECIT FLACCUS CLAUDII, M. VALERIO C. FANNIO COSS.</p>
-        </div2>
-      </div1>
-      <div1 n="prologue" type="act">
-        <div2 n="0" type="scene">
+        </div>
+      </div>
+      <div n="prologue" type="act">
+        <div n="0" type="scene">
           <head>Prologus</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
@@ -447,10 +447,10 @@ new additions
           </l>
           <l n="45">Ut pernoscatis quid sibi Eunuchus velit.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="1" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="1" type="act">
+        <div n="1" type="scene">
           <stage>PHAEDRIA. PARMENO.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -607,8 +607,8 @@ new additions
             </l>
             <l n="35">Nam quod nos capere oportet haec intercipit.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>THAIS. PHAEDRIA. PARMENO.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -1241,10 +1241,10 @@ new additions
             </l>
             <l>Concedam hinc intro atque expectabo dum venit.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="2" type="act">
+        <div n="1" type="scene">
           <stage>PHAEDRIA. PARMENO.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -1418,8 +1418,8 @@ new additions
             </l>
             <l n="25">Cum meo decrepito hoc eunucho. Haec superat ipsam Thaidem.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>GNATHO. PARMENO.</stage>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
@@ -1753,8 +1753,8 @@ new additions
             </l>
             <l n="60">Non temere est; et properans venit: nescio quid circumspectat.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>CHAEREA. PARMENO.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -2457,10 +2457,10 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Di vortant bene.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="3" type="act">
+        <div n="1" type="scene">
           <stage>THRASO. GNATHO. PARMENO.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -2863,8 +2863,8 @@ new additions
             </l>
             <l>Idem hoc tute melius quanto invenisses Thraso!</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>THAIS. THRASO. PARMENO. GNATHO. PYTHIAS.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -3188,8 +3188,8 @@ new additions
             <speaker>Th.</speaker>
             <l part="Y"> Vos me sequimini.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>CHREMES. PYTHIAS.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -3360,8 +3360,8 @@ new additions
             <lb ed="TLN" n="537"/>
             <l>Abi Dorias cito hunc deduce ad militem.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>ANTIPHO.</stage>
           <sp who="#antipho">
             <speaker>Antipho</speaker>
@@ -3404,8 +3404,8 @@ new additions
             </l>
             <l n="10">Nisi quicquid est, procul hinc libet prius quid sit sciscitari.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>CHAEREA. ANTIPHO.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -3778,10 +3778,10 @@ new additions
             <speaker>An.</speaker>
             <l part="Y"> Fiat.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="4" type="act">
+        <div n="1" type="scene">
           <stage>DORIAS.</stage>
           <sp who="#dorias">
             <speaker>Dorias</speaker>
@@ -3840,8 +3840,8 @@ new additions
             </l>
             <l>Hoc est signi; ubi primum poterit se illinc subducet, scio.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>PHAEDRIA.</stage>
           <sp who="#phaedria">
             <speaker>Phaedria</speaker>
@@ -3900,8 +3900,8 @@ new additions
             </l>
             <l>Sed quid hoc quod timida subito egreditur Pythias?</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>PYTHIAS. PHAEDRIA. DORIAS.</stage>
           <sp who="#pythias">
             <speaker>Py.</speaker>
@@ -4054,8 +4054,8 @@ new additions
             </l>
             <l n="25">Nam illum aliquo conclusissem, neque illi commisissem virginem.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>PHAEDRIA. DORUS. PYTHIAS. DORIAS.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -4514,8 +4514,8 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> Aufer aurum hoc: ego scibo ex hoc quid siet.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>CHREMES. PYTHIAS.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -4591,8 +4591,8 @@ new additions
             </l>
             <l>Sed eccam ipsam: miror ubi ego huic anteverterim.</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <stage>THAIS. CHREMES. PYTHIAS.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -4819,8 +4819,8 @@ new additions
             </l>
             <l>Perii! huic ipsi est opus patrono quem defensorem paro.</l>
           </sp>
-        </div2>
-        <div2 n="7" type="scene">
+        </div>
+        <div n="7" type="scene">
           <stage>THRASO. GNATHO. SANGA. CHREMES. THAIS.</stage>
           <sp who="#thraso">
             <speaker>Thr.</speaker>
@@ -5186,10 +5186,10 @@ new additions
             <speaker>Thr.</speaker>
             <l part="Y"> Vos me hac sequimini.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="5" type="act">
+        <div n="1" type="scene">
           <stage>THAIS. PYTHIAS.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -5344,8 +5344,8 @@ new additions
             </l>
             <l>Videtur: non est? tum quae eius confidentia est!</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>CHAEREA. THAIS. PYTHIAS.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -5763,8 +5763,8 @@ new additions
             </l>
             <l n="70">Tu istic mane, ut Chremem introducas, Pythias.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>PYTHIAS. CHREMES. SOPHRONA.</stage>
           <sp who="#pythias">
             <speaker>Py.</speaker>
@@ -5842,8 +5842,8 @@ new additions
             </l>
             <l>Post exibo atque hunc perterrebo sacrilegum.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>PARMENO. PYHIAS.</stage>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
@@ -6117,8 +6117,8 @@ new additions
             </l>
             <l>Ego abeo intro: tu isti narra omnem rem ordine ut factum siet.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>LACHES. PARMENO.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
@@ -6303,8 +6303,8 @@ new additions
             </l>
             <l>Quamobrem insigne aliquid faceret iis. Nunc repperit.</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <stage>PYTHIAS. PARMENO.</stage>
           <sp who="#pythias">
             <speaker>Py.</speaker>
@@ -6449,8 +6449,8 @@ new additions
             <lb ed="TLN" n="1023"/>
             <l>Egomet meo indicio miser quasi sorex hodie perii.</l>
           </sp>
-        </div2>
-        <div2 n="7" type="scene">
+        </div>
+        <div n="7" type="scene">
           <stage>GNATHO. THRASO.</stage>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
@@ -6491,8 +6491,8 @@ new additions
             </l>
             <l>Hunc ego numquam videram etiam: quidnam hic properans prosilit?</l>
           </sp>
-        </div2>
-        <div2 n="8" type="scene">
+        </div>
+        <div n="8" type="scene">
           <stage>CHAEREA. PARMENO. PHAEDRIA. GNATHO. THRASO.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -6945,8 +6945,8 @@ new additions
             <speaker>Omnes</speaker>
             <l part="Y">Vol valete, et plaudite.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

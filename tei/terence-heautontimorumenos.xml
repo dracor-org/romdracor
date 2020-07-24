@@ -205,8 +205,8 @@ new additions
           <role>SYRUS, servus Chremetis.</role>
         </castItem>
       </castList>
-      <div1 n="introduction" type="act">
-        <div2 n="summary" type="scene">
+      <div n="introduction" type="act">
+        <div n="summary" type="scene">
           <head>INTRODUCTION.</head>
           <p lang="en">
             THE plot of the Heautontimorumenos turns, as is often the case, partlyupon the recognition of a child which had been exposed as an infant. Sostrata thewife of Chremes had an infant daughter, which her husband refused to bring up, andordered to be exposed. She gave it to an old woman for that purpose, attaching toits dress a ring, from a superstitious feeling that the child ought not to beentirely disinherited. The old woman, instead of exposing the child, brought herup as her own daughter, and named her Antiphila. When she grew up she attractedthe attention of Clinia. son of Menedemus. Their attachment continued for sometime before it came to the knowledge of Clinia's father. As soon as he discoveredit he began to persecute his son about the affair, till at last the young man, toput an end to the dispute, went to 
@@ -216,13 +216,13 @@ new additions
             at his own house. There he finds the party assembled, and what with Bacchis andthe young men they make a pretty night of it, nearly emptying his cellar, andturning the house upside down. Early next morning Chremes, who has a strong headfor an old man, goes to meet his friend Menedemus as he comes out to his work, andinforms him of his son's return. He advises him to be cautious in receiving him,tells him what sort of a life he has to expect, and recommends him to do any thingrather than openly encourage his son in such debauchery. Menedemus begs him to doany thing he can to bring about a reunion with his son, even if it be to encouragethe young man and Syrus to cheat him in any imaginable way. Chremes enters intothe plan: and encourages Syrus to devise some scheme for making Menedemus supplyClinia with the means of indulgence. Syrus has already some such scheme on foot;but it is to be directed against Chremes, for he has promised Bacchis ten minaefor her share in the night's amusements, and intends to get it out of his master.So he at once explains to his master a plausible scheme that he has, namely, toinduce Menedemus to buy Antiphila from Bacchis, to whom she has been left in pawnby Philtere, on the representation that she is a captive from Caria whom herfriends are sure to ransom very handsomely. Meanwhile Sostrata has discovered,through the medium of the aforesaid ring, that Antiphila is her own daughter. Thisdisconcerts Syrus, who now springs a new mine; he sends Bacchis off to Menedemus'house, and explains to Chremes that the only way to deceive Menedemus now, is topretend that she is Clitipho's mistress, and at the same time to get Clinia toprofess an attachment to Antiphila, and desire his father to demand her inmarriage, for then the old man would have to supply him with money for themarriage, which of course would go to his mistress Bacchis. At the same timeChremes is persuaded to release his daughter from her pledge to Bacchis; and themoney is given to Clitipho to carry to Bacchis for the purpose forsooth of morefully persuading Menedemus that she is his mistress. At this point thedénouement takes place. Clitipho acts his part of Bacchis' lover alittle too well, and all the circumstances are discovered by Menedemus, whoproceeds to inform Chremes of the real state of the case. Now the two old menchange places, Chremes is enraged beyond measure at having been made the dupe ofhis dissolute son, and Menedemus has to urge upon him the same maxims offorbearance which Chremes had used to him. Clitipho has to undergo a completehumiliation; but is ultimately received into favour by his father upon hispromising to settle and lead a respectable life.
           </p>
           <p lang="en">This play is remarkable for a supposed irregularity in its construction,which has made it the subiect of an animated controversy among advocates of the'Unities.' It is clear that the opening scene of the play is laid at evening, whenMenedemus is just finishing his day's work. The Third Act commences with thefollowing morning, and in the interval the supper at Chremes' house takes place.This in itself, though an exception to the general arrangement of Terence's plays,is not a very important matter. The theory of the 'Unities' is not to be receivedas an absolute law for the Drama: and there is nothing in this case which is notabundantly justified by many other instances. Upon this point turns a theory whichwas first mooted by Scaliger, and afterwards maintained by Madame Dacier,--thatthis play was acted in two portions: the first two Acts at night, after sunset;and the three remaining Acts the next morning at break of day; the intervalbetween the two parts being taken up with the supper at Chremes' house. This ideaproceeds entirely upon the supposed necessity of filling up the interval betweenthe Second and Third Acts; and is, as far as we are informed, entirely gratuitous.Colman has shown the absurdity of the idea very well in his remarks on thissubiect. Any one who considers that the Roman Drama was performed in the open air,will at once see the improbability of such a mode of representation. The RomanAmphitheatre was at any time a disadvantageous arena for the Drama. What must havebeen the success of a play, acted partly at night-fall, partly before breakfastnext morning? Nothing but a devotion to the 'Unities' could have led to such anidea; and it will be dismissed without any further discussion, now that a moreartistic idea of Dramatic Unity is generally recognized. </p>
-        </div2>
-        <div2 n="production" type="scene">
+        </div>
+        <div n="production" type="scene">
           <p>HEAUTONTIMORUMENOS. ACTA LUDIS MEGALENSIBUS, L. CORNELIO LENTULO L. VALERIO FLACCOAEDILIBUS CURULIBUS. EGERUNT L. AMBIVIUS TURPIO ET L. ATTILIUS PRAENESTINUS. MODOSFECIT FLACCUS CLAUDII. GRAECA EST MENANDRU. ACTA PRIMUM TIBIIS IMPARIBUS; DEINDEDUABUS DEXTRIS. ACTA III. EDITA M. IUVENTIO ET T. SEMPRONIO COSS. </p>
-        </div2>
-      </div1>
-      <div1 n="prologue" type="act">
-        <div2 n="0" type="scene">
+        </div>
+      </div>
+      <div n="prologue" type="act">
+        <div n="0" type="scene">
           <head>Prologus</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
@@ -432,10 +432,10 @@ new additions
             </l>
           <l>Vobis placere studeant potius quam sibi. </l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="1" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="1" type="act">
+        <div n="1" type="scene">
           <stage>CHREMES. MIENEDEMUS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -1023,8 +1023,8 @@ new additions
             </l>
             <l>Hinc a me? quisnam egreditur? huc concessero. </l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>CLITIPHO. CHREMES.</stage>
           <sp who="#clitipho">
             <speaker>Cl.</speaker>
@@ -1246,10 +1246,10 @@ new additions
             </l>
             <l>Tu, ut tempus est diei, vide sis ne quo hinc abeas longius. </l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="2" type="act">
+        <div n="1" type="scene">
           <stage>CLITIPHO.</stage>
           <lb ed="TLN" n="213"/>
           <l>
@@ -1317,8 +1317,8 @@ new additions
             <lb ed="TLN" n="229"/>
           </l>
           <l>Hoc ego mali non pridem inveni; neque etiamdum scit pater. </l>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>CLINIA. CLITIPHO.</stage>
           <sp who="#clinia">
             <speaker>Clin.</speaker>
@@ -1398,8 +1398,8 @@ new additions
             <speaker>Clit.</speaker>
             <l part="Y"> Respira: eccum Dromonem cum Syro: una adsunt tibi. </l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>SYRUS. DROMO. CLITIPHO. CLINIA.</stage>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
@@ -2246,8 +2246,8 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Ambula. </l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>BACCHIS. ANTIPHILA. CLINIA. SYRUS.</stage>
           <sp who="#bacchis">
             <speaker>Ba.</speaker>
@@ -2417,10 +2417,10 @@ new additions
             <lb ed="TLN" n="409"/>
             <l>Ite intro: nam vos iamdudum exspectat senex. </l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="3" type="act">
+        <div n="1" type="scene">
           <stage>CHREMES. MENEDEMUS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -2927,8 +2927,8 @@ new additions
             </l>
             <l>Ne nos inter nos congruere sentiant. </l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>SYRUS. CHREMES.</stage>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
@@ -3243,8 +3243,8 @@ new additions
             </l>
             <l n="50">Licere. Quisnam a nobis egreditur foras? </l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>CHREMES. CLITIPHO. SYRUS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -3642,10 +3642,10 @@ new additions
             </l>
             <l>Mane, mane: quid est quod tarn a nobis graviter crepuerunt fores? </l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="4" type="act">
+        <div n="1" type="scene">
           <stage>SOSTRATA. CHREMES. NUTRIX. SYRUS.</stage>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -4004,8 +4004,8 @@ new additions
             </l>
             <l>Nunc ita tempus est mihi ut cupiam filiam; olim nihil minus. </l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>SYRUS.</stage>
           <lb ed="TLN" n="668"/>
           <l>
@@ -4049,8 +4049,8 @@ new additions
             <lb ed="TLN" n="678"/>
           </l>
           <l>Retraham hercle opinor ad me idem illud fugitivum argentum tamen. </l>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>CLINTA. SYRUS.</stage>
           <sp who="#clitipho">
             <speaker>Cl.</speaker>
@@ -4320,8 +4320,8 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Optime ipsa exit foras. </l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>BACCHIS. CLINIA. SYRUS. DROMO. PHRYGIA.</stage>
           <sp who="#bacchis">
             <speaker>Ba.</speaker>
@@ -4530,8 +4530,8 @@ new additions
             <speaker>Dr.</speaker>
             <l part="Y"> Mutum dices. </l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>CHREMES. SYRUS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -4899,8 +4899,8 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Effero. </l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <stage>CLITIPHO. SYRUS.</stage>
           <sp who="#clitipho">
             <speaker>Cl.</speaker>
@@ -5046,8 +5046,8 @@ new additions
             </l>
             <l>Quod imperabit facito; loquitor paucula. </l>
           </sp>
-        </div2>
-        <div2 n="7" type="scene">
+        </div>
+        <div n="7" type="scene">
           <stage>CHREMES. CLITIPHO. SYRUS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -5129,8 +5129,8 @@ new additions
             </l>
             <l>Aliquis labore inventa mea cui dem bona. </l>
           </sp>
-        </div2>
-        <div2 n="8" type="scene">
+        </div>
+        <div n="8" type="scene">
           <stage>MENEDEMUS. CHREMES.</stage>
           <sp who="#menedemus">
             <speaker>Me.</speaker>
@@ -5346,10 +5346,10 @@ new additions
             </l>
             <l>Nam te sciente faciam, quicquid egero. </l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="5" type="act">
+        <div n="1" type="scene">
           <stage>MENEDEMUS. CHREMES.</stage>
           <sp who="#menedemus">
             <speaker>Me.</speaker>
@@ -5923,8 +5923,8 @@ new additions
             </l>
             <l>Quae in me fecit. </l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>CLITIPHO. MENEDEMITS. CHREMES. SYRUS.</stage>
           <sp who="#clitipho">
             <speaker>Cl.</speaker>
@@ -6241,8 +6241,8 @@ new additions
             </l>
             <l>Eum mihi precatorem paro: seni nostro fidei nihil habeo. </l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>SOSTRATA. CHREMES.</stage>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -6365,8 +6365,8 @@ new additions
             </l>
             <l>Sed ipse egreditur: quam severus ! rem cum videas, censeas. </l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>CLITIPHO. SOSTRATA. CHREMES.</stage>
           <sp who="#clitipho">
             <speaker>Cl.</speaker>
@@ -6482,8 +6482,8 @@ new additions
             </l>
             <l>Quam pudet! neque quod principium inveniam ad placandum scio. </l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>MENEDEMUS. CHIREMES. CLITIPHO. SOSTRATA.</stage>
           <sp who="#menedemus">
             <speaker>Me.</speaker>
@@ -6702,8 +6702,8 @@ new additions
             <speaker>Om.</speaker>
             <l part="Y">Vos valete, et plaudite!</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

@@ -154,7 +154,7 @@ Added to repository.
   </teiHeader>
   <text>
     <body>
-      <div1 n="prol." type="act">
+      <div n="prol." type="act">
         <head>Prologus</head>
         <sp who="#lar_familiaris">
           <speaker>Lar familiaris</speaker>
@@ -237,10 +237,10 @@ Added to repository.
           <lb ed="TLN" n="39"/>
           <l>credo aurum inspicere volt, ne subreptum siet.</l>
         </sp>
-      </div1>
-      <div1 n="1" type="act">
+      </div>
+      <div n="1" type="act">
         <head>I</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -345,8 +345,8 @@ Added to repository.
             <lb ed="TLN" n="78"/>
             <l>longam, &lt;meum&gt; laqueo collum quando obstrinxero.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#euclio">
             <speaker>Eucl.</speaker>
@@ -454,11 +454,11 @@ Added to repository.
             <lb ed="TLN" n="119"/>
             <l>me rursum quantum potero tantum recipiam.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
+        </div>
+      </div>
+      <div n="2" type="act">
         <head>II</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#eunomia">
             <speaker>Eunomia</speaker>
@@ -701,8 +701,8 @@ Added to repository.
             <lb ed="TLN" n="177"/>
             <l>sed eccum &lt;video&gt;. nescio unde sese homo recipit domum.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -1098,8 +1098,8 @@ Added to repository.
             <lb ed="TLN" n="267"/>
             <l>id inhiat, ea affinitatem hanc obstinavit gratia.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#euclio">
             <lb ed="TLN" n="268"/>
@@ -1137,8 +1137,8 @@ Added to repository.
             <lb ed="TLN" n="279"/>
             <l>nam ecastor malum maerore metuo ne mixtum bibam.—</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#pythodicus">
             <speaker>Pythodicus</speaker>
@@ -1346,8 +1346,8 @@ Added to repository.
             <speaker>Anthr.</speaker>
             <l part="M">Etiam fur, trifurcifer.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <head>5</head>
           <sp who="#pythodicus">
             <speaker>Pyth.</speaker>
@@ -1436,8 +1436,8 @@ Added to repository.
             <speaker>Cong.</speaker>
             <l part="M">Sequor.</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <head>6</head>
           <sp who="#pythodicus">
             <speaker>Pyth.</speaker>
@@ -1524,8 +1524,8 @@ Added to repository.
             <speaker>Staph.</speaker>
             <l part="M">Sequimini.—</l>
           </sp>
-        </div2>
-        <div2 n="7" type="scene">
+        </div>
+        <div n="7" type="scene">
           <head>7</head>
           <sp who="#pythodicus">
             <speaker>Pyth.</speaker>
@@ -1546,8 +1546,8 @@ Added to repository.
             <lb ed="TLN" n="370"/>
             <l>rapacidarum ubi tantum sit in aedibus.</l>
           </sp>
-        </div2>
-        <div2 n="8" type="scene">
+        </div>
+        <div n="8" type="scene">
           <head>8</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -1613,8 +1613,8 @@ Added to repository.
             <lb ed="TLN" n="397"/>
             <l>sed cesso prius quam prorsus perii currere?</l>
           </sp>
-        </div2>
-        <div2 n="9" type="scene">
+        </div>
+        <div n="9" type="scene">
           <head>9</head>
           <sp who="#anthrax">
             <speaker>Anthrax</speaker>
@@ -1635,11 +1635,11 @@ Added to repository.
             <lb ed="TLN" n="405"/>
             <l>fugiam intro, ne quid turbae hic itidem fuat.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
+        </div>
+      </div>
+      <div n="3" type="act">
         <head>III</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#congrio">
             <speaker>Congrio</speaker>
@@ -1666,8 +1666,8 @@ Added to repository.
             <lb ed="TLN" n="414"/>
             <l>itaque ómnis exegit foras, me atque hos, onustos fustibus.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -1816,8 +1816,8 @@ Added to repository.
             <lb ed="TLN" n="448"/>
             <l>nummo sum conductus: plus iam medico mercedest opus.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -1860,8 +1860,8 @@ Added to repository.
             <speaker>Cong.</speaker>
             <l part="M">Abi tu modo.—</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#euclio">
             <speaker>Eucl.</speaker>
@@ -1896,8 +1896,8 @@ Added to repository.
             <lb ed="TLN" n="474"/>
             <l n="15">iam hunc non ausim praeterire, quin consistam et conloquar.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <head>5</head>
           <sp who="#megadorus">
             <speaker>Megadorus</speaker>
@@ -2044,8 +2044,8 @@ Added to repository.
             <lb ed="TLN" n="536"/>
             <l>sed eccum adfinem ante aedes. quid agis, Euclio?</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <head>6</head>
           <sp who="#euclio">
             <speaker>Eucl.</speaker>
@@ -2229,11 +2229,11 @@ Added to repository.
             <lb ed="TLN" n="586"/>
             <l n="50">ibo ad te fretus tua, Fides, fiducia.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
+        </div>
+      </div>
+      <div n="4" type="act">
         <head>IV</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#strobilus">
             <speaker>Strobilus</speaker>
@@ -2284,8 +2284,8 @@ Added to repository.
             <lb ed="TLN" n="607"/>
             <l>hinc ego et huc et illuc potero quid agant arbitrarier.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -2325,8 +2325,8 @@ Added to repository.
             <lb ed="TLN" n="623"/>
             <l>id adeo tibi faciam; verum ego mihi bibam, ubi id fecero.—</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -2339,8 +2339,8 @@ Added to repository.
             <lb ed="TLN" n="627"/>
             <l>atque in pectus emicare. sed ego cesso currere?</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#euclio">
             <lb ed="TLN" n="628"/>
@@ -2563,8 +2563,8 @@ Added to repository.
             <speaker>E.</speaker>
             <l part="M">Cave sis † te videam.—</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <head>5</head>
           <sp who="#strobilus">
             <speaker>Strob.</speaker>
@@ -2581,8 +2581,8 @@ Added to repository.
             <lb ed="TLN" n="666"/>
             <l>tantisper huc ego ad iánuam concessero.</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <head>6</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -2620,8 +2620,8 @@ Added to repository.
             <lb ed="TLN" n="681"/>
             <l n="15">certum est, malam rem potius quaeram cum lucro.—</l>
           </sp>
-        </div2>
-        <div2 n="7" type="scene">
+        </div>
+        <div n="7" type="scene">
           <head>7</head>
           <sp who="#lyconides">
             <speaker>Lyconides</speaker>
@@ -2683,8 +2683,8 @@ Added to repository.
             <lb ed="TLN" n="700"/>
             <l>ibo intro, ubí de capite meo sunt comitia.—</l>
           </sp>
-        </div2>
-        <div2 n="8" type="scene">
+        </div>
+        <div n="8" type="scene">
           <head>8</head>
           <sp who="#strobilus">
             <speaker>Strobilus</speaker>
@@ -2713,8 +2713,8 @@ Added to repository.
             <lb ed="TLN" n="712"/>
             <l>attat, eccum ipsum. íbo ut hoc condam domum.—</l>
           </sp>
-        </div2>
-        <div2 n="9" type="scene">
+        </div>
+        <div n="9" type="scene">
           <head>9</head>
           <sp who="#euclio">
             <speaker>Euclio</speaker>
@@ -2768,8 +2768,8 @@ Added to repository.
             <lb ed="TLN" n="730"/>
             <l>abeam an maneam, an adeam an fugiam. quid agam édepol nescio.</l>
           </sp>
-        </div2>
-        <div2 n="10" type="scene">
+        </div>
+        <div n="10" type="scene">
           <head>10</head>
           <sp who="#euclio">
             <speaker>Eucl.</speaker>
@@ -3152,11 +3152,11 @@ Added to repository.
             <lb ed="TLN" n="807"/>
             <l>meum factum ex gnatae pedisequa nutrice anu: ea rem novit.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
+        </div>
+      </div>
+      <div n="5" type="act">
         <head>V</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#strobilus">
             <speaker>Strobilus</speaker>
@@ -3384,8 +3384,8 @@ Added to repository.
               <l>qui mi holera cruda ponunt, hallec adduint.</l>
             </quote>
           </cit>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

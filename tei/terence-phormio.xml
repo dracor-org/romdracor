@@ -211,8 +211,8 @@ new additions
           <role>SOPHRONA, nutrix Phanii.</role>
         </castItem>
       </castList>
-      <div1 n="introduction" type="act">
-        <div2 n="summary" type="scene">
+      <div n="introduction" type="act">
+        <div n="summary" type="scene">
           <head>INTRODUCTION.</head>
           <p lang="en">
             In this play we have two brothers, Demipho and Chremes. Chremes had married a lady of property, named Nausistrata, whose estates lay in the island of 
@@ -243,13 +243,13 @@ new additions
             , when he falls in with Sophrona, and finds to his unbounded astonishment that this wife of Antipho, whom they have been so anxious to get rid of, is no other than his own daughter Phanium. This discovery is imparted to Demipho after an amusing scene of hints rendered necessary by the presence of Nausistrata (Act v. Sc. 3); and the two old men are now as anxious to be off their bargain with Phormio as they were to make it, and above all to get back the thirty minae which the parasite had taken as Phanium's portion. But they do not find it very easy to manage their scheme. Phormio is ready enough to give up Phanium, but has no intention of parting with the money; and when the old men attempt by fair means or foul to get it back, Chremes discovers to his horror that Phormio has discovered the secret of Phanium's parentage, which Geta had overheard when Chremes first recognized his daughter in Demipho's house. The result of all is that Phormio tells the whole story to Nausistrata. Chremes is utterly confounded, and is quite unable to blame his son for his amour with the music girl, when Phaedria describes to Nausistrata the purpose for which the thirty minae were obtained. The play ends with a conditional forgiveness of Chremes, and an invitation to supper for Phormio.
           </p>
           <p lang="en">In the character of Phormio Terence copied from an original, in which the standing idea of the parasite was strictly observed. See notes on Act ii. Scene 2. We have seen a very different idea, though with the same fondness for good living, worked out in the Eunuchus. See the Introduction to that play. Phormio is, however, a very capital specimen of his class, and shows far more readiness and amiability than most of the tribe. It is not unworthy of remark that this play is said by some to have been acted four times in one year. At all events, this and the Eunuchus, the two most spirited of Terence's plays, came on the stage within six months.</p>
-        </div2>
-        <div2 n="production" type="scene">
+        </div>
+        <div n="production" type="scene">
           <p>PHORMIO.  ACTA LUDIS ROMANIS, L. POSTUMIO ALBINO, L. CORNELIO MERULA, AED1L1BUS CURULIBUS. EGERE L. AMBIVIUS TURPIO, L. ATILIUS PRAENEST1NUS. MODOS FECIT FLACCUS CLAUDII, TIBIIS IMPARIBUS. TOTA GRAECA APOLLODORU EPIDICAZOMENOS. FACTA EST IV. C. FANNIO, M. VALERIO, COSS.</p>
-        </div2>
-      </div1>
-      <div1 n="prologue" type="act">
-        <div2 n="0" type="scene">
+        </div>
+      </div>
+      <div n="prologue" type="act">
+        <div n="0" type="scene">
           <head>Prologus</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
@@ -387,10 +387,10 @@ new additions
             </l>
           <l>Bonitasque vestra adiutans atque aequanimitas.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="1" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="1" type="act">
+        <div n="1" type="scene">
           <stage>DAVUS.</stage>
           <lb ed="TLN" n="35"/>
           <l>
@@ -454,8 +454,8 @@ new additions
             <lb ed="TLN" n="50"/>
           </l>
           <l>Puer causa erit mittendi. Sed videon Getam?</l>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>GETA. DAVUS.</stage>
           <sp who="#geta">
             <speaker>Ge.</speaker>
@@ -1031,8 +1031,8 @@ new additions
             </l>
             <l>Puer, hens. Nemone huc prodit? Cape, da hoc Dorcio.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>ANTIPHO. PHAEDRIA.</stage>
           <sp who="#antipho">
             <speaker>An.</speaker>
@@ -1151,8 +1151,8 @@ new additions
             </l>
             <l>Is est ipsus: hei timeo miser quam hic nunc mihi nuntiet rem.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>GETA. ANTIPHO. PHAEDR1A.</stage>
           <sp who="#geta">
             <speaker>Ge.</speaker>
@@ -1532,10 +1532,10 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Age.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="2" type="act">
+        <div n="1" type="scene">
           <stage>DEMIPHO. GETA. PHAEDRIA.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -1997,8 +1997,8 @@ new additions
             </l>
             <l>Ut ne imparatus sim, si adveniat Phormio.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>PHORMIO. GETA.</stage>
           <sp who="#phormio">
             <speaker>Ph.</speaker>
@@ -2200,8 +2200,8 @@ new additions
             </l>
             <l>Si eam sustinueris, postilla iam, ut libet, ludas licet.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>DEMIPHO. GETA. PHORMIO.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -2776,8 +2776,8 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Intelligo.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>DEMIPHO. GETA. HEGIO. CRATINUS. CRITO.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -2925,10 +2925,10 @@ new additions
             </l>
             <l>Sed eccum ipsum video in tempore huc se recipere.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="3" type="act">
+        <div n="1" type="scene">
           <stage>ANTIPHO. GETA.</stage>
           <sp who="#antipho">
             <speaker>An.</speaker>
@@ -3073,8 +3073,8 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Eccum ab sua</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>PHAEDRIA. DORIO. ANTIPHO. GETA.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -3439,8 +3439,8 @@ new additions
             </l>
             <l>Mea lege utar, ut potior sit qui prior ad dandum est. Vale.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>PHAEDRIA. ANTIPHO. GETA.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -3687,10 +3687,10 @@ new additions
             <speaker>Ge.</speaker>
             <l part="Y"> Dicam in itinere: modo te hinc amove.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="4" type="act">
+        <div n="1" type="scene">
           <stage>DEMIPHO. CHREMES.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -3814,8 +3814,8 @@ new additions
             </l>
             <l>Donec tibi id quod pollicitus sum effecero.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>GETA.</stage>
           <sp who="#geta">
             <speaker>GETA.</speaker>
@@ -3878,8 +3878,8 @@ new additions
           </l>
             <l n="15">Si ab eo nihil fiet, tum hunc adoriar hospitem.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>ANTIPHO. GETA. CHREMES. DEMIPHO.</stage>
           <sp who="#antipho">
             <speaker>An.</speaker>
@@ -4310,8 +4310,8 @@ new additions
             </l>
             <l>Id sumam: uxori tibi opus esse dixero.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>ANTIPHO. GETA.</stage>
           <sp who="#antipho">
             <speaker>An.</speaker>
@@ -4489,8 +4489,8 @@ new additions
             </l>
             <l>Pater exit: abi, die, esse argentum, Phaedriae.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>DEMIPHO. GETA. CHREMES.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -4591,10 +4591,10 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Ubi illas ego nunc reperire possim cogito.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="5" type="act">
+        <div n="1" type="scene">
           <stage>SOPHRONA. CHREMES.</stage>
           <sp who="#sophrona">
             <speaker>So.</speaker>
@@ -4868,8 +4868,8 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Sequere me: intus caetera audies.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>DEMIPHO. GETA.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -4967,8 +4967,8 @@ new additions
             </l>
             <l>Ne quid vereatur Phormionem aut eius orationem.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>DEMIPHO. NAUSISTRATA. CHREMES.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -5316,8 +5316,8 @@ new additions
             <speaker>Ch.</speaker>
             <l part="Y"> Heus, ne filii quidem nostri hoc resciscant volo.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>ANTIPHO.</stage>
           <lb ed="TLN" n="820"/>
           <l>
@@ -5353,8 +5353,8 @@ new additions
             <lb ed="TLN" n="828"/>
           </l>
           <l>Ut rogem quod tempus conveniendi patris me capere iubeat?</l>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>PHORMIO. ANTIPHO.</stage>
           <sp who="#phormio">
             <speaker>Ph.</speaker>
@@ -5431,8 +5431,8 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Geta est.</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <stage>GETA. ANTIPHO. PHORMIO.</stage>
           <sp who="#geta">
             <speaker>Ge.</speaker>
@@ -5774,8 +5774,8 @@ new additions
             </l>
             <l>Quo me assimularam ire ad mercatum non eo.</l>
           </sp>
-        </div2>
-        <div2 n="7" type="scene">
+        </div>
+        <div n="7" type="scene">
           <stage>DEMIPHO. PHORMIO. CHREMES.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -6371,8 +6371,8 @@ new additions
             <lb ed="TLN" n="989"/>
             <l>Vel oculum exclude: est ubi vos ulciscar probe.</l>
           </sp>
-        </div2>
-        <div2 n="8" type="scene">
+        </div>
+        <div n="8" type="scene">
           <stage>NAUSISTRATA. CHREMES. PHORMIO. DEMIPHO.</stage>
           <sp who="#nausistrata">
             <speaker>Na.</speaker>
@@ -6848,8 +6848,8 @@ new additions
             <speaker>Om.</speaker>
             <l part="Y">Vos valete et plaudite.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

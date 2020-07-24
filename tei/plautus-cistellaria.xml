@@ -160,9 +160,9 @@ Added to repository.
   </teiHeader>
   <text>
     <body>
-      <div1 n="1" type="act">
+      <div n="1" type="act">
         <head>I</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#selenium">
             <speaker>Selenium</speaker>
@@ -611,8 +611,8 @@ Added to repository.
             <speaker>Gymn.</speaker>
             <l part="M">Vale.—</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#lena">
             <speaker>Lena.</speaker>
@@ -675,8 +675,8 @@ Added to repository.
             <lb ed="TLN" n="148"/>
             <l>meminisse ego hanc rem vos volo. ego abeo domum.—</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#auxilium">
             <speaker>Auxilium</speaker>
@@ -789,11 +789,11 @@ Added to repository.
             <lb ed="TLN" n="202"/>
             <l>ut vobis victi Poeni poenas sufferant.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
+        </div>
+      </div>
+      <div n="2" type="act">
         <head>II</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#alcesimarchus">
             <speaker>Alcesimarchus</speaker>
@@ -1771,8 +1771,8 @@ Added to repository.
             <lb ed="TLN" n="535"/>
             <l>et illud paveo et hoc formido, ita tota sum misera in metu.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#lampadio">
             <speaker>Lampadio</speaker>
@@ -1791,8 +1791,8 @@ Added to repository.
             <lb ed="TLN" n="542"/>
             <l>quia ei promisi dolium vini dare.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#phanostrata">
             <speaker>Phanostrata</speaker>
@@ -2161,11 +2161,11 @@ Added to repository.
             <lb ed="TLN" n="630"/>
             <l>atque ad parentes redducam Selenium.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
+        </div>
+      </div>
+      <div n="3" type="act">
         <head>III</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#melaenis">
             <speaker>Melaenis</speaker>
@@ -2252,11 +2252,11 @@ Added to repository.
             <lb ed="TLN" n="652"/>
             <l>éadem, si possum tranquillum facere ex irato mihi.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
+        </div>
+      </div>
+      <div n="4" type="act">
         <head>IV</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#lampadio">
             <speaker>Lampadio</speaker>
@@ -2361,8 +2361,8 @@ Added to repository.
             <speaker>Phan.</speaker>
             <l part="M">Spes mihi sancta subveni.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#halisca">
             <speaker>Halisca</speaker>
@@ -2827,11 +2827,11 @@ Added to repository.
             <speaker>Phan.</speaker>
             <l part="M">I prae, iám ego te sequar.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
+        </div>
+      </div>
+      <div n="5" type="act">
         <head>V</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#demipho">
             <speaker>Demipho</speaker>
@@ -2891,8 +2891,8 @@ Added to repository.
             <lb ed="TLN" n="787"/>
             <l>more maiorum date plausum postrema in comoedia.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

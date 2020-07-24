@@ -151,9 +151,9 @@ Added to repository.
   </teiHeader>
   <text>
     <body>
-      <div1 n="1" type="act">
+      <div n="1" type="act">
         <head>I</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
@@ -484,8 +484,8 @@ Added to repository.
             <lb ed="TLN" n="52"/>
             <l>usque ero domi, dum excoxero lenoni malam &lt;rem magnam&gt;.—</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#saturio">
             <speaker>Saturio</speaker>
@@ -548,8 +548,8 @@ Added to repository.
             <lb ed="TLN" n="80"/>
             <l>sed aperiuntur aedes, remorandust gradus.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
@@ -915,11 +915,11 @@ Added to repository.
             <lb ed="TLN" n="167"/>
             <l>me esse effecturum &lt;hoc&gt; hodie. nimis longum loquor.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
+        </div>
+      </div>
+      <div n="2" type="act">
         <head>II</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#sophoclidisca">
             <speaker>Sophoclidisca</speaker>
@@ -961,8 +961,8 @@ Added to repository.
             <lb ed="TLN" n="182"/>
             <l n="15">convéniam hunc Toxilum: eius auris, quae mandata sunt, onerabo.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
@@ -1563,8 +1563,8 @@ Added to repository.
             <speaker>Soph.</speaker>
             <l part="M">Ambula.—</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#sagaristio">
             <speaker>Sagaristio</speaker>
@@ -1613,8 +1613,8 @@ Added to repository.
             <lb ed="TLN" n="271a"/>
             <l>púerum Paegnium eccum.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#paegnium">
             <speaker>Paegnium</speaker>
@@ -1822,8 +1822,8 @@ Added to repository.
             <lb ed="TLN" n="301"/>
             <l>quem convenire maxime cupiebam egreditur intus.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <head>5</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
@@ -1978,11 +1978,11 @@ Added to repository.
             <speaker>Sa.</speaker>
             <l part="M">Vtere ut vis.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
+        </div>
+      </div>
+      <div n="3" type="act">
         <head>III</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#saturio">
             <speaker>Saturio</speaker>
@@ -2259,8 +2259,8 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Dicto sum audiens.—</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
@@ -2275,8 +2275,8 @@ Added to repository.
             <lb ed="TLN" n="404"/>
             <l n="5">sed ibi concrepuit foris. quisnam egreditur foras?</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
@@ -2442,11 +2442,11 @@ Added to repository.
             <speaker>Tox.</speaker>
             <l part="M">Dum stas, reditum oportuit.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
+        </div>
+      </div>
+      <div n="4" type="act">
         <head>IV</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#toxilus">
             <lb ed="TLN" n="449"/>
@@ -2476,8 +2476,8 @@ Added to repository.
             <lb ed="TLN" n="461"/>
             <l>quas tu attulisti mi ab ero meo usque e Persia.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#sagaristio">
             <speaker>Sagaristio</speaker>
@@ -2514,8 +2514,8 @@ Added to repository.
             <lb ed="TLN" n="469"/>
             <l>id erit adeundi tempus. nunc agite ite vos.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
@@ -2886,8 +2886,8 @@ Added to repository.
             <speaker>Dor.</speaker>
             <l part="M">Laudo consilium tuom.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#sagaristio">
             <speaker>Sagaristio</speaker>
@@ -3625,8 +3625,8 @@ Added to repository.
             <speaker>Dor.</speaker>
             <l part="M">Abeo atque argentum affero.—</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <head>5</head>
           <sp who="#toxilus">
             <speaker>Tox.</speaker>
@@ -3679,8 +3679,8 @@ Added to repository.
             <lb ed="TLN" n="682"/>
             <l n="10">Tace, párce voci: praeda progreditur foras.</l>
           </sp>
-        </div2>
-        <div2 n="6" type="scene">
+        </div>
+        <div n="6" type="scene">
           <head>6</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
@@ -3819,8 +3819,8 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Vale.—</l>
           </sp>
-        </div2>
-        <div2 n="7" type="scene">
+        </div>
+        <div n="7" type="scene">
           <head>7</head>
           <sp who="#toxilus">
             <speaker>Tox.</speaker>
@@ -3919,8 +3919,8 @@ Added to repository.
             <speaker>Sag.</speaker>
             <l part="M">Quin taces? scio quid velis.</l>
           </sp>
-        </div2>
-        <div2 n="8" type="scene">
+        </div>
+        <div n="8" type="scene">
           <head>8</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
@@ -3964,8 +3964,8 @@ Added to repository.
             <lb ed="TLN" n="737"/>
             <l>nam iam inclinabo me cum liberta tua.</l>
           </sp>
-        </div2>
-        <div2 n="9" type="scene">
+        </div>
+        <div n="9" type="scene">
           <head>9</head>
           <sp who="#saturio">
             <speaker>Saturio</speaker>
@@ -4062,11 +4062,11 @@ Added to repository.
             <speaker>Vir.</speaker>
             <l part="M">Sequor.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
+        </div>
+      </div>
+      <div n="5" type="act">
         <head>V</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#toxilus">
             <speaker>Toxilus</speaker>
@@ -4185,8 +4185,8 @@ Added to repository.
             <speaker>Tox.</speaker>
             <l part="M">Bene eí qui invidét mi et eí qui hoc gaúdet.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#dordalus">
             <speaker>Dordalus</speaker>
@@ -4598,8 +4598,8 @@ Added to repository.
             <lb ed="TLN" n="858"/>
             <l>spéctatores, bene valete. leno periit. plaudite.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

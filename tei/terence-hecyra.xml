@@ -194,8 +194,8 @@ new additions
           <roleDesc>lena.</roleDesc>
         </castItem>
       </castList>
-      <div1 n="introduction" type="act">
-        <div2 n="summary" type="scene">
+      <div n="introduction" type="act">
+        <div n="summary" type="scene">
           <head>INTRODUCTION.</head>
           <p lang="en">
             THE Hecyra takes its name from the fact that its plot turns upon the misunderstanding between a mother and daughter-in-law. Colman has translated the word 'step-mother;' but 
@@ -214,13 +214,13 @@ new additions
           <p lang="en">The body of the play is occupied by the indignant expostulations of the two fathers with Pamphilus, and with their wives. Now that Pamphilus has a son, Laches cannot conceive why he should not take his wife home again; and Phidippus is furious with him, with Laches, and with Myrrhina his wife. Sostrata comes to the determination of leaving town, and going to live with her husband in the country, hoping that her absence will remove the last obstacle to Philumena's return; but notwithstanding this, Pamnphilus still persists in his refusal to receive his wife, and at last the old men come to the conclusion that he must be still carrying on his old love affair with Bacchis, and determine to send for her, and to endeavour by fair means or foul to break off her intimacy with Pamphilus.</p>
           <p lang="en">Bacchis is accordingly sent for, and she completely clears herself and Pamphilus from the suspicion, and further undertakes to explain the real state of affairs to Myrrhina and Philumena. This brings out the true history of Philumena; and Bacchis is able to inform Pamphilus that his wife was the owner of the ring which she had received from him. This entirely changes Pamphilus' view of the case, and he is beside himself with delight.</p>
           <p lang="en">This play is not remarkable for any of the spirit which generally appears in Terence's plays. The event on which the plot of the play depends, and the circumstances of Philumena's illness, having necessarily to be kept in the background, gives an air of restraint to the whole piece. Indeed, within the whole action, properly so called, there is no incident except the discovery of the ring. The plot is much more simple, and the characters less interesting than those of any other play; and in the treatment of the character of the slave we notice a marked departure from the ordinary idea of that part. The Parmeno of the Hecyra is a very different personage from his namesake of the Eunuchus. He is merely sententious and inquisitive; and the only amusement which we get out of him is that he is very anxious to discover his master's secret, and that his curiosity is not gratified.</p>
-        </div2>
-        <div2 n="production" type="scene">
+        </div>
+        <div n="production" type="scene">
           <p>HECYRA.  ACTA LUDIS MEGALENSIBUS, SEX. IUL. CAESARE CN. CORNELIO DOLABELLA AEDILIBUS CURULIBUS. NON EST PERACTA. MODOS FECIT FLACCUS CLAUDII, TIBIIS PARIBUS. TOTA GRAECA APOLLODORU FACTA EST. ACTA PRIMO SINE PROLOGO. DATA SECUNDO CN. OCTAVIO T. MANLIO COSS. RELATA EST L. AEMILII PAULI LUDIS FUNEBRIBUS. NON EST PLACITA. TERTIO RELATA EST Q. FULVIO L. MARCIO AEDILIBUS CURULIBUS. EGIT L. AMBIVIUS TURPIO. PLACUIT.</p>
-        </div2>
-      </div1>
-      <div1 n="prologue" type="act">
-        <div2 n="0" type="scene">
+        </div>
+      </div>
+      <div n="prologue" type="act">
+        <div n="0" type="scene">
           <head>Prologus</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
@@ -451,10 +451,10 @@ new additions
             </l>
           <l>Novas expediat posthac pretio emtas meo.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="1" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="1" type="act">
+        <div n="1" type="scene">
           <stage>PHILOTIS. SYRA.</stage>
           <sp who="#philotis">
             <speaker>Ph.</speaker>
@@ -540,8 +540,8 @@ new additions
             </l>
             <l>Aetas et forma est, aut tibi haec sententia?</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>PARMENO. PHILOTIS. SYRA.</stage>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
@@ -1137,10 +1137,10 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Et tu bene vale, Philotium.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="2" type="act">
+        <div n="1" type="scene">
           <stage>LACHES. SOSTRATA.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
@@ -1363,8 +1363,8 @@ new additions
             </l>
             <l n="45">Ubi duxere impulsu vestro, vestro impulsu easdem exigunt.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>PHIDIPPUS. LACHES. SOSTRATA.</stage>
           <sp who="#phidippus">
             <speaker>Ph.</speaker>
@@ -1523,8 +1523,8 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Eo tecum una.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>SOSTRATA.</stage>
           <sp who="#sostrata">
             <speaker>Sostrata</speaker>
@@ -1555,10 +1555,10 @@ new additions
             </l>
             <l>Nisi pol filium multimodis iam exspecto ut redeat domum.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="3" type="act">
+        <div n="1" type="scene">
           <stage>PAMPHILUS. PARMENO. MYRRHINA.</stage>
           <sp who="#pamphilus">
             <speaker>Pam.</speaker>
@@ -1850,8 +1850,8 @@ new additions
             </l>
             <l n="55">Hera in crimen veniet, ego vero in magnum malum.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>SOSTRATA. PARMENO. PAMPHILUS.</stage>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -2027,8 +2027,8 @@ new additions
             <speaker>Pam.</speaker>
             <l part="Y"> Cessas?</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>PAMPHILUS.</stage>
           <sp who="#pamphilus">
             <speaker>Pamphilus</speaker>
@@ -2247,8 +2247,8 @@ new additions
             </l>
             <l>Hinc ablegandus dum parit Philumena.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>PARMENO. SOSIA. PAMPHILUS.</stage>
           <sp who="#parmeno">
             <speaker>Par.</speaker>
@@ -2451,8 +2451,8 @@ new additions
             </l>
             <l>Video: horsum pergunt. Quid dicam hisce incertus sum.</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <stage>LACHES. PHIDIPPUS. PAMIPHILUS.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
@@ -2810,10 +2810,10 @@ new additions
             </l>
             <l n="65">Atque in eam hoc omne quod mihi aegre est evomam.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="4" type="act">
+        <div n="1" type="scene">
           <stage>MYRRHINA. PHIDIPPUS.</stage>
           <sp who="#myrrhina">
             <speaker>My.</speaker>
@@ -3094,8 +3094,8 @@ new additions
             </l>
             <l>Celare, quum sciet alienum puerum tolli pro suo.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>SOSTRATA. PAMPHILUS.</stage>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -3236,8 +3236,8 @@ new additions
             <lb ed="TLN" n="607"/>
             <l n="30">Et mihi quidem! nam haec res non minus me male habet quam te, gnate mi.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>LACHES. SOSTRATA. PAMPHILUS.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
@@ -3341,8 +3341,8 @@ new additions
             </l>
             <l>Sed video Phidippum egredi per tempus: accedamus.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>PHIDIPPUS. LACHES. PAMPHILUS.</stage>
           <sp who="#phidippus">
             <speaker>Ph.</speaker>
@@ -3854,10 +3854,10 @@ new additions
             <lb ed="TLN" n="727"/>
             <l>Immo vero abi: aliquam puero nutricem para.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
-        <div2 n="1" type="scene">
+        </div>
+      </div>
+      <div n="5" type="act">
+        <div n="1" type="scene">
           <stage>BACCHIS. LACHES.</stage>
           <sp who="#bacchis">
             <speaker>Ba.</speaker>
@@ -4064,8 +4064,8 @@ new additions
             </l>
             <l>Potius quam inimicus periclum facias.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <stage>PHIDIPPUS. LACHES. BACCHIS.</stage>
           <sp who="#phidippus">
             <speaker>Ph.</speaker>
@@ -4225,8 +4225,8 @@ new additions
             </l>
             <l>Referetque gratiam ei, unaque nos sibi opera amicos iunget.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <stage>PARMENO. BACCHIS.</stage>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
@@ -4434,8 +4434,8 @@ new additions
             </l>
             <l>Multa ex quo fuerint commoda, eius incommoda aequum est ferre.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <stage>PAMIPHILUS. PARMENO. BACCHIS.</stage>
           <sp who="#pamphilus">
             <speaker>Pam.</speaker>
@@ -4717,8 +4717,8 @@ new additions
             <speaker>Om.</speaker>
             <l part="Y">Plaudite.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>

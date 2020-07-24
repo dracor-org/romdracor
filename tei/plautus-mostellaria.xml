@@ -170,9 +170,9 @@ Added to repository.
   </teiHeader>
   <text>
     <body>
-      <div1 n="1" type="act">
+      <div n="1" type="act">
         <head>I</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#grumio">
             <speaker>Grumio</speaker>
@@ -415,8 +415,8 @@ Added to repository.
             <lb ed="TLN" n="83"/>
             <l n="80">video, corruptum ex adulescente optumo.—</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#philolaches">
             <speaker>Philolaches</speaker>
@@ -567,8 +567,8 @@ Added to repository.
             <lb ed="TLN" n="156"/>
             <l>núnc, postquam nihilí sum, id vero meópte ingenio répperi.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#philematium">
             <speaker>Philematium</speaker>
@@ -1182,8 +1182,8 @@ Added to repository.
             <lb ed="TLN" n="312"/>
             <l>conveniunt manuplares eccos: praedam participes petunt.</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#callidamates">
             <speaker>Callidamates</speaker>
@@ -1372,11 +1372,11 @@ Added to repository.
             <lb ed="TLN" n="347"/>
             <l>age tu ínterim da ab Délphio cito cántharum circum.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="2" type="act">
+        </div>
+      </div>
+      <div n="2" type="act">
         <head>II</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#tranio">
             <speaker>Tranio</speaker>
@@ -1791,8 +1791,8 @@ Added to repository.
             <lb ed="TLN" n="430"/>
             <l>unde advenienti sarcinam imponam seni.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#theopropides">
             <speaker>Theopropides</speaker>
@@ -2295,11 +2295,11 @@ Added to repository.
             <lb ed="TLN" n="531"/>
             <l>quid ego hodie negoti confeci mali.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="3" type="act">
+        </div>
+      </div>
+      <div n="3" type="act">
         <head>III</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#misargyrides">
             <speaker>Danista</speaker>
@@ -3046,8 +3046,8 @@ Added to repository.
             <lb ed="TLN" n="689"/>
             <l n="155">igitur tum accedam hunc, quando quid agam invenero.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#simo">
             <speaker>Simo</speaker>
@@ -3861,11 +3861,11 @@ Added to repository.
             <speaker>Tr.</speaker>
             <l part="M">Equidem haud usquam a pedibus apscedam tuis.—</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="4" type="act">
+        </div>
+      </div>
+      <div n="4" type="act">
         <head>IV</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#phaniscus">
             <speaker>Phaniscus</speaker>
@@ -3920,8 +3920,8 @@ Added to repository.
             <lb ed="TLN" n="884"/>
             <l n="25">illi erunt bucaedae multo potius, quam ego sim restio.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#pinacium">
             <speaker>Pinacium</speaker>
@@ -4022,8 +4022,8 @@ Added to repository.
             <lb ed="TLN" n="903"/>
             <l n="20">exeát qui male me múlcet.</l>
           </sp>
-        </div2>
-        <div2 n="3" type="scene">
+        </div>
+        <div n="3" type="scene">
           <head>3</head>
           <sp who="#tranio">
             <speaker>Tranio</speaker>
@@ -4181,8 +4181,8 @@ Added to repository.
             <lb ed="TLN" n="932"/>
             <l>dicam ut hic res sint quietae atque hunc ut hinc amoverim.—</l>
           </sp>
-        </div2>
-        <div2 n="4" type="scene">
+        </div>
+        <div n="4" type="scene">
           <head>4</head>
           <sp who="#phaniscus">
             <speaker>Phan.</speaker>
@@ -4593,8 +4593,8 @@ Added to repository.
             <lb ed="TLN" n="992"/>
             <l>mihi, nisi ut erum metuam et curem, nihil est qui tergum tegam.—</l>
           </sp>
-        </div2>
-        <div2 n="5" type="scene">
+        </div>
+        <div n="5" type="scene">
           <head>5</head>
           <sp who="#theopropides">
             <speaker>Th.</speaker>
@@ -4858,11 +4858,11 @@ Added to repository.
             <lb ed="TLN" n="1040"/>
             <l>quis med exemplis hodie ludificatus est.</l>
           </sp>
-        </div2>
-      </div1>
-      <div1 n="5" type="act">
+        </div>
+      </div>
+      <div n="5" type="act">
         <head>V</head>
-        <div2 n="1" type="scene">
+        <div n="1" type="scene">
           <head>1</head>
           <sp who="#tranio">
             <speaker>Tranio</speaker>
@@ -5247,8 +5247,8 @@ Added to repository.
             <lb ed="TLN" n="1121"/>
             <l>Callidamatem: illo praesente mecum agito, si quid voles.</l>
           </sp>
-        </div2>
-        <div2 n="2" type="scene">
+        </div>
+        <div n="2" type="scene">
           <head>2</head>
           <sp who="#callidamates">
             <speaker>Callidamates</speaker>
@@ -5522,8 +5522,8 @@ Added to repository.
             <lb ed="TLN" n="1181"/>
             <l>spectatores, fabula haec est acta, vos plausum date.</l>
           </sp>
-        </div2>
-      </div1>
+        </div>
+      </div>
     </body>
   </text>
 </TEI>
