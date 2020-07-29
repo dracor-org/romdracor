@@ -1222,7 +1222,7 @@ Added to repository.
             <lb ed="TLN" n="319-320"/>
             <l part="I">Vnde ís? quid fers? quid féstinas?</l>
           </sp>
-          <sp who="#panegyris">
+          <sp who="#pinacium">
             <speaker>P.</speaker>
             <l part="M">Tua quód nil refert, né cures.</l>
           </sp>
@@ -1231,7 +1231,7 @@ Added to repository.
             <lb ed="TLN" n="321"/>
             <l part="I">Quid istíc inest?</l>
           </sp>
-          <sp who="#panegyris">
+          <sp who="#pinacium">
             <speaker>P.</speaker>
             <l part="M">Quas tu edés colubras.</l>
           </sp>
@@ -1477,7 +1477,7 @@ Added to repository.
             <speaker>G.</speaker>
             <l part="M">Faciam.</l>
           </sp>
-          <sp who="#panegyris">
+          <sp who="#pinacium">
             <speaker>P.</speaker>
             <l part="M">Factum oportuit.</l>
             <lb ed="TLN" n="355"/>
@@ -1792,7 +1792,7 @@ Added to repository.
             <speaker>Epig.</speaker>
             <l part="M">Vel decem, dum de tuo.</l>
           </sp>
-          <sp who="#soror">
+          <sp who="#stichus">
             <speaker>S.</speaker>
             <lb ed="TLN" n="427"/>
             <l part="I">Quid? hoc etiam unum?</l>
@@ -3143,7 +3143,7 @@ Added to repository.
             <speaker>Sang.</speaker>
             <l part="M">Veneris mera est oratio,</l>
           </sp>
-          <sp who="#stephanium">
+          <sp who="#stichus">
             <speaker>St.</speaker>
             <lb ed="TLN" n="749"/>
             <l part="I">Sangarine.</l>
@@ -3152,7 +3152,7 @@ Added to repository.
             <speaker>Sa.</speaker>
             <l part="M">Quid est?</l>
           </sp>
-          <sp who="#stephanium">
+          <sp who="#stichus">
             <speaker>St.</speaker>
             <l part="M">Totus doleo.</l>
           </sp>
@@ -3282,7 +3282,7 @@ Added to repository.
             <lb ed="TLN" n="771"/>
             <l part="I">Fac tu hóc modo.</l>
           </sp>
-          <sp who="#stephanium">
+          <sp who="#stichus">
             <speaker>St.</speaker>
             <l part="M">At tu hoc módo.</l>
           </sp>
@@ -3290,7 +3290,7 @@ Added to repository.
             <speaker>Sa.</speaker>
             <l part="M">Babae.</l>
           </sp>
-          <sp who="#stephanium">
+          <sp who="#stichus">
             <speaker>St.</speaker>
             <l part="M">Tataé.</l>
           </sp>

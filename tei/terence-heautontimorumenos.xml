@@ -438,7 +438,7 @@ new additions
       </div>
       <div n="1" type="act">
         <div n="1" type="scene">
-          <stage>CHREMES. MIENEDEMUS.</stage>
+          <stage>CHREMES. MENEDEMUS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="53"/>
@@ -1253,6 +1253,7 @@ new additions
       <div n="2" type="act">
         <div n="1" type="scene">
           <stage>CLITIPHO.</stage>
+          <sp who="#clitipho">
           <lb ed="TLN" n="213"/>
           <l>
             Quam iniqui sunt patres in omnes adolescentes iudices, 
@@ -1319,6 +1320,7 @@ new additions
             <lb ed="TLN" n="229"/>
           </l>
           <l>Hoc ego mali non pridem inveni; neque etiamdum scit pater. </l>
+          </sp>
         </div>
         <div n="2" type="scene">
           <stage>CLINIA. CLITIPHO.</stage>
@@ -2321,7 +2323,7 @@ new additions
             </l>
             <l>Ut ex illius commodo meum compararem commodum. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <l part="Y">
                Ah! 
@@ -2341,7 +2343,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Credo. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <l part="Y">
                Syre, vix suffero. 
@@ -2388,7 +2390,7 @@ new additions
             <speaker>Ba.</speaker>
             <l part="Y"> Quem vides?</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="406"/>
             <l>Salve, anime mi. </l>
@@ -2397,7 +2399,7 @@ new additions
             <speaker>An.</speaker>
             <l part="Y"> O mi exspectate, salve. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <l part="Y"> Ut vales?</l>
           </sp>
@@ -2406,7 +2408,7 @@ new additions
             <lb ed="TLN" n="407"/>
             <l>Salvum advenisse gaudeo. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <l part="Y">
                Teneone te, 
@@ -4009,6 +4011,7 @@ new additions
         </div>
         <div n="2" type="scene">
           <stage>SYRUS.</stage>
+          <sp who="#syrus">
           <lb ed="TLN" n="668"/>
           <l>
             Nisi me animus fallit, haud permultum a me aberit infortunium: 
@@ -4051,10 +4054,11 @@ new additions
             <lb ed="TLN" n="678"/>
           </l>
           <l>Retraham hercle opinor ad me idem illud fugitivum argentum tamen. </l>
+          </sp>
         </div>
         <div n="3" type="scene">
           <stage>CLINTA. SYRUS.</stage>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="679"/>
             <l>
@@ -4076,7 +4080,7 @@ new additions
             </l>
             <l n="5">Istuc tibi ex sententia tua obtigisse laetor. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="684"/>
             <l>O mi Syre, audistine obsecro? </l>
@@ -4085,7 +4089,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Quidni, qui usque una adfuerim?</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="685"/>
             <l>Cuiquam aeque audisti commodius quicquam evenisse? </l>
@@ -4094,7 +4098,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Nulli.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="686"/>
             <l>
@@ -4116,7 +4120,7 @@ new additions
             </l>
             <l>Ne quid de amica nunc senex. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <l part="Y"> O Iupiter! </l>
           </sp>
@@ -4124,7 +4128,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Quiesce.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="691"/>
             <l>Antiphila mea nubet mihi. </l>
@@ -4133,7 +4137,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Sicine mihi interloquere?</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="692"/>
             <l>Quid faciam, Syre mi? gaudeo: fer me. </l>
@@ -4142,7 +4146,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Fero hercle vero.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="693"/>
             <l n="15">Deorum vitam apti sumus. </l>
@@ -4151,7 +4155,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Frustra operam, opinor, sumo. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="694"/>
             <l>Loquere; audio. </l>
@@ -4160,7 +4164,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> At iam hoc non ages. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <l part="Y"> Agam. </l>
           </sp>
@@ -4184,7 +4188,7 @@ new additions
             </l>
             <l n="20">Si abduxeris, celabitur itidem ut celata adhuc est.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="699"/>
             <l>
@@ -4197,7 +4201,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Quidni?</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="701"/>
             <l>Quid dicam? quam causam afferam? </l>
@@ -4210,7 +4214,7 @@ new additions
             </l>
             <l>Aperte ita ut res sese habet narrato. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <l part="Y"> Quid ais? </l>
           </sp>
@@ -4222,7 +4226,7 @@ new additions
             </l>
             <l n="25">Illam te amare et velle uxorem: hanc esse Clitiphonis.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="704"/>
             <l>
@@ -4239,7 +4243,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Immo, ut recta via rem narret ordine omnem. </l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <l part="Y">
                Hem, 
@@ -4268,7 +4272,7 @@ new additions
             </l>
             <l>Vester nostro istam esse amicam gnati, non credat tamen.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="713"/>
             <l n="35">
@@ -4290,7 +4294,7 @@ new additions
             </l>
             <l>Unus est dies, dum argentum eripio: pax: nihil amplius.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="718"/>
             <l n="40">Tantum sat habes? quid tum, quaeso, si hoc pater resciverit?</l>
@@ -4300,7 +4304,7 @@ new additions
             <lb ed="TLN" n="719"/>
             <l>Quid si redeo ad illos qui aiunt, "Quid si nunc coelum ruat?"</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="720"/>
             <l>Metuo quid agam. </l>
@@ -4313,7 +4317,7 @@ new additions
             </l>
             <l>Quo velis in tempore ut te exsolvas, rem facias palam.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="722"/>
             <l>Age, age, traducatur Bacchis. </l>
@@ -4350,7 +4354,7 @@ new additions
             </l>
             <l>Decipiam, ac non veniam: Syrus mihi tergo poenas pendet.</l>
           </sp>
-          <sp who="#clitipho">
+          <sp who="#clinia">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="729"/>
             <l>Satis scite promittit tibi. </l>
@@ -5927,7 +5931,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <stage>CLITIPHO. MENEDEMITS. CHREMES. SYRUS.</stage>
+          <stage>CLITIPHO. MENEDEMUS. CHREMES. SYRUS.</stage>
           <sp who="#clitipho">
             <speaker>Cl.</speaker>
             <lb ed="TLN" n="955"/>
@@ -6486,7 +6490,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
-          <stage>MENEDEMUS. CHIREMES. CLITIPHO. SOSTRATA.</stage>
+          <stage>MENEDEMUS. CHREMES. CLITIPHO. SOSTRATA.</stage>
           <sp who="#menedemus">
             <speaker>Me.</speaker>
             <lb ed="TLN" n="1046"/>

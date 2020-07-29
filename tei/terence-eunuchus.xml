@@ -2463,7 +2463,7 @@ new additions
       <div n="3" type="act">
         <div n="1" type="scene">
           <stage>THRASO. GNATHO. PARMENO.</stage>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="390"/>
             <l>Magnas vero agere gratias Thais mihi?</l>
@@ -2473,7 +2473,7 @@ new additions
             <lb ed="TLN" n="391"/>
             <l>Ingentes.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Ain tu? laeta est?</l>
           </sp>
@@ -2497,7 +2497,7 @@ new additions
             </l>
             <l n="5">Deducam: sed eccum militem.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Est istuc datum
@@ -2510,7 +2510,7 @@ new additions
             <lb ed="TLN" n="396"/>
             <l>Adverti hercle animum.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Vel rex semper maximas
@@ -2531,7 +2531,7 @@ new additions
             </l>
             <l>Quod in te est.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Habes.</l>
           </sp>
@@ -2539,7 +2539,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Rex te ergo in oculis--</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Scilicet.</l>
           </sp>
@@ -2548,7 +2548,7 @@ new additions
             <lb ed="TLN" n="401"/>
             <l>Gestare.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Vero: credere omnem exercitum,
@@ -2560,7 +2560,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Mirum.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Tum sicubi eum satietas
@@ -2580,7 +2580,7 @@ new additions
             </l>
             <l>Quasi ubi illam exspueret iniseriam ex animo.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Tenes.
@@ -2596,7 +2596,7 @@ new additions
             </l>
             <l>Regem elegantem narras.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Immo sic homo est
@@ -2612,7 +2612,7 @@ new additions
             </l>
             <l n="20">Si tecum vivit.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Invidere omnes mihi;
@@ -2645,7 +2645,7 @@ new additions
             </l>
             <l>Iugularas hominem. Quid ille?</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Mutus ilico.</l>
           </sp>
@@ -2662,7 +2662,7 @@ new additions
             </l>
             <l>Miserumque, et ilium sacrilegum.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Quid illud Gnatho
@@ -2682,7 +2682,7 @@ new additions
             </l>
             <l>Plus millies audivi.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Una in convivio
@@ -2706,7 +2706,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Ha, ha, he.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="426"/>
             <l>Quid est?</l>
@@ -2719,7 +2719,7 @@ new additions
             </l>
             <l>Tuumne, obsecro te, hoc dictum erat? vetus credidi.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="428"/>
             <l>Audieras?</l>
@@ -2728,7 +2728,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Saepe; et fertur in primis.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Meum est.</l>
           </sp>
@@ -2746,7 +2746,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Quid ille, quaeso?</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Perditus.
@@ -2762,7 +2762,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Non iniuria.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="433"/>
             <l>
@@ -2779,7 +2779,7 @@ new additions
             </l>
             <l>Immo auge magis suspicionem.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Cur?</l>
           </sp>
@@ -2795,7 +2795,7 @@ new additions
             </l>
             <l>Facit, aut si laudat, te ut male urat.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Sentio.</l>
           </sp>
@@ -2828,7 +2828,7 @@ new additions
             </l>
             <l n="55">Par pro pari referto, quod eam mordeat.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="445"/>
             <l>Siquidem me amaret, tum istuc prodesset, Gnatho.</l>
@@ -2850,7 +2850,7 @@ new additions
             </l>
             <l n="60">Fructum ne quando iratus tu alio conferas.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="450"/>
             <l>Bene dixti: at mihi istuc non in mentem venerat.</l>
@@ -3192,7 +3192,7 @@ new additions
         </div>
         <div n="3" type="scene">
           <stage>CHREMES. PYTHIAS.</stage>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="506"/>
             <l>
@@ -3297,7 +3297,7 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> O capitulum lepidissimum!</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="531"/>
             <l>Dico ego mihi insidias fieri.</l>
@@ -3310,7 +3310,7 @@ new additions
             </l>
             <l>Te orabat opere ut eras redires.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Rus eo.</l>
           </sp>
@@ -3319,7 +3319,7 @@ new additions
             <lb ed="TLN" n="533"/>
             <l>Fac amabo.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Non possum, inquam.</l>
           </sp>
@@ -3331,7 +3331,7 @@ new additions
             </l>
             <l>Dum redeat ipsa.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Nihil minus.</l>
           </sp>
@@ -3339,7 +3339,7 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> Cur mi Chremes?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="535"/>
             <l n="30">Malam rem hinc abis?</l>
@@ -3352,7 +3352,7 @@ new additions
             </l>
             <l>Amabo ut illuc transeas ubi illa est.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Eo.</l>
           </sp>
@@ -3550,7 +3550,7 @@ new additions
             <l n="25">Pro eunuchon?</l>
           </sp>
           <sp who="#chaerea">
-            <speaker>CA.</speaker>
+            <speaker>Ch.</speaker>
             <l part="Y"> Sic est.</l>
           </sp>
           <sp who="#antipho">
@@ -4518,7 +4518,7 @@ new additions
         </div>
         <div n="5" type="scene">
           <stage>CHREMES. PYTHIAS.</stage>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="726"/>
             <l>
@@ -4536,7 +4536,7 @@ new additions
             <lb ed="TLN" n="729"/>
             <l>Chreme!</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y">
                Quis est? ehem Pythias. Vah, quanto nunc formosior
@@ -4548,7 +4548,7 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> Certe tu quidem pol et multo hilarior.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="731"/>
             <l>
@@ -4561,7 +4561,7 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> Anne abiit iam a milite?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="733"/>
             <l>Iamdudum; aetatem: lites sunt inter eos factae maximae.</l>
@@ -4571,7 +4571,7 @@ new additions
             <lb ed="TLN" n="734"/>
             <l>Nihil dixit ut sequerere sese?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Nihil, nisi abiens mihi innuit.</l>
           </sp>
@@ -4580,7 +4580,7 @@ new additions
             <lb ed="TLN" n="735"/>
             <l n="10">Eho, nonne id sat erat?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y">
                At nescibam id dicere illam; nisi quia
@@ -4612,7 +4612,7 @@ new additions
             </l>
             <l>Verba dum sint: verum enim si ad rem conferentur, vapulabit.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="742"/>
             <l n="5">Thais, ego iam dudum hic adsum.</l>
@@ -4629,7 +4629,7 @@ new additions
             </l>
             <l>Omnem rem?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Ad me? qui, quaeso, istuc?</l>
           </sp>
@@ -4641,7 +4641,7 @@ new additions
             </l>
             <l>Reddere et restituere, haec atque huiusmodi sum multa passa.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="746"/>
             <l>Ubi ea est?</l>
@@ -4650,7 +4650,7 @@ new additions
             <speaker>Th.</speaker>
             <l part="Y"> Domi apud me.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Hem, quid est?</l>
           </sp>
@@ -4659,7 +4659,7 @@ new additions
             <lb ed="TLN" n="747"/>
             <l n="10">Educta ita uti teque illaque dignum est.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Quid ais?</l>
           </sp>
@@ -4671,7 +4671,7 @@ new additions
             </l>
             <l>Hanc tibi dono do, neque repeto pro illa quicquam abs te preti.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="749"/>
             <l>Et habetur et referetur, Thais, a me ita uti merita es gratia.</l>
@@ -4689,7 +4689,7 @@ new additions
             </l>
             <l n="15">Abi tu, cistellam, Pythias, domo effer cum monumentis.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="753"/>
             <l>Viden tu ilium, Thais--</l>
@@ -4702,7 +4702,7 @@ new additions
             <speaker>Th.</speaker>
             <l part="Y"> In risco. Odiosa cessas?--</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="754"/>
             <l>
@@ -4715,7 +4715,7 @@ new additions
             <speaker>Th.</speaker>
             <l part="Y"> Num formidolosus obsecro es, mi homo?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y">
                Apage sis:
@@ -4728,7 +4728,7 @@ new additions
             <lb ed="TLN" n="757"/>
             <l n="20">Atque ita opus est.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Ah, metuo qualem tu me esse hominem existimes.</l>
           </sp>
@@ -4741,7 +4741,7 @@ new additions
             </l>
             <l>Minus potens quam tu, minus notus, minus amicorum hic habens.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="760"/>
             <l>
@@ -4762,7 +4762,7 @@ new additions
             <speaker>Th.</speaker>
             <l part="Y"> Mane.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="764"/>
             <l>Melius est.</l>
@@ -4771,8 +4771,8 @@ new additions
             <speaker>Th.</speaker>
             <l part="Y"> Mane.</l>
           </sp>
-          <sp who="#chaerea">
-            <speaker>Chl.</speaker>
+          <sp who="#chremes">
+            <speaker>Ch.</speaker>
             <l part="Y"> Omitte; iam adero.</l>
           </sp>
           <sp who="#thais">
@@ -4799,7 +4799,7 @@ new additions
             </l>
             <l n="30">Si vim faciet, in ius ducito hominem: intellextin?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Probe.</l>
           </sp>
@@ -4808,7 +4808,7 @@ new additions
             <lb ed="TLN" n="768"/>
             <l>Fac animo haec praesenti dicas.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Faciam.</l>
           </sp>
@@ -4911,7 +4911,7 @@ new additions
             <lb ed="TLN" n="782"/>
             <l>Idem hoc iam Pyrrhus factitavit.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y">
                Viden tu Thais quam hic rem agit?
@@ -5005,7 +5005,7 @@ new additions
             <speaker>Thr.</speaker>
             <l part="Y"> Pamphilam ergo huc redde, nisi vi mavis eripi.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="796"/>
             <l>Tibi illam reddat? aut tu illam tangas omnium --?</l>
@@ -5019,7 +5019,7 @@ new additions
             <lb ed="TLN" n="797"/>
             <l>Quid tu tibi vis? ego non tangam meam?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Tuam autem furcifer!</l>
           </sp>
@@ -5028,7 +5028,7 @@ new additions
             <lb ed="TLN" n="798"/>
             <l>Cave sis; nescis cui nunc male dicas viro.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y">
                Non tu hinc abis?
@@ -5045,7 +5045,7 @@ new additions
             <lb ed="TLN" n="801"/>
             <l>Miseret tui me qui hunc tantum hominem facias inimicum tibi.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="802"/>
             <l>Diminuam ego caput tuum hodie, nisi abis.</l>
@@ -5062,7 +5062,7 @@ new additions
             <speaker>Thr.</speaker>
             <l part="Y"> Quis tu es homo? quid tibi vis? quid cum illa rei tibi est?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="804"/>
             <l n="35">Scibis: principio eam esse dico liberam.</l>
@@ -5071,7 +5071,7 @@ new additions
             <speaker>Thr.</speaker>
             <l part="Y"> Tem!</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Civem Atticam.</l>
           </sp>
@@ -5079,7 +5079,7 @@ new additions
             <speaker>Thr.</speaker>
             <l part="Y"> Hui!</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="805"/>
             <l>Meam sororem.</l>
@@ -5088,7 +5088,7 @@ new additions
             <speaker>Thr.</speaker>
             <l part="Y"> Os durum!</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y">
                Miles, nunc adeo edico tibi
@@ -5108,7 +5108,7 @@ new additions
             </l>
             <l>Meam ne tangam?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Prohibeo, inquam.</l>
           </sp>
@@ -5407,7 +5407,7 @@ new additions
             <l part="Y"> Satin id tibi placet?</l>
           </sp>
           <sp who="#chaerea">
-            <speaker>Ct.</speaker>
+            <speaker>Ch.</speaker>
             <lb ed="TLN" n="851"/>
             <l>Non.</l>
           </sp>
@@ -5424,7 +5424,7 @@ new additions
             <l>Mitte: si aliam admisero umquam, occidito.</l>
           </sp>
           <sp who="#thais">
-            <speaker>Tt.</speaker>
+            <speaker>Th.</speaker>
             <lb ed="TLN" n="853"/>
             <l n="15">Num meam saevitiam veritus es?</l>
           </sp>
@@ -5780,7 +5780,7 @@ new additions
             </l>
             <l>Qui hunc supposuit nobis?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y">
                Move vero ocius
@@ -5792,7 +5792,7 @@ new additions
             <speaker>So.</speaker>
             <l part="Y"> Moveo.</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Video; sed nihil promoves.</l>
           </sp>
@@ -5801,7 +5801,7 @@ new additions
             <lb ed="TLN" n="913"/>
             <l n="5">Iamne ostendisti signa nutrici?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Omnia.</l>
           </sp>
@@ -5810,7 +5810,7 @@ new additions
             <lb ed="TLN" n="914"/>
             <l>Amabo quid ait? cognoscitne?</l>
           </sp>
-          <sp who="#chaerea">
+          <sp who="#chremes">
             <speaker>Ch.</speaker>
             <l part="Y"> Ac memoriter.</l>
           </sp>
@@ -5845,7 +5845,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <stage>PARMENO. PYHIAS.</stage>
+          <stage>PARMENO. PYTHIAS.</stage>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="922"/>
@@ -6458,7 +6458,7 @@ new additions
             <lb ed="TLN" n="1024"/>
             <l>Quid nunc? qua spe aut quo consilio huc imus? quid inceptas, Thraso?</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="1025"/>
             <l>Egone? ut Thaidi me dedam, et faciam quod iubeat.</l>
@@ -6467,7 +6467,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Quid est?</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="1026"/>
             <l>Qui minus quam Hercules servivit Omphalae?</l>
@@ -6484,7 +6484,7 @@ new additions
             </l>
             <l n="5">Sed fores crepuerunt ab ea.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Perii. Quid hoc autem est mali?
@@ -6580,7 +6580,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Visam domum.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="1042"/>
             <l>Numquid, Gnatho, tu dubitas quin ego nunc perpetuo perierim?</l>
@@ -6644,7 +6644,7 @@ new additions
             <lb ed="TLN" n="1052"/>
             <l>Mihi illam laudas?</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Perii, quanto minus spei est, tanto magis amo.
@@ -6656,7 +6656,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Quid vis faciam?</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Perfice hoc
@@ -6669,7 +6669,7 @@ new additions
             <lb ed="TLN" n="1055"/>
             <l>Difficile est.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Si quid conlibuit, novi te: hoc si effeceris,
@@ -6682,7 +6682,7 @@ new additions
             <lb ed="TLN" n="1057"/>
             <l>Itane?</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Sic erit.</l>
           </sp>
@@ -6698,7 +6698,7 @@ new additions
             </l>
             <l n="30">Semper.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Do fidem futurum.</l>
           </sp>
@@ -6714,7 +6714,7 @@ new additions
             </l>
             <l>O Thraso!</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Salvete.</l>
           </sp>
@@ -6726,7 +6726,7 @@ new additions
             </l>
             <l>Nescis.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Scio.</l>
           </sp>
@@ -6734,7 +6734,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Cur te ergo in his ego conspicor regionibus?</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="1062"/>
             <l>Vobis fretus.</l>
@@ -6907,7 +6907,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Thraso, ubi vis accede.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y"> Obsecro te, quid agimus?</l>
           </sp>
@@ -6924,7 +6924,7 @@ new additions
             </l>
             <l>Impetravi.</l>
           </sp>
-          <sp who="#thais">
+          <sp who="#thraso">
             <speaker>Th.</speaker>
             <l part="Y">
                Bene fecisti: gratiam habeo maximam.

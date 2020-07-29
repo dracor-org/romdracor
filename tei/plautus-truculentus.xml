@@ -3124,7 +3124,7 @@ Added to repository.
             <lb ed="TLN" n="799"/>
             <l n="25" part="I">Loquere tu. quid eo fecisti puero?</l>
           </sp>
-          <sp who="#truculentus">
+          <sp who="#tonstrix">
             <speaker>T.</speaker>
             <l part="M">Ad meam eram detuli.</l>
           </sp>
@@ -3161,7 +3161,7 @@ Added to repository.
             <lb ed="TLN" n="803"/>
             <l part="I">Plus quam dudum [inqua] loquere.</l>
           </sp>
-          <sp who="#truculentus">
+          <sp who="#tonstrix">
             <speaker>T.</speaker>
             <l part="M">Plus tu rogitas.</l>
           </sp>
@@ -3171,7 +3171,7 @@ Added to repository.
             <lb ed="TLN" n="804"/>
             <l n="30" part="I">quid illa cui donatus &lt;puer&gt; est?</l>
           </sp>
-          <sp who="#truculentus">
+          <sp who="#tonstrix">
             <speaker>T.</speaker>
             <l part="M">Supposivit.</l>
           </sp>
@@ -3179,7 +3179,7 @@ Added to repository.
             <speaker>C.</speaker>
             <l part="M">Cui?</l>
           </sp>
-          <sp who="#truculentus">
+          <sp who="#tonstrix">
             <speaker>T.</speaker>
             <l part="M">Sibi.</l>
           </sp>
@@ -3188,7 +3188,7 @@ Added to repository.
             <lb ed="TLN" n="805"/>
             <l part="I">Pro filiolon?</l>
           </sp>
-          <sp who="#truculentus">
+          <sp who="#tonstrix">
             <speaker>T.</speaker>
             <l part="M">Pro filiolo.</l>
           </sp>
@@ -3541,7 +3541,7 @@ Added to repository.
             <speaker>Phron.</speaker>
             <l part="M">Quid est, obsecro?</l>
           </sp>
-          <sp who="#ancilla">
+          <sp who="#astaphium">
             <speaker>A.</speaker>
             <lb ed="TLN" n="890"/>
             <l part="I">&lt;Pater&gt; adest pueri.</l>
@@ -3550,7 +3550,7 @@ Added to repository.
             <speaker>Ph.</speaker>
             <l part="M">Sine eumpse adire huc. sine, si is est modo.</l>
           </sp>
-          <sp who="#ancilla">
+          <sp who="#astaphium">
             <speaker>A.</speaker>
             <lb ed="TLN" n="891"/>
             <l part="I">&lt;Ipsus est&gt;.</l>
@@ -3559,7 +3559,7 @@ Added to repository.
             <speaker>Ph.</speaker>
             <l part="M">Sine eumpse adire, ut cupit, ad me.</l>
           </sp>
-          <sp who="#ancilla">
+          <sp who="#astaphium">
             <speaker>A.</speaker>
             <l part="M">Rectam tenet.</l>
           </sp>
@@ -3602,7 +3602,7 @@ Added to repository.
             <speaker>St.</speaker>
             <l part="M">Ecquid, Astaphium, litiumst?</l>
           </sp>
-          <sp who="#ancilla">
+          <sp who="#astaphium">
             <speaker>A.</speaker>
             <lb ed="TLN" n="898"/>
             <l part="I">Merito ecastor tibi succenset.</l>

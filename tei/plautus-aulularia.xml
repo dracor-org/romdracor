@@ -857,7 +857,7 @@ Added to repository.
             <lb ed="TLN" n="213"/>
             <l part="I">Quid fide?</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Bona.</l>
           </sp>
@@ -865,7 +865,7 @@ Added to repository.
             <speaker>M.</speaker>
             <l part="M">Quid factis?</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Neque malis neque improbis.</l>
           </sp>
@@ -986,7 +986,7 @@ Added to repository.
             <speaker>M.</speaker>
             <l part="M">Quíd tibi est?</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Quid crepuit quasi ferrum modo?—</l>
           </sp>
@@ -2395,7 +2395,7 @@ Added to repository.
             <speaker>Strob.</speaker>
             <l part="M">Quid agám?</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Auferre non potes.</l>
           </sp>
@@ -2474,7 +2474,7 @@ Added to repository.
             <lb ed="TLN" n="647"/>
             <l n="20" part="I">Tuo arbitratu.</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Ne inter tunicas habeas.</l>
           </sp>
@@ -2495,7 +2495,7 @@ Added to repository.
             <speaker>S.</speaker>
             <l part="M">Em.</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Nunc laevam ostende.</l>
           </sp>
@@ -2503,7 +2503,7 @@ Added to repository.
             <speaker>S.</speaker>
             <l part="M">Quin equidem ambas profero.</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <lb ed="TLN" n="651"/>
             <l part="I">Iam scrutari mitto. redde huc.</l>
@@ -2512,7 +2512,7 @@ Added to repository.
             <speaker>S.</speaker>
             <l part="M">Quid reddam?</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">A, nugas agis,</l>
             <lb ed="TLN" n="652"/>
@@ -2522,7 +2522,7 @@ Added to repository.
             <speaker>S.</speaker>
             <l part="M">Habeo ego? quid habeo?</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Non dico, audire expetis.</l>
             <lb ed="TLN" n="653"/>
@@ -2560,7 +2560,7 @@ Added to repository.
             <speaker>S.</speaker>
             <l part="M">Abeo.</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Cave sis † te videam.—</l>
           </sp>
@@ -2811,7 +2811,7 @@ Added to repository.
             <lb ed="TLN" n="735"/>
             <l n="5" part="I">Id quod verumst.</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Quid ego &lt;de te&gt; commerui, adulescens, mali,</l>
             <lb ed="TLN" n="736"/>
@@ -2934,7 +2934,7 @@ Added to repository.
             <lb ed="TLN" n="761"/>
             <l part="I">Surripui ego tuom? unde? aut quid id est?</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Ita te amabit Iuppiter,</l>
             <lb ed="TLN" n="762"/>
@@ -2996,7 +2996,7 @@ Added to repository.
             <speaker>Lyc.</speaker>
             <l part="M">Bona.</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <lb ed="TLN" n="773"/>
             <l part="I">Neque &lt;eum&gt; scis qui abstulerit?</l>
@@ -3005,7 +3005,7 @@ Added to repository.
             <speaker>L.</speaker>
             <l part="M">Istuc quoque bona.</l>
           </sp>
-          <sp who="#eunomia">
+          <sp who="#euclio">
             <speaker>E.</speaker>
             <l part="M">Atque id si scies</l>
             <lb ed="TLN" n="774"/>

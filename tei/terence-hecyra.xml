@@ -1172,7 +1172,7 @@ new additions
             </l>
             <l>Ei ludo, si ullus est, magistram hanc esse satis certo scio.</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <lb ed="TLN" n="206"/>
             <l>Me miseram, quae nunc quamobrem accuser nescio.</l>
@@ -1185,7 +1185,7 @@ new additions
             </l>
             <l>Tu nescis?</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <l part="Y">
                Non, ita me Di bene ament, mi Lache.
@@ -1197,7 +1197,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Di mala prohibeant.</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <lb ed="TLN" n="209"/>
             <l>Meque abs te immerito esse accusatam postmodum rescisces.</l>
@@ -1226,7 +1226,7 @@ new additions
             </l>
             <l>Tu sola exorere quae perturbes haec tua impudentia.</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <lb ed="TLN" n="215"/>
             <l>Egone?</l>
@@ -1287,7 +1287,7 @@ new additions
             </l>
             <l n="30">Non te pro his curasse rebus ne quid aegre esset mihi?</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <lb ed="TLN" n="229"/>
             <l>Non mea opera neque pol culpa evenit.</l>
@@ -1312,7 +1312,7 @@ new additions
             </l>
             <l n="35">Illius dices culpa factum.</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <l part="Y"> Haud equidem dico, mi Lache.</l>
           </sp>
@@ -1325,7 +1325,7 @@ new additions
             </l>
             <l>Satis scio peccando detrimenti nihil fieri potest.</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <lb ed="TLN" n="236"/>
             <l>
@@ -1342,7 +1342,7 @@ new additions
             </l>
             <l n="40">Quod heri nemo voluit visentem ad eam te intro admittere?</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <lb ed="TLN" n="239"/>
             <l>Enim lassam oppido tum esse aibant: eo ad eam non admissa sum.</l>
@@ -1503,7 +1503,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Hem, Sostrata!</l>
           </sp>
-          <sp who="#sosia">
+          <sp who="#sostrata">
             <speaker>So.</speaker>
             <l part="Y"> Heu me miseram!</l>
           </sp>
@@ -1612,7 +1612,7 @@ new additions
             <l>Levia sunt haec quae tu pergravia esse in animum induxti tuum.</l>
           </sp>
           <sp who="#pamphilus">
-            <speaker>Paw.</speaker>
+            <speaker>Pam.</speaker>
             <lb ed="TLN" n="294"/>
             <l>
               Quid consolare me? an quisquam usquam gentium est aeque miser?
@@ -2256,7 +2256,7 @@ new additions
             <lb ed="TLN" n="416"/>
             <l>Ain tu tibi hoc incommodum evenisse iter?</l>
           </sp>
-          <sp who="#sostrata">
+          <sp who="#sosia">
             <speaker>So.</speaker>
             <lb ed="TLN" n="417"/>
             <l>
@@ -2270,7 +2270,7 @@ new additions
             <lb ed="TLN" n="419"/>
             <l>Itane est?</l>
           </sp>
-          <sp who="#sostrata">
+          <sp who="#sosia">
             <speaker>So.</speaker>
             <l part="Y">
                O fortunate, nescis quid mali
@@ -2299,7 +2299,7 @@ new additions
             <lb ed="TLN" n="425"/>
             <l n="10">Odiosum.</l>
           </sp>
-          <sp who="#sostrata">
+          <sp who="#sosia">
             <speaker>So.</speaker>
             <l part="Y">
                Haud clam me est: denique hercle aufugerim
@@ -2851,7 +2851,7 @@ new additions
             <l>Atque eccam video. Quid ais, Myrrhina? Heus, tibi dico.</l>
           </sp>
           <sp who="#myrrhina">
-            <speaker>MIy.</speaker>
+            <speaker>My.</speaker>
             <l part="Y"> Mihine, mi vir?</l>
           </sp>
           <sp who="#phidippus">
@@ -3147,7 +3147,7 @@ new additions
             </l>
             <l>Quin tua Philumema ad te redeat.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y">
                Quaeso, quid istuc consili est?
@@ -3203,7 +3203,7 @@ new additions
             </l>
             <l>Sine me obsecro hoc effugere vulgus quod male audit mulierum.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="602"/>
             <l n="25">
@@ -3228,7 +3228,7 @@ new additions
             </l>
             <l>Mi gnate, da veniam hanc mihi: reduce illam.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y"> Vae misero mihi!</l>
           </sp>
@@ -3279,7 +3279,7 @@ new additions
             <speaker>So.</speaker>
             <l part="Y"> Ita ut iubes faciam.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y"> Pater.</l>
           </sp>
@@ -3288,7 +3288,7 @@ new additions
             <lb ed="TLN" n="614"/>
             <l>Quid vis, Pamphile?</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y"> Hinc abire matrem? minime.</l>
           </sp>
@@ -3296,7 +3296,7 @@ new additions
             <speaker>La.</speaker>
             <l part="Y"> Quid ita istuc vis?</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="615"/>
             <l>Quia de uxore incertus sum etiam quid sim facturus.</l>
@@ -3309,7 +3309,7 @@ new additions
             </l>
             <l>Quid vis facere nisi reducere?</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y">
                Equidem cupio; et vix contineor;
@@ -3374,7 +3374,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Quid est?</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="629"/>
             <l>Quid respondebo his? aut quo pacto hoc aperiam?</l>
@@ -3404,7 +3404,7 @@ new additions
             </l>
             <l>Mutatio fit: ea nos perturbat, Lache.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="635"/>
             <l>Dum ne reducam, turbent porro quam velint.</l>
@@ -3426,7 +3426,7 @@ new additions
             </l>
             <l>Accipias puerum.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y"> Sensit peperisse; occidi.</l>
           </sp>
@@ -3473,7 +3473,7 @@ new additions
             <lb ed="TLN" n="648"/>
             <l n="25">Non tibi illud factum minus placet quam mihi, Lache.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="649"/>
             <l>
@@ -3487,7 +3487,7 @@ new additions
             <lb ed="TLN" n="651"/>
             <l>Nulla tibi, Pamphile, hic iam consultatio est.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="652"/>
             <l>Perii.</l>
@@ -3504,7 +3504,7 @@ new additions
             </l>
             <l>Evenit: habeo gratiam Dis.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y"> Nullus sum.</l>
           </sp>
@@ -3513,7 +3513,7 @@ new additions
             <lb ed="TLN" n="655"/>
             <l>Reduc uxorem, ac noli adversari mihi.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="656"/>
             <l>
@@ -3587,7 +3587,7 @@ new additions
             </l>
             <l>Ut alamus nostrum.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y">
                Quem ipse neglexit pater
@@ -3683,7 +3683,7 @@ new additions
             </l>
             <l n="70">Video esse.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y"> Mene?</l>
           </sp>
@@ -3711,7 +3711,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Plane hic divinat; nam id est.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="698"/>
             <l n="75">Dabo iusiurandum nihil esse istorum tibi.</l>
@@ -3724,7 +3724,7 @@ new additions
             </l>
             <l>Reduc uxorem: aut quamobrem non opus sit cedo.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="700"/>
             <l>Non est nunc tempus.</l>
@@ -3737,7 +3737,7 @@ new additions
             </l>
             <l>In culpa non est: post de matre videro.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="702"/>
             <l>
@@ -4437,7 +4437,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <stage>PAMIPHILUS. PARMENO. BACCHIS.</stage>
+          <stage>PAMPHILUS. PARMENO. BACCHIS.</stage>
           <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <lb ed="TLN" n="843"/>
@@ -4458,13 +4458,9 @@ new additions
           </sp>
           <sp who="#parmeno">
             <speaker>Par.</speaker>
-            <l part="Y">   </l>
+            <l part="Y"> Certe.</l>
           </sp>
-          <sp who="#parmeno">
-            <speaker>Certe.</speaker>
-            <l part="Y">   </l>
-          </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pam.</speaker>
             <l part="Y"> Deus sum, si hoc ita est.</l>
           </sp>

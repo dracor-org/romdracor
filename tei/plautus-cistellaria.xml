@@ -872,6 +872,19 @@ Added to repository.
               </sp>
             </quote>
           </cit>
+          <sp who="#servus">
+            <speaker>Serv.</speaker>
+            <lb ed="TLN" n="233"/>
+            <l part="I">Séd quid istuc?</l>
+          </sp>          
+          <sp who="#alcesimarchus">
+            <speaker>Alc.</speaker>
+            <l part="M">Mala multa dici mihi volo.</l>
+          </sp>          
+          <sp who="#servus">
+            <speaker>Serv.</speaker>
+            <l part="M">Qua gratia?</l>
+          </sp>          
           <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="234"/>
@@ -996,8 +1009,11 @@ Added to repository.
             <l>Quid tu ergo * te manuleo</l>
             <lb ed="TLN" n="253"/>
             <l>* * *</l>
+          </sp>
+          <sp who="#alcesimarchus">
             <lb ed="TLN" n="273"/>
-            <l part="I">{(&amp;7Alc&amp;.)} Quid si amo? *</l>
+            <speaker>{(&amp;Alc.&amp;)}</speaker>
+            <l part="I">Quid si amo? *</l>
           </sp>
           <sp who="#gymnasium">
             <speaker>(T.)</speaker>
@@ -1023,8 +1039,11 @@ Added to repository.
             <l>* ne ament.</l>
             <lb ed="TLN" n="282"/>
             <l>* * *</l>
+          </sp>
+          <sp who="#alcesimarchus">
+            <speaker>{(&amp;Alc.&amp;)}</speaker>
             <lb ed="TLN" n="283"/>
-            <l part="I">{(&amp;7Alc&amp;.)} * ubi tu es?</l>
+            <l part="I">* ubi tu es?</l>
           </sp>
           <sp who="#servus">
             <speaker>Serv.</speaker>
@@ -1478,8 +1497,11 @@ Added to repository.
             <l>non illa * qui frangant foedera</l>
             <lb ed="TLN" n="461"/>
             <l n="150">* eos *</l>
+          </sp>
+          <sp who="#selenium">
+            <speaker>{(&amp;Sel.&amp;)}</speaker>
             <lb ed="TLN" n="462"/>
-            <l>{(&amp;7Sel&amp;.)} dabis.—</l>
+            <l>dabis.—</l>
           </sp>
           <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
@@ -1526,8 +1548,11 @@ Added to repository.
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="473"/>
             <l>Nescia *</l>
+          </sp>
+          <sp who="#melaenis">
+            <speaker>* {(&amp;Mel.&amp;)}</speaker>
             <lb ed="TLN" n="474"/>
-            <l>* {(&amp;7Mel&amp;.)} nugas agis.</l>
+            <l>nugas agis.</l>
             <lb ed="TLN" n="475"/>
             <l>* * *</l>
           </sp>
@@ -1537,8 +1562,11 @@ Added to repository.
             <l n="165">Supplicium dabo *</l>
             <lb ed="TLN" n="478"/>
             <l>quo modo ego *</l>
+          </sp>
+          <sp who="#melaenis">
+            <speaker>* {(&amp;Mel.&amp;)}</speaker>
             <lb ed="TLN" n="479"/>
-            <l>* {(&amp;7Mel&amp;.)} quia es nactus novam,</l>
+            <l>quia es nactus novam,</l>
             <lb ed="TLN" n="480"/>
             <l>quae * quaedam quasi tu nescias.</l>
             <lb ed="TLN" n="481"/>
@@ -1572,7 +1600,11 @@ Added to repository.
           <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="487"/>
-            <l n="175">Instruxi illi aurum atque vestem. {(&amp;7Mel&amp;.)} *</l>
+            <l n="175" part="I">Instruxi illi aurum atque vestem.</l>
+          </sp>
+          <sp who="#melaenis">
+            <speaker>{(&amp;Mel.&amp;)}</speaker>
+            <l part="M">*</l>
             <lb ed="TLN" n="488"/>
             <l>siquidem amabas, * illi instrui.</l>
             <lb ed="TLN" n="489"/>
@@ -1580,7 +1612,11 @@ Added to repository.
             <lb ed="TLN" n="490"/>
             <l>instruxisti *</l>
             <lb ed="TLN" n="491"/>
-            <l>tibi ita ut voluisti * {(&amp;7Alc&amp;.)} quod volo.</l>
+            <l part="I">tibi ita ut voluisti *</l>
+          </sp>
+          <sp who="#alcesimarchus">
+            <speaker>{(&amp;Alc.&amp;)}</speaker>
+            <l part="M">quod volo.</l>
           </sp>
           <sp who="#melaenis">
             <speaker>Mel.</speaker>

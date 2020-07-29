@@ -3654,7 +3654,7 @@ Added to repository.
             <lb ed="TLN" n="869"/>
             <l part="I">Tace modo. ne &lt;ego&gt; illum ecastor miserum habebo.</l>
           </sp>
-          <sp who="#philaenium">
+          <sp who="#parasitus">
             <speaker>P.</speaker>
             <l part="M">Ego istúc scio,</l>
             <lb ed="TLN" n="870"/>
@@ -3684,11 +3684,11 @@ Added to repository.
             <lb ed="TLN" n="877"/>
             <l part="I">Nihil ecastor est quod facere mavelim.</l>
           </sp>
-          <sp who="#philaenium">
+          <sp who="#parasitus">
             <speaker>P.</speaker>
             <l part="M">Mane dum.</l>
           </sp>
-          <sp who="#argyrippus">
+          <sp who="#artemona">
             <speaker>A.</speaker>
             <l part="M">Quid est?</l>
           </sp>
@@ -3699,20 +3699,20 @@ Added to repository.
             <lb ed="TLN" n="879"/>
             <l>cum corona amplexum amicam, si videas, cognoscere?</l>
           </sp>
-          <sp who="#argyrippus">
+          <sp who="#artemona">
             <speaker>A.</speaker>
             <lb ed="TLN" n="880"/>
             <l n="30" part="I">Possum ecastor.</l>
           </sp>
-          <sp who="#philaenium">
+          <sp who="#parasitus">
             <speaker>P.</speaker>
             <l part="M">Em tibi hominem.</l>
           </sp>
-          <sp who="#argyrippus">
+          <sp who="#artemona">
             <speaker>A.</speaker>
             <l part="M">Perii.</l>
           </sp>
-          <sp who="#philaenium">
+          <sp who="#parasitus">
             <speaker>P.</speaker>
             <l part="M">Paulisper mane.</l>
             <lb ed="TLN" n="881"/>
@@ -3834,7 +3834,7 @@ Added to repository.
             <speaker>D.</speaker>
             <l part="M">Periisse cupio.</l>
           </sp>
-          <sp who="#philaenium">
+          <sp who="#parasitus">
             <speaker>P.</speaker>
             <l part="M">Amat homo hic te, ut praedicat.</l>
           </sp>

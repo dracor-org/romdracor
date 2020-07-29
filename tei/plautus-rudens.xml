@@ -4961,7 +4961,7 @@ Added to repository.
             <lb ed="TLN" n="1182"/>
             <l>Eamus intro ómnes, quando óperam promiscam damus.—</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#palaestra">
             <speaker>P.</speaker>
             <lb ed="TLN" n="1183"/>
             <l part="I">Sequere me, Ampelisca.—</l>
@@ -5336,7 +5336,7 @@ Added to repository.
             <speaker>Trach.</speaker>
             <l part="M">Censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <lb ed="TLN" n="1271"/>
             <l part="I">Quid matri eius?</l>
@@ -5345,7 +5345,7 @@ Added to repository.
             <speaker>T.</speaker>
             <l part="M">Censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <l part="M">Quid ergo censes?</l>
           </sp>
@@ -5372,7 +5372,7 @@ Added to repository.
             <speaker>Trach.</speaker>
             <l part="M">Censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <lb ed="TLN" n="1274"/>
             <l n="10" part="I">Quid si curram?</l>
@@ -5381,7 +5381,7 @@ Added to repository.
             <speaker>T.</speaker>
             <l part="M">Censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <l part="M">An sic potius placide?</l>
           </sp>
@@ -5389,7 +5389,7 @@ Added to repository.
             <speaker>T.</speaker>
             <l part="M">Censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <lb ed="TLN" n="1275"/>
             <l part="I">Etiamne eam ádveniens salutem?</l>
@@ -5398,7 +5398,7 @@ Added to repository.
             <speaker>T.</speaker>
             <l part="M">Censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <l part="M">Etiam patrem?</l>
           </sp>
@@ -5407,7 +5407,7 @@ Added to repository.
             <lb ed="TLN" n="1276"/>
             <l part="I">Censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <l part="M">Post eius matrem?</l>
           </sp>
@@ -5415,7 +5415,7 @@ Added to repository.
             <speaker>T.</speaker>
             <l part="M">Censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <l part="M">Quid postea?</l>
             <lb ed="TLN" n="1277"/>
@@ -5425,7 +5425,7 @@ Added to repository.
             <speaker>Trach.</speaker>
             <l part="M">Non censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <lb ed="TLN" n="1278"/>
             <l part="I">Quid matrem?</l>
@@ -5434,7 +5434,7 @@ Added to repository.
             <speaker>T.</speaker>
             <l part="M">Non censeo.</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <l part="M">Quid eampse illam?</l>
           </sp>
@@ -5452,7 +5452,7 @@ Added to repository.
             <lb ed="TLN" n="1280"/>
             <l part="I">Sanus non es. sequere.—</l>
           </sp>
-          <sp who="#ptolemocratia">
+          <sp who="#plesidippus">
             <speaker>P.</speaker>
             <l part="M">Duc me, mi patrone, quo libet. —</l>
           </sp>
@@ -5784,7 +5784,7 @@ Added to repository.
             <speaker>L.</speaker>
             <l part="M">Teneo.</l>
           </sp>
-          <sp who="#charmides">
+          <sp who="#gripus">
             <speaker>C.</speaker>
             <l part="M">Deiera te mi argentum daturum</l>
             <lb ed="TLN" n="1337"/>

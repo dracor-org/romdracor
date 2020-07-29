@@ -2479,7 +2479,7 @@ Added to repository.
             <lb ed="TLN" n="569"/>
             <l n="40" part="I">Quid? duas?</l>
           </sp>
-          <sp who="#puer">
+          <sp who="#pistoclerus">
             <speaker>P.</speaker>
             <l part="M">Átque ambas sorores.</l>
           </sp>
@@ -2803,7 +2803,7 @@ Added to repository.
             <speaker>Mn.</speaker>
             <l part="M">Nugae. &lt;vale&gt;.</l>
           </sp>
-          <sp who="#parasitus">
+          <sp who="#pistoclerus">
             <speaker>P.</speaker>
             <lb ed="TLN" n="639"/>
             <l part="I">Mane.</l>
@@ -2812,7 +2812,7 @@ Added to repository.
             <speaker>M.</speaker>
             <l part="M">Quid est?</l>
           </sp>
-          <sp who="#parasitus">
+          <sp who="#pistoclerus">
             <speaker>P.</speaker>
             <l part="M">Tuam cópiam eccam Chrysalum video. &lt;tace.&gt;</l>
           </sp>
@@ -3118,7 +3118,7 @@ Added to repository.
             <speaker>C.</speaker>
             <l part="M">Stilum, ceram et tabellas, linum.</l>
           </sp>
-          <sp who="#parasitus">
+          <sp who="#pistoclerus">
             <speaker>P.</speaker>
             <l part="M">Iam faxo hic erunt.—</l>
           </sp>
@@ -3263,7 +3263,7 @@ Added to repository.
             <speaker>Chrys.</speaker>
             <l part="M">Celerem oportet esse amatoris manum.</l>
           </sp>
-          <sp who="#parasitus">
+          <sp who="#pistoclerus">
             <speaker>P.</speaker>
             <lb ed="TLN" n="738"/>
             <l>Atque † idem hercle em perdundum magis quam ad scribundumst cito.</l>
@@ -4744,7 +4744,7 @@ Added to repository.
             <speaker>Nic.</speaker>
             <l part="M">Vnde homo miser átque infortunátus.</l>
           </sp>
-          <sp who="#parasitus">
+          <sp who="#philoxenus">
             <speaker>P.</speaker>
             <lb ed="TLN" n="1107"/>
             <l>At pól ego ibi sum, esse ubi míserum hominem decet átque infortunátum.</l>
@@ -5032,7 +5032,7 @@ Added to repository.
             <lb ed="TLN" n="1156"/>
             <l part="I">Quid est quód pudeat?</l>
           </sp>
-          <sp who="#parasitus">
+          <sp who="#philoxenus">
             <speaker>P.</speaker>
             <l part="M">Sed amíco homini tibi quód volo credere cértumst.</l>
             <lb ed="TLN" n="1157"/>
@@ -5190,7 +5190,7 @@ Added to repository.
             <lb ed="TLN" n="1177"/>
             <l part="I">Ego quídem ab hoc certe exórabo.</l>
           </sp>
-          <sp who="#parasitus">
+          <sp who="#philoxenus">
             <speaker>P.</speaker>
             <l part="M">Immo ego te óro, ut me intro abdúcas.</l>
           </sp>
@@ -5315,7 +5315,7 @@ Added to repository.
             <lb ed="TLN" n="1196"/>
             <l part="I">Quid agó?</l>
           </sp>
-          <sp who="#parasitus">
+          <sp who="#philoxenus">
             <speaker>P.</speaker>
             <l part="M">Quid agas? rogitás etiam?</l>
           </sp>

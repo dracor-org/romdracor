@@ -57,9 +57,6 @@
           <person xml:id="aristophontes" sex="MALE" role="adulescens">
             <persName>Aristophontes</persName>
           </person>
-          <personGrp xml:id="captivi" sex="MALE" role="captivi">
-            <name>Captivi</name>
-          </personGrp>
           <personGrp xml:id="caterva" sex="UNKNOWN" role="grex">
             <name>Caterva</name>
           </personGrp>
@@ -746,7 +743,7 @@ Added to repository.
             <lb ed="TLN" n="200"/>
             <l>indigna digna habenda sunt, erus quae facit.</l>
           </sp>
-          <sp who="#captivi">
+          <sp who="#tyndarus #philocrates">
             <speaker>Captivi</speaker>
             <lb ed="TLN" n="200a"/>
             <l>Oh oh oh.</l>

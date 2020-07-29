@@ -170,7 +170,7 @@ new additions
           <roleDesc>servus.</roleDesc>
         </castItem>
         <castItem type="role">
-          <role>CHARINTUS</role>
+          <role>CHARINUS</role>
           <roleDesc>adolescens.</roleDesc>
         </castItem>
         <castItem type="role">
@@ -5263,7 +5263,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <stage>DAVTS. CHREMES. SIMO. DROMO.</stage>
+          <stage>DAVUS. CHREMES. SIMO. DROMO.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
             <lb ed="TLN" n="843"/>
@@ -5548,7 +5548,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <stage>PAMIPHILUS. SIMO. CHREMES.</stage>
+          <stage>PAMPHILUS. SIMO. CHREMES.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="873"/>
@@ -5741,7 +5741,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <stage>CRITO. CHREMES. SIMO. PAMPHILLUS.</stage>
+          <stage>CRITO. CHREMES. SIMO. PAMPHILUS.</stage>
           <sp who="#crito">
             <speaker>Cr.</speaker>
             <lb ed="TLN" n="905"/>

@@ -326,6 +326,7 @@ new additions
       <div n="1" type="act">
         <div n="1" type="scene">
           <stage>MICIO.</stage>
+          <sp who="#micio">
           <lb ed="TLN" n="26"/>
           <l>
             Storax--Non rediit&gt; hac nocte a coena Aeschinus,
@@ -548,6 +549,7 @@ new additions
             <lb ed="TLN" n="81"/>
           </l>
           <l>Gaudemus.</l>
+          </sp>
         </div>
         <div n="2" type="scene">
           <stage>DEMEA. MICIO.</stage>
@@ -2170,7 +2172,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <stage>DEMIEA. SYRUS.</stage>
+          <stage>DEMEA. SYRUS.</stage>
           <sp who="#demea">
             <speaker>De.</speaker>
             <lb ed="TLN" n="356"/>
@@ -2459,8 +2461,8 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Oh, qui egomet produxi.</l>
           </sp>
-          <sp who="#dromo">
-            <speaker>Dr.</speaker>
+          <sp who="#demea">
+            <speaker>De.</speaker>
             <l part="Y">
                Optime est.
               <lb ed="TLN" n="404"/>
@@ -2471,8 +2473,8 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Atque iratum admodum.</l>
           </sp>
-          <sp who="#dromo">
-            <speaker>Dr.</speaker>
+          <sp who="#demea">
+            <speaker>De.</speaker>
             <lb ed="TLN" n="405"/>
             <l n="50">Quid autem?</l>
           </sp>
@@ -3071,6 +3073,7 @@ new additions
         </div>
         <div n="5" type="scene">
           <stage>HEGIO.</stage>
+          <sp who="#hegio">
           <lb ed="TLN" n="513"/>
           <l>
             Bono animo fac sis, Sostrata; et istam, quod potes,
@@ -3093,6 +3096,7 @@ new additions
             <lb ed="TLN" n="518"/>
           </l>
           <l>Respondeat mihi; ut quid agam quamprimum sciam.</l>
+          </sp>
         </div>
       </div>
       <div n="4" type="act">
@@ -3735,6 +3739,7 @@ new additions
         </div>
         <div n="4" type="scene">
           <stage>AESCHINUS.</stage>
+          <sp who="#aeschinus">
           <lb ed="TLN" n="612"/>
           <l>
             Discrucior animi:
@@ -3841,6 +3846,7 @@ new additions
             <lb ed="TLN" n="638"/>
           </l>
           <l>Prodit nescio quis: concedam huc.</l>
+          </sp>
         </div>
         <div n="5" type="scene">
           <stage>MICIO. AESCHINUS.</stage>
@@ -4252,7 +4258,7 @@ new additions
             <l part="Y"> Iam.</l>
           </sp>
           <sp who="#aeschinus">
-            <speaker>Acs.</speaker>
+            <speaker>Aes.</speaker>
             <l part="Y"> Iam?</l>
           </sp>
           <sp who="#micio">
@@ -4334,6 +4340,7 @@ new additions
         </div>
         <div n="6" type="scene">
           <stage>DEMEA.</stage>
+          <sp who="#demea">
           <lb ed="TLN" n="717"/>
           <l>
             Defessus sum ambulando. Ut, Syre, te cum tua
@@ -4356,6 +4363,7 @@ new additions
             <lb ed="TLN" n="722"/>
           </l>
           <l>Certum obsidere est usque donec redierit.</l>
+          </sp>
         </div>
         <div n="7" type="scene">
           <stage>MICIO. DEMEA.</stage>
@@ -5204,6 +5212,7 @@ new additions
         </div>
         <div n="4" type="scene">
           <stage>DEMEA.</stage>
+          <sp who="#demea">
           <lb ed="TLN" n="859"/>
           <l>
             Nunquam ita quisquam bene subducta ratione ad vitam fruit
@@ -5310,6 +5319,7 @@ new additions
             <lb ed="TLN" n="885"/>
           </l>
           <l>Deerit. Id mea minime refert qui sum natu maximus.</l>
+          </sp>
         </div>
         <div n="5" type="scene">
           <stage>SYRUS. DEMEA.</stage>
@@ -5858,7 +5868,7 @@ new additions
             <l>Quid istic? dabitur quandoquidem hic vult.</l>
           </sp>
           <sp who="#aeschinus">
-            <speaker>Acs.</speaker>
+            <speaker>Aes.</speaker>
             <l part="Y"> Mi pater.</l>
           </sp>
           <sp who="#demea">

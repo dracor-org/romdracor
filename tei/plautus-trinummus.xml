@@ -3970,7 +3970,7 @@ Added to repository.
             <lb ed="TLN" n="1024"/>
             <l part="I">Ita me di ament, graphicum furem.</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Quid ego quod periit petam?</l>
             <lb ed="TLN" n="1025"/>
@@ -4052,7 +4052,7 @@ Added to repository.
             <lb ed="TLN" n="1045"/>
             <l>Hercle istis malam rem magnam moribus dignumst dari.</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <lb ed="TLN" n="1046"/>
             <l>Nonne hoc publice animum advorti? nam id genus hominum omnibus</l>
@@ -4078,7 +4078,7 @@ Added to repository.
             <lb ed="TLN" n="1055"/>
             <l part="I">Meus est hic quidem Stasimus servos.</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Nam ego talentum mutuom</l>
             <lb ed="TLN" n="1056"/>
@@ -4094,7 +4094,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Heus tu, asta ilico. audi.</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Heús tu, non sto.</l>
           </sp>
@@ -4111,7 +4111,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Aha nimium, Stasime, saeviter.</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <lb ed="TLN" n="1061"/>
             <l part="I">Emere meliust cui imperes.</l>
@@ -4185,7 +4185,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Salve, Stasime.</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Salvom te—</l>
           </sp>
@@ -4206,7 +4206,7 @@ Added to repository.
             <lb ed="TLN" n="1076"/>
             <l part="I">Nempe uterque?</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Vterque.</l>
           </sp>
@@ -4218,7 +4218,7 @@ Added to repository.
             <lb ed="TLN" n="1078"/>
             <l part="I">eamus intro, sequere.</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Quo tu té agis?</l>
           </sp>
@@ -4235,7 +4235,7 @@ Added to repository.
             <speaker>Charm.</speaker>
             <l part="M">Vbinam ego alibi censeam?</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <lb ed="TLN" n="1080"/>
             <l part="I">Iam—</l>
@@ -4244,7 +4244,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Quid iam?</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Non sunt nostrae aedis istae.</l>
           </sp>
@@ -4271,7 +4271,7 @@ Added to repository.
             <speaker>Ch.</speaker>
             <l part="M">Quot?</l>
           </sp>
-          <sp who="#sycophanta">
+          <sp who="#stasimus">
             <speaker>S.</speaker>
             <l part="M">Quadraginta.</l>
           </sp>
@@ -4634,7 +4634,7 @@ Added to repository.
             <lb ed="TLN" n="1163"/>
             <l part="I">Spondeo.</l>
           </sp>
-          <sp who="#charmides">
+          <sp who="#callicles">
             <speaker>C.</speaker>
             <l part="M">Et ego spondeo ídem hoc.</l>
           </sp>
