@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Am." type="work">Amphitruo</title>
+        <title n="Amph." type="work">Amphitruo</title>
         <author key="wikidata:Q47160">T. Maccius Plautus</author>
         <editor n="Leo" role="editor">F. Leo</editor>
       </titleStmt>
@@ -25,6 +25,7 @@
         <biblStruct>
           <bibl type="originalSource">
             <author key="wikidata:Q47160">T. Maccius Plautus</author>
+            <date type="premiere" notBefore="-0207" notAfter="-0186">controversial dating betw. 207/6 and 186 BC</date>
             <editor role="editor">F. Leo</editor>
             <imprint>
               <pubPlace>Berlin</pubPlace>

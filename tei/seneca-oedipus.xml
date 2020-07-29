@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Oedipus</title>
+        <title n="Oed.">Oedipus</title>
         <author key="wikidata:Q2054">Seneca</author>
         <editor n="Peiper" role="editor">Adolf Peiper</editor>
         <editor n="Richter" role="editor">Gustav Richter</editor>
@@ -27,6 +27,7 @@
             <author key="wikidata:Q2054">L. Annaeus Seneca</author>
             <editor n="Peiper" role="editor">Adolf Peiper</editor>
             <editor n="Richter" role="editor">Gustav Richter</editor>
+            <date type="written" notBefore="0043" notAfter="0049">AD 43–49?</date>
             <imprint>
               <pubPlace>Leipzig</pubPlace>
               <publisher>Teubner</publisher>

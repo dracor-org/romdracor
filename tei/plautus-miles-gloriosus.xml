@@ -25,6 +25,7 @@
           <bibl type="originalSource">
             <author key="wikidata:Q47160">T. Maccius Plautus</author>
             <editor role="editor">F. Leo</editor>
+            <date type="premiere" when="-0205">ca. 205 BC</date>
             <imprint>
               <pubPlace>Berlin</pubPlace>
               <publisher>Weidmann</publisher>

@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Ps." type="work">Pseudolus</title>
+        <title n="Pseud." type="work">Pseudolus</title>
         <author key="wikidata:Q47160">T. Maccius Plautus</author>
         <editor n="Leo" role="editor">F. Leo</editor>
       </titleStmt>
@@ -25,6 +25,7 @@
           <bibl type="originalSource">
             <author key="wikidata:Q47160">T. Maccius Plautus</author>
             <editor role="editor">F. Leo</editor>
+            <date type="premiere" when="-0191">191 BC</date>
             <imprint>
               <pubPlace>Berlin</pubPlace>
               <publisher>Weidmann</publisher>

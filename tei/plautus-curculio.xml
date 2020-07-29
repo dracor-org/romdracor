@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title n="Cur." type="work">Curculio</title>
+        <title n="Curc." type="work">Curculio</title>
         <author key="wikidata:Q47160">T. Maccius Plautus</author>
         <editor n="Leo" role="editor">F. Leo</editor>
       </titleStmt>
@@ -25,6 +25,7 @@
           <bibl type="originalSource">
             <author key="wikidata:Q47160">T. Maccius Plautus</author>
             <editor role="editor">F. Leo</editor>
+            <date type="premiere" when="-0193">ca. 193 BC (?)</date>
             <imprint>
               <pubPlace>Berlin</pubPlace>
               <publisher>Weidmann</publisher>

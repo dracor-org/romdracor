@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Phormio</title>
+        <title n="Phorm.">Phormio</title>
         <author key="wikidata:Q172048">P. Terentius Afer (Terence)</author>
         <editor role="editor">Edward St. John Parry</editor>
       </titleStmt>
@@ -25,6 +25,7 @@
           <bibl type="originalSource">
             <author key="wikidata:Q172048">P. Terentius Afer</author>
             <editor role="editor">Edward St. John Parry, M.A.</editor>
+            <date type="premiere" when="-0161">161 BC</date>
             <imprint>
               <pubPlace>London</pubPlace>
               <publisher>Whitaker and Co., Ave Maria Lane;  George Bell, Fleet Street</publisher>

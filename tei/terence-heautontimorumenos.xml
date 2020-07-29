@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Heautontimorumenos</title>
+        <title n="Heaut.">Heautontimorumenos</title>
         <author key="wikidata:Q172048">P. Terentius Afer (Terence)</author>
         <editor role="editor">Edward St. John Parry</editor>
       </titleStmt>
@@ -24,6 +25,7 @@
           <bibl type="originalSource">
             <author key="wikidata:Q172048">P. Terentius Afer</author>
             <editor role="editor">Edward St. John Parry, M.A.</editor>
+            <date type="premiere" when="-0163">163 BC</date>
             <imprint>
               <pubPlace>London</pubPlace>
               <publisher>Whitaker and Co., Ave Maria Lane; George Bell, FleetStreet</publisher>
