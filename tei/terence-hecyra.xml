@@ -2454,7 +2454,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
-          <stage>LACHES. PHIDIPPUS. PAMIPHILUS.</stage>
+          <stage>LACHES. PHIDIPPUS. PAMPHILUS.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
             <lb ed="TLN" n="452"/>
@@ -2508,8 +2508,8 @@ new additions
             </l>
             <l>Atque adeo, quod maximum est, salvum atque validum.</l>
           </sp>
-          <sp who="#parmeno">
-            <speaker>Pa</speaker>
+          <sp who="#pamphilus">
+            <speaker>Pa.</speaker>
             <l part="Y"> Creditur.</l>
           </sp>
           <sp who="#laches">
@@ -2517,7 +2517,7 @@ new additions
             <lb ed="TLN" n="459"/>
             <l>Advenis modo?</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y"> Admodum.</l>
           </sp>
@@ -2529,7 +2529,7 @@ new additions
             </l>
             <l>Consobrinus noster?</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y">
                Sane hercle homo voluptati obsequens
@@ -2546,7 +2546,7 @@ new additions
             <lb ed="TLN" n="463"/>
             <l>Tum tu igitur nihil attulisti huc plus una sententia?</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="464"/>
             <l>Quicquid est id quod reliquit profuit.</l>
@@ -2585,7 +2585,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="Y"> Scilicet.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="469"/>
             <l>Omnem rem scio ut sit gesta: adveniens audivi omnia.</l>
@@ -2595,7 +2595,7 @@ new additions
             <lb ed="TLN" n="470"/>
             <l>At istos invidos Di perdant qui haec libenter nuntiant.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="471"/>
             <l n="20">
@@ -2657,7 +2657,7 @@ new additions
             </l>
             <l>Verum vide ne impulsus ita prave insistas, Pamphile.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="486"/>
             <l n="35">
@@ -2703,7 +2703,7 @@ new additions
             </l>
             <l>Iube illam redire.</l>
           </sp>
-          <sp who="#parmeno">
+          <sp who="#pamphilus">
             <speaker>Pa.</speaker>
             <l part="Y">
                Non est consilium, pater.

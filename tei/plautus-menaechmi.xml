@@ -2454,7 +2454,7 @@ Added to repository.
             <speaker>Pen.</speaker>
             <l part="M">Scit, sed dissimulat malus.</l>
           </sp>
-          <sp who="#messenio">
+          <sp who="#menaechmus">
             <speaker>Me.</speaker>
             <lb ed="TLN" n="609"/>
             <l part="I">Quid negotist?</l>
@@ -2463,7 +2463,7 @@ Added to repository.
             <speaker>Ma.</speaker>
             <l part="M">Pallam—</l>
           </sp>
-          <sp who="#messenio">
+          <sp who="#menaechmus">
             <speaker>Me.</speaker>
             <l part="M">Pallam?</l>
           </sp>
@@ -2505,7 +2505,7 @@ Added to repository.
             <lb ed="TLN" n="614"/>
             <l part="I">Ne ego mecastor mulier misera.</l>
           </sp>
-          <sp who="#messenio">
+          <sp who="#menaechmus">
             <speaker>Me.</speaker>
             <l part="M">Qui tu misera es? mi expedi.</l>
           </sp>

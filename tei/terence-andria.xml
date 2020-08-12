@@ -1288,6 +1288,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <sp who="#davus">
           <stage>DAVUS.</stage>
           <lb ed="TLN" n="206"/>
           <l>
@@ -1375,9 +1376,11 @@ new additions
             <lb ed="TLN" n="227"/>
           </l>
           <l>Conveniam Pamphilum, ne de hac re pater imprudentem opprimat.</l>
+          </sp>
         </div>
         <div n="4" type="scene">
           <stage>MYSIS.</stage>
+          <sp who="#mysis">
           <lb ed="TLN" n="228"/>
           <l>
             Audivi Archylis iamdudum: Lesbiam adduci iubes.
@@ -1408,6 +1411,7 @@ new additions
             <lb ed="TLN" n="235"/>
           </l>
           <l>Opperiar ut sciam numquidnam haec turbae tristitia adferat.</l>
+          </sp>
         </div>
         <div n="5" type="scene">
           <stage>PAMPHILUS. MYSIS.</stage>
