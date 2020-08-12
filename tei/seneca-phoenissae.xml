@@ -101,7 +101,7 @@
       <item>converted to P.5 Dracor format</item>
     </change>
   </teiHeader>
-  <text n="Phoen.">
+  <text>
     <body>
       <castList>
         <head>Personae</head>
@@ -137,7 +137,7 @@
         </castGroup>
       </castList>
       <milestone n="1" unit="card"/>
-      <pb id="p.93"/>
+      <pb n="93"/>
       <stage>Oedipus Antigona</stage>
       <sp who="#oedipus">
         <milestone n="1" unit="line"/>
@@ -184,7 +184,7 @@
         <l>tauri ferocis sanguis ostentat fugas;</l>
         <milestone n="22" unit="line"/>
         <l>vel qua alta maria vertice inmenso premit</l>
-        <pb id="p.94"/>
+        <pb n="94"/>
         <milestone n="23" unit="line"/>
         <l>Inoa rupes, qua scelus fugiens novum</l>
         <milestone n="24" unit="line"/>
@@ -250,7 +250,7 @@
         <l>corpore resolvet, nemo me comitem tibi</l>
         <milestone n="53" unit="line"/>
         <l>eripiet umquam. Labdaci claram domum,</l>
-        <pb id="p.95"/>
+        <pb n="95"/>
         <milestone n="54" unit="line"/>
         <l>opulenta ferro regna germani petant—</l>
         <milestone n="55" unit="line"/>
@@ -317,7 +317,7 @@
         <l>non esset umquam, fata bene novi mea,</l>
         <milestone n="84" unit="line"/>
         <l>nisi ut noceret, ipsa se in leges novas</l>
-        <pb id="p.96"/>
+        <pb n="96"/>
         <milestone n="85" unit="line"/>
         <l n="85">
           natura vertit: regeret in fontem citas 
@@ -381,7 +381,7 @@
         <l>pectusque solvam durum et in cinerem dabo</l>
         <milestone n="114" unit="line"/>
         <l>hoc quicquid in me vivit, ubi saevum est mare?</l>
-        <pb id="p.97"/>
+        <pb n="97"/>
         <milestone n="115" unit="line"/>
         <l n="115">duc ubi sit altis prorutum saxis iugum, </l>
         <milestone n="116" unit="line"/>
@@ -442,7 +442,7 @@
         <l>effundere hanc cum morte luctantem diu</l>
         <milestone n="143" unit="line"/>
         <l>animam et tenebras petere: nam sceleri haec meo</l>
-        <pb id="p.98"/>
+        <pb n="98"/>
         <milestone n="144" unit="line"/>
         <l>parum alta nox est: Tartaro condi iuvat,</l>
         <milestone n="145" unit="line"/>
@@ -511,7 +511,7 @@
         <l>eduxit oculos, haeret etiam nunc mihi</l>
         <milestone n="177" unit="line"/>
         <l>ille animus, haeret, cum recusantem manum</l>
-        <pb id="p.99"/>
+        <pb n="99"/>
         <milestone n="178" unit="line"/>
         <l>pressere vultus, audies verum, Oedipus:</l>
         <milestone n="179" unit="line"/>
@@ -576,7 +576,7 @@
         <l>quod te efferant, quod novos suffixerit</l>
         <milestone n="207" unit="line"/>
         <l>stimulos dolori? quid te in infernas agit</l>
-        <pb id="p.100"/>
+        <pb n="100"/>
         <milestone n="208" unit="line"/>
         <l>sedes, quid ex his pellit? ut careas die?</l>
         <milestone n="209" unit="line"/>
@@ -640,7 +640,7 @@
         <l>mixtusque superis erro? quid restat mali?</l>
         <milestone n="237" unit="line"/>
         <l>regnum parentes liberi, virtus quoque</l>
-        <pb id="p.101"/>
+        <pb n="101"/>
         <milestone n="238" unit="line"/>
         <l>et ingeni sollertis eximium decus</l>
         <milestone n="239" unit="line"/>
@@ -707,7 +707,7 @@
         <l>scelerisque pretium maius accepi scelus.</l>
         <milestone n="270" unit="line"/>
         <l n="270">leve est paternum facinus: in thalamos meos </l>
-        <pb id="p.102"/>
+        <pb n="102"/>
         <milestone n="271" unit="line"/>
         <l>deducta mater, ne parum sceleris foret,</l>
         <milestone n="272" unit="line"/>
@@ -779,7 +779,7 @@
         <l>non patris illos tangit afflicti pudor,</l>
         <milestone n="302" unit="line"/>
         <l>non patria: regno pectus attonitum furit.</l>
-        <pb id="p.103"/>
+        <pb n="103"/>
         <milestone n="303" unit="line"/>
         <l>scio quo ferantur, quanta moliri parent,</l>
         <milestone n="304" unit="line"/>
@@ -841,7 +841,7 @@
         <l>Ego ille sum qui scelera committi vetem</l>
         <milestone n="329" unit="line"/>
         <l>et abstineri sanguine e caro manus</l>
-        <pb id="p.104"/>
+        <pb n="104"/>
         <milestone n="330" unit="line"/>
         <l n="330">doceam? magister iuris et amoris pii </l>
         <milestone n="331" unit="line"/>
@@ -909,7 +909,7 @@
         <l>de more nostro, quod meos deceat toros:</l>
         <milestone n="358" unit="line"/>
         <l>date arma matri, nemo me ex his eruat</l>
-        <pb id="p.105"/>
+        <pb n="105"/>
         <milestone n="359" unit="line"/>
         <l>silvis: latebo rupis exesae cavo</l>
         <milestone n="360" unit="line"/>
@@ -967,7 +967,7 @@
         <l>sed utrumque quamvis diligam affectu pari,</l>
         <milestone n="384" unit="line"/>
         <l>quo causa melior sorsque deterior trahit</l>
-        <pb id="p.106"/>
+        <pb n="106"/>
         <milestone n="385" unit="line"/>
         <l n="385">inclinat animus semper infirmo favens: </l>
         <milestone n="386" unit="line"/>
@@ -1034,7 +1034,7 @@
         <l>incipiat a me. fervidos iuvenes anus</l>
         <milestone n="412" unit="line"/>
         <l>tenebo, nullum teste me fiet nefas;</l>
-        <pb id="p.107"/>
+        <pb n="107"/>
         <milestone n="413" unit="line"/>
         <l>aut si aliquod et me teste committi potest,</l>
         <milestone n="414" unit="line"/>
@@ -1108,7 +1108,7 @@
         <l>rogat abnuentes, irrigat fletu genas.</l>
         <milestone n="442" unit="line"/>
         <l>negare matri qui diu dubitat, potest.</l>
-        <pb id="p.108"/>
+        <pb n="108"/>
         <milestone n="443" unit="line"/>
         <l>In me arma et ignes vertite, in me omnis ruat</l>
         <milestone n="444" unit="line"/>
@@ -1161,7 +1161,7 @@
         <l>accede propius, elude vagina impium</l>
         <milestone n="468" unit="line"/>
         <l>ensem et trementem iamque cupientem excuti</l>
-        <pb id="p.109"/>
+        <pb n="109"/>
         <milestone n="469" unit="line"/>
         <l>hastam solo defige; maternum tuo</l>
         <milestone n="470" unit="line"/>
@@ -1234,7 +1234,7 @@
         <l>reclinis hasta est, arma defixa incubant.</l>
         <milestone n="500" unit="line"/>
         <l n="500">ad te preces nunc, nate, maternas feram, </l>
-        <pb id="p.110"/>
+        <pb n="110"/>
         <milestone n="501" unit="line"/>
         <l>sed ante lacrimas, teneo longo tempore</l>
         <milestone n="502" unit="line"/>
@@ -1295,7 +1295,7 @@
         <l>cum stare fratres hinc et hinc video duos</l>
         <milestone n="530" unit="line"/>
         <l n="530">sceleris sub ictu. membra quassantur metu: </l>
-        <pb id="p.111"/>
+        <pb n="111"/>
         <milestone n="531" unit="line"/>
         <l>quam paene mater maius aspexi nefas.</l>
         <milestone n="532" unit="line"/>
@@ -1360,7 +1360,7 @@
         <l>segetesque adultas sternis et totos fugam</l>
         <milestone n="562" unit="line"/>
         <l>edis per agros: nemo sic vastat sua;</l>
-        <pb id="p.112"/>
+        <pb n="112"/>
         <milestone n="563" unit="line"/>
         <l>quae corripi igne. quae meti gladio iubes</l>
         <milestone n="564" unit="line"/>
@@ -1425,7 +1425,7 @@
         <l>iubes abire: matris imperio obsequor—</l>
         <milestone n="592" unit="line"/>
         <l>da quo revertar, regia frater meus</l>
-        <pb id="p.113"/>
+        <pb n="113"/>
         <milestone n="593" unit="line"/>
         <l>habitat superba: parva me abscondat casa?</l>
         <milestone n="594" unit="line"/>
@@ -1478,7 +1478,7 @@
         <l>tenere patrem, melius exilium est tibi</l>
         <milestone n="618" unit="line"/>
         <l>quam reditus iste: crimine alieno exulas,</l>
-        <pb id="p.114"/>
+        <pb n="114"/>
         <milestone n="619" unit="line"/>
         <l>tuo redibis. melius istis viribus</l>
         <milestone n="620" unit="line"/>
@@ -1549,7 +1549,7 @@
         <l>Cadmique proles, sceptra Thebano fuit</l>
         <milestone n="649" unit="line"/>
         <l>impune nulli gerere, nec quisquam fide</l>
-        <pb id="p.115"/>
+        <pb n="115"/>
         <milestone n="650" unit="line"/>
         <l n="650">rupta tenebit illa: iam numeres licet </l>
         <milestone n="651" unit="line"/>
