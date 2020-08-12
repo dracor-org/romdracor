@@ -63,7 +63,7 @@
             <persName>Medea</persName>
           </person>
           <person xml:id="nutrix" sex="FEMALE">
-            <persName>Nvtrix</persName>
+            <persName>Nutrix</persName>
           </person>
           <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
@@ -377,7 +377,7 @@
         <l n="115">si qua peregrino nubit fugitiva marito. </l>
       </sp>
       <milestone n="116" unit="card"/>
-      <stage>Medea Nvtrix</stage>
+      <stage>Medea Nutrix</stage>
       <sp who="#medea">
         <milestone unit="line" ed="exclude" n="116"/>
         <l>Occidimus, aures pepulit hymenaeus meas.</l>
@@ -450,7 +450,7 @@
         <l>Malea longas navibus flectens moras.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="150"/>
         <l n="150">Sile, obsecro, questusque secreto abditos </l>
         <milestone unit="line" ed="exclude" n="151"/>
@@ -472,7 +472,7 @@
         <l part="I">libet ire contra,</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <l part="F">Siste furialem impetum,</l>
         <milestone unit="line" ed="exclude" n="158"/>
         <l>alumna: vix te tacita defendit quies.</l>
@@ -483,7 +483,7 @@
         <l>Fortuna fortes metuit, ignavos premit.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="160"/>
         <l n="160">Tunc est probanda, si locum virtus habet. </l>
       </sp>
@@ -493,7 +493,7 @@
         <l>Numquam potest non esse virtuti locus.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="162"/>
         <l>Spes nulla rebus monstrat adflictis viam.</l>
       </sp>
@@ -503,7 +503,7 @@
         <l>Qui nil potest sperare, desperet nihil.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="164"/>
         <l>Abiere Colchi, coniugis nulla est fides</l>
         <milestone unit="line" ed="exclude" n="165"/>
@@ -518,7 +518,7 @@
       </sp>
       <milestone n="168" unit="card"/>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="168"/>
         <l part="I">Rex est timendus,</l>
       </sp>
@@ -527,7 +527,7 @@
         <l part="F">Rex meus fuerat pater.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="169"/>
         <l part="I">Non metuis arma?</l>
       </sp>
@@ -536,7 +536,7 @@
         <l part="F">Sint licet terra edita.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="170"/>
         <l n="170" part="I">Moriere, MED. Cupio. NVTR. Profuge.</l>
       </sp>
@@ -546,7 +546,7 @@
       </sp>
       <pb id="p.125"/>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="171"/>
         <l part="I">Medea— MED. Fiam. NVTR. Mater es.</l>
       </sp>
@@ -557,7 +557,7 @@
         <l>sim vides.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="173"/>
         <l part="I">Profugere dubitas?</l>
       </sp>
@@ -568,7 +568,7 @@
         <l>prius.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="175"/>
         <l part="I">Vindex sequetur,</l>
       </sp>
@@ -577,7 +577,7 @@
         <l part="F">Forsan inveniam moras.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="176"/>
         <l>Compesce verba, parce iam, demens, minis</l>
         <milestone unit="line" ed="exclude" n="175"/>
@@ -1086,7 +1086,7 @@
         <l>nec sit terris ultima Thule.</l>
       </sp>
       <milestone n="380" unit="card"/>
-      <stage>Nvtrix Medea</stage>
+      <stage>Nutrix Medea</stage>
       <sp who="#nutrix">
         <milestone unit="line" ed="exclude" n="380"/>
         <l n="380">Alumna, celerem quo rapis tectis pedem? </l>
@@ -1186,7 +1186,7 @@
         <l n="425" part="I">et cuncta quatiam.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <l part="F">Recipe turbatum malis. </l>
         <milestone unit="line" ed="exclude" n="426"/>
         <l part="I">era, pectus, animum mitiga.</l>
@@ -1200,7 +1200,7 @@
         <l>mecum omnia abeant. trahere, cum pereas, libet.</l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="429"/>
         <l>Quam multa sint timenda, si perstas, vide:</l>
         <milestone unit="line" ed="exclude" n="430"/>
@@ -1835,7 +1835,7 @@
       </sp>
       <milestone n="670" unit="card"/>
       <sp who="#nutrix">
-        <speaker>Nvtrix</speaker>
+        <speaker>Nutrix</speaker>
         <milestone unit="line" ed="exclude" n="670"/>
         <l n="670">Pavet animus, horret, magna pernicies adest. </l>
         <milestone unit="line" ed="exclude" n="671"/>
@@ -2290,7 +2290,7 @@
         <l part="I">Qua fraude capti?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <l part="F">Qua solent reges capi:</l>
         <milestone unit="line" ed="exclude" n="882"/>
         <l part="I">donis.</l>
@@ -2300,7 +2300,7 @@
         <l part="F">In illis esse quis potuit dolus?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone unit="line" ed="exclude" n="883"/>
         <l>Et ipse miror vixque iam facto malo</l>
         <milestone unit="line" ed="exclude" n="884"/>
@@ -2311,7 +2311,7 @@
         <l part="F">Quis cladis modus?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone unit="line" ed="exclude" n="885"/>
         <l n="885">Avidus per omnem regiae partem furit . </l>
         <milestone unit="line" ed="exclude" n="886"/>
@@ -2324,7 +2324,7 @@
         <l part="F">Vnda flammas opprimat.</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone unit="line" ed="exclude" n="888"/>
         <l>Et hoc in ista clade mirandum accidit:</l>
         <milestone unit="line" ed="exclude" n="889"/>
@@ -2333,7 +2333,7 @@
         <l n="890">magis ardet ignis: ipsa praesidia occupat. </l>
       </sp>
       <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="891"/>
         <l>Effer citatum sede Pelopea gradum,</l>
         <milestone unit="line" ed="exclude" n="892"/>

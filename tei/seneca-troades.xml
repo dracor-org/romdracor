@@ -60,7 +60,7 @@
             <name>Chorus</name>
           </personGrp>
           <person xml:id="hecuba" sex="FEMALE" ana="http://www.wikidata.org/entity/Q193433">
-            <persName>Hecvba</persName>
+            <persName>Hecuba</persName>
           </person>
           <person xml:id="helena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q164061">
             <persName>Helena</persName>
@@ -175,7 +175,7 @@
       <milestone n="1" unit="card"/>
       <pb id="p.51"/>
       <sp who="#hecuba">
-        <speaker>Hecvba</speaker>
+        <speaker>Hecuba</speaker>
         <milestone n="1" unit="line"/>
         <l>Quicumque regno fidit et magna potens</l>
         <milestone n="2" unit="line"/>

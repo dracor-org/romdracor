@@ -65,7 +65,7 @@
           <person xml:id="plisthenes" sex="MALE" ana="http://www.wikidata.org/entity/Q3392478">
             <persName>Plisthenes Taciti</persName>
           </person>
-          <personGrp sex="UNKNOWN" xml:id="chorus">
+          <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus</name>
           </personGrp>
           <person xml:id="tantaliumbra" sex="MALE" ana="http://www.wikidata.org/entity/Q515531">
@@ -73,6 +73,9 @@
           </person>
           <person xml:id="thyestes" sex="MALE" ana="http://www.wikidata.org/entity/Q622504">
             <persName>Thyestes</persName>
+          </person>
+          <person xml:id="nuntius" sex="MALE">
+            <persName>Nuntius</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -1722,7 +1725,7 @@
       </sp>
       <milestone n="627" unit="card"/>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="627" unit="line"/>
         <l>Quaenam ista regio est? Argos et Sparte, pios</l>
         <milestone n="628" unit="line"/>
@@ -1742,7 +1745,7 @@
         <l>Effare et istud pande, quodcumque est, malum.</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="634" unit="line"/>
         <l>Si steterit animus, si metu corpus rigens</l>
         <milestone n="635" unit="line"/>
@@ -1763,7 +1766,7 @@
         <l n="640">non quaero quis sit, sed uter. effare ocius. </l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="641" unit="line"/>
         <l>In arce summa Pelopiae pars est domus</l>
         <milestone n="642" unit="line"/>
@@ -1873,7 +1876,7 @@
       </sp>
       <milestone n="691" unit="card"/>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="691" unit="line"/>
         <l>Ipse est sacerdos, ipse funesta prece</l>
         <milestone n="692" unit="line"/>
@@ -1933,7 +1936,7 @@
         <l part="F">Quem tamen ferro occupat?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="717" unit="line"/>
         <l>Primus locus (ne desse pietatem putes)</l>
         <milestone n="718" unit="line"/>
@@ -1945,7 +1948,7 @@
         <l>Quo iuvenis animo, quo tulit vultu necem?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="720" unit="line"/>
         <l n="720">Stetit sui securus et non est preces </l>
         <milestone n="721" unit="line"/>
@@ -1975,7 +1978,7 @@
         <l>puerone parcit an scelus sceleri ingerit?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="732" unit="line"/>
         <l>Silva iubatus qualis Armenia leo</l>
         <milestone n="733" unit="line"/>
@@ -2006,7 +2009,7 @@
         <l part="F">O saevum scelus!</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="744" unit="line"/>
         <l>Exhorruistis? hactenus si stat nefas,</l>
         <pb id="p.306"/>
@@ -2020,7 +2023,7 @@
         <l part="I">natura recipit?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <l part="F">Sceleris hunc finem putas?</l>
         <milestone n="747" unit="line"/>
         <l part="I">gradus est.</l>
@@ -2033,7 +2036,7 @@
       </sp>
       <milestone n="749" unit="card"/>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone n="749" unit="line"/>
         <l>Vtinam arcuisset! ne tegat functos humus</l>
         <milestone n="750" unit="line"/>
