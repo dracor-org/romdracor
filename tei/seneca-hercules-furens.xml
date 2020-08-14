@@ -22,30 +22,21 @@
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
-        <biblStruct>
+        <bibl type="digitalSource">
+          <name>Perseus Digital Library</name>
+          <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+          <availability status="free">
+            <licence>
+              <ab>CC BY-SA 3.0 US</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+            </licence>
+          </availability>
           <bibl type="originalSource">
-            <author key="wikidata:Q2054">L. Annaeus Seneca</author>
-            <editor n="Peiper" role="editor">Adolf Peiper</editor>
-            <editor n="Richter" role="editor">Gustav Richter</editor>
+            <title>Lucius Annaeus Seneca: Hercules [Furens]. In: L. Annaei Senecae Tragoediae. Recensuerunt Rudolfus Peiper et Gustavus Richter (= Bibliotheca scriptorum Graecorum et Romanorum Teubneriana). Leipzig: Teubner 1921, pp. 1–48.</title>
             <date type="written" notBefore="0043" notAfter="0049">AD 43–49?</date>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Teubner</publisher>
-              <date>1921</date>
-            </imprint>
           </bibl>
-        </biblStruct>
+        </bibl>
       </sourceDesc>
-      <bibl type="digitalSource">
-        <name>Perseus Digital Library</name>
-        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
-        <availability status="free">
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
-        </availability>
-      </bibl>
     </fileDesc>
     <profileDesc>
       <particDesc>

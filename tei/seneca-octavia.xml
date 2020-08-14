@@ -22,29 +22,20 @@
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
-        <biblStruct>
+        <bibl type="digitalSource">
+          <name>Perseus Digital Library</name>
+          <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+          <availability status="free">
+            <licence>
+              <ab>CC BY-SA 3.0 US</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+            </licence>
+          </availability>
           <bibl type="originalSource">
-            <author key="wikidata:Q2054">L. Annaeus Seneca</author>
-            <editor n="Peiper" role="editor">Adolf Peiper</editor>
-            <editor n="Richter" role="editor">Gustav Richter</editor>
-            <imprint>
-              <pubPlace>Leipzig</pubPlace>
-              <publisher>Teubner</publisher>
-              <date>1921</date>
-            </imprint>
+            <title>Lucius Annaeus Seneca: Octavia. In: L. Annaei Senecae Tragoediae. Recensuerunt Rudolfus Peiper et Gustavus Richter (= Bibliotheca scriptorum Graecorum et Romanorum Teubneriana). Leipzig: Teubner 1921, pp. 395–430.</title>
           </bibl>
-        </biblStruct>
-      </sourceDesc>
-      <bibl type="digitalSource">
-        <name>Perseus Digital Library</name>
-        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
-        <availability status="free">
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
-        </availability>
-      </bibl>
+        </bibl>
+       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <particDesc>

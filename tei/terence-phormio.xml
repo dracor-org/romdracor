@@ -21,29 +21,21 @@
       </publicationStmt>
       <extent/>
       <sourceDesc>
-        <biblStruct>
+        <bibl type="digitalSource">
+          <name>Perseus Digital Library</name>
+          <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+          <availability status="free">
+            <licence>
+              <ab>CC BY-SA 3.0 US</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+            </licence>
+          </availability>
           <bibl type="originalSource">
-            <author key="wikidata:Q172048">P. Terentius Afer</author>
-            <editor role="editor">Edward St. John Parry, M.A.</editor>
+            <title>Publius Terentius Afer: Phormio. In: Publii Terentii Comoediae sex. With a Commentary by Edward St. John Parry (= Bibliotheca Classica). London: Whittaker and Co. 1857, pp. 395–486.</title>
             <date type="premiere" when="-0161">161 BC</date>
-            <imprint>
-              <pubPlace>London</pubPlace>
-              <publisher>Whitaker and Co., Ave Maria Lane;  George Bell, Fleet Street</publisher>
-              <date>1857</date>
-            </imprint>
           </bibl>
-        </biblStruct>
+        </bibl>
       </sourceDesc>
-      <bibl type="digitalSource">
-        <name>Perseus Digital Library</name>
-        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
-        <availability status="free">
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
-        </availability>
-      </bibl>
     </fileDesc>
     <editorialDecl>
       <correction method="silent" status="high">Perseus Digital Edition</correction>

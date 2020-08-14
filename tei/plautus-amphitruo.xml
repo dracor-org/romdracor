@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
-  <!-- testing webhook -->
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,29 +21,21 @@
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
-        <biblStruct>
+        <bibl type="digitalSource">
+          <name>Perseus Digital Library</name>
+          <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+          <availability status="free">
+            <licence>
+              <ab>CC BY-SA 3.0 US</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+            </licence>
+          </availability>
           <bibl type="originalSource">
-            <author key="wikidata:Q47160">T. Maccius Plautus</author>
+            <title>Titus Maccius Plautus: Amphitruo. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen prius. Berlin: Weidmann 1895, pp. 1–48.</title>
             <date type="premiere" notBefore="-0207" notAfter="-0186">controversial dating betw. 207/6 and 186 BC</date>
-            <editor role="editor">F. Leo</editor>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Weidmann</publisher>
-              <date>1895</date>
-            </imprint>
-          </bibl>
-        </biblStruct>
+          </bibl>          
+        </bibl>        
       </sourceDesc>
-      <bibl type="digitalSource">
-        <name>Perseus Digital Library</name>
-        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
-        <availability status="free">
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
-        </availability>
-      </bibl>
     </fileDesc>
     <state unit="act"/>
     <state n="chunk" unit="scene"/>

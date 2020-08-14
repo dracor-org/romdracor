@@ -21,29 +21,21 @@
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
-        <biblStruct>
+        <bibl type="digitalSource">
+          <name>Perseus Digital Library</name>
+          <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+          <availability status="free">
+            <licence>
+              <ab>CC BY-SA 3.0 US</ab>
+              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
+            </licence>
+          </availability>
           <bibl type="originalSource">
-            <author key="wikidata:Q47160">T. Maccius Plautus</author>
-            <editor role="editor">F. Leo</editor>
+            <title>Titus Maccius Plautus: Rudens. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen alterum. Berlin: Weidmann 1896, pp. 307–365.</title>
             <date type="premiere" notBefore="-0201">after 201/200 BC (?)</date>
-            <imprint>
-              <pubPlace>Berlin</pubPlace>
-              <publisher>Weidmann</publisher>
-              <date>1895</date>
-            </imprint>
           </bibl>
-        </biblStruct>
+        </bibl>
       </sourceDesc>
-      <bibl type="digitalSource">
-        <name>Perseus Digital Library</name>
-        <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
-        <availability status="free">
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
-        </availability>
-      </bibl>
     </fileDesc>
     <state unit="act"/>
     <state n="chunk" unit="scene"/>
