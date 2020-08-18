@@ -970,7 +970,7 @@
       </sp>
       </div>
       <div type="act">
-      <sp who="chorus">
+      <sp who="#chorus">
         <milestone unit="line" ed="exclude" n="358"/>
         <l>altrix, profare quid feras; quonam in loco est</l>
         <milestone unit="line" ed="exclude" n="359"/>
