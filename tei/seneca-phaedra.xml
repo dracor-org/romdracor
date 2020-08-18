@@ -41,7 +41,7 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp sex="UNKNOWN" xml:id="chorus">
+          <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus Cressae</name>
           </personGrp>
           <person xml:id="hippolytus" sex="MALE" ana="http://www.wikidata.org/entity/Q338201">
@@ -123,6 +123,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="157"/>
+      <div type="prelude">
       <sp who="#hippolytus">
         <speaker>Hippolytus</speaker>
         <milestone unit="line" ed="exclude" n="1"/>
@@ -310,6 +311,8 @@
         <milestone unit="line" ed="exclude" n="84"/>
         <l>qua via longum compensat iter.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="85" unit="card"/>
       <stage>Phaedra Nutrix</stage>
       <sp who="#phaedra">
@@ -964,10 +967,14 @@
         <l>quid plura canam?</l>
         <milestone unit="line" ed="exclude" n="357"/>
         <l>vincit saevas cura novercas.</l>
+      </sp>
+      </div>
+      <div type="act">
+      <sp who="chorus">
         <milestone unit="line" ed="exclude" n="358"/>
         <l>altrix, profare quid feras; quonam in loco est</l>
         <milestone unit="line" ed="exclude" n="359"/>
-        <l>regina? saevis ecquis- est flammis modus?.</l>
+        <l>regina? saevis ecquis- est flammis modus?</l>
       </sp>
       <milestone n="360" unit="card"/>
       <stage>Nutrix Phaedra Chorus</stage>
@@ -2036,7 +2043,11 @@
         <l>tutum praetereat formaque nobilis</l>
         <milestone unit="line" ed="exclude" n="823"/>
         <l>deformis senii monstret imaginem.</l>
-        <pb n="185"/>
+      </sp>
+      </div>
+      <pb n="185"/>
+      <div type="act">
+      <sp who="#chorus">
         <milestone unit="line" ed="exclude" n="824"/>
         <l>Quid sinat inausum feminae praeceps furor?</l>
         <milestone unit="line" ed="exclude" n="825"/>
@@ -2484,6 +2495,10 @@
         <l>vitioque potens regnat adulter:</l>
         <milestone unit="line" ed="exclude" n="989"/>
         <l>o vane pudor falsumque decus! </l>
+      </sp>
+      </div>
+      <div type="act">
+      <sp who="#chorus">
         <milestone unit="line" ed="exclude" n="989b"/>
         <l n="989b">Sed quid citato nuntius properat gradu </l>
         <milestone unit="line" ed="exclude" n="990"/>
@@ -2864,6 +2879,10 @@
         <l>casta nil debes patruo rapaci:</l>
         <milestone unit="line" ed="exclude" n="1153"/>
         <l>constat inferno numerus tyranno.</l>
+      </sp>
+      </div>
+      <div type="act">
+      <sp who="#chorus">
         <milestone unit="line" ed="exclude" n="1154"/>
         <l>Quae vox ab altis flebilis tectis sonat</l>
         <milestone unit="line" ed="exclude" n="1155"/>
@@ -3145,6 +3164,7 @@
         <milestone unit="line" ed="exclude" n="1280"/>
         <l n="1280">gravisque tellus impio capiti incubet. </l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>

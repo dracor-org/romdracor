@@ -129,6 +129,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="93"/>
+      <div type="scene">
       <stage>Oedipus Antigona</stage>
       <sp who="#oedipus">
         <milestone n="1" unit="line"/>
@@ -806,6 +807,8 @@
         <milestone n="319" unit="line"/>
         <l>iubente te vel vivet.</l>
       </sp>
+      </div>
+      <div type="scene">
       <stage>Nuntius Oedipus Antigona</stage>
       <sp who="#nuntius">
         <speaker>Nvn.</speaker>
@@ -912,6 +915,8 @@
         <milestone n="362" unit="line"/>
         <l>B.</l>
       </sp>
+      </div>
+      <div type="scene">
       <stage>Iocasta Satelles</stage>
       <sp who="#iocasta">
         <milestone n="363" unit="line"/>
@@ -999,6 +1004,8 @@
         <milestone n="402" unit="line"/>
         <l>et impia arma matris oppositu impedi.</l>
       </sp>
+      </div>
+      <div type="scene">
       <stage>Antigona Iocasta Nuntius</stage>
       <sp who="#antigona">
         <milestone n="403" unit="line"/>
@@ -1596,6 +1603,7 @@
         <milestone n="664" unit="line"/>
         <l>Imperia pretio quolibet constant bene.</l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>

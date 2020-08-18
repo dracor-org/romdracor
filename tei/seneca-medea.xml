@@ -126,6 +126,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="119"/>
+      <div type="act">
       <sp who="#medea">
         <speaker>Medea</speaker>
         <milestone unit="line" ed="exclude" n="1"/>
@@ -367,6 +368,8 @@
         <milestone unit="line" ed="exclude" n="115"/>
         <l n="115">si qua peregrino nubit fugitiva marito. </l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="116" unit="card"/>
       <stage>Medea Nutrix</stage>
       <sp who="#medea">
@@ -1076,6 +1079,8 @@
         <milestone unit="line" ed="exclude" n="379"/>
         <l>nec sit terris ultima Thule.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="380" unit="card"/>
       <stage>Nutrix Medea</stage>
       <sp who="#nutrix">
@@ -1635,7 +1640,10 @@
         <l>vocetur Hecate, sacra letifica appara:</l>
         <milestone unit="line" ed="exclude" n="578"/>
         <l>statuantur arae, flamma iam tectis sonet.</l>
-        <pb n="139"/>
+      </sp>
+      <pb n="139"/>
+      <sp who="#chorus">
+        <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="579"/>
         <l>Nulla vis flammae tumidive venti</l>
         <milestone unit="line" ed="exclude" n="580"/>
@@ -1824,6 +1832,8 @@
         <milestone unit="line" ed="exclude" n="669"/>
         <l>parcite iusso.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="670" unit="card"/>
       <sp who="#nutrix">
         <speaker>Nutrix</speaker>
@@ -2267,7 +2277,9 @@
         <milestone unit="line" ed="exclude" n="878"/>
         <l>dux noctis Hesperus.</l>
       </sp>
-      <stage>nuntius chorus nutrix medea iason</stage>
+      </div>
+      <div type="act">
+      <stage>Nuntius Chorus Nutrix Medea Iason</stage>
       <sp who="#nuntius">
         <milestone unit="line" ed="exclude" n="879"/>
         <l>Periere cuncta, concidit regni status,</l>
@@ -2651,6 +2663,7 @@
         <milestone unit="line" ed="exclude" n="1027"/>
         <l>testare nullos esse, qua veneris, deos.</l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>

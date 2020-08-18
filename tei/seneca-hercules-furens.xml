@@ -129,6 +129,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="3"/>
+      <div type="act">
       <sp who="#iuno">
         <speaker>Iuno</speaker>
         <milestone unit="line" ed="exclude" n="1"/>
@@ -567,6 +568,8 @@
         <milestone unit="line" ed="exclude" n="204"/>
         <l>tardusque senio graditur Alcidae parens.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="205" unit="card"/>
       <stage>Amphitryon Megara Lycus</stage>
       <sp who="#amphitryon">
@@ -1540,6 +1543,8 @@
         <milestone unit="line" ed="exclude" n="591"/>
         <l>haec vinci poterit regia viribus.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="592" unit="card"/>
       <sp who="#hercules">
         <speaker>Hercules</speaker>
@@ -2090,7 +2095,10 @@
         <l>clamore turba frontibus laurum gerens</l>
         <milestone unit="line" ed="exclude" n="829"/>
         <l>magnique meritas Herculis laudes canit.</l>
+      </sp>
         <pb n="31"/>
+      <sp who="#chorus">
+        <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="830"/>
         <l n="830">Natus Eurystheus properante partu </l>
         <milestone unit="line" ed="exclude" n="831"/>
@@ -2224,8 +2232,10 @@
         <milestone unit="line" ed="exclude" n="894"/>
         <l>dilecta tege populo.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="895" unit="card"/>
-      <stage>Hercvles Theseus Amphitryon Megara</stage>
+      <stage>Hercules Theseus Amphitryon Megara</stage>
       <sp who="#hercules">
         <milestone unit="line" ed="exclude" n="895"/>
         <l n="895">Victrice dextra fusus adverso Lycus </l>
@@ -2804,6 +2814,8 @@
         <milestone unit="line" ed="exclude" n="1137"/>
         <l>ite, iratos visite reges. </l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="1138" unit="card"/>
       <stage>Hercules Amphitryon Theseus</stage>
       <sp who="#hercules">
@@ -3372,6 +3384,7 @@
         <milestone unit="line" ed="exclude" n="1344"/>
         <l>facere innocentes terra quae superos solet.</l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>

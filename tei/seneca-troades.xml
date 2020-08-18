@@ -165,6 +165,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="51"/>
+      <div type="act">
       <sp who="#hecuba">
         <speaker>Hecuba</speaker>
         <milestone n="1" unit="line"/>
@@ -534,6 +535,8 @@
         <milestone n="163" unit="line"/>
         <l>omnia secum consumpta tulit.</l>
       </sp>
+      </div>
+      <div type="act">
       <stage>Talthybius Chorus</stage>
       <sp who="#talthybius">
         <milestone n="164" unit="line"/>
@@ -1147,6 +1150,8 @@
         <milestone n="408" unit="line"/>
         <l>quo non nata iacent.—</l>
       </sp>
+      </div>
+      <div type="act">
       <stage>Andromacha Senex Astyanax</stage>
       <milestone n="408" unit="line"/>
       <sp who="#andromacha">
@@ -2286,6 +2291,8 @@
         <milestone n="860" unit="line"/>
         <l n="860">ducet? in cuius moriere regno? </l>
       </sp>
+      </div>
+      <div type="act">
       <stage>Helena Andromacha Hecuba</stage>
       <sp who="#helena">
         <milestone n="861" unit="line"/>
@@ -2748,6 +2755,8 @@
         <milestone n="1055" unit="line"/>
         <l n="1055">Troes hoc signo patriam videbunt. </l>
       </sp>
+      </div>
+      <div type="act">
       <stage>Nuntius Hecuba Andromacha</stage>
       <sp who="#nuntius">
         <milestone n="1056" unit="line"/>
@@ -3037,6 +3046,7 @@
         <milestone n="1179" unit="line"/>
         <l>iam vela puppis laxat et classis movet.</l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>
