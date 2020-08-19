@@ -59,10 +59,10 @@
           <person xml:id="cassandra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q170779">
             <persName>Cassandra</persName>
           </person>
-          <personGrp xml:id="chorus" sex="UNKNOWN">
+          <personGrp xml:id="chorus_mycenaeorum" sex="UNKNOWN">
             <name>Chorus Mycenaeorum</name>
           </personGrp>
-          <personGrp xml:id="chorus2" sex="UNKNOWN">
+          <personGrp xml:id="chorus_iliadum" sex="UNKNOWN">
             <name>Chorus Iliadum</name>
           </personGrp>
           <person xml:id="electra" sex="FEMALE" ana="http://www.wikidata.org/entity/Q131651">
@@ -160,14 +160,15 @@
           </castItem>
         </castGroup>
         <castItem type="role">
-          <role id="chorus">Chorus Mycenaeorum</role>
+          <role id="chorus_mycenaeorum">Chorus Mycenaeorum</role>
         </castItem>
         <castItem type="role">
-          <role id="chorus2">Chorus Iliadum</role>
+          <role id="chorus_iliadum">Chorus Iliadum</role>
         </castItem>
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="243"/>
+      <div type="act">
       <sp who="#thyestis_umbra">
         <speaker>Thyestis Umbra</speaker>
         <milestone unit="line" ed="exclude" n="1"/>
@@ -286,7 +287,7 @@
       </sp>
       <milestone n="57" unit="card"/>
       <pb n="245"/>
-      <sp who="#chorus">
+      <sp who="#chorus_mycenaeorum">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="57"/>
         <l>O regnorum magnis fallax</l>
@@ -392,6 +393,8 @@
         <milestone unit="line" ed="exclude" n="107"/>
         <l>remo terras propiore legit.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="108" unit="card"/>
       <stage>Clytemestra Nutrix</stage>
       <sp who="#clytemestra">
@@ -923,7 +926,7 @@
         <l>dubium ac minacem iuncta consilia explicent.</l>
       </sp>
       <milestone n="310" unit="card"/>
-      <sp who="#chorus">
+      <sp who="#chorus_mycenaeorum">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="310"/>
         <l n="310">Canite, o pubes inclita, Phoebum! </l>
@@ -1124,6 +1127,10 @@
         <l>abavusque tuam non degenerem</l>
         <milestone unit="line" ed="exclude" n="407"/>
         <l>respice prolem.</l>
+      </sp>
+      </div>
+      <div type="act">
+      <sp who="#chorus_mycenaeorum">
         <milestone unit="line" ed="exclude" n="408"/>
         <l>Sed ecce, vasto concitus miles gradu</l>
         <milestone unit="line" ed="exclude" n="409"/>
@@ -1569,7 +1576,7 @@
         <l>effrena Phoebas entheas laurus quatit.</l>
       </sp>
       <stage>Chorus Iliadum Cassandra</stage>
-      <sp who="#chorus2">
+      <sp who="#chorus_iliadum">
         <milestone unit="line" ed="exclude" n="589"/>
         <l>Heu quam dulce malum mortalibus additum</l>
         <milestone unit="line" ed="exclude" n="590"/>
@@ -1732,7 +1739,7 @@
         <l>removete, nostris ipsa sufficiam malis.</l>
       </sp>
       <pb n="266"/>
-      <sp who="#chorus2">
+      <sp who="#chorus_iliadum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="664"/>
         <l>Lacrimas lacrimis miscere iuvat:</l>
@@ -1829,7 +1836,7 @@
         <l>Troiae superstes, Hectori, Priamo, sibi.</l>
       </sp>
       <milestone n="710" unit="card"/>
-      <sp who="#chorus2">
+      <sp who="#chorus_iliadum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="710"/>
         <l n="710">Silet repente Phoebas et pallor genas </l>
@@ -1968,7 +1975,7 @@
         <l>pater decoros Dardanus.</l>
       </sp>
       <milestone n="775" unit="card"/>
-      <sp who="#chorus2">
+      <sp who="#chorus_iliadum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="775"/>
         <l n="775">Iam pervagatus ipse se fregit furor, </l>
@@ -2109,9 +2116,11 @@
         <milestone unit="line" ed="exclude" n="807"/>
         <l>Arabumque donis supplice et fibra colam.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="808" unit="card"/>
       <stage>Chorus Cassandra</stage>
-      <sp who="#chorus2">
+      <sp who="#chorus_iliadum">
         <milestone unit="line" ed="exclude" n="808"/>
         <l>Argos nobilibus nobile civibus,</l>
         <milestone unit="line" ed="exclude" n="809"/>
@@ -2243,6 +2252,8 @@
         <milestone unit="line" ed="exclude" n="866"/>
         <l>totidem diebus Troia quot annis.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="867" unit="card"/>
       <sp who="#cassandra">
         <speaker>Cass.</speaker>
@@ -2669,6 +2680,7 @@
         <speaker>Cass.</speaker>
         <l part="F">Veniet et vobis furor.</l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>

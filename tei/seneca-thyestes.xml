@@ -138,6 +138,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="281"/>
+      <div type="act">
       <stage>Tantali Umbra Furia</stage>
       <sp who="#tantaliumbra">
         <speaker>Tantali Umbra</speaker>
@@ -522,6 +523,8 @@
         <milestone n="175" unit="line"/>
         <l n="175">altum de rapido gurgite pulverem. </l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="176" unit="card"/>
       <stage>Atreus Satelles</stage>
       <sp who="#atreus">
@@ -1131,8 +1134,10 @@
         <milestone n="403" unit="line"/>
         <l>ignotus moritur sibi.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="404" unit="card"/>
-      <sp who="#thyestes #tantalus #plisthenes">
+      <sp who="#thyestes">
         <speaker>Thyestes Tantalus Plisthenes Tacitus</speaker>
         <milestone n="404" unit="line"/>
         <l>Optata patriae tecta et Argolicas opes</l>
@@ -1700,9 +1705,14 @@
         <l>res deus nostras celeri citatas</l>
         <milestone n="622" unit="line"/>
         <l>turbine versat.</l>
-        <pb n="302"/>
+      </sp>
+      </div>
+      <pb n="302"/>
+      <div type="act">
+      <stage>Nuntius Chorus</stage>
+      <sp who="#nuntius">
         <milestone n="623" unit="line"/>
-        <l>Quis me per auras turbo praecipitem vehet-</l>
+        <l>Quis me per auras turbo praecipitem vehet</l>
         <milestone n="624" unit="line"/>
         <l>atraque nube involvet, ut tantum nefas</l>
         <milestone n="625" unit="line"/>
@@ -2314,6 +2324,8 @@
         <milestone n="884" unit="line"/>
         <l>mundo secum pereunte mori.</l>
       </sp>
+      </div>
+      <div type="act">
       <milestone n="885" unit="card"/>
       <sp who="#atreus">
         <speaker>Atreus</speaker>
@@ -2879,6 +2891,7 @@
         <milestone n="1112" unit="line"/>
         <l>Te puniendum liberis trado tuis.</l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>
