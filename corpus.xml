@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Roman Drama Corpus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>DraCor</publisher>
+        <idno type="URI" xml:base="https://dracor.org/">rom</idno>
+        <idno type="repo">https://github.com/dracor-org/romdracor</idno>
+      </publicationStmt>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>
+          Derived from
+          <ref target="http://www.perseus.tufts.edu/hopper/opensource/download">Perseus
+          Digital Library</ref>. Maintained for DraCor by Julia Jennifer Beine
+          (Ruhr University Bochum), Boris Orekhov and Frank Fischer (both Higher
+          School of Economics, Moscow). Features 36 plays (20 comedies by
+          <hi>Plautus</hi> and 6 by <hi>Terence</hi>, and 10 tragedies by
+          <hi>Seneca</hi>).
+        </p>
+      </projectDesc>
+    </encodingDesc>
+  </teiHeader>
+</teiCorpus>

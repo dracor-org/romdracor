@@ -1,1 +1,0 @@
-Derived from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download). Maintained for DraCor by Julia Jennifer Beine (Ruhr University Bochum), Boris Orekhov and Frank Fischer (both Higher School of Economics, Moscow). Features 36 plays (20 comedies by **Plautus** and 6 by **Terence**, and 10 tragedies by **Seneca**).
