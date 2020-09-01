@@ -150,10 +150,11 @@ new additions
         <name>Boris Orekhov</name>
         <resp>ed.</resp>
       </respStmt>
-      <item>converted to P.5 Dracor format</item>
+      <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
-  <text lang="la">
+  <text>
+    <pb n="244"/>
     <body>
       <castList>
         <head>FABULAE INTERLOCUTORES.</head>
@@ -196,20 +197,19 @@ new additions
           <role>SYRUS, servus Aeschini.</role>
         </castItem>
       </castList>
+      <pb n="245"/>
       <div n="introduction" type="act">
         <div n="summary" type="scene">
           <head>INTRODUCTION.</head>
-          <p lang="en">This play derives its name from the two pairs of brothers who are introduced. Demea and Micio, the elders, had always been very dissimilar in character and manner of life. Micio was a pleasant old bachelor, and had always lived in town, and was very lenient and indulgent towards his young relations. Demea on the contrary had kept up the thrifty habits of his early years, residing on his farm and taking a severe view of the conduct of his sons. Ctesipho, the younger of his sons, lived with his father at this farm; but Aeschinus, the elder, had been adopted by his uncle. They had accordingly been very differently brought up. Ctesipho had been kept very strictly at home, and was, to the best of his father's belief, a model of propriety. Aeschinus had been indulged by his uncle in every way, till he was notorious for his dissipation. He went so far at last as to offer violence to a young lady named Pamphila, whom he met one night when he was intoxicated. This was the last of his excesses. He promised to make all amends in his power by marrying Pamphila, and on this condition the matter was kept quiet by Sostrata her mother. Ctesipho in one of his visits to the town had fallen in love with a music girl belonging to a slave-merchant, and was carrying on an intercourse with her under the cover of his brother's name; for Aeschinus had taken the credit of the affair to himself that his father might not hear of Ctesipho's doings. After a time the slave-merchant gave notice to Ctesipho that unless he bought the music girl at his price she should be immediately sold. Ctesipho was in the greatest despair at this announcement, and was half inclined to run away from his troubles and leave the country, when Aeschinus, hearing the state of the case, cut matters short by breaking into the house of Sannio the slave-merchant, maltreating him, and carrying off the girl to his own house, where she was received by Ctesipho.</p>
-          <p lang="en">
-            Here the action of the play commences. Demea coming into town hears of this new outrage of Aeschinus', and accuses his brother Micio of being the cause of all this excess. It was his indulgence that had made Aeschinus so dissolute. How different was the conduct of his brother Ctesipho who had been brought up strictly at home in the country! Micio in return justifies his mode of education. Meanwhile Aeschinus is busied, with the assistance of his slave Parmeno, in arranging matters with Sannio, who blusters loudly at first, but finds at last that the best plan is to pocket his affront and trust to the young men to pay him, for he will lose more by waiting to prosecute the affair, as he is on the eve of a voyage to 
-            <placeName key="tgn,1000112">Cyprus</placeName>
-            , than if he abandons the slave altogether. The news of Aeschinus' prank had spread over the city, and it was now carried to Sostrata his destined mother-in-law by Geta her slave, who had witnessed the whole affair. Sostrata sends her trusty Geta to Hegio, an old friend of her late husband Simulus, who will stand by her, and see that her daughter has justice done her. Demea in the mean time is in consternation, for he has heard that Ctesipho was with Aeschinus when this music girl was carried off; but Syrus, one of Micio's slaves, contrives, with great skill, to make the fact increase his good opinion of his son; for he represents Ctesipho to have taken part in the affair only to blame his brother's dissolute conduct, and says that as soon as the matter was over he had returned to the country to his usual work. Demea is greatly affected to find that he has one son who is a credit to his family, and sets off for his farm. On his way he meets Hegio, from whom he learns the circumstances of Aeschinus' connexion with Pamphila; and at the same time he finds from one of his farm servants that Ctesipho has never been to the farm at all, as Syrus had pretended. These news send him back to Micio in a rage; but he is again met with a new fiction by Syrus, who revenges himself on him by sending him on a fool's errand over the whole town to look for his brother. Micio meanwhile has been with Hegio to Sostrata and Pamphila, and has comforted them by giving his consent to the marriage of the young lady and Aeschinus. Demea now returns from his fruitless search after his brother, and there is a general disturbance, particularly when one of the slaves accidentally betrays the fact of Ctesipho's being in Micio's house, where his father finds him with the music girl. After some more discussions between Demea and Micio, the former suddenly determines to change his demeanour; and to the surprise of every one whom he meets, and not a little to his own, he acts the courteous and complaisant man. He falls in with all their humours, and promotes the happiness of all parties. Pamphila is married to Aeschinus; Sannio is paid; Micio is made to marry Sostrata; Hegio is provided for; and Syrus and his wife are freed in consideration of the great services which the cunning slave had rendered to morality. The play concludes with a speech in which Demea explains the meaning of his late conduct, and gives his hearers a little wholesome advice for the future.
-          </p>
+          <p xml:lang="eng">This play derives its name from the two pairs of brothers who are introduced. Demea and Micio, the elders, had always been very dissimilar in character and manner of life. Micio was a pleasant old bachelor, and had always lived in town, and was very lenient and indulgent towards his young relations. Demea on the contrary had kept up the thrifty habits of his early years, residing on his farm and taking a severe view of the conduct of his sons. Ctesipho, the younger of his sons, lived with his father at this farm; but Aeschinus, the elder, had been adopted by his uncle. They had accordingly been very differently brought up. Ctesipho had been kept very strictly at home, and was, to the best of his father's belief, a model of propriety. Aeschinus had been indulged by his uncle in every way, till he was notorious for his dissipation. He went so far at last as to offer violence to a young lady named Pamphila, whom he met one night when he was intoxicated. This was the last of his excesses. He promised to make all amends in his power by marrying Pamphila, and on this condition the matter was kept quiet by Sostrata her mother. Ctesipho in one of his visits to the town had fallen in love with a music girl belonging to a slave-merchant, and was carrying on an intercourse with her under the cover of his brother's name; for Aeschinus had taken the credit of the affair to himself that his father might not hear of Ctesipho's doings. After a time the slave-merchant gave notice to Ctesipho that unless he bought the music girl at his price she should be immediately sold. Ctesipho was in the greatest despair at this announcement, and was half inclined to run away from his troubles and leave the country, when Aeschinus, hearing the state of the case, cut matters short by breaking into the house of Sannio the slave-merchant, maltreating him, and carrying off the girl to his own house, where she was received by Ctesipho.</p>
+          <p xml:lang="eng">Here the action of the play commences. Demea coming into town hears of this new outrage of Aeschinus', and accuses his brother Micio of being the cause of all this excess. It was his indulgence that had made Aeschinus so dissolute. How different was the conduct of his <pb n="246"/> brother Ctesipho who had been brought up strictly at home in the country! Micio in return justifies his mode of education. Meanwhile Aeschinus is busied, with the assistance of his slave Parmeno, in arranging matters with Sannio, who blusters loudly at first, but finds at last that the best plan is to pocket his affront and trust to the young men to pay him, for he will lose more by waiting to prosecute the affair, as he is on the eve of a voyage to <placeName key="tgn,1000112">Cyprus</placeName>, than if he abandons the slave altogether. The news of Aeschinus' prank had spread over the city, and it was now carried to Sostrata his destined mother-in-law by Geta her slave, who had witnessed the whole affair. Sostrata sends her trusty Geta to Hegio, an old friend of her late husband Simulus, who will stand by her, and see that her daughter has justice done her. Demea in the mean time is in consternation, for he has heard that Ctesipho was with Aeschinus when this music girl was carried off; but Syrus, one of Micio's slaves, contrives, with great skill, to make the fact increase his good opinion of his son; for he represents Ctesipho to have taken part in the affair only to blame his brother's dissolute conduct, and says that as soon as the matter was over he had returned to the country to his usual work. Demea is greatly affected to find that he has one son who is a credit to his family, and sets off for his farm. On his way he meets Hegio, from whom he learns the circumstances of Aeschinus' connexion with Pamphila; and at the same time he finds from one of his farm servants that Ctesipho has never been to the farm at all, as Syrus had pretended. These news send him back to Micio in a rage; but he is again met with a new fiction by Syrus, who revenges himself on him by sending him on a fool's errand over the whole town to look for his brother. Micio meanwhile has been with Hegio to Sostrata and Pamphila, and has comforted them by giving his consent to the marriage of the young lady and Aeschinus. Demea now returns from his fruitless search after his brother, and there is a general disturbance, particularly when one of the slaves accidentally betrays the fact of Ctesipho's being in Micio's house, where his father finds him with the music girl. After some more discussions between Demea and Micio, the former suddenly determines to change his demeanour; and to the surprise of every one whom he meets, and not a little to his own, he acts the courteous and complaisant man. He falls in with all their humours, and promotes the happiness of all parties. Pamphila is married to Aeschinus; Sannio is paid; Micio is made to marry Sostrata; Hegio is provided for; and Syrus and his wife are freed in consideration of the great services which the cunning slave had rendered to morality. The play concludes with a speech in which Demea explains the meaning of his late conduct, and gives his hearers a little wholesome advice for the future.</p>
         </div>
+        <pb n="247"/>
         <div n="production" type="scene">
           <p>ADELPHI.  ACTA LUDIS FUNEBRIBUS AEMILII PAULLI QUOS FECERE Q. FABIUS MAXIMUS, P. CORNELIUS AFRICANUS. EGERE L. ATTILIUS PRAENESTINUS, MINUTIUS PROTHIMUS. MODOS FECIT FLACCUS CLAUDII, TIBIIS SARRANIS. FACTA GRAECA MENANDRU L. ANICIO M. CORNELIO COSS.</p>
         </div>
       </div>
+      <pb n="248"/>
       <div n="prologue" type="act">
         <div n="0" type="scene">
           <head>Prologus</head>
@@ -239,6 +239,7 @@ new additions
               Synapothnescontes Diphili comoedia est.
               <lb ed="TLN" n="7"/>
             </l>
+            <pb n="249"/>
           <l>
               Eam Commorientes Plautus fecit fabulam.
               <lb ed="TLN" n="8"/>
@@ -275,6 +276,7 @@ new additions
               Nam quod isti dicunt malevoli, homines nobiles
               <lb ed="TLN" n="16"/>
             </l>
+            <pb n="250"/>
           <l>
               Eum adiutare, assidueque una scribere;
               <lb ed="TLN" n="17"/>
@@ -315,13 +317,14 @@ new additions
           </sp>
         </div>
       </div>
+      <pb n="251"/>
       <div n="1" type="act">
         <div n="1" type="scene">
           <stage>MICIO.</stage>
           <sp who="#micio">
           <lb ed="TLN" n="26"/>
           <l>
-            Storax--Non rediit&gt; hac nocte a coena Aeschinus,
+            Storax—Non rediit&gt; hac nocte a coena Aeschinus,
             <lb ed="TLN" n="27"/>
           </l>
           <l>
@@ -364,6 +367,7 @@ new additions
             Quibus nunc sollicitor rebus! ne aut ille alserit,
             <lb ed="TLN" n="37"/>
           </l>
+            <pb n="252"/>
           <l>
             Aut uspiam ceciderit, aut perfregerit
             <lb ed="TLN" n="38"/>
@@ -412,6 +416,7 @@ new additions
             Eduxi a parvulo; habui, amavi pro meo;
             <lb ed="TLN" n="49"/>
           </l>
+            <pb n="253"/>
           <l>
             In eo me oblecto; solum id est carum mihi.
             <lb ed="TLN" n="50"/>
@@ -484,6 +489,7 @@ new additions
             Qui imperium credat gravius esse aut stabilius
             <lb ed="TLN" n="67"/>
           </l>
+            <pb n="254"/>
           <l>
             Vi quod fit quam illud quod amicitia adiungitur.
             <lb ed="TLN" n="68"/>
@@ -543,6 +549,7 @@ new additions
           <l>Gaudemus.</l>
           </sp>
         </div>
+        <pb n="255"/>
         <div n="2" type="scene">
           <stage>DEMEA. MICIO.</stage>
           <sp who="#demea">
@@ -585,6 +592,7 @@ new additions
               Tenere se ullam: nam illa quae antehac facta sunt
               <lb ed="TLN" n="88"/>
             </l>
+            <pb n="256"/>
             <l>Omitto: modo quid designavit!</l>
           </sp>
           <sp who="#micio">
@@ -639,6 +647,7 @@ new additions
               Homine imperito nunquam quicquam iniustius,
               <lb ed="TLN" n="100"/>
             </l>
+            <pb n="257"/>
             <l>Qui nisi quod ipse fecit nihil rectum putat.</l>
           </sp>
           <sp who="#demea">
@@ -680,6 +689,7 @@ new additions
               Faceremus: et tu illum tuum, si esses homo,
               <lb ed="TLN" n="109"/>
             </l>
+            <pb n="258"/>
             <l>
               Sineres nunc facere, dum per aetatem licet,
               <lb ed="TLN" n="110"/>
@@ -759,6 +769,7 @@ new additions
             </l>
             <l n="45">Pater esse disce ab illis qui vere sciunt.</l>
           </sp>
+          <pb n="259"/>
           <sp who="#micio">
             <speaker>Mi.</speaker>
             <lb ed="TLN" n="127"/>
@@ -850,7 +861,7 @@ new additions
               Quum ita ut volo est. Iste tuus ipse sentiet
               <lb ed="TLN" n="141"/>
             </l>
-            <l n="60">Posterius--nolo in ilium gravius dicere.</l>
+            <l n="60">Posterius—nolo in ilium gravius dicere.</l>
           </sp>
           <sp who="#micio">
             <speaker>Mi.</speaker>
@@ -887,6 +898,7 @@ new additions
               Nonnullam in hac re nobis facit iniuriam.
               <lb ed="TLN" n="150"/>
             </l>
+            <pb n="260"/>
             <l>
               Quam hic non amavit meretricem? aut cui non dedit
               <lb ed="TLN" n="151"/>
@@ -934,8 +946,9 @@ new additions
           <sp who="#sannio">
             <speaker>Sa.</speaker>
             <lb ed="TLN" n="159"/>
-            <l>Ego istam invitis omnibus--</l>
+            <l>Ego istam invitis omnibus—</l>
           </sp>
+          <pb n="261"/>
           <sp who="#aeschinus">
             <speaker>Aes.</speaker>
             <lb ed="TLN" n="160"/>
@@ -1010,6 +1023,7 @@ new additions
               Cave nunc iam oculos a meis oculis quoquam demoveas tuos:
               <lb ed="TLN" n="172"/>
             </l>
+            <pb n="262"/>
             <l>Ne mora sit si innuerim quin pugnus continuo in mala haereat.</l>
           </sp>
           <sp who="#sannio">
@@ -1107,6 +1121,7 @@ new additions
             <speaker>Aes.</speaker>
             <l part="Y"> Sic erit.</l>
           </sp>
+          <pb n="263"/>
           <sp who="#sannio">
             <speaker>Sa.</speaker>
             <lb ed="TLN" n="184"/>
@@ -1197,6 +1212,7 @@ new additions
               Quae libera est; nam ego liberali illam assero causa manu.
               <lb ed="TLN" n="196"/>
             </l>
+            <pb n="264"/>
             <l>
               Nunc vide utrum vis; argentum accipere, an causam meditari tari tuam?
               <lb ed="TLN" n="197"/>
@@ -1256,6 +1272,7 @@ new additions
             <l>Sed nemo dabit: frustra has egomet mecum rationes puto.</l>
           </sp>
         </div>
+        <pb n="265"/>
         <div n="2" type="scene">
           <stage>SYRUS. SANNIO.</stage>
           <sp who="#syrus">
@@ -1277,6 +1294,7 @@ new additions
                Nunquam vidi iniquius
               <lb ed="TLN" n="213"/>
             </l>
+            <pb n="266"/>
             <l>
               Certationem comparatam quam haec hodie inter nos fuit:
               <lb ed="TLN" n="214"/>
@@ -1351,6 +1369,7 @@ new additions
               Age; novi tuum animum; quasi iam usquam tibi sint viginti minae,
               <lb ed="TLN" n="225"/>
             </l>
+            <pb n="267"/>
             <l>Dum huic obsequare. Praeterea autem te aiunt proficisci Cyprum.</l>
           </sp>
           <sp who="#sannio">
@@ -1416,6 +1435,7 @@ new additions
             <lb ed="TLN" n="237"/>
             <l>Iamne enumerasti id quod ad te rediturum putes?</l>
           </sp>
+          <pb n="268"/>
           <sp who="#sannio">
             <speaker>Sa.</speaker>
             <lb ed="TLN" n="238"/>
@@ -1484,6 +1504,7 @@ new additions
               Meum mihi reddatur; saltem quanti emta est, Syre.
               <lb ed="TLN" n="251"/>
             </l>
+            <pb n="269"/>
             <l>
               Scio te non usum antehac amicitia mea:
               <lb ed="TLN" n="252"/>
@@ -1574,6 +1595,7 @@ new additions
               Maledicta, famam, meum amorem, et peceatum in se transtulit:
               <lb ed="TLN" n="265"/>
             </l>
+            <pb n="270"/>
             <l n="11">Nihil pote supra. Quidnam foris crepuit?</l>
           </sp>
           <sp who="#syrus">
@@ -1628,6 +1650,7 @@ new additions
               Hoc mihi dolet, nos paene sero scisse, et paene in eum locum
               <lb ed="TLN" n="274"/>
             </l>
+            <pb n="271"/>
             <l>Redisse ut si omnes cuperent nihil tibi possent auxiliarier.</l>
           </sp>
           <sp who="#ctesipho">
@@ -1641,7 +1664,7 @@ new additions
                Ah, stultitia est istaec, non pudor. Tam ob parvulam
               <lb ed="TLN" n="276"/>
             </l>
-            <l>Rem paene ex patria!--Turpe dictu. Deos quaeso ut istaec prohibeant.</l>
+            <l>Rem paene ex patria!—Turpe dictu. Deos quaeso ut istaec prohibeant.</l>
           </sp>
           <sp who="#ctesipho">
             <speaker>Ct.</speaker>
@@ -1727,6 +1750,7 @@ new additions
               Et lectulos iube sterni nobis, et parari caetera.
               <lb ed="TLN" n="287"/>
             </l>
+            <pb n="272"/>
             <l>Ego iam transacta re convertam me domum cum obsonio.</l>
           </sp>
           <sp who="#ctesipho">
@@ -1790,6 +1814,7 @@ new additions
               E re nata melius fieri haud potuit quam factum est hera;
               <lb ed="TLN" n="297"/>
             </l>
+            <pb n="273"/>
             <l>
               Quando vitium oblatum est; quod ad illum attinet potissimum
               <lb ed="TLN" n="298"/>
@@ -1845,6 +1870,7 @@ new additions
               Repressit neque reflexit, neque quod partus instabat prope,
               <lb ed="TLN" n="309"/>
             </l>
+            <pb n="274"/>
             <l n="10">Cui miserae indigne per vim vitium obtulerat.</l>
           </sp>
           <sp who="#sostrata">
@@ -1911,6 +1937,7 @@ new additions
             <speaker>So.</speaker>
             <l part="Y"> Revocemus. Geta.</l>
           </sp>
+          <pb n="275"/>
           <sp who="#geta">
             <speaker>Ge.</speaker>
             <lb ed="TLN" n="322"/>
@@ -1950,7 +1977,7 @@ new additions
           </sp>
           <sp who="#geta">
             <speaker>Ge.</speaker>
-            <l part="Y"> Prorsus--</l>
+            <l part="Y"> Prorsus—</l>
           </sp>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -1970,7 +1997,7 @@ new additions
           </sp>
           <sp who="#geta">
             <speaker>Ge.</speaker>
-            <l part="Y"> Iam--</l>
+            <l part="Y"> Iam—</l>
           </sp>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -1979,7 +2006,7 @@ new additions
           <sp who="#geta">
             <speaker>Ge.</speaker>
             <lb ed="TLN" n="327"/>
-            <l>Aeschinus--</l>
+            <l>Aeschinus—</l>
           </sp>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -2050,6 +2077,7 @@ new additions
               Hera, lacrimas mitte, ac potius quod ad hanc rem opus est porro consule;
               <lb ed="TLN" n="337"/>
             </l>
+            <pb n="276"/>
             <l>Patiamurne, an narremus cuipiam?</l>
           </sp>
           <sp who="#canthara">
@@ -2143,6 +2171,7 @@ new additions
                Tu, quantum potes,
               <lb ed="TLN" n="352"/>
             </l>
+            <pb n="277"/>
             <l>
               Abi, atque Hegioni cognato huius rem omnem narrato ordine;
               <lb ed="TLN" n="353"/>
@@ -2188,6 +2217,7 @@ new additions
               Ubi ego ilium quaeram? credo abductum in ganeum
               <lb ed="TLN" n="361"/>
             </l>
+            <pb n="278"/>
             <l>
               Aliquo: persuasit ille impurus, sat scio.
               <lb ed="TLN" n="362"/>
@@ -2315,6 +2345,7 @@ new additions
                Di vestram fidem,
               <lb ed="TLN" n="383"/>
             </l>
+            <pb n="279"/>
             <l>
               Utrum studione id sibi habet, an laudi putat
               <lb ed="TLN" n="384"/>
@@ -2442,6 +2473,7 @@ new additions
                Tuumne filium?
               <lb ed="TLN" n="402"/>
             </l>
+            <pb n="280"/>
             <l>Abigam hunc rus. Iamdudum aliquid ruri agere arbitror.</l>
           </sp>
           <sp who="#demea">
@@ -2585,7 +2617,7 @@ new additions
           </sp>
           <sp who="#demea">
             <speaker>De.</speaker>
-            <l part="Y"> Porro autem--</l>
+            <l part="Y"> Porro autem—</l>
           </sp>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
@@ -2593,6 +2625,7 @@ new additions
                Non hercle otium est
               <lb ed="TLN" n="421"/>
             </l>
+            <pb n="281"/>
             <l>
               Nunc mihi auscultanldi. Pisces ex sententia
               <lb ed="TLN" n="422"/>
@@ -2671,6 +2704,7 @@ new additions
               Ego vero hinc abeo, quando is quamobrem huc veneram
               <lb ed="TLN" n="437"/>
             </l>
+            <pb n="282"/>
             <l>
               Rus abiit: illum curo unum: ille ad me attinet.
               <lb ed="TLN" n="438"/>
@@ -2762,6 +2796,7 @@ new additions
             <lb ed="TLN" n="455"/>
             <l>Nisi facient quae illos aequum est, haud sic auferent.</l>
           </sp>
+          <pb n="283"/>
           <sp who="#geta">
             <speaker>Ge.</speaker>
             <lb ed="TLN" n="456"/>
@@ -2914,6 +2949,7 @@ new additions
               Praeterea, ut captus est servorum non malus
               <lb ed="TLN" n="482"/>
             </l>
+            <pb n="284"/>
             <l n="35">
               Neque iners, alit illas: solus omnem familiam
               <lb ed="TLN" n="483"/>
@@ -3004,6 +3040,7 @@ new additions
               Animam relinquam potius quam illas deseram.
               <lb ed="TLN" n="500"/>
             </l>
+            <pb n="285"/>
             <l>Quid mihi respondes?</l>
           </sp>
           <sp who="#demea">
@@ -3075,6 +3112,7 @@ new additions
             Fac consolere. Ego Micionem, si apud forum est,
             <lb ed="TLN" n="515"/>
           </l>
+            <pb n="286"/>
           <l>
             Conveniam; atque ut res gesta est narrabo ordine.
             <lb ed="TLN" n="516"/>
@@ -3138,6 +3176,7 @@ new additions
                Ita: nam hunc diem
               <lb ed="TLN" n="524"/>
             </l>
+            <pb n="287"/>
             <l>
               Misere nimis cupio, ut coepi, perpetuum in laetitia degere:
               <lb ed="TLN" n="525"/>
@@ -3202,6 +3241,7 @@ new additions
             <lb ed="TLN" n="533"/>
             <l n="15">Interdiu: sed si hic pernocto, causae quid dicam, Syre?</l>
           </sp>
+          <pb n="288"/>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
             <lb ed="TLN" n="534"/>
@@ -3275,6 +3315,7 @@ new additions
             <l part="Y"> Potin ut desinas?</l>
           </sp>
         </div>
+        <pb n="289"/>
         <div n="2" type="scene">
           <stage>DEMEA. CTESIPHO. SYRUS.</stage>
           <sp who="#demea">
@@ -3332,6 +3373,7 @@ new additions
             </l>
             <l>Primus porro obnuntio: aegre solus si quid fit fero.</l>
           </sp>
+          <pb n="290"/>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
             <lb ed="TLN" n="550"/>
@@ -3415,6 +3457,7 @@ new additions
             <speaker>Sy.</speaker>
             <l part="Y"> Hem! vide, ut discidit labrum.</l>
           </sp>
+          <pb n="291"/>
           <sp who="#demea">
             <speaker>De.</speaker>
             <lb ed="TLN" n="562"/>
@@ -3484,6 +3527,7 @@ new additions
             <speaker>De.</speaker>
             <l part="Y"> Ubi ilium quaeram cogito.</l>
           </sp>
+          <pb n="292"/>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
             <lb ed="TLN" n="572"/>
@@ -3572,6 +3616,7 @@ new additions
               Sane hac multo propius ibis, et minor est erratio.
               <lb ed="TLN" n="583"/>
             </l>
+            <pb n="293"/>
             <l>Scin Cratini huius ditis aedes?</l>
           </sp>
           <sp who="#demea">
@@ -3623,6 +3668,7 @@ new additions
               Ctesipho autem in amore est totus. Ego iam prospiciam mihi:
               <lb ed="TLN" n="592"/>
             </l>
+            <pb n="294"/>
             <l>
               Nam iam adibo, atque unumquicquid quod quidem erit bellissimum
               <lb ed="TLN" n="593"/>
@@ -3670,6 +3716,7 @@ new additions
             </l>
             <l>Suspicionem hanc propter fratrem eius esse et illam psaltriam.</l>
           </sp>
+          <pb n="295"/>
           <sp who="#micio">
             <speaker>Mi.</speaker>
             <lb ed="TLN" n="603"/>
@@ -3729,6 +3776,7 @@ new additions
             <l part="Y"> Maxime.</l>
           </sp>
         </div>
+        <pb n="296"/>
         <div n="4" type="scene">
           <stage>AESCHINUS.</stage>
           <sp who="#aeschinus">
@@ -3777,6 +3825,7 @@ new additions
             Accedo, rogito Pamphila quid agat, iam partus adsiet;
             <lb ed="TLN" n="623"/>
           </l>
+            <pb n="297"/>
           <l>
             Eone obstetricem arcessat. Illa exclamat, "Abi, abi iam, Aeschine.
             <lb ed="TLN" n="624"/>
@@ -3840,6 +3889,7 @@ new additions
           <l>Prodit nescio quis: concedam huc.</l>
           </sp>
         </div>
+        <pb n="298"/>
         <div n="5" type="scene">
           <stage>MICIO. AESCHINUS.</stage>
           <sp who="#micio">
@@ -3931,6 +3981,7 @@ new additions
               Habitant hic quaedam mulieres pauperculae,
               <lb ed="TLN" n="652"/>
             </l>
+            <pb n="299"/>
             <l>
               Ut opinor; has non nosse te et certo scio;
               <lb ed="TLN" n="653"/>
@@ -4049,6 +4100,7 @@ new additions
                Factum a vobis duriter
               <lb ed="TLN" n="667"/>
             </l>
+            <pb n="300"/>
             <l>
               Immisericorditerque; atque etiam, si est, pater,
               <lb ed="TLN" n="668"/>
@@ -4136,6 +4188,7 @@ new additions
                Aeschine, audivi omnia
               <lb ed="TLN" n="684"/>
             </l>
+            <pb n="301"/>
             <l>Et scio; nam te amo; quo magis quae agis curae sunt milhi.</l>
           </sp>
           <sp who="#aeschinus">
@@ -4240,6 +4293,7 @@ new additions
             <lb ed="TLN" n="703"/>
             <l n="65">Abi domum, ac Deos comprecare ut uxorem arcessas: abi.</l>
           </sp>
+          <pb n="302"/>
           <sp who="#aeschinus">
             <speaker>Aes.</speaker>
             <lb ed="TLN" n="704"/>
@@ -4342,6 +4396,7 @@ new additions
             Monstratione magnus perdat Iupiter!
             <lb ed="TLN" n="719"/>
           </l>
+            <pb n="303"/>
           <l>
             Perreptavi usque omne oppiduni: ad portam, ad lacum:
             <lb ed="TLN" n="720"/>
@@ -4438,8 +4493,9 @@ new additions
           </sp>
           <sp who="#micio">
             <speaker>Mi.</speaker>
-            <l part="Y"> Non. Malim quiden--</l>
+            <l part="Y"> Non. Malim quidem—</l>
           </sp>
+          <pb n="304"/>
           <sp who="#demea">
             <speaker>De.</speaker>
             <lb ed="TLN" n="732"/>
@@ -4547,6 +4603,7 @@ new additions
               Corrector! Nempe tua arte viginti minae
               <lb ed="TLN" n="747"/>
             </l>
+            <pb n="305"/>
             <l n="25">
               Pro psaltria periere; quae, quantum potest,
               <lb ed="TLN" n="748"/>
@@ -4678,6 +4735,7 @@ new additions
           </sp>
         </div>
       </div>
+      <pb n="306"/>
       <div n="5" type="act">
         <div n="1" type="scene">
           <stage>SYRUS. DEMEA.</stage>
@@ -4726,7 +4784,7 @@ new additions
           <sp who="#demea">
             <speaker>De.</speaker>
             <lb ed="TLN" n="774"/>
-            <l>Tu si meus esses--</l>
+            <l>Tu si meus esses—</l>
           </sp>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
@@ -4754,6 +4812,7 @@ new additions
                Rogas?
               <lb ed="TLN" n="777"/>
             </l>
+            <pb n="307"/>
             <l>
               In ipsa turba, atque in peccato maximo,
               <lb ed="TLN" n="778"/>
@@ -4860,6 +4919,7 @@ new additions
             <l>Aliquo abeam, atque edornmiscam hoc villi? Sic agam.</l>
           </sp>
         </div>
+        <pb n="308"/>
         <div n="3" type="scene">
           <stage>MICIO. DEMEA.</stage>
           <sp who="#micio">
@@ -4950,6 +5010,7 @@ new additions
               Non aequum dicis; non; nam vetus verbum hoc quidem est;
               <lb ed="TLN" n="808"/>
             </l>
+            <pb n="309"/>
             <l>Communia esse amicorum inter se omnia.</l>
           </sp>
           <sp who="#demea">
@@ -5025,6 +5086,7 @@ new additions
                Mane:
               <lb ed="TLN" n="825"/>
             </l>
+            <pb n="310"/>
             <l n="35">
               Scio: istuc ibam. Multa in homine, Demea,
               <lb ed="TLN" n="826"/>
@@ -5117,6 +5179,7 @@ new additions
               Faciendum est: caeterum rus eras cum filio
               <lb ed="TLN" n="845"/>
             </l>
+            <pb n="311"/>
             <l n="55">Cum primo lucu [ibo hinc].</l>
           </sp>
           <sp who="#micio">
@@ -5186,7 +5249,7 @@ new additions
               Derides? fortunatus qui istoc animo sies.
               <lb ed="TLN" n="857"/>
             </l>
-            <l>Ego sentio--</l>
+            <l>Ego sentio—</l>
           </sp>
           <sp who="#micio">
             <speaker>Mi.</speaker>
@@ -5202,6 +5265,7 @@ new additions
             <l>I ergo intro, et cui rei est ei rei hunc sumamus diem.</l>
           </sp>
         </div>
+        <pb n="312"/>
         <div n="4" type="scene">
           <stage>DEMEA.</stage>
           <sp who="#demea">
@@ -5242,6 +5306,7 @@ new additions
             Ille suam semper egit vitam in otio, in conviviis,
             <lb ed="TLN" n="868"/>
           </l>
+            <pb n="313"/>
           <l n="10">
             Clemens, placidus, nulli laedere os, arridere omnibus:
             <lb ed="TLN" n="869"/>
@@ -5302,6 +5367,7 @@ new additions
             Blande dicere, aut benigne facere, quando eo provocat.
             <lb ed="TLN" n="883"/>
           </l>
+            <pb n="314"/>
           <l n="25">
             Ego quoque a meis me amari et magni pendi postulo:
             <lb ed="TLN" n="884"/>
@@ -5382,9 +5448,10 @@ new additions
           <sp who="#demea">
             <speaker>De.</speaker>
             <l part="Y">
-               Geta, hominem maximni
+               Geta, hominem maximi
               <lb ed="TLN" n="896"/>
             </l>
+            <pb n="315"/>
             <l>
               Preti te esse hodie animo iudicavi meo:
               <lb ed="TLN" n="897"/>
@@ -5464,6 +5531,7 @@ new additions
                Eho,
               <lb ed="TLN" n="910"/>
             </l>
+            <pb n="316"/>
             <l>Vin tu huic seni auscultare?</l>
           </sp>
           <sp who="#aeschinus">
@@ -5580,6 +5648,7 @@ new additions
             <l n="25">Sic soleo: sed eccum Micio egreditur foras.</l>
           </sp>
         </div>
+        <pb n="317"/>
         <div n="8" type="scene">
           <stage>MICIO. DEMEA. AESCHINUS.</stage>
           <sp who="#micio">
@@ -5724,6 +5793,7 @@ new additions
                Satin sanus es? ego
               <lb ed="TLN" n="942"/>
             </l>
+            <pb n="318"/>
             <l n="15">
               Novus naritus anno demum quinto et sexagesimo
               <lb ed="TLN" n="943"/>
@@ -5794,7 +5864,7 @@ new additions
           <sp who="#demea">
             <speaker>De.</speaker>
             <lb ed="TLN" n="950"/>
-            <l>Merito te amo. Verum--</l>
+            <l>Merito te amo. Verum—</l>
           </sp>
           <sp who="#micio">
             <speaker>Mi.</speaker>
@@ -5848,6 +5918,7 @@ new additions
               Bene et sapienter dixti dudum: "Vitium commune omnium est,
               <lb ed="TLN" n="958"/>
             </l>
+            <pb n="319"/>
             <l>
               Quod nimium ad rem in senecta attenti sumus." Hanc maculam nos decet
               <lb ed="TLN" n="959"/>
@@ -5892,6 +5963,7 @@ new additions
               Frugi homo es. Ego edepol hodie mea quidem sententia
               <lb ed="TLN" n="965"/>
             </l>
+            <pb n="320"/>
             <l>Iudico Syrunm fieri esse aequum liberum.</l>
           </sp>
           <sp who="#micio">
@@ -6000,6 +6072,7 @@ new additions
                Et quidem tuo nepoti, huius filio,
               <lb ed="TLN" n="980"/>
             </l>
+            <pb n="321"/>
             <l>Hodie primam mammam dedit haec.</l>
           </sp>
           <sp who="#demea">
@@ -6098,6 +6171,7 @@ new additions
               Id non fieri ex vera vita, neque adeo ex aequo et bono:
               <lb ed="TLN" n="993"/>
             </l>
+            <pb n="322"/>
             <l>
               Sed ex assentando, indulgendo, et largiendo, Micio.
               <lb ed="TLN" n="994"/>

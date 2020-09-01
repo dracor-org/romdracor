@@ -158,10 +158,11 @@ new additions
         <name>Boris Orekhov</name>
         <resp>ed.</resp>
       </respStmt>
-      <item>converted to P.5 Dracor format</item>
+      <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
-  <text lang="la">
+  <text>
+    <pb n="80"/>
     <body>
       <castList>
         <head>FABULAE INTERLOCUTORES.</head>
@@ -222,41 +223,22 @@ new additions
           <roleDesc>miles.</roleDesc>
         </castItem>
       </castList>
+      <pb n="81"/>
       <div n="introduction" type="act">
         <div n="summary" type="scene">
           <head>INTRODUCTION.</head>
-          <p lang="en">
-            PAMPHILA and Chremes were the children of an Athenian citizen. Pamphila, while an infant, was carried off from her home at Sunium by robbers, and by them sold to a merchant of 
-            <placeName key="tgn,7011266">Rhodes</placeName>.
-            He presented her to a courtesan of that place, who had her brought up with her own daughter Thais as her younger sister. When Thais grew up she removed to 
-            <placeName key="perseus,Athens">Athens</placeName>
-             with a lover of hers, who at his death left her all his property. She then kept company with a soldier named Thraso, who went to 
-            <placeName key="tgn,7002358">Caria</placeName>
-             after living with her a short time.
-          </p>
-          <p lang="en">
-            Meanwhile her mother had died, and her uncle wishing to realize money by Pamphila, who was beautiful and accomplished, sold her to Thraso, who happened to be at 
-            <placeName key="tgn,7011266">Rhodes</placeName>
-             on his return to 
-            <placeName key="perseus,Athens">Athens</placeName>,
-            and carried her with him intending to make a present of her to Thais. During his absence, however, Thais had found a new lover, one Phaedria, son of Laches. This Thraso discovers on his return, and in order to secure his footing with her, makes his present conditional upon Phaedria's dismissal. This causes Thais great perplexity, for she is really attached to Phaedria, and yet much wishes to get possession of Pamphila, whose history she has learnt in part, and whom she hopes to restore to her Athenian family, intending by so doing to make herself friends in 
-            <placeName key="perseus,Athens">Athens</placeName>.
-            Accordingly she shuts her door against Phaedria.
-          </p>
-          <p lang="en">He is at first highly incensed at her conduct; but after an interview with her, consents to absent himself from Athens for a day or two, that she may have time to obtain Pamphila from Thraso. Before he goes he gives orders that an Ethiopian slave, and an eunuch whom he has bought for Thais, shall be taken to her house. At this moment Thraso sends Pamphila under the escort of Gnatho his follower. On her way to Thais' house she is seen in the street by Chaerea, Phaedria's brother, who at first sight falls desperately in love with her, and hurries after her, but being detained on his way by an old friend of his father's, arrives just too late to see her taken into the house. Here he falls in with Parmeno, his father's slave, and between them they concoct the scheme on which the plot of the play turns. Chaerea is dressed up in the eunuch's clothes and conducted to Thais' house, where he soon has an opportunity of carrying out his intended scheme, during the absence of Thais at Thraso's house; after which he makes his escape. This event causes the greatest consternation in the household; and is no less distressing to Thais, who finds her plan for restoring Pamphila to her relations thus awkwardly frustrated. For in the meantime she has obtained some interviews with Chremes, the brother of Pamphila, and has nearly identified Pamphila when the catastrophe comes to her knowledge. Phaedria, too, is much disconcerted at discovering that his present has worked so much mischief. All parties, in fact, are at their wit's end, with the exception of Chaerea, who, upon discovering Pamphila's history, makes the best amends he can by undertaking to marry her. Pythias meanwhile, Thais' maid, pays off old scores by driving Parmeno to divulge the whole matter to Laches, father of Chaerea and Phaedria.</p>
-          <p lang="en">The result is of course a happy explanation on all sides. Thais is taken under Laches' protection, and continues her intimacy with Phaedria. Chaerea and Pamphila marry. Parmeno is forgiven by his grateful young master: and the only person who suffers is the unfortunate Thraso, who is beaten clean off the field, and is only too glad to submit to be the perpetual butt of these young sparks, on condition that he shall be allowed to be one in their parties, and thus still enjoy the society of Thais.</p>
-          <p lang="en">
-            This is the outline of the play, which gives a very lively and amusing action. But the most admirable feature is the manner in which some of the subordinate parts are worked out. The bye-play between Pythias and Parmeno is admirable. The character of the Parasite as drawn in Act II. scene ii. is admirable, and striking from its novelty after the hackneyed ideal which is presented to us in all the plays of Plautus. No less admirable is the Braggadocio of Act III. scene i., the features of the character being the same as those of the 
-            <title>Miles Gloriosus</title>
-             of Plautus, except that Terence with greater humour makes Thraso prouder of his wit than of his military exploits. The scene in which Thraso is represented as attacking Thais in her house (Act IV. scene vii.) is highly ridiculous, and reminds one more strongly than any passage of Terence of the free humour of Aristophanes. We cannot wonder that the Eunuchus should have been the most popular of all Terence's plays: for here there is the nearest approach to the 
-            <foreign lang="la">"Plautini sales,"</foreign>
-             which were the true Roman comedy. It is said to have been purchased by the Aediles for the sum of 8000 sesterces (above 64 £ 10 s. sterling), the largest sum which had been given for any play. The leading incident of the plot makes it unfit for the modern stage: but when we say this we say all that can be said against the play. The execution is highly delicate, even in the famous scene which describes the successful issue of Chaerea's scheme. The play is said by the author of the Life of Terence to have been acted twice in one day: and no doubt it was acted on more than one occasion.
-          </p>
+          <p xml:lang="eng">PAMPHILA and Chremes were the children of an Athenian citizen. Pamphila, while an infant, was carried off from her home at Sunium by robbers, and by them sold to a merchant of <placeName key="tgn,7011266">Rhodes</placeName>. He presented her to a courtesan of that place, who had her brought up with her own daughter Thais as her younger sister. When Thais grew up she removed to <placeName key="perseus,Athens">Athens</placeName> with a lover of hers, who at his death left her all his property. She then kept company with a soldier named Thraso, who went to <placeName key="tgn,7002358">Caria</placeName> after living with her a short time.</p>
+          <p xml:lang="eng">Meanwhile her mother had died, and her uncle wishing to realize money by Pamphila, who was beautiful and accomplished, sold her to Thraso, who happened to be at <placeName key="tgn,7011266">Rhodes</placeName> on his return to <placeName key="perseus,Athens">Athens</placeName>, and carried her with him intending to make a present of her to Thais. During his absence, however, Thais had found a new lover, one Phaedria, son of Laches. This Thraso discovers on his return, and in order to secure his footing with her, makes his present conditional upon Phaedria's dismissal. This causes Thais great perplexity, for she is really attached to Phaedria, and yet much wishes to get possession of Pamphila, whose history she has learnt in part, and whom she hopes to restore to her Athenian family, intending by so doing to make herself friends in <placeName key="perseus,Athens">Athens</placeName>. Accordingly she shuts her door against Phaedria.</p>
+          <p xml:lang="eng">He is at first highly incensed at her conduct; but after an interview with her, consents to absent himself from Athens for a day or two, that she may have time to obtain Pamphila from Thraso. Before he goes he gives orders that an Ethiopian slave, and an eunuch whom he has bought for Thais, shall be taken to her house. At this moment Thraso sends Pamphila under the escort of Gnatho his follower. On her way to Thais' house she is seen in the street by Chaerea, Phaedria's brother, who at first sight falls desperately in love with her, and hurries after her, but being detained on his way by an old friend of his father's, arrives just too late to see her taken into the house. Here he falls in with Parmeno, his father's slave, and between them they concoct the scheme on which the plot of the play turns. Chaerea is dressed up in the eunuch's clothes and conducted to Thais' house, where he soon has an opportunity of carrying out his intended scheme, during the absence of Thais at Thraso's house; after <pb n="82"/> which he makes his escape. This event causes the greatest consternation in the household; and is no less distressing to Thais, who finds her plan for restoring Pamphila to her relations thus awkwardly frustrated. For in the meantime she has obtained some interviews with Chremes, the brother of Pamphila, and has nearly identified Pamphila when the catastrophe comes to her knowledge. Phaedria, too, is much disconcerted at discovering that his present has worked so much mischief. All parties, in fact, are at their wit's end, with the exception of Chaerea, who, upon discovering Pamphila's history, makes the best amends he can by undertaking to marry her. Pythias meanwhile, Thais' maid, pays off old scores by driving Parmeno to divulge the whole matter to Laches, father of Chaerea and Phaedria.</p>
+          <p xml:lang="eng">The result is of course a happy explanation on all sides. Thais is taken under Laches' protection, and continues her intimacy with Phaedria. Chaerea and Pamphila marry. Parmeno is forgiven by his grateful young master: and the only person who suffers is the unfortunate Thraso, who is beaten clean off the field, and is only too glad to submit to be the perpetual butt of these young sparks, on condition that he shall be allowed to be one in their parties, and thus still enjoy the society of Thais.</p>
+          <p xml:lang="eng">This is the outline of the play, which gives a very lively and amusing action. But the most admirable feature is the manner in which some of the subordinate parts are worked out. The bye-play between Pythias and Parmeno is admirable. The character of the Parasite as drawn in Act II. scene ii. is admirable, and striking from its novelty after the hackneyed ideal which is presented to us in all the plays of Plautus. No less admirable is the Braggadocio of Act III. scene i., the features of the character being the same as those of the <title>Miles Gloriosus</title> of Plautus, except that Terence with greater humour makes Thraso prouder of his wit than of his military exploits. The scene in which Thraso is represented as attacking Thais in her house (Act IV. scene vii.) is highly ridiculous, and reminds one more strongly than any passage of Terence of the free humour of Aristophanes. We cannot wonder that the Eunuchus should have been the most popular of all Terence's plays: for here there is the nearest approach to the <foreign xml:lang="lat">"Plautini sales,"</foreign> which were the true Roman comedy. It is said to have been purchased by the Aediles for the sum of 8000 sesterces (above 64 £ 10 s. sterling), the largest sum which had been given for any play. The leading incident of the plot makes it unfit for the modern stage: but when we say this we say all that can be said against the play. The execution is highly delicate, even in the famous scene which describes the successful issue of Chaerea's scheme. The play is said by the author of the Life of Terence to have been acted twice in one day: and no doubt it was acted on more than one occasion.</p>
         </div>
+        <pb n="83"/>
         <div n="production" type="scene">
           <p>EUNUCHUS.  ACTA LUDIS MEGALENSIBUS, L. POSTUMIO ALBINO L. CORNELIO MERULA AEDILIBUS CURULIBUS. EGERE L. AMBIVIUS TURPIO L. ATILIUS PRAENESTINUS TIBIIS DUABUS DEXTRIS. GRAECA MENANDRU. ACTA II. MODOS FECIT FLACCUS CLAUDII, M. VALERIO C. FANNIO COSS.</p>
         </div>
       </div>
+      <pb n="84"/>
       <div n="prologue" type="act">
         <div n="0" type="scene">
           <head>Prologus</head>
@@ -290,6 +272,7 @@ new additions
             Qui bene vertendo, et easdem scribendo male, ex
             <lb ed="TLN" n="8"/>
           </l>
+            <pb n="85"/>
           <l>
             Graecis bonis Latinas fecit non bonas.
             <lb ed="TLN" n="9"/>
@@ -342,6 +325,7 @@ new additions
             Menandri Eunuchum postquam Aediles emerunt,
             <lb ed="TLN" n="21"/>
           </l>
+            <pb n="86"/>
           <l>
             Perfecit sibi ut inspiciendi esset copia.
             <lb ed="TLN" n="22"/>
@@ -398,6 +382,7 @@ new additions
             Latinas scisse sese id vero pernegat.
             <lb ed="TLN" n="35"/>
           </l>
+            <pb n="87"/>
           <l n="35">
             Quod si personis iisdem uti aliis non licet,
             <lb ed="TLN" n="36"/>
@@ -477,6 +462,7 @@ new additions
               Atque ubi pati non poteris, cum nemo expetet,
               <lb ed="TLN" n="53"/>
             </l>
+            <pb n="88"/>
             <l>
               Infecta pace, ultro ad eam venies, indicans
               <lb ed="TLN" n="54"/>
@@ -529,6 +515,7 @@ new additions
               "Egone illam quae ilium? quae me? quae non? sine modo:
               <lb ed="TLN" n="66"/>
             </l>
+            <pb n="89"/>
             <l>
               Mori me malim: sentiet qui vir siem;"
               <lb ed="TLN" n="67"/>
@@ -601,6 +588,7 @@ new additions
             <l n="35">Nam quod nos capere oportet haec intercipit.</l>
           </sp>
         </div>
+        <pb n="90"/>
         <div n="2" type="scene">
           <stage>THAIS. PHAEDRIA. PARMENO.</stage>
           <sp who="#thais">
@@ -683,6 +671,7 @@ new additions
             </l>
             <l>Aut ego istuc abs te factum nihili penderem.</l>
           </sp>
+          <pb n="91"/>
           <sp who="#thais">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="95"/>
@@ -798,6 +787,7 @@ new additions
               Unde emerat se audisse abreptam e Sunio.
               <lb ed="TLN" n="116"/>
             </l>
+            <pb n="92"/>
             <l>
               Mater ubi accepit, coepit studiose omnia
               <lb ed="TLN" n="117"/>
@@ -889,6 +879,7 @@ new additions
               Producit, vendit. Forte fortuna affuit
               <lb ed="TLN" n="135"/>
             </l>
+            <pb n="93"/>
             <l n="55">
               Hic meus amicus: emit eam dono mihi,
               <lb ed="TLN" n="136"/>
@@ -977,6 +968,7 @@ new additions
             <lb ed="TLN" n="154"/>
             <l>Eu noster! laudo: tandem perdoluit: vir es.</l>
           </sp>
+          <pb n="94"/>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="155"/>
@@ -1080,6 +1072,7 @@ new additions
             </l>
             <l>Sincere dici quidvis possem perpeti.</l>
           </sp>
+          <pb n="95"/>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="178"/>
@@ -1191,6 +1184,7 @@ new additions
                Me speres; me te oblectes; mecum tota sis:
               <lb ed="TLN" n="196"/>
             </l>
+            <pb n="96"/>
             <l>Meus fac sis postremo animus, quando ego sum tuus.</l>
           </sp>
           <sp who="#thais">
@@ -1279,6 +1273,7 @@ new additions
               Rogitare? quasi difficile sit.
               <lb ed="TLN" n="210"/>
             </l>
+            <pb n="97"/>
             <l>
               Utinam tam aliquid invenire facile possis Phaedria
               <lb ed="TLN" n="211"/>
@@ -1382,6 +1377,7 @@ new additions
             <speaker>Ph.</speaker>
             <l part="F"> Stat sententia.</l>
           </sp>
+          <pb n="98"/>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="225"/>
@@ -1441,6 +1437,7 @@ new additions
               "Quid istuc," inquam, "ornati est?" "Quoniam miser quod habui perdidi. Hem,
               <lb ed="TLN" n="238"/>
             </l>
+            <pb n="99"/>
             <l>
               Quo redactus sum! omnes noti me atque amici deserunt."
               <lb ed="TLN" n="239"/>
@@ -1489,6 +1486,7 @@ new additions
               Nec sunt: hos consector. Hisce ego non paro me ut rideant;
               <lb ed="TLN" n="250"/>
             </l>
+            <pb n="100"/>
             <l>
               Sed his ultro arrideo, et eorum ingenia admiror simul.
               <lb ed="TLN" n="251"/>
@@ -1547,6 +1545,7 @@ new additions
               Si potis est, tanquam philosophorum habent disciplina ex ipsis
               <lb ed="TLN" n="264"/>
             </l>
+            <pb n="101"/>
             <l>Vocabula, parasiti item ut Gnathonici vocentur.</l>
           </sp>
           <sp who="#parmeno">
@@ -1629,6 +1628,7 @@ new additions
                Ne sis: sed quid videtur
               <lb ed="TLN" n="274"/>
             </l>
+            <pb n="102"/>
             <l>Hoc tibi mancipium?</l>
           </sp>
           <sp who="#parmeno">
@@ -1703,6 +1703,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Age modo; nunc tibi patent fores hae, quia istam ducis.</l>
           </sp>
+          <pb n="103"/>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
             <lb ed="TLN" n="283"/>
@@ -1768,6 +1769,7 @@ new additions
               Incertus sum: una haec spes est; ubi ubi est, diu celari non potest.
               <lb ed="TLN" n="296"/>
             </l>
+            <pb n="104"/>
             <l n="5">
               O faciem pulchramn! deleo omnes dehinc ex animo mulieros.
               <lb ed="TLN" n="297"/>
@@ -1822,6 +1824,7 @@ new additions
                Egone? nescio hercle, neque unde eam, neque quorsumn eam:
               <lb ed="TLN" n="305"/>
             </l>
+            <pb n="105"/>
             <l>Ita prorsum oblitus sum mei.</l>
           </sp>
           <sp who="#parmeno">
@@ -1922,6 +1925,7 @@ new additions
                Hanc tu mihi vel vi vel clam vel precario
               <lb ed="TLN" n="319"/>
             </l>
+            <pb n="106"/>
             <l>Fac tradas: mea nihil refert, dum potiar modo.</l>
           </sp>
           <sp who="#parmeno">
@@ -1998,6 +2002,7 @@ new additions
               Patris cognatum atque aequalem Archidemidem,
               <lb ed="TLN" n="327"/>
             </l>
+            <pb n="107"/>
             <l>Novistin?</l>
           </sp>
           <sp who="#parmeno">
@@ -2110,6 +2115,7 @@ new additions
                Ipsa est: ilicet:
               <lb ed="TLN" n="347"/>
             </l>
+            <pb n="108"/>
             <l>Desine: iam conclamatum est.</l>
           </sp>
           <sp who="#chaerea">
@@ -2245,6 +2251,7 @@ new additions
                Faciam sedulo ac
               <lb ed="TLN" n="362"/>
             </l>
+            <pb n="109"/>
             <l>Dabo operam; adiuvabo: numquid me aliud vis?</l>
           </sp>
           <sp who="#chaerea">
@@ -2379,6 +2386,7 @@ new additions
             <speaker>Pa.</speaker>
             <l part="Y"> Vide ne nimium calidum hoc sit modo.</l>
           </sp>
+          <pb n="110"/>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="380"/>
@@ -2452,6 +2460,7 @@ new additions
           </sp>
         </div>
       </div>
+      <pb n="111"/>
       <div n="3" type="act">
         <div n="1" type="scene">
           <stage>THRASO. GNATHO. PARMENO.</stage>
@@ -2517,6 +2526,7 @@ new additions
               Labore alieno magnam partam gloriam
               <lb ed="TLN" n="399"/>
             </l>
+            <pb n="112"/>
             <l n="10">
               Verbis saepe in se transmovet qui habet salem,
               <lb ed="TLN" n="400"/>
@@ -2529,7 +2539,7 @@ new additions
           </sp>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
-            <l part="Y"> Rex te ergo in oculis--</l>
+            <l part="Y"> Rex te ergo in oculis—</l>
           </sp>
           <sp who="#thraso">
             <speaker>Th.</speaker>
@@ -2562,7 +2572,7 @@ new additions
               Hominum, aut negoti si quando odium ceperat,
               <lb ed="TLN" n="404"/>
             </l>
-            <l n="15">Requiescere ubi volebat, quasi--nostin?</l>
+            <l n="15">Requiescere ubi volebat, quasi—nostin?</l>
           </sp>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
@@ -2641,6 +2651,7 @@ new additions
             <speaker>Th.</speaker>
             <l part="Y"> Mutus ilico.</l>
           </sp>
+          <pb n="113"/>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
             <lb ed="TLN" n="417"/>
@@ -2761,7 +2772,8 @@ new additions
               Sed heus tu, purgone ego me de istac Thaidi,
               <lb ed="TLN" n="434"/>
             </l>
-            <l n="45">Quod ear me amare suspicata est?</l>
+            <pb n="114"/>
+            <l n="45">Quod eam me amare suspicata est?</l>
           </sp>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
@@ -2874,6 +2886,7 @@ new additions
                O Thais mea,
               <lb ed="TLN" n="455"/>
             </l>
+            <pb n="115"/>
             <l>
               Meum suavium, quid agitur? ecquid nos amas
               <lb ed="TLN" n="456"/>
@@ -2954,6 +2967,7 @@ new additions
               Quaeso hercle ut liceat, pace quod fiat tua,
               <lb ed="TLN" n="466"/>
             </l>
+            <pb n="116"/>
             <l>Dare huic quae volumus, convenire et colloqui.</l>
           </sp>
           <sp who="#thraso">
@@ -3010,6 +3024,7 @@ new additions
               Tacent; satis laudant. Fac periclum in literis,
               <lb ed="TLN" n="476"/>
             </l>
+            <pb n="117"/>
             <l>
               Fac in palaestra, in musicis: quae liberum
               <lb ed="TLN" n="477"/>
@@ -3126,6 +3141,7 @@ new additions
               Et illud de Rhodio dictum cum in mentem venit:
               <lb ed="TLN" n="498"/>
             </l>
+            <pb n="118"/>
             <l>Sed Thais exit.</l>
           </sp>
           <sp who="#thraso">
@@ -3223,6 +3239,7 @@ new additions
               Dolo malo haec fieri omnia: ipsa accumbere
               <lb ed="TLN" n="515"/>
             </l>
+            <pb n="119"/>
             <l n="10">
               Mecum, mihi sese dare, sermonem quaerere.
               <lb ed="TLN" n="516"/>
@@ -3354,6 +3371,7 @@ new additions
             <l>Abi Dorias cito hunc deduce ad militem.</l>
           </sp>
         </div>
+        <pb n="120"/>
         <div n="4" type="scene">
           <stage>ANTIPHO.</stage>
           <sp who="#antipho">
@@ -3391,6 +3409,7 @@ new additions
               Is est, an non est? ipsus est. Quid hoc hominis? qui hic ornatus est?
               <lb ed="TLN" n="546"/>
             </l>
+            <pb n="121"/>
             <l>
               Quid illud mali est? nequeo satis mirari neque coniicere.
               <lb ed="TLN" n="547"/>
@@ -3423,6 +3442,7 @@ new additions
               Sed neminemne curiosum intervenire nunc mihi,
               <lb ed="TLN" n="553"/>
             </l>
+            <pb n="122"/>
             <l>
               Qui me sequatur, quoquo eam; rogitando obtundat, enecet;
               <lb ed="TLN" n="554"/>
@@ -3498,6 +3518,7 @@ new additions
               Cum ipsum me noris quam elegans formarum spectator siem?
               <lb ed="TLN" n="566"/>
             </l>
+            <pb n="123"/>
             <l>In hac commotus sum.</l>
           </sp>
           <sp who="#antipho">
@@ -3614,9 +3635,10 @@ new additions
               <lb ed="TLN" n="583"/>
             </l>
             <l>
-              Suspectans tabulam quandam pictam, ubi inerat pictura haec:
+              Suspectans tabulam quandam pictam, ubi inerat pictura haec: Iovem
               <lb ed="TLN" n="584"/>
             </l>
+            <pb n="124"/>
             <l>
               Quo pacto Danaae misisse aiunt quondam in gremium imbirem aureum.
               <lb ed="TLN" n="585"/>
@@ -3637,6 +3659,7 @@ new additions
               Venisse clanculum per impluvium, fucum factum mulieri.
               <lb ed="TLN" n="589"/>
             </l>
+            <pb n="125"/>
             <l>
               At quem Deum? qui templa coeli summa sonitu concutit.
               <lb ed="TLN" n="590"/>
@@ -3723,6 +3746,7 @@ new additions
             <lb ed="TLN" n="606"/>
             <l>Sane hercle ut dicis: sed interim de symbolis quid actum est?</l>
           </sp>
+          <pb n="126"/>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="607"/>
@@ -3803,6 +3827,7 @@ new additions
               Id faciebat retinendi illius causa, quia illa quae cupiebat
               <lb ed="TLN" n="620"/>
             </l>
+            <pb n="127"/>
             <l>
               De sorore eius indicare ad eam rem tempus non erat.
               <lb ed="TLN" n="621"/>
@@ -3851,6 +3876,7 @@ new additions
               Aliam rem ex alia cogitare, et ea omnia in
               <lb ed="TLN" n="631"/>
             </l>
+            <pb n="128"/>
             <l>
               Peiorem partem. Quid opus est verbis? dum haec puto
               <lb ed="TLN" n="632"/>
@@ -3903,6 +3929,7 @@ new additions
               Ubi ego ilium scelerosum misera atque impium inveniam? aut ubi quaeram?
               <lb ed="TLN" n="643"/>
             </l>
+            <pb n="129"/>
             <l>Hocine tam audax facinus facere esse ausum?</l>
           </sp>
           <sp who="#phaedria">
@@ -3995,6 +4022,7 @@ new additions
                Ego illum nescio
               <lb ed="TLN" n="657"/>
             </l>
+            <pb n="130"/>
             <l>
               Qui fuerit: hoc quod fecit res ipsa indicat.
               <lb ed="TLN" n="658"/>
@@ -4069,6 +4097,7 @@ new additions
                Oh,
               <lb ed="TLN" n="669"/>
             </l>
+            <pb n="131"/>
             <l>
               Illud vide, os ut sibi distorsit carnufex.
               <lb ed="TLN" n="670"/>
@@ -4146,6 +4175,7 @@ new additions
                An tu hunc credidisti esse, obsecro,
               <lb ed="TLN" n="679"/>
             </l>
+            <pb n="132"/>
             <l>Ad nos deductum?</l>
           </sp>
           <sp who="#phaedria">
@@ -4318,6 +4348,7 @@ new additions
             <lb ed="TLN" n="701"/>
             <l n="35">Meam ipse induit: post una ambo abierunt foras.</l>
           </sp>
+          <pb n="133"/>
           <sp who="#pythias">
             <speaker>Py.</speaker>
             <lb ed="TLN" n="702"/>
@@ -4456,6 +4487,7 @@ new additions
                De istac rogas
               <lb ed="TLN" n="720"/>
             </l>
+            <pb n="134"/>
             <l>Virgine?</l>
           </sp>
           <sp who="#pythias">
@@ -4517,6 +4549,7 @@ new additions
               At at! data hercle verba mihi sunt: vicit vinum quod bibi.
               <lb ed="TLN" n="727"/>
             </l>
+            <pb n="135"/>
             <l>
               Ac, dum accubabam, quam videbar mihi esse pulchre sobrius!
               <lb ed="TLN" n="728"/>
@@ -4594,6 +4627,7 @@ new additions
               Credo equidem ilium iam adfuturum esse, ut illam a me eripiat. Sine veniat.
               <lb ed="TLN" n="739"/>
             </l>
+            <pb n="136"/>
             <l>
               Atqui si illam digito attigerit uno, oculi ilico effodientur.
               <lb ed="TLN" n="740"/>
@@ -4681,10 +4715,11 @@ new additions
             </l>
             <l n="15">Abi tu, cistellam, Pythias, domo effer cum monumentis.</l>
           </sp>
+          <pb n="137"/>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="753"/>
-            <l>Viden tu ilium, Thais--</l>
+            <l>Viden tu ilium, Thais—</l>
           </sp>
           <sp who="#pythias">
             <speaker>Py.</speaker>
@@ -4692,7 +4727,7 @@ new additions
           </sp>
           <sp who="#thais">
             <speaker>Th.</speaker>
-            <l part="Y"> In risco. Odiosa cessas?--</l>
+            <l part="Y"> In risco. Odiosa cessas?—</l>
           </sp>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -4773,8 +4808,9 @@ new additions
                Nihil opus est istis, Chreme:
               <lb ed="TLN" n="765"/>
             </l>
+            <pb n="138"/>
             <l>
-              Hoc modo die, sororem illam tuam esse, et te parvam virginem
+              Hoc modo dic, sororem illam tuam esse, et te parvam virginem
               <lb ed="TLN" n="766"/>
             </l>
             <l>Amisisse; nunc cognosse. Signa ostende.</l>
@@ -4840,6 +4876,7 @@ new additions
             <speaker>Gn.</speaker>
             <l part="Y"> Probe.</l>
           </sp>
+          <pb n="139"/>
           <sp who="#thraso">
             <speaker>Thr.</speaker>
             <lb ed="TLN" n="773"/>
@@ -4930,6 +4967,7 @@ new additions
                Fundam tibi nunc nimis vellem dari,
               <lb ed="TLN" n="786"/>
             </l>
+            <pb n="140"/>
             <l>Ut tu illos procul hinc ex occulto caederes: facerent fugam.</l>
           </sp>
           <sp who="#thraso">
@@ -5000,7 +5038,7 @@ new additions
           <sp who="#chremes">
             <speaker>Ch.</speaker>
             <lb ed="TLN" n="796"/>
-            <l>Tibi illam reddat? aut tu illam tangas omnium --?</l>
+            <l>Tibi illam reddat? aut tu illam tangas omnium—?</l>
           </sp>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
@@ -5048,6 +5086,7 @@ new additions
                Ain vero, canis?
               <lb ed="TLN" n="803"/>
             </l>
+            <pb n="141"/>
             <l>Sicine agis?</l>
           </sp>
           <sp who="#thraso">
@@ -5166,6 +5205,7 @@ new additions
             </l>
             <l n="45">Milites, domi focique fac vicissim ut memineris.</l>
           </sp>
+          <pb n="142"/>
           <sp who="#sanga">
             <speaker>Sa.</speaker>
             <lb ed="TLN" n="815"/>
@@ -5231,6 +5271,7 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> Iste ephebus, frater Phaedriae.</l>
           </sp>
+          <pb n="143"/>
           <sp who="#thais">
             <speaker>Th.</speaker>
             <lb ed="TLN" n="824"/>
@@ -5331,6 +5372,7 @@ new additions
                Quid facias rogas?
               <lb ed="TLN" n="837"/>
             </l>
+            <pb n="144"/>
             <l>
               Vide amabo si non, qutun adspicias, os impudens
               <lb ed="TLN" n="838"/>
@@ -5379,6 +5421,7 @@ new additions
               Sed estne haec Thais quam video? Ipsa est. Haereo.
               <lb ed="TLN" n="848"/>
             </l>
+            <pb n="145"/>
             <l n="10">Quid faciam? quid mea autem? quid faciet mihi?</l>
           </sp>
           <sp who="#thais">
@@ -5499,6 +5542,7 @@ new additions
               Sum maxime, at tu indignius qui faceres tamen.
               <lb ed="TLN" n="866"/>
             </l>
+            <pb n="146"/>
             <l>
               Neque edepol quid nunc consili capiam scio
               <lb ed="TLN" n="867"/>
@@ -5631,6 +5675,7 @@ new additions
               Nutricem arcessitum it quae illam aluit parvulam.
               <lb ed="TLN" n="892"/>
             </l>
+            <pb n="147"/>
             <l>In cognoscendo tute ipse aderis, Chaerea.</l>
           </sp>
           <sp who="#chaerea">
@@ -5813,6 +5858,7 @@ new additions
               Bene edepol narras; nam illi faveo virgini.
               <lb ed="TLN" n="916"/>
             </l>
+            <pb n="148"/>
             <l>
               Ite intro: iamdudum hera vos exspectat domi.
               <lb ed="TLN" n="917"/>
@@ -5857,6 +5903,7 @@ new additions
               Nam ut mittam, quod ei amorem difficillimum et
               <lb ed="TLN" n="926"/>
             </l>
+            <pb n="149"/>
             <l n="5">
               Carissimum, ab meretrice avara virginem
               <lb ed="TLN" n="927"/>
@@ -5906,9 +5953,10 @@ new additions
               <lb ed="TLN" n="938"/>
             </l>
             <l>
-              Quo pacto ex iure hesterno panem atrurn vorent;
+              Quo pacto ex iure hesterno panem atrum vorent;
               <lb ed="TLN" n="939"/>
             </l>
+            <pb n="150"/>
             <l>Nosse omnia haec salus est adolescentulis.</l>
           </sp>
           <sp who="#pythias">
@@ -6000,6 +6048,7 @@ new additions
             <speaker>Py.</speaker>
             <l part="Y"> colligavit primum eum miseris modis.</l>
           </sp>
+          <pb n="151"/>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
             <lb ed="TLN" n="955"/>
@@ -6111,6 +6160,7 @@ new additions
             <l>Ego abeo intro: tu isti narra omnem rem ordine ut factum siet.</l>
           </sp>
         </div>
+        <pb n="152"/>
         <div n="5" type="scene">
           <stage>LACHES. PARMENO.</stage>
           <sp who="#laches">
@@ -6160,6 +6210,7 @@ new additions
               Here, primum te arbitrari quod res est velim;
               <lb ed="TLN" n="979"/>
             </l>
+            <pb n="153"/>
             <l n="10">Quicquid huius factum est culpa non factum est mea.</l>
           </sp>
           <sp who="#laches">
@@ -6226,7 +6277,7 @@ new additions
               Omitte de te dicere: ego te, furcifer,
               <lb ed="TLN" n="989"/>
             </l>
-            <l n="20">Si vivo--Sed istuc, quicquid est, primum expedi.</l>
+            <l n="20">Si vivo—Sed istuc, quicquid est, primum expedi.</l>
           </sp>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
@@ -6297,6 +6348,7 @@ new additions
             <l>Quamobrem insigne aliquid faceret iis. Nunc repperit.</l>
           </sp>
         </div>
+        <pb n="154"/>
         <div n="6" type="scene">
           <stage>PYTHIAS. PARMENO.</stage>
           <sp who="#pythias">
@@ -6384,6 +6436,7 @@ new additions
               Nam quid illi credis animi tum fuisse ubi vestem vidit
               <lb ed="TLN" n="1015"/>
             </l>
+            <pb n="155"/>
             <l n="15">Illam esse eum indutum pater? quid est? iam scis te perisse?</l>
           </sp>
           <sp who="#parmeno">
@@ -6474,6 +6527,7 @@ new additions
               Utinam tibi commitigari videam sandalio caput.
               <lb ed="TLN" n="1028"/>
             </l>
+            <pb n="156"/>
             <l n="5">Sed fores crepuerunt ab ea.</l>
           </sp>
           <sp who="#thraso">
@@ -6544,6 +6598,7 @@ new additions
               Meo fratri gaudeo esse amorem omnem in tranquillo: una est domus.
               <lb ed="TLN" n="1038"/>
             </l>
+            <pb n="157"/>
             <l>
               Thais patri se commendavit in clientelam et fidem;
               <lb ed="TLN" n="1039"/>
@@ -6654,6 +6709,7 @@ new additions
                Perfice hoc
               <lb ed="TLN" n="1054"/>
             </l>
+            <pb n="158"/>
             <l n="25">Precibus, pretio, ut haeream in parte aliqua tandem apud Thaidem.</l>
           </sp>
           <sp who="#gnatho">
@@ -6767,6 +6823,7 @@ new additions
               Prius audite paucis; quod quum dixero, si placuerit,
               <lb ed="TLN" n="1067"/>
             </l>
+            <pb n="159"/>
             <l>Facitote.</l>
           </sp>
           <sp who="#phaedria">
@@ -6851,6 +6908,7 @@ new additions
             </l>
             <l>Accipit hominem nemo melius prorsus, neque prolixius.</l>
           </sp>
+          <pb n="160"/>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
             <lb ed="TLN" n="1082"/>
