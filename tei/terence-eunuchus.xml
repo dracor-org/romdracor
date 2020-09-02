@@ -432,9 +432,9 @@ new additions
           </sp>
       </div>
       <div n="1" type="act">
-        <head>ACTUS I.</head>
+        <head>Actus I.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>PHAEDRIA. PARMENO.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -596,7 +596,7 @@ new additions
         </div>
         <pb n="90"/>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>THAIS. PHAEDRIA. PARMENO.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -1238,9 +1238,9 @@ new additions
         </div>
       </div>
       <div n="2" type="act">
-        <head>ACTUS II.</head>
+        <head>Actus II.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>PHAEDRIA. PARMENO.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -1418,7 +1418,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>GNATHO. PARMENO.</stage>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
@@ -1759,7 +1759,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>CHAEREA. PARMENO.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -2473,9 +2473,9 @@ new additions
       </div>
       <pb n="111"/>
       <div n="3" type="act">
-        <head>ACTUS III.</head>
+        <head>Actus III.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>THRASO. GNATHO. PARMENO.</stage>
           <sp who="#thraso">
             <speaker>Th.</speaker>
@@ -2883,7 +2883,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>THAIS. THRASO. PARMENO. GNATHO. PYTHIAS.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -3213,7 +3213,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>CHREMES. PYTHIAS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -3388,7 +3388,7 @@ new additions
         </div>
         <pb n="120"/>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>ANTIPHO.</stage>
           <sp who="#antipho">
             <speaker>Antipho</speaker>
@@ -3434,7 +3434,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
-          <head>SCENA V.</head>
+          <head>Scena V.</head>
           <stage>CHAEREA. ANTIPHO.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -3815,9 +3815,9 @@ new additions
         </div>
       </div>
       <div n="4" type="act">
-        <head>ACTUS IV.</head>
+        <head>Actus IV.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>DORIAS.</stage>
           <sp who="#dorias">
             <speaker>Dorias</speaker>
@@ -3879,7 +3879,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>PHAEDRIA.</stage>
           <sp who="#phaedria">
             <speaker>Phaedria</speaker>
@@ -3941,7 +3941,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>PYTHIAS. PHAEDRIA. DORIAS.</stage>
           <sp who="#pythias">
             <speaker>Py.</speaker>
@@ -4098,7 +4098,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>PHAEDRIA. DORUS. PYTHIAS. DORIAS.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -4563,7 +4563,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
-          <head>SCENA V.</head>
+          <head>Scena V.</head>
           <stage>CHREMES. PYTHIAS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -4642,7 +4642,7 @@ new additions
           </sp>
         </div>
         <div n="6" type="scene">
-          <head>SCENA VI.</head>
+          <head>Scena VI.</head>
           <stage>THAIS. CHREMES. PYTHIAS.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -4874,7 +4874,7 @@ new additions
           </sp>
         </div>
         <div n="7" type="scene">
-          <head>SCENA VII.</head>
+          <head>Scena VII.</head>
           <stage>THRASO. GNATHO. SANGA. CHREMES. THAIS.</stage>
           <sp who="#thraso">
             <speaker>Thr.</speaker>
@@ -5247,9 +5247,9 @@ new additions
         </div>
       </div>
       <div n="5" type="act">
-        <head>ACTUS V.</head>
+        <head>Actus V.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>THAIS. PYTHIAS.</stage>
           <sp who="#thais">
             <speaker>Th.</speaker>
@@ -5408,7 +5408,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>CHAEREA. THAIS. PYTHIAS.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>
@@ -5831,7 +5831,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>PYTHIAS. CHREMES. SOPHRONA.</stage>
           <sp who="#pythias">
             <speaker>Py.</speaker>
@@ -5912,7 +5912,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>PARMENO. PYTHIAS.</stage>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
@@ -6192,7 +6192,7 @@ new additions
         </div>
         <pb n="152"/>
         <div n="5" type="scene">
-          <head>SCENA V.</head>
+          <head>Scena V.</head>
           <stage>LACHES. PARMENO.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
@@ -6381,7 +6381,7 @@ new additions
         </div>
         <pb n="154"/>
         <div n="6" type="scene">
-          <head>SCENA VI.</head>
+          <head>Scena VI.</head>
           <stage>PYTHIAS. PARMENO.</stage>
           <sp who="#pythias">
             <speaker>Py.</speaker>
@@ -6529,7 +6529,7 @@ new additions
           </sp>
         </div>
         <div n="7" type="scene">
-          <head>SCENA VII.</head>
+          <head>Scena VII.</head>
           <stage>GNATHO. THRASO.</stage>
           <sp who="#gnatho">
             <speaker>Gn.</speaker>
@@ -6573,7 +6573,7 @@ new additions
           </sp>
         </div>
         <div n="8" type="scene">
-          <head>SCENA VIII.</head>
+          <head>Scena VIII.</head>
           <stage>CHAEREA. PARMENO. PHAEDRIA. GNATHO. THRASO.</stage>
           <sp who="#chaerea">
             <speaker>Ch.</speaker>

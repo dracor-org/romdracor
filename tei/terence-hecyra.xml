@@ -453,9 +453,9 @@ new additions
           </sp>
       </div>
       <div n="1" type="act">
-        <head>ACTUS I.</head>
+        <head>Actus I.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>PHILOTIS. SYRA.</stage>
           <sp who="#philotis">
             <speaker>Ph.</speaker>
@@ -546,7 +546,7 @@ new additions
         </div>
         <pb n="337"/>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>PARMENO. PHILOTIS. SYRA.</stage>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
@@ -1152,9 +1152,9 @@ new additions
       </div>
       <pb n="344"/>
       <div n="2" type="act">
-        <head>ACTUS II.</head>
+        <head>Actus II.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>LACHES. SOSTRATA.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
@@ -1382,7 +1382,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>PHIDIPPUS. LACHES. SOSTRATA.</stage>
           <sp who="#phidippus">
             <speaker>Ph.</speaker>
@@ -1546,7 +1546,7 @@ new additions
         </div>
         <pb n="350"/>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>SOSTRATA.</stage>
           <sp who="#sostrata">
             <speaker>Sostrata</speaker>
@@ -1581,9 +1581,9 @@ new additions
       </div>
       <pb n="351"/>
       <div n="3" type="act">
-        <head>ACTUS III.</head>
+        <head>Actus III.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>PAMPHILUS. PARMENO. MYRRHINA.</stage>
           <sp who="#pamphilus">
             <speaker>Pam.</speaker>
@@ -1881,7 +1881,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>SOSTRATA. PARMENO. PAMPHILUS.</stage>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -2061,7 +2061,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>PAMPHILUS.</stage>
           <sp who="#pamphilus">
             <speaker>Pamphilus</speaker>
@@ -2285,7 +2285,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>PARMENO. SOSIA. PAMPHILUS.</stage>
           <sp who="#parmeno">
             <speaker>Par.</speaker>
@@ -2492,7 +2492,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
-          <head>SCENA V.</head>
+          <head>Scena V.</head>
           <stage>LACHES. PHIDIPPUS. PAMPHILUS.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
@@ -2858,9 +2858,9 @@ new additions
         </div>
       </div>
       <div n="4" type="act">
-        <head>ACTUS IV.</head>
+        <head>Actus IV.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>MYRRHINA. PHIDIPPUS.</stage>
           <sp who="#myrrhina">
             <speaker>My.</speaker>
@@ -3148,7 +3148,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>SOSTRATA. PAMPHILUS.</stage>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -3294,7 +3294,7 @@ new additions
         </div>
         <pb n="375"/>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>LACHES. SOSTRATA. PAMPHILUS.</stage>
           <sp who="#laches">
             <speaker>La.</speaker>
@@ -3401,7 +3401,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>PHIDIPPUS. LACHES. PAMPHILUS.</stage>
           <sp who="#phidippus">
             <speaker>Ph.</speaker>
@@ -3921,9 +3921,9 @@ new additions
         </div>
       </div>
       <div n="5" type="act">
-        <head>ACTUS V.</head>
+        <head>Actus V.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>BACCHIS. LACHES.</stage>
           <sp who="#bacchis">
             <speaker>Ba.</speaker>
@@ -4136,7 +4136,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>PHIDIPPUS. LACHES. BACCHIS.</stage>
           <sp who="#phidippus">
             <speaker>Ph.</speaker>
@@ -4301,7 +4301,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>PARMENO. BACCHIS.</stage>
           <sp who="#parmeno">
             <speaker>Pa.</speaker>
@@ -4514,7 +4514,7 @@ new additions
         </div>
         <pb n="391"/>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>PAMPHILUS. PARMENO. BACCHIS.</stage>
           <sp who="#pamphilus">
             <speaker>Pam.</speaker>

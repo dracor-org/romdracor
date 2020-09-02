@@ -323,9 +323,9 @@ new additions
       </div>
       <pb n="251"/>
       <div n="1" type="act">
-        <head>ACTUS I.</head>
+        <head>Actus I.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>MICIO.</stage>
           <sp who="#micio">
           <lb ed="TLN" n="26"/>
@@ -557,7 +557,7 @@ new additions
         </div>
         <pb n="255"/>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>DEMEA. MICIO.</stage>
           <sp who="#demea">
             <speaker>De.</speaker>
@@ -931,9 +931,9 @@ new additions
         </div>
       </div>
       <div n="2" type="act">
-        <head>ACTUS II.</head>
+        <head>Actus II.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>SANNIO. AESCHINUS. PARMENO.</stage>
           <sp who="#sannio">
             <speaker>Sa.</speaker>
@@ -1283,7 +1283,7 @@ new additions
         </div>
         <pb n="265"/>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>SYRUS. SANNIO.</stage>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
@@ -1543,7 +1543,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>CTESIPHO. SYRUS.</stage>
           <sp who="#ctesipho">
             <speaker>Ct.</speaker>
@@ -1615,7 +1615,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>AESCHINUS. SANNIO. CTESIPHO. SYRUS.</stage>
           <sp who="#aeschinus">
             <speaker>Aes.</speaker>
@@ -1773,9 +1773,9 @@ new additions
         </div>
       </div>
       <div n="3" type="act">
-        <head>ACTUS III.</head>
+        <head>Actus III.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>SOSTRATA. CANTHARA.</stage>
           <sp who="#sostrata">
             <speaker>So.</speaker>
@@ -1842,7 +1842,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>GETA. SOSTRATA. CANTHARA.</stage>
           <sp who="#geta">
             <speaker>Ge.</speaker>
@@ -2208,7 +2208,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>DEMEA. SYRUS.</stage>
           <sp who="#demea">
             <speaker>De.</speaker>
@@ -2765,7 +2765,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>HEGIO. GETA. DEMEA. PAMPHILA.</stage>
           <sp who="#hegio">
             <speaker>He.</speaker>
@@ -3118,7 +3118,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
-          <head>SCENA V.</head>
+          <head>Scena V.</head>
           <stage>HEGIO.</stage>
           <sp who="#hegio">
           <lb ed="TLN" n="513"/>
@@ -3148,9 +3148,9 @@ new additions
         </div>
       </div>
       <div n="4" type="act">
-        <head>ACTUS IV.</head>
+        <head>Actus IV.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>CTESIPHO. SYRUS.</stage>
           <sp who="#ctesipho">
             <speaker>Ct.</speaker>
@@ -3337,7 +3337,7 @@ new additions
         </div>
         <pb n="289"/>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>DEMEA. CTESIPHO. SYRUS.</stage>
           <sp who="#demea">
             <speaker>De.</speaker>
@@ -3698,7 +3698,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>MICIO. HEGIO.</stage>
           <sp who="#micio">
             <speaker>Mi.</speaker>
@@ -3800,7 +3800,7 @@ new additions
         </div>
         <pb n="296"/>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>AESCHINUS.</stage>
           <sp who="#aeschinus">
           <lb ed="TLN" n="612"/>
@@ -3914,7 +3914,7 @@ new additions
         </div>
         <pb n="298"/>
         <div n="5" type="scene">
-          <head>SCENA V.</head>
+          <head>Scena V.</head>
           <stage>MICIO. AESCHINUS.</stage>
           <sp who="#micio">
             <speaker>Mi.</speaker>
@@ -4409,7 +4409,7 @@ new additions
           </sp>
         </div>
         <div n="6" type="scene">
-          <head>SCENA VI.</head>
+          <head>Scena VI.</head>
           <stage>DEMEA.</stage>
           <sp who="#demea">
           <lb ed="TLN" n="717"/>
@@ -4438,7 +4438,7 @@ new additions
           </sp>
         </div>
         <div n="7" type="scene">
-          <head>SCENA VII.</head>
+          <head>Scena VII.</head>
           <stage>MICIO. DEMEA.</stage>
           <sp who="#micio">
             <speaker>Mi.</speaker>
@@ -4763,9 +4763,9 @@ new additions
       </div>
       <pb n="306"/>
       <div n="5" type="act">
-        <head>ACTUS V.</head>
+        <head>Actus V.</head>
         <div n="1" type="scene">
-          <head>SCENA I.</head>
+          <head>Scena I.</head>
           <stage>SYRUS. DEMEA.</stage>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
@@ -4857,7 +4857,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
-          <head>SCENA II.</head>
+          <head>Scena II.</head>
           <stage>DROMO. SYRUS. DEMEA.</stage>
           <sp who="#dromo">
             <speaker>Dr.</speaker>
@@ -4950,7 +4950,7 @@ new additions
         </div>
         <pb n="308"/>
         <div n="3" type="scene">
-          <head>SCENA III.</head>
+          <head>Scena III.</head>
           <stage>MICIO. DEMEA.</stage>
           <sp who="#micio">
             <speaker>Mi.</speaker>
@@ -5297,7 +5297,7 @@ new additions
         </div>
         <pb n="312"/>
         <div n="4" type="scene">
-          <head>SCENA IV.</head>
+          <head>Scena IV.</head>
           <stage>DEMEA.</stage>
           <sp who="#demea">
           <lb ed="TLN" n="859"/>
@@ -5411,7 +5411,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
-          <head>SCENA V.</head>
+          <head>Scena V.</head>
           <stage>SYRUS. DEMEA.</stage>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
@@ -5458,7 +5458,7 @@ new additions
           </sp>
         </div>
         <div n="6" type="scene">
-          <head>SCENA VI.</head>
+          <head>Scena VI.</head>
           <stage>GETA. DEMEA.</stage>
           <sp who="#geta">
             <speaker>Ge.</speaker>
@@ -5518,7 +5518,7 @@ new additions
           </sp>
         </div>
         <div n="7" type="scene">
-          <head>SCENA VII.</head>
+          <head>Scena VII.</head>
           <stage>AESCHINUS. DEMEA. SYRUS. GETA.</stage>
           <sp who="#aeschinus">
             <speaker>Aes.</speaker>
@@ -5684,7 +5684,7 @@ new additions
         </div>
         <pb n="317"/>
         <div n="8" type="scene">
-          <head>SCENA VIII.</head>
+          <head>Scena VIII.</head>
           <stage>MICIO. DEMEA. AESCHINUS.</stage>
           <sp who="#micio">
             <speaker>Mi.</speaker>
@@ -5985,7 +5985,7 @@ new additions
           </sp>
         </div>
         <div n="9" type="scene">
-          <head>SCENA IX.</head>
+          <head>Scena IX.</head>
           <stage>SYRUS. DEMEA. MICIO. AESCHINUS.</stage>
           <sp who="#syrus">
             <speaker>Sy.</speaker>
