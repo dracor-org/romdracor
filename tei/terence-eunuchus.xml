@@ -245,9 +245,8 @@ new additions
           <p>ACTA LUDIS MEGALENSIBUS, L. POSTUMIO ALBINO L. CORNELIO MERULA AEDILIBUS CURULIBUS. EGERE L. AMBIVIUS TURPIO L. ATILIUS PRAENESTINUS TIBIIS DUABUS DEXTRIS. GRAECA MENANDRU. ACTA II. MODOS FECIT FLACCUS CLAUDII, M. VALERIO C. FANNIO COSS.</p>
         </div>
       <pb n="84"/>
-      <div n="prologue" type="act">
-        <div n="0" type="scene">
-          <head>Prologus</head>
+      <div type="prologue">
+          <head>Prologus.</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
@@ -431,7 +430,6 @@ new additions
           </l>
           <l n="45">Ut pernoscatis quid sibi Eunuchus velit.</l>
           </sp>
-        </div>
       </div>
       <div n="1" type="act">
         <div n="1" type="scene">

@@ -213,9 +213,8 @@ new additions
           <p>ACTA LUDIS MEGALENSIBUS, SEX. IUL. CAESARE CN. CORNELIO DOLABELLA AEDILIBUS CURULIBUS. NON EST PERACTA. MODOS FECIT FLACCUS CLAUDII, TIBIIS PARIBUS. TOTA GRAECA APOLLODORU FACTA EST. ACTA PRIMO SINE PROLOGO. DATA SECUNDO CN. OCTAVIO T. MANLIO COSS. RELATA EST L. AEMILII PAULI LUDIS FUNEBRIBUS. NON EST PLACITA. TERTIO RELATA EST Q. FULVIO L. MARCIO AEDILIBUS CURULIBUS. EGIT L. AMBIVIUS TURPIO. PLACUIT.</p>
         </div>
       <pb n="329"/>
-      <div n="prologue" type="act">
-        <div n="0" type="scene">
-          <head>Prologus</head>
+      <div type="prologue">
+          <head>Prologus.</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
@@ -249,8 +248,10 @@ new additions
             </l>
           <l>Alias cognostis eius: quaeso hanc nunc noscite.</l>
           </sp>
+        </div>
+        <div type="prologue">
+          <head>Alter Prologus.</head>
           <sp who="#alter_prologus">
-          <speaker>Alter Prologus.</speaker>
           <lb ed="TLN" n="9"/>
           <l>
               Orator ad vos venio ornatu prologi:
@@ -450,7 +451,6 @@ new additions
             </l>
           <l>Novas expediat posthac pretio emtas meo.</l>
           </sp>
-        </div>
       </div>
       <div n="1" type="act">
         <div n="1" type="scene">

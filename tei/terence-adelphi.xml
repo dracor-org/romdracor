@@ -216,9 +216,8 @@ new additions
           <p>ACTA LUDIS FUNEBRIBUS AEMILII PAULLI QUOS FECERE Q. FABIUS MAXIMUS, P. CORNELIUS AFRICANUS. EGERE L. ATTILIUS PRAENESTINUS, MINUTIUS PROTHIMUS. MODOS FECIT FLACCUS CLAUDII, TIBIIS SARRANIS. FACTA GRAECA MENANDRU L. ANICIO M. CORNELIO COSS.</p>
         </div>
       <pb n="248"/>
-      <div n="prologue" type="act">
-        <div n="0" type="scene">
-          <head>Prologus</head>
+      <div type="prologue">
+          <head>Prologus.</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
@@ -321,7 +320,6 @@ new additions
             </l>
           <l n="25">Poëtae ad scribendum augeat industriam.</l>
           </sp>
-        </div>
       </div>
       <pb n="251"/>
       <div n="1" type="act">

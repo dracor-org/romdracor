@@ -219,9 +219,8 @@ new additions
           <p>ACTA LUDIS MEGALENSIBUS, L. CORNELIO LENTULO L. VALERIO FLACCOAEDILIBUS CURULIBUS. EGERUNT L. AMBIVIUS TURPIO ET L. ATTILIUS PRAENESTINUS. MODOSFECIT FLACCUS CLAUDII. GRAECA EST MENANDRU. ACTA PRIMUM TIBIIS IMPARIBUS; DEINDEDUABUS DEXTRIS. ACTA III. EDITA M. IUVENTIO ET T. SEMPRONIO COSS. </p>
         </div>
       <pb n="167"/>
-      <div n="prologue" type="act">
-        <div n="0" type="scene">
-          <head>Prologus</head>
+      <div type="prologue">
+          <head>Prologus.</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
@@ -435,7 +434,6 @@ new additions
             </l>
           <l>Vobis placere studeant potius quam sibi. </l>
           </sp>
-        </div>
       </div>
       <div n="1" type="act">
         <div n="1" type="scene">

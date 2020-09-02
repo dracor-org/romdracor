@@ -226,9 +226,8 @@ new additions
         </div>
       <pb n="6"/>
       <pb n="7"/>
-      <div n="prologue" type="act">
-        <div n="0" type="scene">
-          <head>Prologus</head>
+      <div type="prologue">
+          <head>Prologus.</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
@@ -339,7 +338,6 @@ new additions
             </l>
           <l>Spectandae an exigendae sint vobis prius.</l>
           </sp>
-        </div>
       </div>
       <div n="1" type="act">
         <div n="1" type="scene">

@@ -225,9 +225,8 @@ new additions
           <p>ACTA LUDIS ROMANIS, L. POSTUMIO ALBINO, L. CORNELIO MERULA, AED1L1BUS CURULIBUS. EGERE L. AMBIVIUS TURPIO, L. ATILIUS PRAENEST1NUS. MODOS FECIT FLACCUS CLAUDII, TIBIIS IMPARIBUS. TOTA GRAECA APOLLODORU EPIDICAZOMENOS. FACTA EST IV. C. FANNIO, M. VALERIO, COSS.</p>
         </div>
       <pb n="401"/>
-      <div n="prologue" type="act">
-        <div n="0" type="scene">
-          <head>Prologus</head>
+      <div type="prologue">
+          <head>Prologus.</head>
           <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
@@ -368,7 +367,6 @@ new additions
             </l>
           <l>Bonitasque vestra adiutans atque aequanimitas.</l>
           </sp>
-        </div>
       </div>
       <div n="1" type="act">
         <div n="1" type="scene">
