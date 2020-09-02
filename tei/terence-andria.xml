@@ -340,7 +340,9 @@ new additions
           </sp>
       </div>
       <div n="1" type="act">
+        <head>ACTUS I.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>SIMO. SOSIA.</stage>
           <sp who="#simo">
             <speaker>Si.</speaker>
@@ -1060,6 +1062,7 @@ new additions
         </div>
         <pb n="18"/>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>SIMO. DAVUS.</stage>
           <sp who="#simo">
             <speaker>Si.</speaker>
@@ -1286,6 +1289,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <sp who="#davus">
           <stage>DAVUS.</stage>
           <lb ed="TLN" n="206"/>
@@ -1379,6 +1383,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>MYSIS.</stage>
           <sp who="#mysis">
           <lb ed="TLN" n="228"/>
@@ -1415,6 +1420,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
+          <head>SCENA V.</head>
           <stage>PAMPHILUS. MYSIS.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
@@ -1744,7 +1750,9 @@ new additions
         </div>
       </div>
       <div n="2" type="act">
+        <head>ACTUS II.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>CHARINUS. BYRRHIA. PAMPHILUS.</stage>
           <sp who="#charinus">
             <speaker>Ch.</speaker>
@@ -2041,6 +2049,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>DAVUS. CHARINUS. PAMPHILUS.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -2317,6 +2326,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>PAMPHILUS. DAVUS.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
@@ -2519,6 +2529,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>SIMO. DAVUS. PAMPHILUS.</stage>
           <sp who="#simo">
             <speaker>Si.</speaker>
@@ -2561,6 +2572,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
+          <head>SCENA V.</head>
           <stage>BYRRHIA. SIMO. DAVUS. PAMPHILUS.</stage>
           <sp who="#byrrhia">
             <speaker>By.</speaker>
@@ -2688,6 +2700,7 @@ new additions
           </sp>
         </div>
         <div n="6" type="scene">
+          <head>SCENA VI.</head>
           <stage>DAVUS. SIMO.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -2867,7 +2880,9 @@ new additions
       </div>
       <pb n="40"/>
       <div n="3" type="act">
+        <head>ACTUS III.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>MYSIS. SIMO. DAVUS. LESBIA. GLYCERIUM.</stage>
           <sp who="#mysis">
             <speaker>My.</speaker>
@@ -3021,6 +3036,7 @@ new additions
         </div>
         <pb n="42"/>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>LESBIA. SIMO. DAVUS.</stage>
           <sp who="#lesbia">
             <speaker>Le.</speaker>
@@ -3291,6 +3307,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>SIMO. CHREMES.</stage>
           <sp who="#simo">
             <speaker>Si.</speaker>
@@ -3546,6 +3563,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>DAVUS. SIMO. CHREMES.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -3766,6 +3784,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
+          <head>SCENA V.</head>
           <stage>PAMPHILUS. DAVUS.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
@@ -3905,7 +3924,9 @@ new additions
         </div>
       </div>
       <div n="4" type="act">
+        <head>ACTUS IV.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>CHARINUS. PAMPHILUS. DAVUS.</stage>
           <sp who="#charinus">
             <speaker>Ch.</speaker>
@@ -4250,6 +4271,7 @@ new additions
         </div>
         <pb n="57"/>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>MYSIS. PAMPHILUS. CHARINUS. DAVUS.</stage>
           <sp who="#mysis">
             <speaker>My.</speaker>
@@ -4517,6 +4539,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>MYSIS. DAVUS.</stage>
           <sp who="#mysis">
             <speaker>My.</speaker>
@@ -4660,6 +4683,7 @@ new additions
         </div>
         <pb n="61"/>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>CHREMES. MYSIS. DAVUS.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -5062,6 +5086,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
+          <head>SCENA V.</head>
           <stage>CRITO. MYSIS. DAVUS.</stage>
           <sp who="#crito">
             <speaker>Cr.</speaker>
@@ -5200,7 +5225,9 @@ new additions
       </div>
       <pb n="66"/>
       <div n="5" type="act">
+        <head>ACTUS V.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>CHREMES. SIMO.</stage>
           <sp who="#chremes">
             <speaker>Ch.</speaker>
@@ -5312,6 +5339,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>DAVUS. CHREMES. SIMO. DROMO.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>
@@ -5600,6 +5628,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>PAMPHILUS. SIMO. CHREMES.</stage>
           <sp who="#pamphilus">
             <speaker>Pa.</speaker>
@@ -5795,6 +5824,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>CRITO. CHREMES. SIMO. PAMPHILUS.</stage>
           <sp who="#crito">
             <speaker>Cr.</speaker>
@@ -6281,6 +6311,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
+          <head>SCENA V.</head>
           <stage>CHARINUS. PAMPHILUS.</stage>
           <sp who="#charinus">
             <speaker>Ch.</speaker>
@@ -6327,6 +6358,7 @@ new additions
         </div>
         <pb n="77"/>
         <div n="6" type="scene">
+          <head>SCENA VI.</head>
           <stage>DAVUS. PAMPHILUS. CHARINUS.</stage>
           <sp who="#davus">
             <speaker>Da.</speaker>

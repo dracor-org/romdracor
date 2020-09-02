@@ -369,7 +369,9 @@ new additions
           </sp>
       </div>
       <div n="1" type="act">
+        <head>ACTUS I.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <sp who="#davus">
           <stage>DAVUS.</stage>
           <lb ed="TLN" n="35"/>
@@ -439,6 +441,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>GETA. DAVUS.</stage>
           <sp who="#geta">
             <speaker>Ge.</speaker>
@@ -1024,6 +1027,7 @@ new additions
         </div>
         <pb n="415"/>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>ANTIPHO. PHAEDRIA.</stage>
           <sp who="#antipho">
             <speaker>An.</speaker>
@@ -1146,6 +1150,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>GETA. ANTIPHO. PHAEDR1A.</stage>
           <sp who="#geta">
             <speaker>Ge.</speaker>
@@ -1534,7 +1539,9 @@ new additions
       </div>
       <pb n="423"/>
       <div n="2" type="act">
+        <head>ACTUS II.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>DEMIPHO. GETA. PHAEDRIA.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -2004,6 +2011,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>PHORMIO. GETA.</stage>
           <sp who="#phormio">
             <speaker>Ph.</speaker>
@@ -2211,6 +2219,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>DEMIPHO. GETA. PHORMIO.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -2792,6 +2801,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>DEMIPHO. GETA. HEGIO. CRATINUS. CRITO.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -2943,7 +2953,9 @@ new additions
         </div>
       </div>
       <div n="3" type="act">
+        <head>ACTUS III.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>ANTIPHO. GETA.</stage>
           <sp who="#antipho">
             <speaker>An.</speaker>
@@ -3092,6 +3104,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>PHAEDRIA. DORIO. ANTIPHO. GETA.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -3463,6 +3476,7 @@ new additions
         </div>
         <pb n="446"/>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>PHAEDRIA. ANTIPHO. GETA.</stage>
           <sp who="#phaedria">
             <speaker>Ph.</speaker>
@@ -3714,7 +3728,9 @@ new additions
         </div>
       </div>
       <div n="4" type="act">
+        <head>ACTUS IV.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>DEMIPHO. CHREMES.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -3842,6 +3858,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>GETA.</stage>
           <sp who="#geta">
             <speaker>GETA.</speaker>
@@ -3907,6 +3924,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>ANTIPHO. GETA. CHREMES. DEMIPHO.</stage>
           <sp who="#antipho">
             <speaker>An.</speaker>
@@ -4344,6 +4362,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>ANTIPHO. GETA.</stage>
           <sp who="#antipho">
             <speaker>An.</speaker>
@@ -4526,6 +4545,7 @@ new additions
         </div>
         <pb n="459"/>
         <div n="5" type="scene">
+          <head>SCENA V.</head>
           <stage>DEMIPHO. GETA. CHREMES.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -4630,7 +4650,9 @@ new additions
         </div>
       </div>
       <div n="5" type="act">
+        <head>ACTUS V.</head>
         <div n="1" type="scene">
+          <head>SCENA I.</head>
           <stage>SOPHRONA. CHREMES.</stage>
           <sp who="#sophrona">
             <speaker>So.</speaker>
@@ -4909,6 +4931,7 @@ new additions
           </sp>
         </div>
         <div n="2" type="scene">
+          <head>SCENA II.</head>
           <stage>DEMIPHO. GETA.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -5010,6 +5033,7 @@ new additions
           </sp>
         </div>
         <div n="3" type="scene">
+          <head>SCENA III.</head>
           <stage>DEMIPHO. NAUSISTRATA. CHREMES.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -5362,6 +5386,7 @@ new additions
           </sp>
         </div>
         <div n="4" type="scene">
+          <head>SCENA IV.</head>
           <stage>ANTIPHO.</stage>
           <sp who="#antipho">
           <lb ed="TLN" n="820"/>
@@ -5402,6 +5427,7 @@ new additions
           </sp>
         </div>
         <div n="5" type="scene">
+          <head>SCENA V.</head>
           <stage>PHORMIO. ANTIPHO.</stage>
           <sp who="#phormio">
             <speaker>Ph.</speaker>
@@ -5482,6 +5508,7 @@ new additions
         </div>
         <pb n="471"/>
         <div n="6" type="scene">
+          <head>SCENA VI.</head>
           <stage>GETA. ANTIPHO. PHORMIO.</stage>
           <sp who="#geta">
             <speaker>Ge.</speaker>
@@ -5829,6 +5856,7 @@ new additions
           </sp>
         </div>
         <div n="7" type="scene">
+          <head>SCENA VII.</head>
           <stage>DEMIPHO. PHORMIO. CHREMES.</stage>
           <sp who="#demipho">
             <speaker>De.</speaker>
@@ -6433,6 +6461,7 @@ new additions
         </div>
         <pb n="482"/>
         <div n="8" type="scene">
+          <head>SCENA VIII.</head>
           <stage>NAUSISTRATA. CHREMES. PHORMIO. DEMIPHO.</stage>
           <sp who="#nausistrata">
             <speaker>Na.</speaker>
