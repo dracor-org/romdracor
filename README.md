@@ -1,5 +1,5 @@
 # RomDraCor
-Roman Drama Corpus, **36 plays** in TEI-P5 format, adapted from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in June 2019. Licensed under [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/).
+Roman Drama Corpus, **36 plays** in TEI P5 format, adapted from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in June 2019. Licensed under [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/).
 
 The corpus is maintained and enhanced by Julia Jennifer Beine (Ruhr University Bochum), Boris Orekhov and Frank Fischer (both Higher School of Economics, Moscow).
 

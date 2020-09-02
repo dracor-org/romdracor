@@ -9,6 +9,11 @@
         <publisher>DraCor</publisher>
         <idno type="URI" xml:base="https://dracor.org/">rom</idno>
         <idno type="repo">https://github.com/dracor-org/romdracor</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">
+            CC BY-SA 3.0 US
+          </licence>
+        </availability>
       </publicationStmt>
     </fileDesc>
     <encodingDesc>
@@ -16,11 +21,16 @@
         <p>
           Derived from
           <ref target="http://www.perseus.tufts.edu/hopper/opensource/download">Perseus
-          Digital Library</ref>. Maintained for DraCor by Julia Jennifer Beine
-          (Ruhr University Bochum), Boris Orekhov and Frank Fischer (both Higher
-          School of Economics, Moscow). Features 36 plays (20 comedies by
-          <hi>Plautus</hi> and 6 by <hi>Terence</hi>, and 10 tragedies by
-          <hi>Seneca</hi>).
+            Digital Library</ref>, updated to
+          <ref target="https://tei-c.org/guidelines/p5/">TEI P5</ref> and
+          enhanced by Julia Jennifer Beine (Ruhr University Bochum), Frank
+          Fischer and Boris Orekhov (both Higher School of Economics, Moscow).
+          Features 36 plays (20 comedies by <hi>Plautus</hi>, 6 comedies by
+          <hi>Terence</hi>, 10 tragedies by <hi>Seneca</hi>). Licensed under
+          <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">CC
+            BY-SA 3.0 US</ref>. For corpus description and full credits please
+          see the <ref target="https://github.com/dracor-org/romdracor">README
+            on GitHub</ref>.
         </p>
       </projectDesc>
     </encodingDesc>
