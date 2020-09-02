@@ -26,11 +26,10 @@
           enhanced by Julia Jennifer Beine (Ruhr University Bochum), Frank
           Fischer and Boris Orekhov (both Higher School of Economics, Moscow).
           Features 36 plays (20 comedies by <hi>Plautus</hi>, 6 comedies by
-          <hi>Terence</hi>, 10 tragedies by <hi>Seneca</hi>). Licensed under
-          <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">CC
-            BY-SA 3.0 US</ref>. For corpus description and full credits please
-          see the <ref target="https://github.com/dracor-org/romdracor">README
-            on GitHub</ref>.
+          <hi>Terence</hi>, 10 tragedies by <hi>Seneca</hi>). For corpus
+          description and full credits please see the
+          <ref target="https://github.com/dracor-org/romdracor">README on
+            GitHub</ref>.
         </p>
       </projectDesc>
     </encodingDesc>
