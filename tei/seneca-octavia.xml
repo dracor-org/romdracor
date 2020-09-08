@@ -40,32 +40,35 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <personGrp sex="UNKNOWN" xml:id="chorus">
+          <person xml:id="octavia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231262">
+            <persName>Octavia</persName>
+          </person>
+          <person xml:id="nutrix_octaviae" sex="FEMALE">
+            <persName>Nutrix Octaviae</persName>
+          </person>
+          <personGrp xml:id="chorus" sex="UNKNOWN">
             <name>Chorus Romanorum</name>
           </personGrp>
+          <person xml:id="seneca" sex="MALE" ana="http://www.wikidata.org/entity/Q2054">
+            <persName>Seneca</persName>
+          </person>
           <person xml:id="nero" sex="MALE" ana="http://www.wikidata.org/entity/Q1413">
             <persName>Nero</persName>
           </person>
-          <person xml:id="nuntius" sex="MALE">
-            <name>Nuntius</name>
+          <person xml:id="praefectus" sex="MALE">
+            <persName>Praefectus</persName>
           </person>
-          <person xml:id="nutrix" sex="FEMALE">
-            <persName>Nutrix Octaviae</persName>
+          <person xml:id="agrippina" sex="MALE" ana="http://www.wikidata.org/entity/Q154732">
+            <persName>Agrippina</persName>
           </person>
-          <person xml:id="nutrix2" sex="FEMALE">
+          <person xml:id="nutrix_poppaeae" sex="FEMALE">
             <persName>Nutrix Poppaeae</persName>
           </person>
           <person xml:id="poppaea" sex="FEMALE" ana="http://www.wikidata.org/entity/Q230716">
             <persName>Poppaea</persName>
           </person>
-          <person xml:id="octavia" sex="FEMALE" ana="http://www.wikidata.org/entity/Q231262">
-            <persName>Octavia</persName>
-          </person>
-          <person xml:id="praefectus" sex="MALE">
-            <persName>Praefectus</persName>
-          </person>
-          <person xml:id="seneca" sex="MALE" ana="http://www.wikidata.org/entity/Q2054">
-            <persName>Seneca</persName>
+          <person xml:id="nuntius" sex="MALE">
+            <persName>Nuntius</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -122,10 +125,10 @@
         <castGroup>
           <head>III</head>
           <castItem type="role">
-            <role id="nutrix">Nutrix Octaviae</role>
+            <role id="nutrix_octaviae">Nutrix Octaviae</role>
           </castItem>
           <castItem type="role">
-            <role id="nutrix2">Nutrix Poppaeae</role>
+            <role id="nutrix_poppaeae">Nutrix Poppaeae</role>
           </castItem>
           <castItem type="role">
             <role id="seneca">Seneca</role>
@@ -146,6 +149,7 @@
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="397"/>
+      <div type="scene">
       <sp who="#octavia">
         <speaker>Octavia</speaker>
         <milestone unit="line" ed="exclude" n="1"/>
@@ -217,7 +221,7 @@
         <milestone unit="line" ed="exclude" n="33"/>
         <l>cum prole tua capta tyranno.</l>
       </sp>
-      <sp who="#nutrix">
+      <sp who="#nutrix_octaviae">
         <speaker>Nutrix</speaker>
         <milestone unit="line" ed="exclude" n="34"/>
         <l>Fulgore primo captus et fragili bono</l>
@@ -268,7 +272,7 @@
         <l>scelus, quod utinam numen avertat deum.</l>
       </sp>
       <stage>Octavia Nutrix</stage>
-      <sp who="#octavia #nutrix">
+      <sp who="#octavia #nutrix_octaviae">
         <milestone unit="line" ed="exclude" n="57"/>
         <l>O mea nullis aequanda malis</l>
         <milestone unit="line" ed="exclude" n="58"/>
@@ -301,8 +305,8 @@
         <l>magni resto nominis umbra.</l>
       </sp>
       <milestone n="72" unit="card"/>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="72"/>
         <l>Vox en nostras perculit aures</l>
         <milestone unit="line" ed="exclude" n="73"/>
@@ -317,8 +321,8 @@
         <milestone unit="line" ed="exclude" n="76"/>
         <l>testis nostri fida doloris.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="77"/>
         <l>Quis te tantis solvet curis,</l>
         <milestone unit="line" ed="exclude" n="78"/>
@@ -330,8 +334,8 @@
         <l>Qui me Stygias mittet ad umbras.</l>
       </sp>
       <pb n="400"/>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="80"/>
         <l n="80">Omina quaeso sint ista procul. </l>
       </sp>
@@ -342,8 +346,8 @@
         <milestone unit="line" ed="exclude" n="82"/>
         <l>sed fata regunt.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="83"/>
         <l>Dabit afflictae meliora deus</l>
         <milestone unit="line" ed="exclude" n="84"/>
@@ -380,8 +384,8 @@
         <milestone unit="line" ed="exclude" n="98"/>
         <l>femina longo semper in aevo.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="99"/>
         <l>Animi retine verba furentis,</l>
         <milestone unit="line" ed="exclude" n="99b"/>
@@ -466,8 +470,8 @@
         <l>tellure rupta pande, quo praeceps ferar.</l>
       </sp>
       <milestone n="137" unit="card"/>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="137"/>
         <l>Frustra parentis invocas manes tui,</l>
         <milestone unit="line" ed="exclude" n="138"/>
@@ -550,8 +554,8 @@
         <milestone unit="line" ed="exclude" n="174"/>
         <l>Extinguat et me, ne manu nostra cadat!</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="175"/>
         <l n="175">Natura vires non dedit tantas tibi. </l>
       </sp>
@@ -560,8 +564,8 @@
         <milestone unit="line" ed="exclude" n="176"/>
         <l>Dolor ira maeror miseriae luctus dabunt.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="177"/>
         <l>Vince obsequendo potius immitem virum.</l>
       </sp>
@@ -570,8 +574,8 @@
         <milestone unit="line" ed="exclude" n="178"/>
         <l>Vt fratrem ademptum scelere restituat mihi?</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="179"/>
         <l>Incolumis ut sis ipsa, labentem ut domum</l>
         <milestone unit="line" ed="exclude" n="180"/>
@@ -584,8 +588,8 @@
         <milestone unit="line" ed="exclude" n="182"/>
         <l>me dira miseri fata germani trahunt.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="183"/>
         <l>Confirmet animum civium tantus favor.</l>
       </sp>
@@ -594,8 +598,8 @@
         <milestone unit="line" ed="exclude" n="184"/>
         <l>Solatur iste nostra, non relevat mala.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="185"/>
         <l part="I">Vis magna populi est.</l>
       </sp>
@@ -605,8 +609,8 @@
         <milestone unit="line" ed="exclude" n="185"/>
         <l n="185">tamen. </l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="186"/>
         <l part="I">Respiciet ipse coniugem,</l>
       </sp>
@@ -614,8 +618,8 @@
         <speaker>Oct.</speaker>
         <l part="F">Paelex vetat.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="187"/>
         <l part="I">Invisa cunctis nempe.</l>
       </sp>
@@ -623,8 +627,8 @@
         <speaker>Oct.</speaker>
         <l part="F">Sed cara est viro.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="188"/>
         <l part="I">Nondum uxor est.</l>
       </sp>
@@ -634,8 +638,8 @@
         <milestone unit="line" ed="exclude" n="189"/>
         <l>simul.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="190"/>
         <l>Iuvenilis ardor impetu primo furit,</l>
         <milestone unit="line" ed="exclude" n="190"/>
@@ -656,8 +660,8 @@
         <l part="F">Nempe praelatum sibi. </l>
       </sp>
       <milestone n="196" unit="card"/>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="196"/>
         <l>Subiecta et humilis, atque monumenta extruit</l>
         <milestone unit="line" ed="exclude" n="197"/>
@@ -775,8 +779,8 @@
         <l>morumque vitiis nomen Augustum inquinat!</l>
       </sp>
       <milestone n="252" unit="card"/>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="252"/>
         <l>Indignus ille, fateor, est thalamis tuis, </l>
         <milestone unit="line" ed="exclude" n="249"/>
@@ -820,8 +824,8 @@
         <milestone unit="line" ed="exclude" n="269"/>
         <l>natumque ad umbras, prodidit lapsam domum.</l>
       </sp>
-      <sp who="#nutrix">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_octaviae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="270"/>
         <l n="270">Renovare luctus parce cum fletu pios, </l>
         <milestone unit="line" ed="exclude" n="271"/>
@@ -1051,7 +1055,9 @@
         <milestone unit="line" ed="exclude" n="376"/>
         <l>per fera tristem vulnera reddit.</l>
       </sp>
+      </div>
       <milestone n="377" unit="card"/>
+      <div type="scene">
       <sp who="#seneca">
         <speaker>Seneca</speaker>
         <milestone unit="line" ed="exclude" n="377"/>
@@ -1697,7 +1703,12 @@
         <l>cum portet utero pignus et partem mei.</l>
         <milestone unit="line" ed="exclude" n="592"/>
         <l>quin destinamus proximum thalamis diem?</l>
-        <pb n="417"/>
+      </sp>
+      </div>
+      <pb n="417"/>
+      <div type="scene">
+      <sp who="#agrippina">
+        <speaker>Agrippina</speaker>
         <milestone unit="line" ed="exclude" n="593"/>
         <l>Tellure rupta Tartaro gressum extuli,</l>
         <milestone unit="line" ed="exclude" n="594"/>
@@ -1772,7 +1783,7 @@
         <milestone unit="line" ed="exclude" n="628"/>
         <l>Parthi cruentam, regna divitias ferant:</l>
         <milestone unit="line" ed="exclude" n="629"/>
-        <l>veniet dies tempusque quo reddat sui3</l>
+        <l>veniet dies tempusque quo reddat suis</l>
         <milestone unit="line" ed="exclude" n="630"/>
         <l n="630">animam nocentem sceleribus, iugulum hostibus </l>
         <milestone unit="line" ed="exclude" n="631"/>
@@ -1806,7 +1817,9 @@
         <milestone unit="line" ed="exclude" n="645"/>
         <l n="645">noverca coniunx mater infelix meis? </l>
       </sp>
+      </div>
       <milestone n="646" unit="card"/>
+      <div type="scene">
       <stage>Octavia Chorus</stage>
       <sp who="#octavia">
         <milestone unit="line" ed="exclude" n="646"/>
@@ -1905,8 +1918,10 @@
         <milestone unit="line" ed="exclude" n="689"/>
         <l>telisque feris principis aulam.</l>
       </sp>
+      </div>
+      <div type="scene">
       <stage>Nutrix Poppaea</stage>
-      <sp who="#nutrix2">
+      <sp who="#nutrix_poppaeae">
         <milestone unit="line" ed="exclude" n="690"/>
         <l n="690">Quo trepida gressum coniugis thalamis tui</l>
         <milestone unit="line" ed="exclude" n="691"/>
@@ -2013,8 +2028,8 @@
         <milestone unit="line" ed="exclude" n="739"/>
         <l>aut quem cruorem coniugis vidi mei?</l>
       </sp>
-      <sp who="#nutrix2">
-        <speaker>Nvtr.</speaker>
+      <sp who="#nutrix_poppaeae">
+        <speaker>Nutr.</speaker>
         <milestone unit="line" ed="exclude" n="740"/>
         <l n="740">Quaecumque mentis agitat intentus vigor, </l>
         <milestone unit="line" ed="exclude" n="741"/>
@@ -2104,7 +2119,9 @@
         <milestone unit="line" ed="exclude" n="779"/>
         <l>aut quid portat pectore anhelo?</l>
       </sp>
+      </div>
       <milestone n="780" unit="card"/>
+      <div type="scene">
       <stage>Nuntius Chorus</stage>
       <sp who="#nuntius">
         <milestone unit="line" ed="exclude" n="780"/>
@@ -2214,6 +2231,8 @@
         <milestone unit="line" ed="exclude" n="819"/>
         <l>vis immitis violenta dei.</l>
       </sp>
+      </div>
+      <div type="scene">
       <sp who="#nero">
         <speaker>Nero</speaker>
         <milestone unit="line" ed="exclude" n="820"/>
@@ -2652,6 +2671,7 @@
         <milestone unit="line" ed="exclude" n="983"/>
         <l>civis gaudet Roma cruore.</l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>

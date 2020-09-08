@@ -41,41 +41,41 @@
     <profileDesc>
       <particDesc>
         <listPerson>
-          <person xml:id="alcmena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q190543"> 
-            <persName>Alcmena</persName>
+          <person xml:id="hercules" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
+            <persName>Hercules</persName>
           </person>
-          <person xml:id="hyllus" sex="MALE" ana="http://www.wikidata.org/entity/Q847268">
-            <persName>Hyllus</persName>
-          </person>
-          <personGrp sex="UNKNOWN" xml:id="chorus">
+          <personGrp xml:id="chorus_virginum" sex="UNKNOWN">
             <name>Chorus Virginum</name>
           </personGrp>
-          <personGrp sex="UNKNOWN" xml:id="chorus2">
-            <name>Chorus Aetolarum Mulierum</name>
-          </personGrp>
-          <person xml:id="deianira" sex="FEMALE" ana="http://www.wikidata.org/entity/Q272000">
-            <persName>Deianira</persName>
+          <person xml:id="iole" sex="FEMALE" ana="http://www.wikidata.org/entity/Q744147">
+            <persName>Iole</persName>
           </person>
           <person xml:id="nutrix" sex="FEMALE">
             <persName>Nutrix</persName>
           </person>
+          <person xml:id="deianira" sex="FEMALE" ana="http://www.wikidata.org/entity/Q272000">
+            <persName>Deianira</persName>
+          </person>
+          <personGrp xml:id="chorus_aetolarum_mulierum" sex="UNKNOWN">
+            <name>Chorus Aetolarum Mulierum</name>
+          </personGrp>
+          <person xml:id="hyllus" sex="MALE" ana="http://www.wikidata.org/entity/Q847268">
+            <persName>Hyllus</persName>
+          </person>
+          <person xml:id="alcmena" sex="FEMALE" ana="http://www.wikidata.org/entity/Q190543"> 
+            <persName>Alcmena</persName>
+          </person>
           <person xml:id="nuntius" sex="MALE">
             <persName>Nuntius</persName>
           </person>
-          <person xml:id="hercules" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
-            <persName>Hercules</persName>
-          </person>
-          <person xml:id="philoctetes" sex="MALE" ana="http://www.wikidata.org/entity/Q212827">
-            <persName>Philoctetes</persName>
-          </person>
-          <person xml:id="iole" sex="FEMALE" ana="http://www.wikidata.org/entity/Q744147">
-            <persName>Iole</persName>
+          <person xml:id="vox_herculis" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
+            <persName>Vox Herculis</persName>
           </person>
           <person xml:id="lichas" sex="MALE" ana="http://www.wikidata.org/entity/Q922330">
             <persName>Lichas</persName>
           </person>
-          <person xml:id="voxherculis" sex="MALE" ana="http://www.wikidata.org/entity/Q122248">
-            <persName>Vox Herculis</persName>
+          <person xml:id="philoctetes" sex="MALE" ana="http://www.wikidata.org/entity/Q212827">
+            <persName>Philoctetes</persName>
           </person>
         </listPerson>
       </particDesc>
@@ -154,14 +154,15 @@
           </castItem>
         </castGroup>
         <castItem type="role">
-          <role id="chorus">Chorus Virginum</role>
+          <role id="chorus_virginum">Chorus Virginum</role>
         </castItem>
         <castItem type="role">
-          <role id="chorus2">Chorus Aetolarum Mulierum</role>
+          <role id="chorus_aetolarum_mulierum">Chorus Aetolarum Mulierum</role>
         </castItem>
       </castList>
       <milestone n="1" unit="card"/>
       <pb n="321"/>
+      <div type="act">
       <sp who="#hercules">
         <speaker>Hercules</speaker>
         <milestone unit="line" ed="exclude" n="1"/>
@@ -375,7 +376,7 @@
         <l>austro timendum spectat Euboicum mare.</l>
       </sp>
       <milestone n="104" unit="card"/>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="104"/>
         <l>Par ille est superis cui pariter dies</l>
@@ -631,7 +632,7 @@
         <milestone unit="line" ed="exclude" n="224"/>
         <l>sed iam dominae tecta petantur.</l>
       </sp>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="225"/>
         <l n="225">Quid regna tui clara parentis </l>
@@ -650,7 +651,9 @@
         <milestone unit="line" ed="exclude" n="232"/>
         <l>casus animo qui tulit aequo.</l>
       </sp>
+      </div>
       <milestone n="233" unit="card"/>
+      <div type="act">
       <stage>Nutrix Deianira Lichas Tacitus</stage>
       <sp who="#nutrix">
         <milestone unit="line" ed="exclude" n="233"/>
@@ -1530,7 +1533,7 @@
         <l>Calydoniae lugete deflendam vicem.</l>
       </sp>
       <milestone n="583" unit="card"/>
-      <sp who="#chorus2">
+      <sp who="#chorus_aetolarum_mulierum">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="583"/>
         <l>Flemus casus, Oenei, tuos</l>
@@ -1770,6 +1773,10 @@
         <l>medioque rates quaerit in alto,</l>
         <milestone unit="line" ed="exclude" n="699"/>
         <l>quarum feriunt sipara nubes.</l>
+      </sp>
+      </div>
+      <div type="act">
+        <sp who="#chorus_aetolarum_mulierum">
         <milestone unit="line" ed="exclude" n="700"/>
         <l n="700">Sed quid pavido territa vultu, </l>
         <milestone unit="line" ed="exclude" n="701"/>
@@ -2605,7 +2612,7 @@
       </sp>
       <milestone n="1031" unit="card"/>
       <pb n="358"/>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="1031"/>
         <l>Verum est quod cecinit sacer</l>
@@ -2811,9 +2818,11 @@
         <milestone unit="line" ed="exclude" n="1130"/>
         <l n="1130">est est Herculeus sonus. </l>
       </sp>
+      </div>
       <milestone n="1131" unit="card"/>
+      <div type="act">
       <stage>Hercules Chorus</stage>
-      <sp who="#hercules #chorus">
+      <sp who="#hercules">
         <milestone unit="line" ed="exclude" n="1131"/>
         <l>Converte, Titan clare, anhelantes equos,</l>
         <milestone unit="line" ed="exclude" n="1132"/>
@@ -2856,7 +2865,7 @@
         <milestone unit="line" ed="exclude" n="1150"/>
         <l n="1150">mundi ruina, frange quem perdis polum. </l>
       </sp>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="1151"/>
         <l>Non vana times, gnate Tonantis:</l>
@@ -2977,7 +2986,7 @@
         <l>totiens honestam: titulus extremus quis est?</l>
       </sp>
       <milestone n="1207" unit="card"/>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="1207"/>
         <l>Viden ut laudis conscia virtus</l>
@@ -3133,7 +3142,7 @@
         <l>incaluit ardor— unde nunc fulmen mihi?</l>
       </sp>
       <milestone n="1279" unit="card"/>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="1279"/>
         <l>Quid non possit superare</l>
@@ -3707,7 +3716,7 @@
         <l>omnemque pestem vicit Alcides palam.</l>
       </sp>
       <milestone n="1518" unit="card"/>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="1518"/>
         <l>O decus mundi, radiate Titan,</l>
@@ -3893,40 +3902,42 @@
         <milestone unit="line" ed="exclude" n="1606"/>
         <l>Herculis heres.</l>
       </sp>
+      </div>
       <milestone n="1607" unit="card"/>
+      <div type="act">
       <stage>Nuntius Chorus</stage>
-      <sp who="#nuntius">
+      <sp who="#chorus_virginum">
         <milestone unit="line" ed="exclude" n="1607"/>
         <l>Effare casus, iuvenis, Herculeos precor</l>
         <milestone unit="line" ed="exclude" n="1608"/>
         <l>voltuque quonam tulerit Alcides necem.</l>
       </sp>
-      <sp who="#chorus">
+      <sp who="#nuntius">
         <speaker>Nunt.</speaker>
         <milestone unit="line" ed="exclude" n="1609"/>
         <l part="I">Quo nemo vitam.</l>
       </sp>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chor.</speaker>
         <l part="F">Laetus adeone ultimos</l>
         <milestone unit="line" ed="exclude" n="1610"/>
         <l n="1610" part="I">invasit ignes?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <l part="F">Esse iam flammas nihil </l>
         <milestone unit="line" ed="exclude" n="1611"/>
         <l>ostendit ille. quid sub hoc mundo Hercules</l>
         <milestone unit="line" ed="exclude" n="1612"/>
         <l>immune vinci liquit? en domita omnia.</l>
       </sp>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="1613"/>
         <l>Inter vapores quis fuit forti locus?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone unit="line" ed="exclude" n="1614"/>
         <l>Quod unum in orbe vicerat nondum malum,</l>
         <milestone unit="line" ed="exclude" n="1615"/>
@@ -3934,13 +3945,13 @@
         <milestone unit="line" ed="exclude" n="1616"/>
         <l>inter labores ignis Herculeos abit.</l>
       </sp>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="1617"/>
         <l>Edissere agedum, flamma quo victa est modo?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone unit="line" ed="exclude" n="1618"/>
         <l>Vt omnis Oeten maesta corripuit manus,</l>
         <pb n="380"/>
@@ -4092,7 +4103,7 @@
         <l n="1690">stetitque nato paene iam similis parens. </l>
       </sp>
       <milestone n="1691" unit="card"/>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chor.</speaker>
         <milestone unit="line" ed="exclude" n="1691"/>
         <l>Nullasne in astra misit ad superos preces</l>
@@ -4100,7 +4111,7 @@
         <l>arsurus aut in vota respexit Iovem?</l>
       </sp>
       <sp who="#nuntius">
-        <speaker>Nvnt.</speaker>
+        <speaker>Nunt.</speaker>
         <milestone unit="line" ed="exclude" n="1693"/>
         <l>Iacuit sui securus et caelum intuens</l>
         <milestone unit="line" ed="exclude" n="1694"/>
@@ -4633,7 +4644,7 @@
       </sp>
       <milestone n="1940" unit="card"/>
       <stage>Vox Herculis et Alcmena</stage>
-      <sp who="#voxherculis">
+      <sp who="#vox_herculis">
         <milestone unit="line" ed="exclude" n="1940"/>
         <l n="1940">Quid me tenentem regna siderei poli ' </l>
         <milestone unit="line" ed="exclude" n="1941"/>
@@ -4729,7 +4740,7 @@
         <milestone unit="line" ed="exclude" n="1982"/>
         <l>novumque templis additum numen canam.</l>
       </sp>
-      <sp who="#chorus">
+      <sp who="#chorus_virginum">
         <speaker>Chorus</speaker>
         <milestone unit="line" ed="exclude" n="1983"/>
         <l>Numquam Stygias fertur ad umbras</l>
@@ -4760,6 +4771,7 @@
         <milestone unit="line" ed="exclude" n="1996"/>
         <l>fulmina mitte.</l>
       </sp>
+      </div>
     </body>
   </text>
 </TEI>
