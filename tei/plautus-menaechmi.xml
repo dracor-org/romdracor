@@ -76,7 +76,7 @@
           <person xml:id="senex" sex="MALE" role="senex">
             <persName>Senex</persName>
           </person>
-          <personGrp xml:id="lorarii" sex="MALE" role="lorarii">
+          <personGrp xml:id="lorarii" sex="MALE" role="lorarius">
             <name>Lorarii</name>
           </personGrp>
         </listPerson>
