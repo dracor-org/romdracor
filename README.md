@@ -27,7 +27,7 @@ Frontend: https://dracor.org/rom
 * Adjust filenames (e.g., "pl.am_lat.xml" → "plautus-amphitruo.xml").
 * ```xmllint --format --encode UTF-8```
 
-### 25.06.2019
+### 26.06.2019
 * Add DraCor ID to ```publicationStmt```.
 * Add Wikidata IDs for authors and plays.
 * Add licence information.
