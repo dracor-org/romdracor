@@ -62,5 +62,8 @@ Frontend: https://dracor.org/rom
 * Add page numbers for Terence.
 * Add written act/scene indicators for Terence.
 
+### 17.01.2021
+* Recode author information. ([commit](https://github.com/dracor-org/romdracor/commit/5ff2a2fedf1abbf5afa1f3fd8cd2fab93ef0f555))
+
 ## Known issues
 * V/U incongruencies between different authors: especially for contrastive analyses, the different handling by the editors has to be taken into account (e.g., "ut" vs. "vt"; "ubi" vs. "vbi").
