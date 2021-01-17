@@ -5,7 +5,15 @@
     <fileDesc>
       <titleStmt>
         <title n="Amph." type="work">Amphitruo</title>
-        <author key="wikidata:Q47160">T. Maccius Plautus</author>
+        <author>
+          <persName xml:lang="eng">Plautus</persName>
+          <persName>
+            <forename>Titus</forename>
+            <addName>Maccius</addName>
+            <addName sort="1">Plautus</addName>
+          </persName>
+          <idno type="wikidata">Q47160</idno>
+        </author>
         <editor n="Leo" role="editor">F. Leo</editor>
       </titleStmt>
       <publicationStmt>
@@ -33,8 +41,8 @@
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Amphitruo. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen prius. Berlin: Weidmann 1895, pp. 1–48.</title>
             <date type="premiere" notBefore="-0207" notAfter="-0186">controversial dating betw. 207/6 and 186 BC</date>
-          </bibl>          
-        </bibl>        
+          </bibl>
+        </bibl>
       </sourceDesc>
     </fileDesc>
     <state unit="act"/>

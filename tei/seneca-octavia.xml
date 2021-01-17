@@ -5,7 +5,16 @@
     <fileDesc>
       <titleStmt>
         <title n="Oct.">Octavia</title>
-        <author key="wikidata:Q2054">Seneca</author>
+        <author>
+          <persName xml:lang="eng">Seneca</persName>
+          <persName>
+            <forename>Lucius</forename>
+            <surname>Annaeus</surname>
+            <addName>Seneca</addName>
+            <genName>minor</genName>
+          </persName>
+          <idno type="wikidata">Q2054</idno>
+        </author>
         <editor n="Peiper" role="editor">Adolf Peiper</editor>
         <editor n="Richter" role="editor">Gustav Richter</editor>
       </titleStmt>

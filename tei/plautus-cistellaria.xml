@@ -5,7 +5,15 @@
     <fileDesc>
       <titleStmt>
         <title n="Cist." type="work">Cistellaria</title>
-        <author key="wikidata:Q47160">T. Maccius Plautus</author>
+        <author>
+          <persName xml:lang="eng">Plautus</persName>
+          <persName>
+            <forename>Titus</forename>
+            <addName>Maccius</addName>
+            <addName sort="1">Plautus</addName>
+          </persName>
+          <idno type="wikidata">Q47160</idno>
+        </author>
         <editor n="Leo" role="editor">F. Leo</editor>
       </titleStmt>
       <publicationStmt>
@@ -868,15 +876,15 @@ Added to repository.
             <speaker>Serv.</speaker>
             <lb ed="TLN" n="233"/>
             <l part="I">Séd quid istuc?</l>
-          </sp>          
+          </sp>
           <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <l part="M">Mala multa dici mihi volo.</l>
-          </sp>          
+          </sp>
           <sp who="#servus">
             <speaker>Serv.</speaker>
             <l part="M">Qua gratia?</l>
-          </sp>          
+          </sp>
           <sp who="#alcesimarchus">
             <speaker>Alc.</speaker>
             <lb ed="TLN" n="234"/>

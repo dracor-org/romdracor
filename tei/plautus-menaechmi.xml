@@ -5,7 +5,15 @@
     <fileDesc>
       <titleStmt>
         <title n="Men." type="work">Menaechmi</title>
-        <author key="wikidata:Q47160">T. Maccius Plautus</author>
+        <author>
+          <persName xml:lang="eng">Plautus</persName>
+          <persName>
+            <forename>Titus</forename>
+            <addName>Maccius</addName>
+            <addName sort="1">Plautus</addName>
+          </persName>
+          <idno type="wikidata">Q47160</idno>
+        </author>
         <editor n="Leo" role="editor">F. Leo</editor>
       </titleStmt>
       <publicationStmt>

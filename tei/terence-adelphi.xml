@@ -5,7 +5,15 @@
     <fileDesc>
       <titleStmt>
         <title n="Ad.">Adelphi</title>
-        <author key="wikidata:Q172048">P. Terentius Afer (Terence)</author>
+        <author>
+          <persName xml:lang="eng">Terence</persName>
+          <persName>
+            <forename>Publius</forename>
+            <surname>Terentius</surname>
+            <addName>Afer</addName>
+          </persName>
+          <idno type="wikidata">Q172048</idno>
+        </author>
         <editor role="editor">Edward St. John Parry</editor>
       </titleStmt>
       <publicationStmt>
@@ -154,7 +162,7 @@ new additions
     </change>
   </teiHeader>
   <text>
-    <pb n="243"/>    
+    <pb n="243"/>
     <front>
       <docAuthor>PUBLII TERENTII CARTHAGINIENSIS AFRI</docAuthor>
       <docTitle>
