@@ -31,7 +31,7 @@
       <sourceDesc>
         <bibl type="digitalSource">
           <name>Perseus Digital Library</name>
-          <idno type="URL">http://www.perseus.tufts.edu/hopper/opensource/download</idno>
+          <idno type="URL">http://data.perseus.org/texts/urn:cts:latinLit:phi0119.phi018</idno>
           <availability status="free">
             <licence>
               <ab>CC BY-SA 3.0 US</ab>
