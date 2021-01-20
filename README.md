@@ -65,5 +65,8 @@ Frontend: https://dracor.org/rom
 ### 17.01.2021
 * Recode author information. ([commit](https://github.com/dracor-org/romdracor/commit/5ff2a2fedf1abbf5afa1f3fd8cd2fab93ef0f555))
 
+### 20.01.2021
+* Ass persistent Perseus URIs per play. ([commit](https://github.com/dracor-org/romdracor/commit/4ef2ea864af3a615b06605b38fd6dfdd7ea7afe7))
+
 ## Known issues
 * V/U incongruencies between different authors: especially for contrastive analyses, the different handling by the editors has to be taken into account (e.g., "ut" vs. "vt"; "ubi" vs. "vbi").
