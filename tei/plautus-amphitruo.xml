@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q475025</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Amphitruo. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen prius. Berlin: Weidmann 1895, pp. 1–48.</title>
-            <date type="premiere" notBefore="-0207" notAfter="-0186">controversial dating betw. 207/6 and 186 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -148,6 +146,14 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" notBefore="-0207" notAfter="-0186">
+        <desc>controversial dating betw. 207/6 and 186 BC</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q475025"/>
+  </standOff>
   <text>
     <body>
       <div n="prol." type="act">

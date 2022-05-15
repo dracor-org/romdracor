@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -27,7 +27,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q15059087</idno>
       </publicationStmt>
       <extent>About 100Kb</extent>
       <sourceDesc>
@@ -42,7 +41,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Lucius Annaeus Seneca: Agamemnon. In: L. Annaei Senecae Tragoediae. Recensuerunt Rudolfus Peiper et Gustavus Richter (= Bibliotheca scriptorum Graecorum et Romanorum Teubneriana). Leipzig: Teubner 1921, pp. 241–278.</title>
-            <date type="written" notBefore="0043" notAfter="0049">AD 43–49?</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -116,6 +114,14 @@
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="written" notBefore="0043" notAfter="0049">
+        <label>AD 43–49?</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q15059087"/>
+  </standOff>
   <text>
     <body>
       <castList>

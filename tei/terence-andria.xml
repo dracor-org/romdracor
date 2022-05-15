@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1233645</idno>
       </publicationStmt>
       <extent/>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Publius Terentius Afer: Andria. In: Publii Terentii Comoediae sex. With a Commentary by Edward St. John Parry (= Bibliotheca Classica). London: Whittaker and Co. 1857, pp. 1–78.</title>
-            <date type="premiere" when="-0166">166 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -161,6 +159,14 @@ new additions
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0166">
+        <label>166 BC</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1233645"/>
+  </standOff>
   <text>
     <pb n="1"/>
     <front>

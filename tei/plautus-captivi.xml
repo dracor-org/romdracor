@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1035171</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Bacchides. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen prius. Berlin: Weidmann 1895, pp. 177–221.</title>
-            <date type="premiere" notBefore="-0194" notAfter="-0188">194–188 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -165,6 +163,14 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" notBefore="-0194" notAfter="-0188">
+        <desc>194–188 BC</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1035171"/>
+  </standOff>
   <text>
     <body>
       <div n="prol." type="act">
