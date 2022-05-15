@@ -1960,7 +1960,8 @@ Added to repository.
             <lb ed="TLN" n="437"/>
             <l>falsum nomen possidere, Philocomasium, postulas;</l>
             <lb ed="TLN" n="438"/>
-            <l><foreign lang="greek">a)/dikos</foreign>
+            <l>
+              <foreign lang="greek">a)/dikos</foreign>
                es tu, non 
               <foreign lang="greek">dikai/a</foreign>
               , et meo ero facis iniuriam.
@@ -5358,7 +5359,8 @@ Added to repository.
           </sp>
           <sp who="#palaestrio">
             <speaker>Pal.</speaker>
-            <l part="M"><abbr expan="dignus es">Dignu's</abbr>
+            <l part="M">
+              <abbr expan="dignus es">Dignu's</abbr>
               .
             </l>
           </sp>

@@ -1208,7 +1208,8 @@ Added to repository.
             <lb ed="TLN" n="320"/>
             <l>Sémper istóc modo.</l>
             <lb ed="TLN" n="321"/>
-            <l><abbr expan="moratus es">morátu's</abbr>
+            <l>
+              <abbr expan="moratus es">morátu's</abbr>
                tu te. &lt;íre huc&gt; debébas.
             </l>
           </sp>
@@ -4449,7 +4450,8 @@ Added to repository.
           </sp>
           <sp who="#phaniscus">
             <speaker>Phan.</speaker>
-            <l part="M"><foreign lang="greek">ma\ to\n *)apo/llw</foreign>
+            <l part="M">
+              <foreign lang="greek">ma\ to\n *)apo/llw</foreign>
               , sed minis.
             </l>
           </sp>

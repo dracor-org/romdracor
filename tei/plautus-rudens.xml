@@ -3904,7 +3904,8 @@ Added to repository.
             <speaker>Trach.</speaker>
             <l part="M">Quid ais, impudens?</l>
             <lb ed="TLN" n="982"/>
-            <l n="50"><abbr expan="ausus es">ausu's</abbr>
+            <l n="50">
+              <abbr expan="ausus es">ausu's</abbr>
                etiam comparare vidulum cum piscibus?
             </l>
             <lb ed="TLN" n="983"/>

@@ -452,7 +452,8 @@ Added to repository.
           </sp>
           <sp who="#palinurus">
             <speaker>Pal.</speaker>
-            <l part="M"><abbr expan="iniurius es">Iniuriu's</abbr>
+            <l part="M">
+              <abbr expan="iniurius es">Iniuriu's</abbr>
               ,
             </l>
             <lb ed="TLN" n="66"/>

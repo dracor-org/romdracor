@@ -779,7 +779,8 @@ Added to repository.
           <sp who="#megaronides">
             <speaker>Meg.</speaker>
             <lb ed="TLN" n="187"/>
-            <l n="150"><foreign lang="greek">pau=sai</foreign>
+            <l n="150">
+              <foreign lang="greek">pau=sai</foreign>
               , vicisti castigatorem tuom:
             </l>
             <lb ed="TLN" n="188"/>
@@ -3808,7 +3809,8 @@ Added to repository.
           <sp who="#charmides">
             <speaker>Charm.</speaker>
             <lb ed="TLN" n="982"/>
-            <l part="I"><abbr expan="fassus es">Fassu's</abbr>
+            <l part="I">
+              <abbr expan="fassus es">Fassu's</abbr>
                Charmidem dedisse aurum tibi.
             </l>
           </sp>

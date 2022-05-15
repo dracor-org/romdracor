@@ -1367,7 +1367,8 @@ Added to repository.
             <lb ed="TLN" n="328a"/>
             <l>&lt;quem illic reliquit agnum,&gt; eum sume atque abi</l>
             <lb ed="TLN" n="329"/>
-            <l><gap desc="*"/>
+            <l>
+              <gap desc="*"/>
               intro illuc, et vos illum sequimini.
             </l>
             <lb ed="TLN" n="330"/>

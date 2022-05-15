@@ -3305,7 +3305,8 @@ Added to repository.
           </sp>
           <sp who="#epidicus">
             <speaker>Ep.</speaker>
-            <l part="M"><abbr expan="stultus es">Stultu's</abbr>
+            <l part="M">
+              <abbr expan="stultus es">Stultu's</abbr>
               , tace.
             </l>
             <lb ed="TLN" n="653"/>

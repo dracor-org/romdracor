@@ -662,7 +662,8 @@ Added to repository.
           </sp>
           <sp who="#bacchis">
             <speaker>B.</speaker>
-            <l part="M"><abbr expan="lepidus es">Lepidu's</abbr>
+            <l part="M">
+              <abbr expan="lepidus es">Lepidu's</abbr>
               . nunc ego te facere hoc volo.
             </l>
             <lb ed="TLN" n="94"/>

@@ -168,7 +168,7 @@ new additions
       <docTitle>
         <titlePart type="main">ANDRIA.</titlePart>
       </docTitle>
-    <pb n="2"/>
+      <pb n="2"/>
       <castList>
         <head>FABULAE INTERLOCUTORES.</head>
         <castItem type="role">
@@ -222,130 +222,130 @@ new additions
       </castList>
       <pb n="3"/>
       <div type="introduction">
-          <head>INTRODUCTION.</head>
-          <p xml:lang="eng">THE Andria derives its name from Glycerium, the heroine of the play; who was from <placeName key="perseus,Andros City">Andros</placeName>. Upon her previous history turns the dénouement of the plot. Chremes and Phania were brothers, two Athenian citizens. On occasion of a voyage to <placeName key="tgn,1000004">Asia</placeName> Chremes had left his only daughter Pasibula with Phania, who shortly afterwards followed his brother to Asia to escape from a war that was raging in <placeName key="tgn,1000074">Greece</placeName>. He was overtaken by a storm, and shipwrecked, together with Pasibula, upon the island <placeName key="perseus,Andros City">Andros</placeName>. He there attached himself as a client to a citizen, who entertained him liberally, and upon his death, which occurred shortly after, adopted Pasibula and brought her up with his own daughter Chrysis, having changed her name to Glycerium. Chrysis upon the death of her father went to <placeName key="perseus,Athens">Athens</placeName> with her reputed sister, and, after making shift for an honest livelihood, at last took up the profession of a courtezan. At her house many young men congregated, and among others Pamphilus, the son of Simo, who there saw and fell in love with Glycerium, and became her accepted lover, making her a promise of marriage, which was rendered more binding by the parting injunctions of Chrysis, who upon her deathbed commended Glycerium as a sacred trust to Pamphilus. Meanwhile Pamphilus has another affair on his hands. For Chremes has had another daughter since the loss of Pasibula, and is very anxious that she should be well married to such an excellent young man as Pamphilus, who, happily, while enjoying himself in his own way, has gained a character which is the admiration of every one. So Philumena and Pamphilus are betrothed by their parents, entirely without the knowledge of the bridegroom elect. All this time Simo has fully believed in his son's excellence; but is undeceived by an event which takes place at the funeral of Chrysis, where Pamphilus shows something more than an ordinary solicitude for a young woman whom Simo ascertains to be the sister of Chrysis. The matter takes wind, and reaches the ears of Chremes, with the additional circumstance of Pamphilus' connexion with her, upon which he breaks off the match. This brings us to the point at which the action of the play <pb n="4"/> commences. Simo determines to tell Pamphilus that he is to be married to Philumena, hoping to place him in a dilemma; for if he refused, then he could take him severely to task; if he consented, then Chremes might be gained over, and after all the match might take place. Accordingly he tells Pamphilus by the way in the Forum that he is to be married that very day. Pamphilus returns home in amazement; but is met by Mysis, servant of Glycerium, who revives his old affection for her mistress. Davus meanwhile sifts the whole matter to the bottom; finds that the marriage is a pretence, and accordingly recommends Pamphilus to humour his father to the utmost, and express his entire readiness to marry as soon as he pleases. At the same time he is to keep up his intimacy with Glycerium, that Chremes may be as shy of his connexion as he is now. Meanwhile there is a by-plot at work. One Charinus, a friend of Pamphilus, who is in love with Philumena, hears with dismay that she is to be married to his friend, and urges him to do all in his power to defer the marriage if possible. So affairs stand when Glycerium is brought to bed of a son, Simo, who hears what is going on, imagining, and being confirmed by Davus in the belief, that this is merely an artifice of Glycerium and her friends to prevent Pamphilus' marriage. He accordingly again treats with Chremes on the subject of the marriage of Pamphilus and Philumena, and extorts a reluctant consent. This places Davus in a great strait; for Pamphilus now reproaches him with his untoward advice, which has got him into this mischief; and Charinus too is indignant to the last degree at the treachery of Pamphilus. As a last resource Davus places the child before Simo's door, and contrives that Chremes shall hear its history from Mysis. This causes a fresh rupture between Chremes and Simo. At this moment there arrives a native of <placeName key="perseus,Andros City">Andros</placeName>, Crito, next of kin to Chrysis, who has come to <placeName key="perseus,Athens">Athens</placeName> to claim her property. He clears up the previous history of Glycerium, who is joyfully recognized as Chremes' daughter, and all parties are made happy; Simo being with some difficulty gained over to forgive past offences, and to receive his son and Davus into favour again.</p>
+        <head>INTRODUCTION.</head>
+        <p xml:lang="eng">THE Andria derives its name from Glycerium, the heroine of the play; who was from <placeName key="perseus,Andros City">Andros</placeName>. Upon her previous history turns the dénouement of the plot. Chremes and Phania were brothers, two Athenian citizens. On occasion of a voyage to <placeName key="tgn,1000004">Asia</placeName> Chremes had left his only daughter Pasibula with Phania, who shortly afterwards followed his brother to Asia to escape from a war that was raging in <placeName key="tgn,1000074">Greece</placeName>. He was overtaken by a storm, and shipwrecked, together with Pasibula, upon the island <placeName key="perseus,Andros City">Andros</placeName>. He there attached himself as a client to a citizen, who entertained him liberally, and upon his death, which occurred shortly after, adopted Pasibula and brought her up with his own daughter Chrysis, having changed her name to Glycerium. Chrysis upon the death of her father went to <placeName key="perseus,Athens">Athens</placeName> with her reputed sister, and, after making shift for an honest livelihood, at last took up the profession of a courtezan. At her house many young men congregated, and among others Pamphilus, the son of Simo, who there saw and fell in love with Glycerium, and became her accepted lover, making her a promise of marriage, which was rendered more binding by the parting injunctions of Chrysis, who upon her deathbed commended Glycerium as a sacred trust to Pamphilus. Meanwhile Pamphilus has another affair on his hands. For Chremes has had another daughter since the loss of Pasibula, and is very anxious that she should be well married to such an excellent young man as Pamphilus, who, happily, while enjoying himself in his own way, has gained a character which is the admiration of every one. So Philumena and Pamphilus are betrothed by their parents, entirely without the knowledge of the bridegroom elect. All this time Simo has fully believed in his son's excellence; but is undeceived by an event which takes place at the funeral of Chrysis, where Pamphilus shows something more than an ordinary solicitude for a young woman whom Simo ascertains to be the sister of Chrysis. The matter takes wind, and reaches the ears of Chremes, with the additional circumstance of Pamphilus' connexion with her, upon which he breaks off the match. This brings us to the point at which the action of the play <pb n="4"/> commences. Simo determines to tell Pamphilus that he is to be married to Philumena, hoping to place him in a dilemma; for if he refused, then he could take him severely to task; if he consented, then Chremes might be gained over, and after all the match might take place. Accordingly he tells Pamphilus by the way in the Forum that he is to be married that very day. Pamphilus returns home in amazement; but is met by Mysis, servant of Glycerium, who revives his old affection for her mistress. Davus meanwhile sifts the whole matter to the bottom; finds that the marriage is a pretence, and accordingly recommends Pamphilus to humour his father to the utmost, and express his entire readiness to marry as soon as he pleases. At the same time he is to keep up his intimacy with Glycerium, that Chremes may be as shy of his connexion as he is now. Meanwhile there is a by-plot at work. One Charinus, a friend of Pamphilus, who is in love with Philumena, hears with dismay that she is to be married to his friend, and urges him to do all in his power to defer the marriage if possible. So affairs stand when Glycerium is brought to bed of a son, Simo, who hears what is going on, imagining, and being confirmed by Davus in the belief, that this is merely an artifice of Glycerium and her friends to prevent Pamphilus' marriage. He accordingly again treats with Chremes on the subject of the marriage of Pamphilus and Philumena, and extorts a reluctant consent. This places Davus in a great strait; for Pamphilus now reproaches him with his untoward advice, which has got him into this mischief; and Charinus too is indignant to the last degree at the treachery of Pamphilus. As a last resource Davus places the child before Simo's door, and contrives that Chremes shall hear its history from Mysis. This causes a fresh rupture between Chremes and Simo. At this moment there arrives a native of <placeName key="perseus,Andros City">Andros</placeName>, Crito, next of kin to Chrysis, who has come to <placeName key="perseus,Athens">Athens</placeName> to claim her property. He clears up the previous history of Glycerium, who is joyfully recognized as Chremes' daughter, and all parties are made happy; Simo being with some difficulty gained over to forgive past offences, and to receive his son and Davus into favour again.</p>
       </div>
-      </front>
-        <pb n="5"/>
-      <body>
-        <div type="production">
-          <head>ANDRIA.</head>
-          <p>ACTA LUDIS MEGALENSIB M. FULVIO ET M. GLABRIONE AEDILIB. CURULIB. EGERUNT L. AMBIVIUS TURPIO, L. ATTILIUS PRAENESTINUS. MODOS FECIT FLACCUS CLAUDII FILIUS, TIBIIS PARIBUS DEXTRIS ET SINISTRIS. ET EST TOTA GRAECA. EDITA M. MARCELLO, CN. SULPITIO COSS.</p>
-        </div>
+    </front>
+    <pb n="5"/>
+    <body>
+      <div type="production">
+        <head>ANDRIA.</head>
+        <p>ACTA LUDIS MEGALENSIB M. FULVIO ET M. GLABRIONE AEDILIB. CURULIB. EGERUNT L. AMBIVIUS TURPIO, L. ATTILIUS PRAENESTINUS. MODOS FECIT FLACCUS CLAUDII FILIUS, TIBIIS PARIBUS DEXTRIS ET SINISTRIS. ET EST TOTA GRAECA. EDITA M. MARCELLO, CN. SULPITIO COSS.</p>
+      </div>
       <pb n="6"/>
       <pb n="7"/>
       <div type="prologue">
-          <head>Prologus.</head>
-          <sp who="#prologus">
+        <head>Prologus.</head>
+        <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
               Poeta quum primum animum ad scribendum appulit,
               <lb ed="TLN" n="2"/>
-            </l>
+          </l>
           <l>
               Id sibi negoti credidit solum dari
               <lb ed="TLN" n="3"/>
-            </l>
+          </l>
           <l>
               Populo ut placerent quas fecisset fabulas.
               <lb ed="TLN" n="4"/>
-            </l>
+          </l>
           <l>
               Verum aliter evenire multo intelligit.
               <lb ed="TLN" n="5"/>
-            </l>
+          </l>
           <l n="5">
               Nam in prologis scribundis operam abutitur,
               <lb ed="TLN" n="6"/>
-            </l>
-            <pb n="8"/>
+          </l>
+          <pb n="8"/>
           <l>
               Non qui argumentum narret, sed qui malevoli
               <lb ed="TLN" n="7"/>
-            </l>
+          </l>
           <l>
               Veteris poetae maledictis respondeat.
               <lb ed="TLN" n="8"/>
-            </l>
+          </l>
           <l>
               Nunc quam rem vitio dent quaeso animum advortite.
               <lb ed="TLN" n="9"/>
-            </l>
+          </l>
           <l>
               Menander feeit Andriam et Perinthiam.
               <lb ed="TLN" n="10"/>
-            </l>
+          </l>
           <l n="10">
               &gt;Qui utramvis recte norit ambas noverit.
               <lb ed="TLN" n="11"/>
-            </l>
+          </l>
           <l>
               Non ita dissimili sunt argumento, sed tamen
               <lb ed="TLN" n="12"/>
-            </l>
+          </l>
           <l>
               Dissimili oratione sunt factae ac stilo.
               <lb ed="TLN" n="13"/>
-            </l>
+          </l>
           <l>
               Quae convenere in Andriam ex Perinthia
               <lb ed="TLN" n="14"/>
-            </l>
+          </l>
           <l>
               Fatetur transtulisse atque usum pro suis.
               <lb ed="TLN" n="15"/>
-            </l>
+          </l>
           <l n="15">
               Id isti vituperant factum; atque in eo disputant,
               <lb ed="TLN" n="16"/>
-            </l>
+          </l>
           <l>
               Contaminari non decere fabulas.
               <lb ed="TLN" n="17"/>
-            </l>
+          </l>
           <l>
               Faciuntne intelligendo ut nihil intelligant.
               <lb ed="TLN" n="18"/>
-            </l>
+          </l>
           <l>
               Qui quum hunc accusant Naevium, Plautum, Ennium
               <lb ed="TLN" n="19"/>
-            </l>
-            <pb n="9"/>
+          </l>
+          <pb n="9"/>
           <l>
               Accusant, quos hic noster auctores liabet:
               <lb ed="TLN" n="20"/>
-            </l>
+          </l>
           <l n="20">
               Quorum aemulari exoptat negligentiam
               <lb ed="TLN" n="21"/>
-            </l>
+          </l>
           <l>
               Potius, quam istorum obscuram diligentiam.
               <lb ed="TLN" n="22"/>
-            </l>
+          </l>
           <l>
               Dehinc ut quiescant porro moneo et desinant
               <lb ed="TLN" n="23"/>
-            </l>
+          </l>
           <l>
               Maledicere, malefacta ne noscant sua.
               <lb ed="TLN" n="24"/>
-            </l>
+          </l>
           <l>
               Favete, adeste aequo animo, et rem cognoscite,
               <lb ed="TLN" n="25"/>
-            </l>
+          </l>
           <l n="25">
               Ut pernoscatis, ecquid spei sit reliquum,
               <lb ed="TLN" n="26"/>
-            </l>
+          </l>
           <l>
               Posthac quas faciet de integro comoedias,
               <lb ed="TLN" n="27"/>
-            </l>
+          </l>
           <l>Spectandae an exigendae sint vobis prius.</l>
-          </sp>
+        </sp>
       </div>
       <div n="1" type="act">
         <head>Actus I.</head>
@@ -1299,132 +1299,132 @@ new additions
         <div n="3" type="scene">
           <head>Scena III.</head>
           <sp who="#davus">
-          <stage>DAVUS.</stage>
-          <lb ed="TLN" n="206"/>
-          <l>
+            <stage>DAVUS.</stage>
+            <lb ed="TLN" n="206"/>
+            <l>
             Enimvero, Dave, nil loci est segnitiae neque socordiae,
             <lb ed="TLN" n="207"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quantum intellexi modo senis sententiam de nuptiis:
             <lb ed="TLN" n="208"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quae si non astu providentur me aut herum pessum dabunt.
             <lb ed="TLN" n="209"/>
-          </l>
+            </l>
             <pb n="21"/>
-          <l>
+            <l>
             Nec quid agam certum est: Pamphilumne adiutem an auscultem seni.
             <lb ed="TLN" n="210"/>
-          </l>
-          <l n="5">
+            </l>
+            <l n="5">
             Si illum relinquo eius vitae timeo: sin opitulor huius minas;
             <lb ed="TLN" n="211"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Cui verba dare difficile est. Primum iam de amore hoc comperit:
             <lb ed="TLN" n="212"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Me infensus servat ne quam faciam in nuptiis fallaciam.
             <lb ed="TLN" n="213"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Si senserit perii: aut si lubitum fuerit causam ceperit,
             <lb ed="TLN" n="214"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quo iure quaque iniuria praecipitem in pistrinum dabit.
             <lb ed="TLN" n="215"/>
-          </l>
-          <l n="10">
+            </l>
+            <l n="10">
             Ad haec mala hoc mihi accedit etiam: haec Andria,
             <lb ed="TLN" n="216"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Si ista uxor sive amica est, gravida e Pamphilo est.
             <lb ed="TLN" n="217"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Audireque eorum est operae pretium audaciam:
             <lb ed="TLN" n="218"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nam inceptio est amentium haud amantium:
             <lb ed="TLN" n="219"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quicquid peperisset decreverunt tollere:
             <lb ed="TLN" n="220"/>
-          </l>
-          <l n="15">
+            </l>
+            <l n="15">
             Et fingunt quandam inter se nunc fallaciam,
             <lb ed="TLN" n="221"/>
-          </l>
+            </l>
             <pb n="22"/>
-          <l>
+            <l>
             Civem Atticam esse hanc. Fuit olim hinc quidam senex,
             <lb ed="TLN" n="222"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Mercator: navem is fregit apud Andrum insulam:
             <lb ed="TLN" n="223"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Is obiit mortem: ibi tum hanc eiectam Chrysidis
             <lb ed="TLN" n="224"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Patrem recepisse orbam, parvam: Fabulae.
             <lb ed="TLN" n="225"/>
-          </l>
-          <l n="20">
+            </l>
+            <l n="20">
             Mihi quidem hercle non fit verisimile; atque ipsis commentum placet.
             <lb ed="TLN" n="226"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Sed Mysis ab ea egreditur: at ego hinc me ad forum ut
             <lb ed="TLN" n="227"/>
-          </l>
-          <l>Conveniam Pamphilum, ne de hac re pater imprudentem opprimat.</l>
+            </l>
+            <l>Conveniam Pamphilum, ne de hac re pater imprudentem opprimat.</l>
           </sp>
         </div>
         <div n="4" type="scene">
           <head>Scena IV.</head>
           <stage>MYSIS.</stage>
           <sp who="#mysis">
-          <lb ed="TLN" n="228"/>
-          <l>
+            <lb ed="TLN" n="228"/>
+            <l>
             Audivi Archylis iamdudum: Lesbiam adduci iubes.
             <lb ed="TLN" n="229"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Sane pol illa temulenta est mulier et temeraria,
             <lb ed="TLN" n="230"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nec satis digna cui committas primo partu mulierem;
             <lb ed="TLN" n="231"/>
-          </l>
+            </l>
             <pb n="23"/>
-          <l>
+            <l>
             Tamen eam adducam. Importunitatem spectate aniculae,
             <lb ed="TLN" n="232"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quia compotrix eius est. Di date facultatem obsecro
             <lb ed="TLN" n="233"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Huic pariundi, atque illi in aliis potius peccandi locum.
             <lb ed="TLN" n="234"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Sed quidnam Pamphilum exanimatum video? Vereor quid siet.
             <lb ed="TLN" n="235"/>
-          </l>
-          <l>Opperiar ut sciam numquidnam haec turbae tristitia adferat.</l>
+            </l>
+            <l>Opperiar ut sciam numquidnam haec turbae tristitia adferat.</l>
           </sp>
         </div>
         <div n="5" type="scene">

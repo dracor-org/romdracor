@@ -880,7 +880,8 @@ Added to repository.
           <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="159"/>
-            <l part="I"><foreign lang="greek">po/qen</foreign>
+            <l part="I">
+              <foreign lang="greek">po/qen</foreign>
                ornamenta?
             </l>
           </sp>
@@ -1282,7 +1283,8 @@ Added to repository.
           </sp>
           <sp who="#sophoclidisca">
             <speaker>Soph.</speaker>
-            <l part="M"><abbr expan="scelestus es">Scelestu's</abbr>
+            <l part="M">
+              <abbr expan="scelestus es">Scelestu's</abbr>
               .
             </l>
           </sp>
@@ -1443,7 +1445,8 @@ Added to repository.
           </sp>
           <sp who="#sophoclidisca">
             <speaker>So.</speaker>
-            <l part="M"><abbr expan="odiosus es">Odiosu's</abbr>
+            <l part="M">
+              <abbr expan="odiosus es">Odiosu's</abbr>
               .
             </l>
           </sp>
