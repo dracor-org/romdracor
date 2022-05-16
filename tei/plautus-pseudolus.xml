@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1233667</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Pseudolus. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen alterum. Berlin: Weidmann 1896, pp. 243–306.</title>
-            <date type="premiere" when="-0191">191 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -159,15 +157,23 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0191">
+        <label>191 BC</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1233667"/>
+  </standOff>
   <text>
     <body>
       <div n="prol." type="act">
         <head>Prologus</head>
         <sp who="#prologus">
-        <lb ed="TLN" n="1"/>
-        <l>exporgi meliust lumbos atque exsurgier:</l>
-        <lb ed="TLN" n="2"/>
-        <l>Plautina longa fabula in scaenam venit.</l>
+          <lb ed="TLN" n="1"/>
+          <l>exporgi meliust lumbos atque exsurgier:</l>
+          <lb ed="TLN" n="2"/>
+          <l>Plautina longa fabula in scaenam venit.</l>
         </sp>
       </div>
       <div n="1" type="act">
@@ -940,7 +946,8 @@ Added to repository.
             <lb ed="TLN" n="210"/>
             <l>Xýstilis, fac ut ánimum advortas, quóius amatorés olivi</l>
             <lb ed="TLN" n="211"/>
-            <l><foreign lang="greek">du/namin</foreign>
+            <l>
+              <foreign lang="greek">du/namin</foreign>
                domi habent máxumam.
             </l>
             <lb ed="TLN" n="212"/>
@@ -2030,54 +2037,55 @@ Added to repository.
         <div n="4" type="scene">
           <head>4</head>
           <sp who="#pseudolus">
-          <lb ed="TLN" n="394"/>
-          <l>postquam illic hinc abiit, tu astas solus, Pseudole.</l>
-          <lb ed="TLN" n="395"/>
-          <l>
+            <lb ed="TLN" n="394"/>
+            <l>postquam illic hinc abiit, tu astas solus, Pseudole.</l>
+            <lb ed="TLN" n="395"/>
+            <l>
             quid nunc 
             <abbr expan="acturus es">acturu's</abbr>
             , postquam erili filio
           </l>
-          <lb ed="TLN" n="396"/>
-          <l><abbr expan="largitus es">largitu's</abbr>
+            <lb ed="TLN" n="396"/>
+            <l>
+              <abbr expan="largitus es">largitu's</abbr>
              dictis dapsilis? ubi sunt ea?
           </l>
-          <lb ed="TLN" n="397"/>
-          <l>quoi neque paratast gutta certi consili,</l>
-          <lb ed="TLN" n="398"/>
-          <l n="5">[neque adeo argenti—neque nunc quid faciam scio.]</l>
-          <lb ed="TLN" n="399"/>
-          <l>neque exordiri primum unde occipias habes,</l>
-          <lb ed="TLN" n="400"/>
-          <l>neque ad détexundam telam certos terminos.</l>
-          <lb ed="TLN" n="401"/>
-          <l>sed quasi poeta, tabulas cum cepit sibi,</l>
-          <lb ed="TLN" n="402"/>
-          <l>quaerit quod nusquamst gentium, reperit tamen,</l>
-          <lb ed="TLN" n="403"/>
-          <l n="10">facit illud veri simile, quod mendacium est,</l>
-          <lb ed="TLN" n="404"/>
-          <l>nunc ego poeta fiam: viginti minas,</l>
-          <lb ed="TLN" n="405"/>
-          <l>quae nusquam nunc sunt gentium, inveniam tamen.</l>
-          <lb ed="TLN" n="406"/>
-          <l>[atque ego me iam pridem huic daturum dixeram</l>
-          <lb ed="TLN" n="407"/>
-          <l>et volui inicere tragulam in nostrum senem;</l>
-          <lb ed="TLN" n="408"/>
-          <l n="15">verum is nescio quo pacto praesensit prius.]</l>
-          <lb ed="TLN" n="409"/>
-          <l>sed comprimundast vox mihi atque oratio:</l>
-          <lb ed="TLN" n="410"/>
-          <l>erum eccum video húc Simonem una simul</l>
-          <lb ed="TLN" n="411"/>
-          <l>cum suo vicino Calliphone incedere.</l>
-          <lb ed="TLN" n="412"/>
-          <l>ex hoc sepulcro vetere viginti minas</l>
-          <lb ed="TLN" n="413"/>
-          <l n="20">effodiam ego hodie, quas dem erili filio.</l>
-          <lb ed="TLN" n="414"/>
-          <l>nunc huc concedam, unde horum sermonem legam.</l>
+            <lb ed="TLN" n="397"/>
+            <l>quoi neque paratast gutta certi consili,</l>
+            <lb ed="TLN" n="398"/>
+            <l n="5">[neque adeo argenti—neque nunc quid faciam scio.]</l>
+            <lb ed="TLN" n="399"/>
+            <l>neque exordiri primum unde occipias habes,</l>
+            <lb ed="TLN" n="400"/>
+            <l>neque ad détexundam telam certos terminos.</l>
+            <lb ed="TLN" n="401"/>
+            <l>sed quasi poeta, tabulas cum cepit sibi,</l>
+            <lb ed="TLN" n="402"/>
+            <l>quaerit quod nusquamst gentium, reperit tamen,</l>
+            <lb ed="TLN" n="403"/>
+            <l n="10">facit illud veri simile, quod mendacium est,</l>
+            <lb ed="TLN" n="404"/>
+            <l>nunc ego poeta fiam: viginti minas,</l>
+            <lb ed="TLN" n="405"/>
+            <l>quae nusquam nunc sunt gentium, inveniam tamen.</l>
+            <lb ed="TLN" n="406"/>
+            <l>[atque ego me iam pridem huic daturum dixeram</l>
+            <lb ed="TLN" n="407"/>
+            <l>et volui inicere tragulam in nostrum senem;</l>
+            <lb ed="TLN" n="408"/>
+            <l n="15">verum is nescio quo pacto praesensit prius.]</l>
+            <lb ed="TLN" n="409"/>
+            <l>sed comprimundast vox mihi atque oratio:</l>
+            <lb ed="TLN" n="410"/>
+            <l>erum eccum video húc Simonem una simul</l>
+            <lb ed="TLN" n="411"/>
+            <l>cum suo vicino Calliphone incedere.</l>
+            <lb ed="TLN" n="412"/>
+            <l>ex hoc sepulcro vetere viginti minas</l>
+            <lb ed="TLN" n="413"/>
+            <l n="20">effodiam ego hodie, quas dem erili filio.</l>
+            <lb ed="TLN" n="414"/>
+            <l>nunc huc concedam, unde horum sermonem legam.</l>
           </sp>
         </div>
         <div n="5" type="scene">
@@ -2162,7 +2170,8 @@ Added to repository.
           <sp who="#pseudolus">
             <speaker>Ps.</speaker>
             <lb ed="TLN" n="443"/>
-            <l><foreign lang="greek">w)= *zeu=</foreign>
+            <l>
+              <foreign lang="greek">w)= *zeu=</foreign>
               , quam pauci éstis homines commodi. em,
             </l>
             <lb ed="TLN" n="444"/>
@@ -3170,60 +3179,60 @@ Added to repository.
         <div n="3" type="scene">
           <head>3</head>
           <sp who="#pseudolus">
-          <lb ed="TLN" n="667"/>
-          <l>di immortales, conservavit me illic homo adventu suo.</l>
-          <lb ed="TLN" n="668"/>
-          <l>suo viatico redduxit me usque ex errore in viam.</l>
-          <lb ed="TLN" n="669"/>
-          <l>nam ipsa mi Opportunitas non potuit opportunius</l>
-          <lb ed="TLN" n="670"/>
-          <l>advenire quam haec allatast mi opportune epistula.</l>
-          <lb ed="TLN" n="671"/>
-          <l n="5">nam haec allata cornu copiaest, ubi inest quidquid volo:</l>
-          <lb ed="TLN" n="672"/>
-          <l>hic doli, hic fallaciae omnes, hic sunt sycophantiae,</l>
-          <lb ed="TLN" n="673"/>
-          <l>hic argentum, híc amica amanti erili filio.</l>
-          <lb ed="TLN" n="674"/>
-          <l>atque ego nunc me ut gloriosum faciam et copi pectore:</l>
-          <lb ed="TLN" n="675"/>
-          <l>quo modo quícque agerem, ut lenoni surruperem mulierculam,</l>
-          <lb ed="TLN" n="676"/>
-          <l n="10">iam instituta ornata cuncta in ordine, animo ut volueram,</l>
-          <lb ed="TLN" n="677"/>
-          <l>certa deformata habebam; sed profecto hoc sic erit:</l>
-          <lb ed="TLN" n="678"/>
-          <l>centum doctum hominum consilia sola haec devincit dea,</l>
-          <lb ed="TLN" n="679"/>
-          <l>Fortuna. atque hoc verum est: proinde ut quisque Fortuna utitur,</l>
-          <lb ed="TLN" n="680"/>
-          <l>ita praecellet atque exinde sapere eum omnes dicimus.</l>
-          <lb ed="TLN" n="681"/>
-          <l n="15">bene ubi quoi scimus consilium áccidisse, hominem catum</l>
-          <lb ed="TLN" n="682"/>
-          <l>eum esse declaramus, stultum autem illum quoi vortit male.</l>
-          <lb ed="TLN" n="683"/>
-          <l>stulti hau scimus, frusta ut simus, quom quid cupienter dari</l>
-          <lb ed="TLN" n="684"/>
-          <l>petimus nobis, quasi quid in rem sit possimus noscere.</l>
-          <lb ed="TLN" n="685"/>
-          <l>certa mittimus, dum incerta petimus; atque hoc evenit</l>
-          <lb ed="TLN" n="686"/>
-          <l n="20">in labore atque in dolore, ut mors obrepat interim.</l>
-          <lb ed="TLN" n="687"/>
-          <l>sed iam satis est philosophatum. nimis diu et longum loquor.</l>
-          <lb ed="TLN" n="688"/>
-          <l>di immortales, aurichalco contra non carum fuit</l>
-          <lb ed="TLN" n="689"/>
-          <l>meum mendacium, hic modo quod subito commentus fui,</l>
-          <lb ed="TLN" n="690"/>
-          <l>quia lenonis me esse dixi. nunc ego hac epistula</l>
-          <lb ed="TLN" n="691"/>
-          <l n="25">tris deludam, erum et lenonem et qui hanc dedit mi epistulam.</l>
-          <lb ed="TLN" n="692"/>
-          <l>euge, par pari aliud autem quod cupiebam contigit:</l>
-          <lb ed="TLN" n="693"/>
-          <l>venit eccum Calidorus, ducit nescio quem secum simul.</l>
+            <lb ed="TLN" n="667"/>
+            <l>di immortales, conservavit me illic homo adventu suo.</l>
+            <lb ed="TLN" n="668"/>
+            <l>suo viatico redduxit me usque ex errore in viam.</l>
+            <lb ed="TLN" n="669"/>
+            <l>nam ipsa mi Opportunitas non potuit opportunius</l>
+            <lb ed="TLN" n="670"/>
+            <l>advenire quam haec allatast mi opportune epistula.</l>
+            <lb ed="TLN" n="671"/>
+            <l n="5">nam haec allata cornu copiaest, ubi inest quidquid volo:</l>
+            <lb ed="TLN" n="672"/>
+            <l>hic doli, hic fallaciae omnes, hic sunt sycophantiae,</l>
+            <lb ed="TLN" n="673"/>
+            <l>hic argentum, híc amica amanti erili filio.</l>
+            <lb ed="TLN" n="674"/>
+            <l>atque ego nunc me ut gloriosum faciam et copi pectore:</l>
+            <lb ed="TLN" n="675"/>
+            <l>quo modo quícque agerem, ut lenoni surruperem mulierculam,</l>
+            <lb ed="TLN" n="676"/>
+            <l n="10">iam instituta ornata cuncta in ordine, animo ut volueram,</l>
+            <lb ed="TLN" n="677"/>
+            <l>certa deformata habebam; sed profecto hoc sic erit:</l>
+            <lb ed="TLN" n="678"/>
+            <l>centum doctum hominum consilia sola haec devincit dea,</l>
+            <lb ed="TLN" n="679"/>
+            <l>Fortuna. atque hoc verum est: proinde ut quisque Fortuna utitur,</l>
+            <lb ed="TLN" n="680"/>
+            <l>ita praecellet atque exinde sapere eum omnes dicimus.</l>
+            <lb ed="TLN" n="681"/>
+            <l n="15">bene ubi quoi scimus consilium áccidisse, hominem catum</l>
+            <lb ed="TLN" n="682"/>
+            <l>eum esse declaramus, stultum autem illum quoi vortit male.</l>
+            <lb ed="TLN" n="683"/>
+            <l>stulti hau scimus, frusta ut simus, quom quid cupienter dari</l>
+            <lb ed="TLN" n="684"/>
+            <l>petimus nobis, quasi quid in rem sit possimus noscere.</l>
+            <lb ed="TLN" n="685"/>
+            <l>certa mittimus, dum incerta petimus; atque hoc evenit</l>
+            <lb ed="TLN" n="686"/>
+            <l n="20">in labore atque in dolore, ut mors obrepat interim.</l>
+            <lb ed="TLN" n="687"/>
+            <l>sed iam satis est philosophatum. nimis diu et longum loquor.</l>
+            <lb ed="TLN" n="688"/>
+            <l>di immortales, aurichalco contra non carum fuit</l>
+            <lb ed="TLN" n="689"/>
+            <l>meum mendacium, hic modo quod subito commentus fui,</l>
+            <lb ed="TLN" n="690"/>
+            <l>quia lenonis me esse dixi. nunc ego hac epistula</l>
+            <lb ed="TLN" n="691"/>
+            <l n="25">tris deludam, erum et lenonem et qui hanc dedit mi epistulam.</l>
+            <lb ed="TLN" n="692"/>
+            <l>euge, par pari aliud autem quod cupiebam contigit:</l>
+            <lb ed="TLN" n="693"/>
+            <l>venit eccum Calidorus, ducit nescio quem secum simul.</l>
           </sp>
         </div>
         <div n="4" type="scene">
@@ -3974,7 +3983,8 @@ Added to repository.
             <lb ed="TLN" n="878"/>
             <l>sed utrum tu amicis hodie an inimicis tuis</l>
             <lb ed="TLN" n="879"/>
-            <l part="I"><abbr expan="daturus es">daturu's</abbr>
+            <l part="I">
+              <abbr expan="daturus es">daturu's</abbr>
                cenam?
             </l>
           </sp>
@@ -5885,7 +5895,8 @@ Added to repository.
           <sp who="#simo">
             <speaker>Sim.</speaker>
             <lb ed="TLN" n="1310"/>
-            <l part="I"><abbr expan="pessimus es">Péssumu's</abbr>
+            <l part="I">
+              <abbr expan="pessimus es">Péssumu's</abbr>
                homo.
             </l>
           </sp>

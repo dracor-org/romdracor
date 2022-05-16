@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1240100</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Menaechmi. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen prius. Berlin: Weidmann 1895, pp. 377–429.</title>
-            <date type="premiere" notAfter="-0215">before 215 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -156,165 +154,173 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" notAfter="-0215">
+        <desc>before 215 BC</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1240100"/>
+  </standOff>
   <text>
     <body>
       <div n="prol." type="act">
         <head>Prologus</head>
         <sp who="#prologus">
-        <lb ed="TLN" n="1"/>
-        <l>Salutem primum iam a principio propitiam</l>
-        <lb ed="TLN" n="2"/>
-        <l>mihi atque vobis, spectatores, nuntio.</l>
-        <lb ed="TLN" n="3"/>
-        <l>apporto vobis Plautum, lingua non manu,</l>
-        <lb ed="TLN" n="4"/>
-        <l>quaeso ut benignis accipiatis auribus.</l>
-        <lb ed="TLN" n="5"/>
-        <l n="5">nunc argumentum accipite atque animum advortite;</l>
-        <lb ed="TLN" n="6"/>
-        <l>quam potero in verba conferam paucissuma.</l>
-        <lb ed="TLN" n="7"/>
-        <l>atque hoc poetae faciunt in comoediis:</l>
-        <lb ed="TLN" n="8"/>
-        <l>omnis res gestas esse Athenis autumant,</l>
-        <lb ed="TLN" n="9"/>
-        <l>quo íllud vobis graecum videatur magis;</l>
-        <lb ed="TLN" n="10"/>
-        <l n="10">ego nusquam dicam nisi ubi factum dicitur.</l>
-        <lb ed="TLN" n="11"/>
-        <l>atque adeo hoc argumentum graecissat, tamen</l>
-        <lb ed="TLN" n="12"/>
-        <l>non atticissat, verum sicilicissitat.</l>
-        <lb ed="TLN" n="13"/>
-        <l>huic argumento antelogium hoc fuit;</l>
-        <lb ed="TLN" n="14"/>
-        <l>nunc argumentum vobis demensum dabo,</l>
-        <lb ed="TLN" n="15"/>
-        <l n="15">non modio, neque trimodio, verum ipso horreo:</l>
-        <lb ed="TLN" n="16"/>
-        <l>tantum ad narrandum argumentum ádest benignitas.</l>
-        <lb ed="TLN" n="17"/>
-        <l>mercator quidam fuit Syracusis senex,</l>
-        <lb ed="TLN" n="18"/>
-        <l>eí sunt nati filii gemini duo,</l>
-        <lb ed="TLN" n="19"/>
-        <l>ita forma simili pueri, út mater sua</l>
-        <lb ed="TLN" n="20"/>
-        <l n="20">non internosse posset quae mammam dabat,</l>
-        <lb ed="TLN" n="21"/>
-        <l>neque adeo mater ipsa quae illos pepererat,</l>
-        <lb ed="TLN" n="22"/>
-        <l>ut quidem ille dixit mihi, qui pueros viderat:</l>
-        <lb ed="TLN" n="23"/>
-        <l>ego illós non vidi, ne quis vostrum censeat.</l>
-        <lb ed="TLN" n="24"/>
-        <l>postquam iam pueri septuennes sunt, pater</l>
-        <lb ed="TLN" n="25"/>
-        <l n="25">oneravit navem magnam multis mercibus;</l>
-        <lb ed="TLN" n="26"/>
-        <l>imponit geminum álterum in navem pater,</l>
-        <lb ed="TLN" n="27"/>
-        <l>Tarentum avexit secum ad mercatum simul,</l>
-        <lb ed="TLN" n="28"/>
-        <l>illum reliquit alterum ápud matrem domi.</l>
-        <lb ed="TLN" n="29"/>
-        <l>Tarenti ludi forte erant, cum illuc venit.</l>
-        <lb ed="TLN" n="30"/>
-        <l n="30">mortales multi, ut ad ludos, convenerant:</l>
-        <lb ed="TLN" n="31"/>
-        <l>puér aberravit inter homines a patre.</l>
-        <lb ed="TLN" n="32"/>
-        <l>Epidamniensis quidam ibi mercator fuit,</l>
-        <lb ed="TLN" n="33"/>
-        <l>is puerum tollit avehitque Epidamnium.</l>
-        <lb ed="TLN" n="34"/>
-        <l>pater eius autem postquam puerum perdidit,</l>
-        <lb ed="TLN" n="35"/>
-        <l n="35">animum despondit, eaque is aegritudine</l>
-        <lb ed="TLN" n="36"/>
-        <l>paucis diebus post Tarenti emortuost.</l>
-        <lb ed="TLN" n="37"/>
-        <l>postquam Syracusas de ea re rediit nuntius</l>
-        <lb ed="TLN" n="38"/>
-        <l>ad avom puerorum, puerum surruptum alterum</l>
-        <lb ed="TLN" n="39"/>
-        <l>patremque pueri Tarenti esse emortuom,</l>
-        <lb ed="TLN" n="40"/>
-        <l n="40">immutat nomen avos huic gemino alteri;</l>
-        <lb ed="TLN" n="41"/>
-        <l>ita illum dilexit, qui subruptust, alterum:</l>
-        <lb ed="TLN" n="42"/>
-        <l>illius nomen indit illi qui domi est,</l>
-        <lb ed="TLN" n="43"/>
-        <l>Menaechmo, idem quod alteri nomen fuit;</l>
-        <lb ed="TLN" n="44"/>
-        <l>et ipsus eodem est avos vocatus nomine</l>
-        <lb ed="TLN" n="45"/>
-        <l n="45">(propterea illius nomen memini facilius,</l>
-        <lb ed="TLN" n="46"/>
-        <l>quia illúm clamore vidi flagitarier).</l>
-        <lb ed="TLN" n="47"/>
-        <l>ne mox erretis, iam nunc praedico prius:</l>
-        <lb ed="TLN" n="48"/>
-        <l>idem est ambobus nomen geminis fratribus.</l>
-        <lb ed="TLN" n="49"/>
-        <l>nunc in Epidamnum pedibus redeundum est mihi,</l>
-        <lb ed="TLN" n="50"/>
-        <l n="50">ut hanc rem vobis examussim disputem.</l>
-        <lb ed="TLN" n="51"/>
-        <l>si quis quid vestrum Epidamnum curari sibi</l>
-        <lb ed="TLN" n="52"/>
-        <l>velit, audacter imperato et dicito,</l>
-        <lb ed="TLN" n="53"/>
-        <l>sed ita ut det unde curari id possit sibi.</l>
-        <lb ed="TLN" n="54"/>
-        <l>nam nisi qui argentum dederit, nugas egerit;</l>
-        <lb ed="TLN" n="55"/>
-        <l n="55">qui dederit, magis maiores nugas egerit.</l>
-        <lb ed="TLN" n="56"/>
-        <l>verum illuc redeo unde abii, atque uno asto in loco.</l>
-        <lb ed="TLN" n="57"/>
-        <l>Epidamniensis ille, quem dúdum dixeram,</l>
-        <lb ed="TLN" n="58"/>
-        <l>geminum illum puerum qui surrupuit alterum,</l>
-        <lb ed="TLN" n="59"/>
-        <l>ei liberorum, nisi divitiae, nil erat:</l>
-        <lb ed="TLN" n="60"/>
-        <l n="60">adoptat illum puerum surrupticium</l>
-        <lb ed="TLN" n="61"/>
-        <l>sibi filium eique uxorem dotatam dedit,</l>
-        <lb ed="TLN" n="62"/>
-        <l>eumque heredem fecit, quom ipse obiit diem.</l>
-        <lb ed="TLN" n="63"/>
-        <l>nam rus ut ibat forte, ut multum pluerat,</l>
-        <lb ed="TLN" n="64"/>
-        <l>ingressus fluvium rapidum ab urbe haud longule,</l>
-        <lb ed="TLN" n="65"/>
-        <l n="65">rapidus raptori pueri subduxit pedes</l>
-        <lb ed="TLN" n="66"/>
-        <l>abstraxitque hominem in maximam malam crucem.</l>
-        <lb ed="TLN" n="67"/>
-        <l>illi divitiae evenerunt maximae.</l>
-        <lb ed="TLN" n="68"/>
-        <l>is illic habitat geminus surrupticius.</l>
-        <lb ed="TLN" n="69"/>
-        <l>nunc ille geminus, qui Syracusis habet,</l>
-        <lb ed="TLN" n="70"/>
-        <l n="70">hodie in Epidamnum veniet cum servo suo</l>
-        <lb ed="TLN" n="71"/>
-        <l>hunc quaeritatum geminum germanum suom.</l>
-        <lb ed="TLN" n="72"/>
-        <l>haec urbs Epidamnus est, dum haec agitur fabula:</l>
-        <lb ed="TLN" n="73"/>
-        <l>quando alia agetur, aliud fiet oppidum;</l>
-        <lb ed="TLN" n="74"/>
-        <l>sicut familiae quoque solent mutarier:</l>
-        <lb ed="TLN" n="75"/>
-        <l n="75">modo †ni caditat leno, modo adulescens, modo senex,</l>
-        <lb ed="TLN" n="76"/>
-        <l>pauper, mendicus, rex, parasitus, hariolus</l>
-        <lb ed="TLN" n="76a"/>
-        <l>* * *</l>
+          <lb ed="TLN" n="1"/>
+          <l>Salutem primum iam a principio propitiam</l>
+          <lb ed="TLN" n="2"/>
+          <l>mihi atque vobis, spectatores, nuntio.</l>
+          <lb ed="TLN" n="3"/>
+          <l>apporto vobis Plautum, lingua non manu,</l>
+          <lb ed="TLN" n="4"/>
+          <l>quaeso ut benignis accipiatis auribus.</l>
+          <lb ed="TLN" n="5"/>
+          <l n="5">nunc argumentum accipite atque animum advortite;</l>
+          <lb ed="TLN" n="6"/>
+          <l>quam potero in verba conferam paucissuma.</l>
+          <lb ed="TLN" n="7"/>
+          <l>atque hoc poetae faciunt in comoediis:</l>
+          <lb ed="TLN" n="8"/>
+          <l>omnis res gestas esse Athenis autumant,</l>
+          <lb ed="TLN" n="9"/>
+          <l>quo íllud vobis graecum videatur magis;</l>
+          <lb ed="TLN" n="10"/>
+          <l n="10">ego nusquam dicam nisi ubi factum dicitur.</l>
+          <lb ed="TLN" n="11"/>
+          <l>atque adeo hoc argumentum graecissat, tamen</l>
+          <lb ed="TLN" n="12"/>
+          <l>non atticissat, verum sicilicissitat.</l>
+          <lb ed="TLN" n="13"/>
+          <l>huic argumento antelogium hoc fuit;</l>
+          <lb ed="TLN" n="14"/>
+          <l>nunc argumentum vobis demensum dabo,</l>
+          <lb ed="TLN" n="15"/>
+          <l n="15">non modio, neque trimodio, verum ipso horreo:</l>
+          <lb ed="TLN" n="16"/>
+          <l>tantum ad narrandum argumentum ádest benignitas.</l>
+          <lb ed="TLN" n="17"/>
+          <l>mercator quidam fuit Syracusis senex,</l>
+          <lb ed="TLN" n="18"/>
+          <l>eí sunt nati filii gemini duo,</l>
+          <lb ed="TLN" n="19"/>
+          <l>ita forma simili pueri, út mater sua</l>
+          <lb ed="TLN" n="20"/>
+          <l n="20">non internosse posset quae mammam dabat,</l>
+          <lb ed="TLN" n="21"/>
+          <l>neque adeo mater ipsa quae illos pepererat,</l>
+          <lb ed="TLN" n="22"/>
+          <l>ut quidem ille dixit mihi, qui pueros viderat:</l>
+          <lb ed="TLN" n="23"/>
+          <l>ego illós non vidi, ne quis vostrum censeat.</l>
+          <lb ed="TLN" n="24"/>
+          <l>postquam iam pueri septuennes sunt, pater</l>
+          <lb ed="TLN" n="25"/>
+          <l n="25">oneravit navem magnam multis mercibus;</l>
+          <lb ed="TLN" n="26"/>
+          <l>imponit geminum álterum in navem pater,</l>
+          <lb ed="TLN" n="27"/>
+          <l>Tarentum avexit secum ad mercatum simul,</l>
+          <lb ed="TLN" n="28"/>
+          <l>illum reliquit alterum ápud matrem domi.</l>
+          <lb ed="TLN" n="29"/>
+          <l>Tarenti ludi forte erant, cum illuc venit.</l>
+          <lb ed="TLN" n="30"/>
+          <l n="30">mortales multi, ut ad ludos, convenerant:</l>
+          <lb ed="TLN" n="31"/>
+          <l>puér aberravit inter homines a patre.</l>
+          <lb ed="TLN" n="32"/>
+          <l>Epidamniensis quidam ibi mercator fuit,</l>
+          <lb ed="TLN" n="33"/>
+          <l>is puerum tollit avehitque Epidamnium.</l>
+          <lb ed="TLN" n="34"/>
+          <l>pater eius autem postquam puerum perdidit,</l>
+          <lb ed="TLN" n="35"/>
+          <l n="35">animum despondit, eaque is aegritudine</l>
+          <lb ed="TLN" n="36"/>
+          <l>paucis diebus post Tarenti emortuost.</l>
+          <lb ed="TLN" n="37"/>
+          <l>postquam Syracusas de ea re rediit nuntius</l>
+          <lb ed="TLN" n="38"/>
+          <l>ad avom puerorum, puerum surruptum alterum</l>
+          <lb ed="TLN" n="39"/>
+          <l>patremque pueri Tarenti esse emortuom,</l>
+          <lb ed="TLN" n="40"/>
+          <l n="40">immutat nomen avos huic gemino alteri;</l>
+          <lb ed="TLN" n="41"/>
+          <l>ita illum dilexit, qui subruptust, alterum:</l>
+          <lb ed="TLN" n="42"/>
+          <l>illius nomen indit illi qui domi est,</l>
+          <lb ed="TLN" n="43"/>
+          <l>Menaechmo, idem quod alteri nomen fuit;</l>
+          <lb ed="TLN" n="44"/>
+          <l>et ipsus eodem est avos vocatus nomine</l>
+          <lb ed="TLN" n="45"/>
+          <l n="45">(propterea illius nomen memini facilius,</l>
+          <lb ed="TLN" n="46"/>
+          <l>quia illúm clamore vidi flagitarier).</l>
+          <lb ed="TLN" n="47"/>
+          <l>ne mox erretis, iam nunc praedico prius:</l>
+          <lb ed="TLN" n="48"/>
+          <l>idem est ambobus nomen geminis fratribus.</l>
+          <lb ed="TLN" n="49"/>
+          <l>nunc in Epidamnum pedibus redeundum est mihi,</l>
+          <lb ed="TLN" n="50"/>
+          <l n="50">ut hanc rem vobis examussim disputem.</l>
+          <lb ed="TLN" n="51"/>
+          <l>si quis quid vestrum Epidamnum curari sibi</l>
+          <lb ed="TLN" n="52"/>
+          <l>velit, audacter imperato et dicito,</l>
+          <lb ed="TLN" n="53"/>
+          <l>sed ita ut det unde curari id possit sibi.</l>
+          <lb ed="TLN" n="54"/>
+          <l>nam nisi qui argentum dederit, nugas egerit;</l>
+          <lb ed="TLN" n="55"/>
+          <l n="55">qui dederit, magis maiores nugas egerit.</l>
+          <lb ed="TLN" n="56"/>
+          <l>verum illuc redeo unde abii, atque uno asto in loco.</l>
+          <lb ed="TLN" n="57"/>
+          <l>Epidamniensis ille, quem dúdum dixeram,</l>
+          <lb ed="TLN" n="58"/>
+          <l>geminum illum puerum qui surrupuit alterum,</l>
+          <lb ed="TLN" n="59"/>
+          <l>ei liberorum, nisi divitiae, nil erat:</l>
+          <lb ed="TLN" n="60"/>
+          <l n="60">adoptat illum puerum surrupticium</l>
+          <lb ed="TLN" n="61"/>
+          <l>sibi filium eique uxorem dotatam dedit,</l>
+          <lb ed="TLN" n="62"/>
+          <l>eumque heredem fecit, quom ipse obiit diem.</l>
+          <lb ed="TLN" n="63"/>
+          <l>nam rus ut ibat forte, ut multum pluerat,</l>
+          <lb ed="TLN" n="64"/>
+          <l>ingressus fluvium rapidum ab urbe haud longule,</l>
+          <lb ed="TLN" n="65"/>
+          <l n="65">rapidus raptori pueri subduxit pedes</l>
+          <lb ed="TLN" n="66"/>
+          <l>abstraxitque hominem in maximam malam crucem.</l>
+          <lb ed="TLN" n="67"/>
+          <l>illi divitiae evenerunt maximae.</l>
+          <lb ed="TLN" n="68"/>
+          <l>is illic habitat geminus surrupticius.</l>
+          <lb ed="TLN" n="69"/>
+          <l>nunc ille geminus, qui Syracusis habet,</l>
+          <lb ed="TLN" n="70"/>
+          <l n="70">hodie in Epidamnum veniet cum servo suo</l>
+          <lb ed="TLN" n="71"/>
+          <l>hunc quaeritatum geminum germanum suom.</l>
+          <lb ed="TLN" n="72"/>
+          <l>haec urbs Epidamnus est, dum haec agitur fabula:</l>
+          <lb ed="TLN" n="73"/>
+          <l>quando alia agetur, aliud fiet oppidum;</l>
+          <lb ed="TLN" n="74"/>
+          <l>sicut familiae quoque solent mutarier:</l>
+          <lb ed="TLN" n="75"/>
+          <l n="75">modo †ni caditat leno, modo adulescens, modo senex,</l>
+          <lb ed="TLN" n="76"/>
+          <l>pauper, mendicus, rex, parasitus, hariolus</l>
+          <lb ed="TLN" n="76a"/>
+          <l>* * *</l>
         </sp>
       </div>
       <div n="1" type="act">
@@ -661,7 +667,8 @@ Added to repository.
           <sp who="#peniculus">
             <speaker>(Pen.)</speaker>
             <lb ed="TLN" n="165"/>
-            <l><gap desc="*"/>
+            <l>
+              <gap desc="*"/>
               captum sit collegium.
             </l>
           </sp>

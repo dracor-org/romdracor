@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q475025</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Amphitruo. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen prius. Berlin: Weidmann 1895, pp. 1–48.</title>
-            <date type="premiere" notBefore="-0207" notAfter="-0186">controversial dating betw. 207/6 and 186 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -148,317 +146,325 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" notBefore="-0207" notAfter="-0186">
+        <desc>controversial dating betw. 207/6 and 186 BC</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q475025"/>
+  </standOff>
   <text>
     <body>
       <div n="prol." type="act">
-          <head>Prologus</head>
-          <sp who="#mercurius">
-            <speaker>Mercurius</speaker>
-            <lb ed="TLN" n="1"/>
-            <l>Vt vos in vostris voltis mercimoniis</l>
-            <lb ed="TLN" n="2"/>
-            <l>emundis vendundisque me laetum lucris</l>
-            <lb ed="TLN" n="3"/>
-            <l>adficere atque adiuvare in rebus omnibus</l>
-            <lb ed="TLN" n="4"/>
-            <l>et ut res rationesque vostrorum omnium</l>
-            <lb ed="TLN" n="5"/>
-            <l n="5">bene &lt;me&gt; expedire voltis peregrique et domi</l>
-            <lb ed="TLN" n="6"/>
-            <l>bonoque atque amplo auctare perpetuo lucro</l>
-            <lb ed="TLN" n="7"/>
-            <l>quasque incepistis res quasque inceptabitis,</l>
-            <lb ed="TLN" n="8"/>
-            <l>et uti bonis vos vostrosque omnis nuntiis</l>
-            <lb ed="TLN" n="9"/>
-            <l>me adficere voltis, ea adferam, ea uti nuntiem</l>
-            <lb ed="TLN" n="10"/>
-            <l n="10">quae maxime in rem vostram communem sient</l>
-            <lb ed="TLN" n="11"/>
-            <l>(nam vos quidem id iam scitis concessum et datum</l>
-            <lb ed="TLN" n="12"/>
-            <l>mi esse ab dis aliis, nuntiis praesim et lucro):</l>
-            <lb ed="TLN" n="13"/>
-            <l>haec ut me voltis adprobare adnitier,</l>
-            <lb ed="TLN" n="14"/>
-            <l>[lucrum ut perenne vobis semper suppetat]</l>
-            <lb ed="TLN" n="15"/>
-            <l n="15">ita huic facietis fabulae silentium</l>
-            <lb ed="TLN" n="16"/>
-            <l>itaque aequi et iusti hic eritis omnes arbitri.</l>
-            <lb ed="TLN" n="17"/>
-            <l>Nunc cuius iussu venio et quam ob rem venerim</l>
-            <lb ed="TLN" n="18"/>
-            <l>dicam simulque ipse eloquar nomen meum.</l>
-            <lb ed="TLN" n="19"/>
-            <l>Iovis iússu venio, nomen Mercurio est mihi.</l>
-            <lb ed="TLN" n="20"/>
-            <l n="20">pater huc me misit ad vos oratum meus,</l>
-            <lb ed="TLN" n="21"/>
-            <l>tam etsi, pro imperio vobis quod dictum foret,</l>
-            <lb ed="TLN" n="22"/>
-            <l>scibat facturos, quippe qui intellexerat</l>
-            <lb ed="TLN" n="23"/>
-            <l>vereri vos se et metuere, ita ut aequom est Iovem;</l>
-            <lb ed="TLN" n="24"/>
-            <l>verum profecto hoc petere me precario</l>
-            <lb ed="TLN" n="25"/>
-            <l n="25">a vobis iussit, leniter, dictis bonis.</l>
-            <lb ed="TLN" n="26"/>
-            <l>etenim ille, cuius huc iussu venio, Iuppiter</l>
-            <lb ed="TLN" n="27"/>
-            <l>non minus quam vostrum quivis formidat malum:</l>
-            <lb ed="TLN" n="28"/>
-            <l>humana matre natus, humano patre,</l>
-            <lb ed="TLN" n="29"/>
-            <l>mirari non est aequom, sibi si praetimet;</l>
-            <lb ed="TLN" n="30"/>
-            <l n="30">atque ego quoque etiam, qui Iovis sum filius,</l>
-            <lb ed="TLN" n="31"/>
-            <l>contagione mei patris metuo malum.</l>
-            <lb ed="TLN" n="32"/>
-            <l>propterea pace advenio et pacem ad vos affero:†</l>
-            <lb ed="TLN" n="33"/>
-            <l>iustam rem et facilem esse oratam a vobis volo,</l>
-            <lb ed="TLN" n="34"/>
-            <l>nam iusta ab iustis iustus sum orator datus.</l>
-            <lb ed="TLN" n="35"/>
-            <l n="35">nam iniusta ab iustis impetrari non decet,</l>
-            <lb ed="TLN" n="36"/>
-            <l>iusta autem ab iniustis petere insipientia est;</l>
-            <lb ed="TLN" n="37"/>
-            <l>quippe illi iniqui ius ignorant neque tenent.</l>
-            <lb ed="TLN" n="38"/>
-            <l>nunc iam huc animum omnes quae loquar advortite.</l>
-            <lb ed="TLN" n="39"/>
-            <l>debetis velle quae velimus: meruimus</l>
-            <lb ed="TLN" n="40"/>
-            <l n="40">et ego et pater de vobis et re publica;</l>
-            <lb ed="TLN" n="41"/>
-            <l>nam quid ego memorem (ut alios in tragoediis</l>
-            <lb ed="TLN" n="42"/>
-            <l>vidi, Neptunum Virtutem Victoriam</l>
-            <lb ed="TLN" n="43"/>
-            <l>Martem Bellonam, commemorare quae bona</l>
-            <lb ed="TLN" n="44"/>
-            <l>vobis fecissent) quis bene factis meus pater,</l>
-            <lb ed="TLN" n="45"/>
-            <l n="45">deorum regnator * architectus omnibus?</l>
-            <lb ed="TLN" n="46"/>
-            <l>sed mos numquam illi fuit patri meo,†</l>
-            <lb ed="TLN" n="47"/>
-            <l>ut exprobraret quod bonis faceret boni;</l>
-            <lb ed="TLN" n="48"/>
-            <l>gratum arbitratur esse id a vobis sibi</l>
-            <lb ed="TLN" n="49"/>
-            <l>meritoque vobis bona se facere quae facit.</l>
-            <lb ed="TLN" n="50"/>
-            <l n="50">Nunc quam rem oratum huc veni primum proloquar,</l>
-            <lb ed="TLN" n="51"/>
-            <l>post argumentum huius eloquar tragoediae.</l>
-            <lb ed="TLN" n="52"/>
-            <l>quid? contraxistis frontem, quia tragoediam</l>
-            <lb ed="TLN" n="53"/>
-            <l>dixi futuram hanc? deus sum, commutavero.</l>
-            <lb ed="TLN" n="54"/>
-            <l>eandem hánc, si voltis, faciam ex tragoedia</l>
-            <lb ed="TLN" n="55"/>
-            <l n="55">comoedia ut sit omnibus isdem vorsibus.</l>
-            <lb ed="TLN" n="56"/>
-            <l>utrum sit an non voltis? sed ego stultior,</l>
-            <lb ed="TLN" n="57"/>
-            <l>quasi nesciam vos velle, qui divos siem.</l>
-            <lb ed="TLN" n="58"/>
-            <l>teneo quid animi vostri super hac re siet:</l>
-            <lb ed="TLN" n="59"/>
-            <l>faciam ut commixta sit: &lt;sit&gt; tragicomoedia.</l>
-            <lb ed="TLN" n="60"/>
-            <l n="60">nam me perpetuo facere ut sit comoedia,</l>
-            <lb ed="TLN" n="61"/>
-            <l>reges quo veniant et di, non par arbitror.</l>
-            <lb ed="TLN" n="62"/>
-            <l>quid igitur? quoniam hic servos quoque partes habet,</l>
-            <lb ed="TLN" n="63"/>
-            <l>faciam sit, proinde ut dixi, tragicomoedia.</l>
-            <lb ed="TLN" n="64"/>
-            <l>nunc hoc me orare a vobis iussit Iuppiter,</l>
-            <lb ed="TLN" n="65"/>
-            <l n="65">ut conquaestores singula in subsellia</l>
-            <lb ed="TLN" n="66"/>
-            <l>eant per totam caveam spectatoribus,</l>
-            <lb ed="TLN" n="67"/>
-            <l>si cui favitores delegatos viderint,</l>
-            <lb ed="TLN" n="68"/>
-            <l>ut is in cavea pignus capiantur togae;</l>
-            <lb ed="TLN" n="69"/>
-            <l>sive quí ambissint palmam histrionibus</l>
-            <lb ed="TLN" n="70"/>
-            <l n="70">sive cuíquam artifici, si per scriptas litteras</l>
-            <lb ed="TLN" n="71"/>
-            <l>sive qui ípse ambissit seu per internuntium,</l>
-            <lb ed="TLN" n="72"/>
-            <l>sive adeo aediles perfidiose cui duint,</l>
-            <lb ed="TLN" n="73"/>
-            <l>sirempse legem iussit esse Iuppiter,</l>
-            <lb ed="TLN" n="74"/>
-            <l>quasi mágistratum sibi alterive ambiverit.</l>
-            <lb ed="TLN" n="75"/>
-            <l n="75">virtute dixit vos victores vivere,</l>
-            <lb ed="TLN" n="76"/>
-            <l>non ambitione neque perfidia: qui minus</l>
-            <lb ed="TLN" n="77"/>
-            <l>eadem histrioni sit lex quae summo viro?</l>
-            <lb ed="TLN" n="78"/>
-            <l>virtute ambire oportet, non favitoribus.</l>
-            <lb ed="TLN" n="79"/>
-            <l>sat habet favitorum semper qui recte facit,</l>
-            <lb ed="TLN" n="80"/>
-            <l n="80">si illis fides est quibus est ea res in manu.</l>
-            <lb ed="TLN" n="81"/>
-            <l>hoc quoque etiam mihi &lt;pater&gt; in mandatis dedit,</l>
-            <lb ed="TLN" n="82"/>
-            <l>ut conquaestores fierent histrionibus:</l>
-            <lb ed="TLN" n="83"/>
-            <l>qui sibi mandasset delegati ut plauderent</l>
-            <lb ed="TLN" n="84"/>
-            <l>quive quo placeret alter fecisset minus,</l>
-            <lb ed="TLN" n="85"/>
-            <l n="85">eius órnamenta et corium uti conciderent.</l>
-            <lb ed="TLN" n="86"/>
-            <l>mirari nolim vos, quapropter Iuppiter</l>
-            <lb ed="TLN" n="87"/>
-            <l>nunc histriones curet; ne miremini:</l>
-            <lb ed="TLN" n="88"/>
-            <l>ipse hanc acturust Iuppiter comoediam.</l>
-            <lb ed="TLN" n="89"/>
-            <l>quid? admirati estis? quasi vero novom</l>
-            <lb ed="TLN" n="90"/>
-            <l n="90">nunc proferatur, Ióvem facere histrioniam;</l>
-            <lb ed="TLN" n="91"/>
-            <l>etiam, histriones anno cum in proscaenio hic</l>
-            <lb ed="TLN" n="92"/>
-            <l>Iovem invocarunt, venit, auxilio is fuit.</l>
-            <lb ed="TLN" n="93"/>
-            <l>[praeterea certo prodit in tragoedia.]</l>
-            <lb ed="TLN" n="94"/>
-            <l>hanc fabulam, inquam, hic Iuppiter hodie ipse aget,</l>
-            <lb ed="TLN" n="95"/>
-            <l n="95">et ego una cum illo. nunc &lt;vos&gt; animum advortite,</l>
-            <lb ed="TLN" n="96"/>
-            <l>dum huius argumentum éloquar comoediae.</l>
-            <lb ed="TLN" n="97"/>
-            <l>Haec urbs est Thebae. in illisce habitat aedibus</l>
-            <lb ed="TLN" n="98"/>
-            <l>Amphitruo, natus Argis ex Argo patre,</l>
-            <lb ed="TLN" n="99"/>
-            <l>quicum Alcumena est nupta, Electri filia.</l>
-            <lb ed="TLN" n="100"/>
-            <l n="100">is nunc Amphitruo praefectust legionibus,</l>
-            <lb ed="TLN" n="101"/>
-            <l>nam cum Telobois bellum est Thebano poplo.</l>
-            <lb ed="TLN" n="102"/>
-            <l>is prius quam hinc abiit ipsemet in exercitum,</l>
-            <lb ed="TLN" n="103"/>
-            <l>gravidam Alcumenam úxorem fecit suam.</l>
-            <lb ed="TLN" n="104"/>
-            <l>nam ego vos novisse credo iam ut sit páter meus,</l>
-            <lb ed="TLN" n="105"/>
-            <l n="105">quam liber harum rerum multarum siet</l>
-            <lb ed="TLN" n="106"/>
-            <l>quantusque amator sit quod complacitum est semel.</l>
-            <lb ed="TLN" n="107"/>
-            <l>is amare occepit Alcumenam clam virum</l>
-            <lb ed="TLN" n="108"/>
-            <l>usuramque eius corporis cepit sibi,</l>
-            <lb ed="TLN" n="109"/>
-            <l>et gravidam fecit is eam compressu suo.</l>
-            <lb ed="TLN" n="110"/>
-            <l n="110">nunc de Alcumena ut rem teneatis rectius,</l>
-            <lb ed="TLN" n="111"/>
-            <l>utrimque est gravida, et ex viro et ex summo Iove.</l>
-            <lb ed="TLN" n="112"/>
-            <l>et meus pater nunc intus hic cum illa cubat,</l>
-            <lb ed="TLN" n="113"/>
-            <l>et haec ob eam rem nox est facta longior,</l>
-            <lb ed="TLN" n="114"/>
-            <l>dum &lt;cum&gt; illa quacum volt voluptatem capit;</l>
-            <lb ed="TLN" n="115"/>
-            <l n="115">sed ita adsimulavit se, quasi Amphitruo siet.</l>
-            <lb ed="TLN" n="116"/>
-            <l>nunc ne hunc ornatum vos meum admiremini,</l>
-            <lb ed="TLN" n="117"/>
-            <l>quod ego huc processi sic cum servili schema:</l>
-            <lb ed="TLN" n="118"/>
-            <l>veterem atque antiquam rem novam ad vos proferam,</l>
-            <lb ed="TLN" n="119"/>
-            <l>propterea ornatus in novom incessi modum.</l>
-            <lb ed="TLN" n="120"/>
-            <l n="120">nam méus pater intus núnc est eccum Iuppiter;</l>
-            <lb ed="TLN" n="121"/>
-            <l>in Amphitruonis vertit sese imaginem</l>
-            <lb ed="TLN" n="122"/>
-            <l>omnesque eum esse censent servi qui vident:</l>
-            <lb ed="TLN" n="123"/>
-            <l>ita versipellem se facit quando lubet.</l>
-            <lb ed="TLN" n="124"/>
-            <l>ego servi sumpsi Sosiae mi imaginem,</l>
-            <lb ed="TLN" n="125"/>
-            <l n="125">qui cum Amphitruone abiit hinc in exercitum,</l>
-            <lb ed="TLN" n="126"/>
-            <l>ut praeservire amanti meo possem patri</l>
-            <lb ed="TLN" n="127"/>
-            <l>atque ut ne, qui essem, familiares quaererent,</l>
-            <lb ed="TLN" n="128"/>
-            <l>versari crebro hic cum viderent me domi;</l>
-            <lb ed="TLN" n="129"/>
-            <l>nunc, cum esse credent servom et conservom suom,</l>
-            <lb ed="TLN" n="130"/>
-            <l n="130">haud quisquam quaeret qui siem aut quid venerim.</l>
-            <lb ed="TLN" n="131"/>
-            <l>pater nunc intus suo animo morem gerit:</l>
-            <lb ed="TLN" n="132"/>
-            <l>cubat complexus cuius cupiens maxime est;</l>
-            <lb ed="TLN" n="133"/>
-            <l>quae illi ad legionem facta sunt memorat pater</l>
-            <lb ed="TLN" n="134"/>
-            <l>meus Alcumenae: ílla illum censet virum</l>
-            <lb ed="TLN" n="135"/>
-            <l n="135">suom esse, quae cum moecho est. ibi nunc meus pater</l>
-            <lb ed="TLN" n="136"/>
-            <l>memorat, legiones hostium ut fugaverit,</l>
-            <lb ed="TLN" n="137"/>
-            <l>quo pacto sit donis donatus plurimis.</l>
-            <lb ed="TLN" n="138"/>
-            <l>ea dona, quae illic Amphitruoni sunt data,</l>
-            <lb ed="TLN" n="139"/>
-            <l>abstulimus: facile meus pater quod volt facit.</l>
-            <lb ed="TLN" n="140"/>
-            <l n="140">nunc hodie Amphitruo veniet huc ab exercitu</l>
-            <lb ed="TLN" n="141"/>
-            <l>et servos, cuius ego hanc feró imaginem.</l>
-            <lb ed="TLN" n="142"/>
-            <l>nunc internosse ut nos possitis facilius,</l>
-            <lb ed="TLN" n="143"/>
-            <l>ego has habebo úsque in petaso pinnulas;</l>
-            <lb ed="TLN" n="144"/>
-            <l>tum meo patri autem torulus inerit aureus</l>
-            <lb ed="TLN" n="145"/>
-            <l n="145">sub petaso: id signum Amphitruoni non erit.</l>
-            <lb ed="TLN" n="146"/>
-            <l>ea signa nemo hórum familiarium</l>
-            <lb ed="TLN" n="147"/>
-            <l>videre poterit: verum vos videbitis.</l>
-            <lb ed="TLN" n="148"/>
-            <l>sed Amphitruonis illic est servos Sosia:</l>
-            <lb ed="TLN" n="149"/>
-            <l>a portu illíc nunc cum lanterna ádvenit.</l>
-            <lb ed="TLN" n="150"/>
-            <l n="150">abigam iam ego illum advenientem ab aedibus.</l>
-            <lb ed="TLN" n="151"/>
-            <l>adeste: erit operae pretium híc spectantibus</l>
-            <lb ed="TLN" n="152"/>
-            <l>Iovem et Mercurium facere hístrioniam.</l>
-          </sp>
+        <head>Prologus</head>
+        <sp who="#mercurius">
+          <speaker>Mercurius</speaker>
+          <lb ed="TLN" n="1"/>
+          <l>Vt vos in vostris voltis mercimoniis</l>
+          <lb ed="TLN" n="2"/>
+          <l>emundis vendundisque me laetum lucris</l>
+          <lb ed="TLN" n="3"/>
+          <l>adficere atque adiuvare in rebus omnibus</l>
+          <lb ed="TLN" n="4"/>
+          <l>et ut res rationesque vostrorum omnium</l>
+          <lb ed="TLN" n="5"/>
+          <l n="5">bene &lt;me&gt; expedire voltis peregrique et domi</l>
+          <lb ed="TLN" n="6"/>
+          <l>bonoque atque amplo auctare perpetuo lucro</l>
+          <lb ed="TLN" n="7"/>
+          <l>quasque incepistis res quasque inceptabitis,</l>
+          <lb ed="TLN" n="8"/>
+          <l>et uti bonis vos vostrosque omnis nuntiis</l>
+          <lb ed="TLN" n="9"/>
+          <l>me adficere voltis, ea adferam, ea uti nuntiem</l>
+          <lb ed="TLN" n="10"/>
+          <l n="10">quae maxime in rem vostram communem sient</l>
+          <lb ed="TLN" n="11"/>
+          <l>(nam vos quidem id iam scitis concessum et datum</l>
+          <lb ed="TLN" n="12"/>
+          <l>mi esse ab dis aliis, nuntiis praesim et lucro):</l>
+          <lb ed="TLN" n="13"/>
+          <l>haec ut me voltis adprobare adnitier,</l>
+          <lb ed="TLN" n="14"/>
+          <l>[lucrum ut perenne vobis semper suppetat]</l>
+          <lb ed="TLN" n="15"/>
+          <l n="15">ita huic facietis fabulae silentium</l>
+          <lb ed="TLN" n="16"/>
+          <l>itaque aequi et iusti hic eritis omnes arbitri.</l>
+          <lb ed="TLN" n="17"/>
+          <l>Nunc cuius iussu venio et quam ob rem venerim</l>
+          <lb ed="TLN" n="18"/>
+          <l>dicam simulque ipse eloquar nomen meum.</l>
+          <lb ed="TLN" n="19"/>
+          <l>Iovis iússu venio, nomen Mercurio est mihi.</l>
+          <lb ed="TLN" n="20"/>
+          <l n="20">pater huc me misit ad vos oratum meus,</l>
+          <lb ed="TLN" n="21"/>
+          <l>tam etsi, pro imperio vobis quod dictum foret,</l>
+          <lb ed="TLN" n="22"/>
+          <l>scibat facturos, quippe qui intellexerat</l>
+          <lb ed="TLN" n="23"/>
+          <l>vereri vos se et metuere, ita ut aequom est Iovem;</l>
+          <lb ed="TLN" n="24"/>
+          <l>verum profecto hoc petere me precario</l>
+          <lb ed="TLN" n="25"/>
+          <l n="25">a vobis iussit, leniter, dictis bonis.</l>
+          <lb ed="TLN" n="26"/>
+          <l>etenim ille, cuius huc iussu venio, Iuppiter</l>
+          <lb ed="TLN" n="27"/>
+          <l>non minus quam vostrum quivis formidat malum:</l>
+          <lb ed="TLN" n="28"/>
+          <l>humana matre natus, humano patre,</l>
+          <lb ed="TLN" n="29"/>
+          <l>mirari non est aequom, sibi si praetimet;</l>
+          <lb ed="TLN" n="30"/>
+          <l n="30">atque ego quoque etiam, qui Iovis sum filius,</l>
+          <lb ed="TLN" n="31"/>
+          <l>contagione mei patris metuo malum.</l>
+          <lb ed="TLN" n="32"/>
+          <l>propterea pace advenio et pacem ad vos affero:†</l>
+          <lb ed="TLN" n="33"/>
+          <l>iustam rem et facilem esse oratam a vobis volo,</l>
+          <lb ed="TLN" n="34"/>
+          <l>nam iusta ab iustis iustus sum orator datus.</l>
+          <lb ed="TLN" n="35"/>
+          <l n="35">nam iniusta ab iustis impetrari non decet,</l>
+          <lb ed="TLN" n="36"/>
+          <l>iusta autem ab iniustis petere insipientia est;</l>
+          <lb ed="TLN" n="37"/>
+          <l>quippe illi iniqui ius ignorant neque tenent.</l>
+          <lb ed="TLN" n="38"/>
+          <l>nunc iam huc animum omnes quae loquar advortite.</l>
+          <lb ed="TLN" n="39"/>
+          <l>debetis velle quae velimus: meruimus</l>
+          <lb ed="TLN" n="40"/>
+          <l n="40">et ego et pater de vobis et re publica;</l>
+          <lb ed="TLN" n="41"/>
+          <l>nam quid ego memorem (ut alios in tragoediis</l>
+          <lb ed="TLN" n="42"/>
+          <l>vidi, Neptunum Virtutem Victoriam</l>
+          <lb ed="TLN" n="43"/>
+          <l>Martem Bellonam, commemorare quae bona</l>
+          <lb ed="TLN" n="44"/>
+          <l>vobis fecissent) quis bene factis meus pater,</l>
+          <lb ed="TLN" n="45"/>
+          <l n="45">deorum regnator * architectus omnibus?</l>
+          <lb ed="TLN" n="46"/>
+          <l>sed mos numquam illi fuit patri meo,†</l>
+          <lb ed="TLN" n="47"/>
+          <l>ut exprobraret quod bonis faceret boni;</l>
+          <lb ed="TLN" n="48"/>
+          <l>gratum arbitratur esse id a vobis sibi</l>
+          <lb ed="TLN" n="49"/>
+          <l>meritoque vobis bona se facere quae facit.</l>
+          <lb ed="TLN" n="50"/>
+          <l n="50">Nunc quam rem oratum huc veni primum proloquar,</l>
+          <lb ed="TLN" n="51"/>
+          <l>post argumentum huius eloquar tragoediae.</l>
+          <lb ed="TLN" n="52"/>
+          <l>quid? contraxistis frontem, quia tragoediam</l>
+          <lb ed="TLN" n="53"/>
+          <l>dixi futuram hanc? deus sum, commutavero.</l>
+          <lb ed="TLN" n="54"/>
+          <l>eandem hánc, si voltis, faciam ex tragoedia</l>
+          <lb ed="TLN" n="55"/>
+          <l n="55">comoedia ut sit omnibus isdem vorsibus.</l>
+          <lb ed="TLN" n="56"/>
+          <l>utrum sit an non voltis? sed ego stultior,</l>
+          <lb ed="TLN" n="57"/>
+          <l>quasi nesciam vos velle, qui divos siem.</l>
+          <lb ed="TLN" n="58"/>
+          <l>teneo quid animi vostri super hac re siet:</l>
+          <lb ed="TLN" n="59"/>
+          <l>faciam ut commixta sit: &lt;sit&gt; tragicomoedia.</l>
+          <lb ed="TLN" n="60"/>
+          <l n="60">nam me perpetuo facere ut sit comoedia,</l>
+          <lb ed="TLN" n="61"/>
+          <l>reges quo veniant et di, non par arbitror.</l>
+          <lb ed="TLN" n="62"/>
+          <l>quid igitur? quoniam hic servos quoque partes habet,</l>
+          <lb ed="TLN" n="63"/>
+          <l>faciam sit, proinde ut dixi, tragicomoedia.</l>
+          <lb ed="TLN" n="64"/>
+          <l>nunc hoc me orare a vobis iussit Iuppiter,</l>
+          <lb ed="TLN" n="65"/>
+          <l n="65">ut conquaestores singula in subsellia</l>
+          <lb ed="TLN" n="66"/>
+          <l>eant per totam caveam spectatoribus,</l>
+          <lb ed="TLN" n="67"/>
+          <l>si cui favitores delegatos viderint,</l>
+          <lb ed="TLN" n="68"/>
+          <l>ut is in cavea pignus capiantur togae;</l>
+          <lb ed="TLN" n="69"/>
+          <l>sive quí ambissint palmam histrionibus</l>
+          <lb ed="TLN" n="70"/>
+          <l n="70">sive cuíquam artifici, si per scriptas litteras</l>
+          <lb ed="TLN" n="71"/>
+          <l>sive qui ípse ambissit seu per internuntium,</l>
+          <lb ed="TLN" n="72"/>
+          <l>sive adeo aediles perfidiose cui duint,</l>
+          <lb ed="TLN" n="73"/>
+          <l>sirempse legem iussit esse Iuppiter,</l>
+          <lb ed="TLN" n="74"/>
+          <l>quasi mágistratum sibi alterive ambiverit.</l>
+          <lb ed="TLN" n="75"/>
+          <l n="75">virtute dixit vos victores vivere,</l>
+          <lb ed="TLN" n="76"/>
+          <l>non ambitione neque perfidia: qui minus</l>
+          <lb ed="TLN" n="77"/>
+          <l>eadem histrioni sit lex quae summo viro?</l>
+          <lb ed="TLN" n="78"/>
+          <l>virtute ambire oportet, non favitoribus.</l>
+          <lb ed="TLN" n="79"/>
+          <l>sat habet favitorum semper qui recte facit,</l>
+          <lb ed="TLN" n="80"/>
+          <l n="80">si illis fides est quibus est ea res in manu.</l>
+          <lb ed="TLN" n="81"/>
+          <l>hoc quoque etiam mihi &lt;pater&gt; in mandatis dedit,</l>
+          <lb ed="TLN" n="82"/>
+          <l>ut conquaestores fierent histrionibus:</l>
+          <lb ed="TLN" n="83"/>
+          <l>qui sibi mandasset delegati ut plauderent</l>
+          <lb ed="TLN" n="84"/>
+          <l>quive quo placeret alter fecisset minus,</l>
+          <lb ed="TLN" n="85"/>
+          <l n="85">eius órnamenta et corium uti conciderent.</l>
+          <lb ed="TLN" n="86"/>
+          <l>mirari nolim vos, quapropter Iuppiter</l>
+          <lb ed="TLN" n="87"/>
+          <l>nunc histriones curet; ne miremini:</l>
+          <lb ed="TLN" n="88"/>
+          <l>ipse hanc acturust Iuppiter comoediam.</l>
+          <lb ed="TLN" n="89"/>
+          <l>quid? admirati estis? quasi vero novom</l>
+          <lb ed="TLN" n="90"/>
+          <l n="90">nunc proferatur, Ióvem facere histrioniam;</l>
+          <lb ed="TLN" n="91"/>
+          <l>etiam, histriones anno cum in proscaenio hic</l>
+          <lb ed="TLN" n="92"/>
+          <l>Iovem invocarunt, venit, auxilio is fuit.</l>
+          <lb ed="TLN" n="93"/>
+          <l>[praeterea certo prodit in tragoedia.]</l>
+          <lb ed="TLN" n="94"/>
+          <l>hanc fabulam, inquam, hic Iuppiter hodie ipse aget,</l>
+          <lb ed="TLN" n="95"/>
+          <l n="95">et ego una cum illo. nunc &lt;vos&gt; animum advortite,</l>
+          <lb ed="TLN" n="96"/>
+          <l>dum huius argumentum éloquar comoediae.</l>
+          <lb ed="TLN" n="97"/>
+          <l>Haec urbs est Thebae. in illisce habitat aedibus</l>
+          <lb ed="TLN" n="98"/>
+          <l>Amphitruo, natus Argis ex Argo patre,</l>
+          <lb ed="TLN" n="99"/>
+          <l>quicum Alcumena est nupta, Electri filia.</l>
+          <lb ed="TLN" n="100"/>
+          <l n="100">is nunc Amphitruo praefectust legionibus,</l>
+          <lb ed="TLN" n="101"/>
+          <l>nam cum Telobois bellum est Thebano poplo.</l>
+          <lb ed="TLN" n="102"/>
+          <l>is prius quam hinc abiit ipsemet in exercitum,</l>
+          <lb ed="TLN" n="103"/>
+          <l>gravidam Alcumenam úxorem fecit suam.</l>
+          <lb ed="TLN" n="104"/>
+          <l>nam ego vos novisse credo iam ut sit páter meus,</l>
+          <lb ed="TLN" n="105"/>
+          <l n="105">quam liber harum rerum multarum siet</l>
+          <lb ed="TLN" n="106"/>
+          <l>quantusque amator sit quod complacitum est semel.</l>
+          <lb ed="TLN" n="107"/>
+          <l>is amare occepit Alcumenam clam virum</l>
+          <lb ed="TLN" n="108"/>
+          <l>usuramque eius corporis cepit sibi,</l>
+          <lb ed="TLN" n="109"/>
+          <l>et gravidam fecit is eam compressu suo.</l>
+          <lb ed="TLN" n="110"/>
+          <l n="110">nunc de Alcumena ut rem teneatis rectius,</l>
+          <lb ed="TLN" n="111"/>
+          <l>utrimque est gravida, et ex viro et ex summo Iove.</l>
+          <lb ed="TLN" n="112"/>
+          <l>et meus pater nunc intus hic cum illa cubat,</l>
+          <lb ed="TLN" n="113"/>
+          <l>et haec ob eam rem nox est facta longior,</l>
+          <lb ed="TLN" n="114"/>
+          <l>dum &lt;cum&gt; illa quacum volt voluptatem capit;</l>
+          <lb ed="TLN" n="115"/>
+          <l n="115">sed ita adsimulavit se, quasi Amphitruo siet.</l>
+          <lb ed="TLN" n="116"/>
+          <l>nunc ne hunc ornatum vos meum admiremini,</l>
+          <lb ed="TLN" n="117"/>
+          <l>quod ego huc processi sic cum servili schema:</l>
+          <lb ed="TLN" n="118"/>
+          <l>veterem atque antiquam rem novam ad vos proferam,</l>
+          <lb ed="TLN" n="119"/>
+          <l>propterea ornatus in novom incessi modum.</l>
+          <lb ed="TLN" n="120"/>
+          <l n="120">nam méus pater intus núnc est eccum Iuppiter;</l>
+          <lb ed="TLN" n="121"/>
+          <l>in Amphitruonis vertit sese imaginem</l>
+          <lb ed="TLN" n="122"/>
+          <l>omnesque eum esse censent servi qui vident:</l>
+          <lb ed="TLN" n="123"/>
+          <l>ita versipellem se facit quando lubet.</l>
+          <lb ed="TLN" n="124"/>
+          <l>ego servi sumpsi Sosiae mi imaginem,</l>
+          <lb ed="TLN" n="125"/>
+          <l n="125">qui cum Amphitruone abiit hinc in exercitum,</l>
+          <lb ed="TLN" n="126"/>
+          <l>ut praeservire amanti meo possem patri</l>
+          <lb ed="TLN" n="127"/>
+          <l>atque ut ne, qui essem, familiares quaererent,</l>
+          <lb ed="TLN" n="128"/>
+          <l>versari crebro hic cum viderent me domi;</l>
+          <lb ed="TLN" n="129"/>
+          <l>nunc, cum esse credent servom et conservom suom,</l>
+          <lb ed="TLN" n="130"/>
+          <l n="130">haud quisquam quaeret qui siem aut quid venerim.</l>
+          <lb ed="TLN" n="131"/>
+          <l>pater nunc intus suo animo morem gerit:</l>
+          <lb ed="TLN" n="132"/>
+          <l>cubat complexus cuius cupiens maxime est;</l>
+          <lb ed="TLN" n="133"/>
+          <l>quae illi ad legionem facta sunt memorat pater</l>
+          <lb ed="TLN" n="134"/>
+          <l>meus Alcumenae: ílla illum censet virum</l>
+          <lb ed="TLN" n="135"/>
+          <l n="135">suom esse, quae cum moecho est. ibi nunc meus pater</l>
+          <lb ed="TLN" n="136"/>
+          <l>memorat, legiones hostium ut fugaverit,</l>
+          <lb ed="TLN" n="137"/>
+          <l>quo pacto sit donis donatus plurimis.</l>
+          <lb ed="TLN" n="138"/>
+          <l>ea dona, quae illic Amphitruoni sunt data,</l>
+          <lb ed="TLN" n="139"/>
+          <l>abstulimus: facile meus pater quod volt facit.</l>
+          <lb ed="TLN" n="140"/>
+          <l n="140">nunc hodie Amphitruo veniet huc ab exercitu</l>
+          <lb ed="TLN" n="141"/>
+          <l>et servos, cuius ego hanc feró imaginem.</l>
+          <lb ed="TLN" n="142"/>
+          <l>nunc internosse ut nos possitis facilius,</l>
+          <lb ed="TLN" n="143"/>
+          <l>ego has habebo úsque in petaso pinnulas;</l>
+          <lb ed="TLN" n="144"/>
+          <l>tum meo patri autem torulus inerit aureus</l>
+          <lb ed="TLN" n="145"/>
+          <l n="145">sub petaso: id signum Amphitruoni non erit.</l>
+          <lb ed="TLN" n="146"/>
+          <l>ea signa nemo hórum familiarium</l>
+          <lb ed="TLN" n="147"/>
+          <l>videre poterit: verum vos videbitis.</l>
+          <lb ed="TLN" n="148"/>
+          <l>sed Amphitruonis illic est servos Sosia:</l>
+          <lb ed="TLN" n="149"/>
+          <l>a portu illíc nunc cum lanterna ádvenit.</l>
+          <lb ed="TLN" n="150"/>
+          <l n="150">abigam iam ego illum advenientem ab aedibus.</l>
+          <lb ed="TLN" n="151"/>
+          <l>adeste: erit operae pretium híc spectantibus</l>
+          <lb ed="TLN" n="152"/>
+          <l>Iovem et Mercurium facere hístrioniam.</l>
+        </sp>
       </div>
       <div n="1" type="act">
         <head>I</head>
@@ -4126,7 +4132,8 @@ Added to repository.
               <sp who="#mercurius">
                 <speaker>(Merc.)</speaker>
                 <lb ed="TLN" n="1034f"/>
-                <l n="20"><abbr expan="laruatus es">Laruatu's</abbr>
+                <l n="20">
+                  <abbr expan="laruatus es">Laruatu's</abbr>
                   . edepol hominem miserum. medicum quaerita.
                 </l>
               </sp>
@@ -4638,7 +4645,8 @@ Added to repository.
             <lb ed="TLN" n="1137"/>
             <l>tu gravidam item fecisti, cúm in exercitum</l>
             <lb ed="TLN" n="1138"/>
-            <l><abbr expan="profectus es">profectu's</abbr>
+            <l>
+              <abbr expan="profectus es">profectu's</abbr>
               : uno partu duos peperit simul.
             </l>
             <lb ed="TLN" n="1139"/>

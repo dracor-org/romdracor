@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q678909</idno>
       </publicationStmt>
       <extent/>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Publius Terentius Afer: Heautontimorumenos. In: Publii Terentii Comoediae sex. With a Commentary by Edward St. John Parry (= Bibliotheca Classica). London: Whittaker and Co. 1857, pp. 161–242.</title>
-            <date type="premiere" when="-0163">163 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -164,6 +162,14 @@ new additions
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0163">
+        <label>163 BC</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q678909"/>
+  </standOff>
   <text>
     <pb n="161"/>
     <front>
@@ -171,7 +177,7 @@ new additions
       <docTitle>
         <titlePart type="main">HEAUTONTIMORUMENOS.</titlePart>
       </docTitle>
-    <pb n="162"/>
+      <pb n="162"/>
       <castList>
         <head>FABULAE INTERLOCUTORES.</head>
         <castItem type="role">
@@ -215,233 +221,233 @@ new additions
       </castList>
       <pb n="163"/>
       <div type="introduction">
-          <head>INTRODUCTION.</head>
-          <p xml:lang="eng">THE plot of the Heautontimorumenos turns, as is often the case, partly upon the recognition of a child which had been exposed as an infant. Sostrata the wife of Chremes had an infant daughter, which her husband refused to bring up, and ordered to be exposed. She gave it to an old woman for that purpose, attaching to its dress a ring, from a superstitious feeling that the child ought not to be entirely disinherited. The old woman, instead of exposing the child, brought her up as her own daughter, and named her Antiphila. When she grew up she attracted the attention of Clinia. son of Menedemus. Their attachment continued for some time before it came to the knowledge of Clinia's father. As soon as he discovered it he began to persecute his son about the affair, till at last the young man, to put an end to the dispute, went to <placeName key="tgn,1000004">Asia</placeName>, and there entered the service of the king. No sooner had he gone than his father repented his severity; and finding that his son was past recall, he determined, as the only amends he could make, to inflict upon himself a continual penance. He sold his house, and all his servants except a few to work upon a farm which he purchased. There he kept himself at work from morning to night. Three months passed in this way, and at the end of that time, Clinia, who could not support any longer his absence from his mistress, returns and is received into the house of Chremes, whose son Clitipho had been his friend from his childhood. No sooner has he arrived than his servant Dromo is sent with Syrus, Clitipho's slave, to bring Antiphila to her lover. Syrus discharges his errand more cleverly than was intended; he found Antiphila alone, for her reputed mother, Philtere, had died in the interval, and in circumstances which shewed that she was still faithful to Clinia. Thinking besides to do a stroke of business for his own master, he brings at the same time Bacchis, Clitipho's mistress, a very different character from Antiphila: and that Chremes may have no suspicion of this connection of his son's, it is arranged that Bacchis shall pass for Clinia's mistress, and Antiphila for one of her servants. While this is going on, Chremes and Menedemus have been talking together; Chremes remonstrating with Menedemus upon <pb n="164"/> his unintelligible conduct in working himself to death instead of superintending his slaves, and Menedemus explaining his reasons by an account of what led to his son's departure, and his consequent determination to punish himself till his return. Chremes being unable to shake his friend's determination, returns to keep the festival of <persName>Bacchus</persName> at his own house. There he finds the party assembled, and what with Bacchis and the young men they make a pretty night of it, nearly emptying his cellar, and turning the house upside down. Early next morning Chremes, who has a strong head for an old man, goes to meet his friend Menedemus as he comes out to his work, and informs him of his son's return. He advises him to be cautious in receiving him, tells him what sort of a life he has to expect, and recommends him to do any thing rather than openly encourage his son in such debauchery. Menedemus begs him to do any thing he can to bring about a reunion with his son, even if it be to encourage the young man and Syrus to cheat him in any imaginable way. Chremes enters into the plan: and encourages Syrus to devise some scheme for making Menedemus supply Clinia with the means of indulgence. Syrus has already some such scheme on foot; but it is to be directed against Chremes, for he has promised Bacchis ten minae for her share in the night's amusements, and intends to get it out of his master. So he at once explains to his master a plausible scheme that he has, namely, to induce Menedemus to buy Antiphila from Bacchis, to whom she has been left in pawn by Philtere, on the representation that she is a captive from Caria whom her friends are sure to ransom very handsomely. Meanwhile Sostrata has discovered, through the medium of the aforesaid ring, that Antiphila is her own daughter. This disconcerts Syrus, who now springs a new mine; he sends Bacchis off to Menedemus' house, and explains to Chremes that the only way to deceive Menedemus now, is to pretend that she is Clitipho's mistress, and at the same time to get Clinia to profess an attachment to Antiphila, and desire his father to demand her in marriage, for then the old man would have to supply him with money for the marriage, which of course would go to his mistress Bacchis. At the same time Chremes is persuaded to release his daughter from her pledge to Bacchis; and the money is given to Clitipho to carry to Bacchis for the purpose forsooth of more fully persuading Menedemus that she is his mistress. At this point the dénouement takes place. Clitipho acts his part of Bacchis' lover a little too well, and all the circumstances are discovered by Menedemus, who proceeds to inform Chremes of the real state of the case. Now the two old men change places, Chremes is enraged beyond measure at having been made the dupe of his dissolute son, and Menedemus has to urge upon him the same maxims of forbearance which Chremes had used to him. Clitipho has to undergo a complete <pb n="165"/> humiliation; but is ultimately received into favour by his father upon his promising to settle and lead a respectable life.</p>
-          <p xml:lang="eng">This play is remarkable for a supposed irregularity in its construction, which has made it the subiect of an animated controversy among advocates of the 'Unities.' It is clear that the opening scene of the play is laid at evening, when Menedemus is just finishing his day's work. The Third Act commences with the following morning, and in the interval the supper at Chremes' house takes place. This in itself, though an exception to the general arrangement of Terence's plays, is not a very important matter. The theory of the 'Unities' is not to be received as an absolute law for the Drama: and there is nothing in this case which is not abundantly justified by many other instances. Upon this point turns a theory which was first mooted by Scaliger, and afterwards maintained by Madame Dacier,—that this play was acted in two portions: the first two Acts at night, after sunset; and the three remaining Acts the next morning at break of day; the interval between the two parts being taken up with the supper at Chremes' house. This idea proceeds entirely upon the supposed necessity of filling up the interval between the Second and Third Acts; and is, as far as we are informed, entirely gratuitous. Colman has shown the absurdity of the idea very well in his remarks on this subiect. Any one who considers that the Roman Drama was performed in the open air, will at once see the improbability of such a mode of representation. The Roman Amphitheatre was at any time a disadvantageous arena for the Drama. What must have been the success of a play, acted partly at night-fall, partly before breakfast next morning? Nothing but a devotion to the 'Unities' could have led to such an idea; and it will be dismissed without any further discussion, now that a more artistic idea of Dramatic Unity is generally recognized.</p>
+        <head>INTRODUCTION.</head>
+        <p xml:lang="eng">THE plot of the Heautontimorumenos turns, as is often the case, partly upon the recognition of a child which had been exposed as an infant. Sostrata the wife of Chremes had an infant daughter, which her husband refused to bring up, and ordered to be exposed. She gave it to an old woman for that purpose, attaching to its dress a ring, from a superstitious feeling that the child ought not to be entirely disinherited. The old woman, instead of exposing the child, brought her up as her own daughter, and named her Antiphila. When she grew up she attracted the attention of Clinia. son of Menedemus. Their attachment continued for some time before it came to the knowledge of Clinia's father. As soon as he discovered it he began to persecute his son about the affair, till at last the young man, to put an end to the dispute, went to <placeName key="tgn,1000004">Asia</placeName>, and there entered the service of the king. No sooner had he gone than his father repented his severity; and finding that his son was past recall, he determined, as the only amends he could make, to inflict upon himself a continual penance. He sold his house, and all his servants except a few to work upon a farm which he purchased. There he kept himself at work from morning to night. Three months passed in this way, and at the end of that time, Clinia, who could not support any longer his absence from his mistress, returns and is received into the house of Chremes, whose son Clitipho had been his friend from his childhood. No sooner has he arrived than his servant Dromo is sent with Syrus, Clitipho's slave, to bring Antiphila to her lover. Syrus discharges his errand more cleverly than was intended; he found Antiphila alone, for her reputed mother, Philtere, had died in the interval, and in circumstances which shewed that she was still faithful to Clinia. Thinking besides to do a stroke of business for his own master, he brings at the same time Bacchis, Clitipho's mistress, a very different character from Antiphila: and that Chremes may have no suspicion of this connection of his son's, it is arranged that Bacchis shall pass for Clinia's mistress, and Antiphila for one of her servants. While this is going on, Chremes and Menedemus have been talking together; Chremes remonstrating with Menedemus upon <pb n="164"/> his unintelligible conduct in working himself to death instead of superintending his slaves, and Menedemus explaining his reasons by an account of what led to his son's departure, and his consequent determination to punish himself till his return. Chremes being unable to shake his friend's determination, returns to keep the festival of <persName>Bacchus</persName> at his own house. There he finds the party assembled, and what with Bacchis and the young men they make a pretty night of it, nearly emptying his cellar, and turning the house upside down. Early next morning Chremes, who has a strong head for an old man, goes to meet his friend Menedemus as he comes out to his work, and informs him of his son's return. He advises him to be cautious in receiving him, tells him what sort of a life he has to expect, and recommends him to do any thing rather than openly encourage his son in such debauchery. Menedemus begs him to do any thing he can to bring about a reunion with his son, even if it be to encourage the young man and Syrus to cheat him in any imaginable way. Chremes enters into the plan: and encourages Syrus to devise some scheme for making Menedemus supply Clinia with the means of indulgence. Syrus has already some such scheme on foot; but it is to be directed against Chremes, for he has promised Bacchis ten minae for her share in the night's amusements, and intends to get it out of his master. So he at once explains to his master a plausible scheme that he has, namely, to induce Menedemus to buy Antiphila from Bacchis, to whom she has been left in pawn by Philtere, on the representation that she is a captive from Caria whom her friends are sure to ransom very handsomely. Meanwhile Sostrata has discovered, through the medium of the aforesaid ring, that Antiphila is her own daughter. This disconcerts Syrus, who now springs a new mine; he sends Bacchis off to Menedemus' house, and explains to Chremes that the only way to deceive Menedemus now, is to pretend that she is Clitipho's mistress, and at the same time to get Clinia to profess an attachment to Antiphila, and desire his father to demand her in marriage, for then the old man would have to supply him with money for the marriage, which of course would go to his mistress Bacchis. At the same time Chremes is persuaded to release his daughter from her pledge to Bacchis; and the money is given to Clitipho to carry to Bacchis for the purpose forsooth of more fully persuading Menedemus that she is his mistress. At this point the dénouement takes place. Clitipho acts his part of Bacchis' lover a little too well, and all the circumstances are discovered by Menedemus, who proceeds to inform Chremes of the real state of the case. Now the two old men change places, Chremes is enraged beyond measure at having been made the dupe of his dissolute son, and Menedemus has to urge upon him the same maxims of forbearance which Chremes had used to him. Clitipho has to undergo a complete <pb n="165"/> humiliation; but is ultimately received into favour by his father upon his promising to settle and lead a respectable life.</p>
+        <p xml:lang="eng">This play is remarkable for a supposed irregularity in its construction, which has made it the subiect of an animated controversy among advocates of the 'Unities.' It is clear that the opening scene of the play is laid at evening, when Menedemus is just finishing his day's work. The Third Act commences with the following morning, and in the interval the supper at Chremes' house takes place. This in itself, though an exception to the general arrangement of Terence's plays, is not a very important matter. The theory of the 'Unities' is not to be received as an absolute law for the Drama: and there is nothing in this case which is not abundantly justified by many other instances. Upon this point turns a theory which was first mooted by Scaliger, and afterwards maintained by Madame Dacier,—that this play was acted in two portions: the first two Acts at night, after sunset; and the three remaining Acts the next morning at break of day; the interval between the two parts being taken up with the supper at Chremes' house. This idea proceeds entirely upon the supposed necessity of filling up the interval between the Second and Third Acts; and is, as far as we are informed, entirely gratuitous. Colman has shown the absurdity of the idea very well in his remarks on this subiect. Any one who considers that the Roman Drama was performed in the open air, will at once see the improbability of such a mode of representation. The Roman Amphitheatre was at any time a disadvantageous arena for the Drama. What must have been the success of a play, acted partly at night-fall, partly before breakfast next morning? Nothing but a devotion to the 'Unities' could have led to such an idea; and it will be dismissed without any further discussion, now that a more artistic idea of Dramatic Unity is generally recognized.</p>
       </div>
-      </front>
-        <pb n="166"/>
-      <body>
-        <div type="production">
-          <head>HEAUTONTIMORUMENOS.</head>
-          <p>ACTA LUDIS MEGALENSIBUS, L. CORNELIO LENTULO L. VALERIO FLACCOAEDILIBUS CURULIBUS. EGERUNT L. AMBIVIUS TURPIO ET L. ATTILIUS PRAENESTINUS. MODOSFECIT FLACCUS CLAUDII. GRAECA EST MENANDRU. ACTA PRIMUM TIBIIS IMPARIBUS; DEINDEDUABUS DEXTRIS. ACTA III. EDITA M. IUVENTIO ET T. SEMPRONIO COSS. </p>
-        </div>
+    </front>
+    <pb n="166"/>
+    <body>
+      <div type="production">
+        <head>HEAUTONTIMORUMENOS.</head>
+        <p>ACTA LUDIS MEGALENSIBUS, L. CORNELIO LENTULO L. VALERIO FLACCOAEDILIBUS CURULIBUS. EGERUNT L. AMBIVIUS TURPIO ET L. ATTILIUS PRAENESTINUS. MODOSFECIT FLACCUS CLAUDII. GRAECA EST MENANDRU. ACTA PRIMUM TIBIIS IMPARIBUS; DEINDEDUABUS DEXTRIS. ACTA III. EDITA M. IUVENTIO ET T. SEMPRONIO COSS. </p>
+      </div>
       <pb n="167"/>
       <div type="prologue">
-          <head>Prologus.</head>
-          <sp who="#prologus">
+        <head>Prologus.</head>
+        <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
               NE cui sit vestrum mirum, cur partes seni 
               <lb ed="TLN" n="2"/>
-            </l>
+          </l>
           <l>
               Poeta dederit quae sunt adolescentium, 
               <lb ed="TLN" n="3"/>
-            </l>
+          </l>
           <l>
               Id primum dicam: deinde quod veni eloquar. 
               <lb ed="TLN" n="4"/>
-            </l>
-            <pb n="168"/>
+          </l>
+          <pb n="168"/>
           <l>
               Ex integra Graeca integram comoediam 
               <lb ed="TLN" n="5"/>
-            </l>
+          </l>
           <l n="5">
               Hodie sum acturus Heautontimorumenon; 
               <lb ed="TLN" n="6"/>
-            </l>
+          </l>
           <l>
               Duplex quae ex argumento facta est simplici. 
               <lb ed="TLN" n="7"/>
-            </l>
+          </l>
           <l>
               Novam esse ostendi, et quae esset: nunc qui scripserit, 
               <lb ed="TLN" n="8"/>
-            </l>
+          </l>
           <l>
               Et cuia Graeca sit, ni partem maximam 
               <lb ed="TLN" n="9"/>
-            </l>
+          </l>
           <l>
               Existimarem scire vestrum, id dicerem. 
               <lb ed="TLN" n="10"/>
-            </l>
+          </l>
           <l n="10">
               Nunc, quamobrem has partes didicerim, paucis dabo. 
               <lb ed="TLN" n="11"/>
-            </l>
+          </l>
           <l>
               Oratorem voluit esse me, non prologum. 
               <lb ed="TLN" n="12"/>
-            </l>
+          </l>
           <l>
               Vestrum iudicium fecit; me actorem dedit. 
               <lb ed="TLN" n="13"/>
-            </l>
-            <pb n="169"/>
+          </l>
+          <pb n="169"/>
           <l>
               Sed hic actor tantum poterit a facundia, 
               <lb ed="TLN" n="14"/>
-            </l>
+          </l>
           <l>
               Quantum ille potuit cogitare commode 
               <lb ed="TLN" n="15"/>
-            </l>
+          </l>
           <l n="15">
               Qui orationem hanc scripsit quam dicturus sum. 
               <lb ed="TLN" n="16"/>
-            </l>
+          </l>
           <l>
               Nam quod rumores distulerunt malevoli, 
               <lb ed="TLN" n="17"/>
-            </l>
+          </l>
           <l>
               Multas contaminasse Graecas dum facit 
               <lb ed="TLN" n="18"/>
-            </l>
+          </l>
           <l>
               Paucas Latinas; factum hic esse id non negat, 
               <lb ed="TLN" n="19"/>
-            </l>
+          </l>
           <l>
               Neque se pigere: et deinde facturum autumat. 
               <lb ed="TLN" n="20"/>
-            </l>
+          </l>
           <l n="20">
               Habet bonorum exemplum, quo exemplo sibi 
               <lb ed="TLN" n="21"/>
-            </l>
+          </l>
           <l>
               Licere id facere quod illi fecerunt putat. 
               <lb ed="TLN" n="22"/>
-            </l>
+          </l>
           <l>
               Tum quod malevolus vetus poeta dictitat, 
               <lb ed="TLN" n="23"/>
-            </l>
+          </l>
           <l>
               Repente ad studium hunc se applicasse musicum, 
               <lb ed="TLN" n="24"/>
-            </l>
-            <pb n="170"/>
+          </l>
+          <pb n="170"/>
           <l>
               Amicum ingenio fretum, haud natura sua; 
               <lb ed="TLN" n="25"/>
-            </l>
+          </l>
           <l n="25">
               Arbitrium vestrum, vestra existimatio 
               <lb ed="TLN" n="26"/>
-            </l>
+          </l>
           <l>
               Valebit; quamobrem omnes vos oratos volo, 
               <lb ed="TLN" n="27"/>
-            </l>
+          </l>
           <l>
               Ne plus iniquum possit quam aequum oratio. 
               <lb ed="TLN" n="28"/>
-            </l>
+          </l>
           <l>
               Facite aequi sitis: date crescendi copiam 
               <lb ed="TLN" n="29"/>
-            </l>
+          </l>
           <l>
               Novarum qui spectandi faciunt copiam 
               <lb ed="TLN" n="30"/>
-            </l>
+          </l>
           <l n="30">
               Sine vitiis; ne ille pro se dictum existimet, 
               <lb ed="TLN" n="31"/>
-            </l>
-            <pb n="171"/>
+          </l>
+          <pb n="171"/>
           <l>
               Qui nuper fecit servo currenti in via 
               <lb ed="TLN" n="32"/>
-            </l>
+          </l>
           <l>
               Decesse populum. Cur insano serviat? 
               <lb ed="TLN" n="33"/>
-            </l>
+          </l>
           <l>
               De illius peccatis plura dicet cum dabit 
               <lb ed="TLN" n="34"/>
-            </l>
+          </l>
           <l>
               Alias novas, nisi finem maledictis facit. 
               <lb ed="TLN" n="35"/>
-            </l>
+          </l>
           <l n="35">
               Adeste aequo animo; date potestatem mihi 
               <lb ed="TLN" n="36"/>
-            </l>
+          </l>
           <l>
               Statariam agere ut liceat per silentium; 
               <lb ed="TLN" n="37"/>
-            </l>
+          </l>
           <l>
               Ne semper servus currens, iratus senex, 
               <lb ed="TLN" n="38"/>
-            </l>
+          </l>
           <l>
               Edax parasitus, sycophanta autem impudens, 
               <lb ed="TLN" n="39"/>
-            </l>
+          </l>
           <l>
               Avarus leno, assidue agendi sint mihi, 
               <lb ed="TLN" n="40"/>
-            </l>
+          </l>
           <l n="40">
               Clamore summo, cum labore maximo. 
               <lb ed="TLN" n="41"/>
-            </l>
+          </l>
           <l>
               Mea causa causam hanc iustam esse animum inducite, 
               <lb ed="TLN" n="42"/>
-            </l>
+          </l>
           <l>
               Ut aliqua pars laboris minuatur mihi. 
               <lb ed="TLN" n="43"/>
-            </l>
+          </l>
           <l>
               Nam nunc novas qui scribunt nihil parcunt seni: 
               <lb ed="TLN" n="44"/>
-            </l>
+          </l>
           <l>
               Si qua laboriosa est, ad me curritur; 
               <lb ed="TLN" n="45"/>
-            </l>
+          </l>
           <l n="45">
               Sin lenis est, ad alium defertur gregem. 
               <lb ed="TLN" n="46"/>
-            </l>
-            <pb n="172"/>
+          </l>
+          <pb n="172"/>
           <l>
               In hac est pura oratio. Experimini 
               <lb ed="TLN" n="47"/>
-            </l>
+          </l>
           <l>
               In utramque partem inigenium quid possit meum. 
               <lb ed="TLN" n="48"/>
-            </l>
+          </l>
           <l>
               Si nunquam avare pretium statui arti meae, 
               <lb ed="TLN" n="49"/>
-            </l>
+          </l>
           <l>
               Et eum esse quaestum in animum induxi maximum, 
               <lb ed="TLN" n="50"/>
-            </l>
+          </l>
           <l n="50">
               Quam maxime servire vestris commodis; 
               <lb ed="TLN" n="51"/>
-            </l>
+          </l>
           <l>
               Exemplum statuite in me, ut adolescentuli 
               <lb ed="TLN" n="52"/>
-            </l>
+          </l>
           <l>Vobis placere studeant potius quam sibi. </l>
-          </sp>
+        </sp>
       </div>
       <div n="1" type="act">
         <head>Actus I.</head>
@@ -1277,73 +1283,73 @@ new additions
           <head>Scena I.</head>
           <stage>CLITIPHO.</stage>
           <sp who="#clitipho">
-          <lb ed="TLN" n="213"/>
-          <l>
+            <lb ed="TLN" n="213"/>
+            <l>
             Quam iniqui sunt patres in omnes adolescentes iudices, 
             <lb ed="TLN" n="214"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Qui aequum esse censent nos iam a pueris ilico nasci senes, 
             <lb ed="TLN" n="215"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Neque illarum affines esse rerum quas fert adolescentia. 
             <lb ed="TLN" n="216"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ex sua libidine moderantur, nunc quae est, non quae olim fuit. 
             <lb ed="TLN" n="217"/>
-          </l>
-          <l n="5">
+            </l>
+            <l n="5">
             Mihi si unquam filius erit, nae ille facili me utetur patre; 
             <lb ed="TLN" n="218"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nam et cognoscendi et ignoscendi dabitur peccati locus; 
             <lb ed="TLN" n="219"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Non ut meus, qui mihi per alium ostendit suam sententiam. 
             <lb ed="TLN" n="220"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Perii! is mihi, ubi adbibit plus paulo, sua quae narrat facinora! 
             <lb ed="TLN" n="221"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nunc ait, "Periculum ex aliis facito, tibi quod ex usu siet:" 
             <lb ed="TLN" n="222"/>
-          </l>
-          <l n="10">
+            </l>
+            <l n="10">
             Astutus: nae ille haud scit quam mihi nunc surdo narret fabulam. 
             <lb ed="TLN" n="223"/>
-          </l>
+            </l>
             <pb n="184"/>
-          <l>
+            <l>
             Magis nunc me amicae dicta stimulant: "Da mihi, atque affer mihi;" 
             <lb ed="TLN" n="224"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Cui quid respondeam nihil habeo; neque me quisquam est miserior: 
             <lb ed="TLN" n="225"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nam hic Clinia, etsi is quoque suarum rerum satagit, attamen 
             <lb ed="TLN" n="226"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Habet bene ac pudice eductam, ignaram artis meretriciae. 
             <lb ed="TLN" n="227"/>
-          </l>
-          <l n="15">
+            </l>
+            <l n="15">
             Mea est potens, procax, magnifica, sumtuosa, nobilis. 
             <lb ed="TLN" n="228"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Tum quod dem ei recte est; nam, nihil esse mihi, religio est dicere. 
             <lb ed="TLN" n="229"/>
-          </l>
-          <l>Hoc ego mali non pridem inveni; neque etiamdum scit pater. </l>
+            </l>
+            <l>Hoc ego mali non pridem inveni; neque etiamdum scit pater. </l>
           </sp>
         </div>
         <div n="2" type="scene">
@@ -4073,50 +4079,50 @@ new additions
           <head>Scena II.</head>
           <stage>SYRUS.</stage>
           <sp who="#syrus">
-          <lb ed="TLN" n="668"/>
-          <l>
+            <lb ed="TLN" n="668"/>
+            <l>
             Nisi me animus fallit, haud permultum a me aberit infortunium: 
             <lb ed="TLN" n="669"/>
-          </l>
+            </l>
             <pb n="212"/>
-          <l>
+            <l>
             Ita hac re in angustum oppido nunc meae coguntur copiae; 
             <lb ed="TLN" n="670"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nisi aliquid video ne esse amicam hanc gnati resciscat senex. 
             <lb ed="TLN" n="671"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nam quod de argento sperem, aut posse postulem me fallere, 
             <lb ed="TLN" n="672"/>
-          </l>
-          <l n="5">
+            </l>
+            <l n="5">
             Nihil est: triumpho si licet me latere tecto abscedere. 
             <lb ed="TLN" n="673"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Crucior, bolum tantum mihi ereptum tam de subito e faucibus. 
             <lb ed="TLN" n="674"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quid agam? aut quid comminiscar? ratio de integro ineunda est mihi. 
             <lb ed="TLN" n="675"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nihil tam difficile est quin quaerendo investigari possiet. 
             <lb ed="TLN" n="676"/>
-          </l>
+            </l>
             <pb n="213"/>
-          <l>
+            <l>
             Quid si hoc nunc sic incipiam? Nihil est. Quid si sic? Tantundem egero. 
             <lb ed="TLN" n="677"/>
-          </l>
-          <l n="10">
+            </l>
+            <l n="10">
             At sic opinor. Non potest. Immo optime. Euge, habeo optimam. 
             <lb ed="TLN" n="678"/>
-          </l>
-          <l>Retraham hercle opinor ad me idem illud fugitivum argentum tamen. </l>
+            </l>
+            <l>Retraham hercle opinor ad me idem illud fugitivum argentum tamen. </l>
           </sp>
         </div>
         <div n="3" type="scene">

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q652185</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Truculentus. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen alterum. Berlin: Weidmann 1896, pp. 457–507.</title>
-            <date type="premiere" notBefore="-0187">after 187 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -154,57 +152,65 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" notBefore="-0187">
+        <desc>after 187 BC</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q652185"/>
+  </standOff>
   <text>
     <body>
       <div n="prol." type="act">
         <head>Prologus</head>
         <sp who="#prologus">
-        <lb ed="TLN" n="1"/>
-        <l>Perparvam partem postulat Plautus loci</l>
-        <lb ed="TLN" n="2"/>
-        <l>de vestris magnis atque amoenis moenibus,</l>
-        <lb ed="TLN" n="3"/>
-        <l>Athenas quo sine architectis conferat.</l>
-        <lb ed="TLN" n="4"/>
-        <l>quid nunc? daturin estis an non? adnuont.</l>
-        <lb ed="TLN" n="5"/>
-        <l n="5">scio rém quidem urbis me ablaturum sine mora;</l>
-        <lb ed="TLN" n="6"/>
-        <l>quid si de vostro quippiam orem? abnuont.</l>
-        <lb ed="TLN" n="7"/>
-        <l>eu hercle in vobis resident mores pristini,</l>
-        <lb ed="TLN" n="8"/>
-        <l>ad denegandum ut celeri lingua utamini.</l>
-        <lb ed="TLN" n="9"/>
-        <l>sed hoc agamus quá huc ventumst gratia.</l>
-        <lb ed="TLN" n="10"/>
-        <l n="10">Athenis mutabo ita ut hoc est proscaenium</l>
-        <lb ed="TLN" n="11"/>
-        <l>tantisper dum transigimus hanc comoediam.</l>
-        <lb ed="TLN" n="12"/>
-        <l>hic habitat mulier, nomen cui est Phronesium;</l>
-        <lb ed="TLN" n="13"/>
-        <l>haec huius saecli mores in se possidet:</l>
-        <lb ed="TLN" n="14"/>
-        <l>numquam ab amatore [suo] postulat id quod datumst,</l>
-        <lb ed="TLN" n="15"/>
-        <l n="15">sed relicuom dat operam ne sit relicuom,</l>
-        <lb ed="TLN" n="16"/>
-        <l>poscendo atque auferendo, ut mos est mulierum;</l>
-        <lb ed="TLN" n="17"/>
-        <l>nam omnes id faciunt, cum se amari intellegunt.</l>
-        <lb ed="TLN" n="17a"/>
-        <l>* * *</l>
-        <lb ed="TLN" n="18"/>
-        <l>ea se peperisse puerum simulat militi,</l>
-        <lb ed="TLN" n="19"/>
-        <l n="20">quo citius rem ab eo averrat cum pulvisculo.</l>
-        <lb ed="TLN" n="20"/>
-        <l>quid multa? †stuic superet muliere</l>
-        <lb ed="TLN" n="21"/>
-        <l>†hiscum anima ad eum habenti erce teritur.</l>
-        <lb ed="TLN" n="21a"/>
-        <l>* * *</l>
+          <lb ed="TLN" n="1"/>
+          <l>Perparvam partem postulat Plautus loci</l>
+          <lb ed="TLN" n="2"/>
+          <l>de vestris magnis atque amoenis moenibus,</l>
+          <lb ed="TLN" n="3"/>
+          <l>Athenas quo sine architectis conferat.</l>
+          <lb ed="TLN" n="4"/>
+          <l>quid nunc? daturin estis an non? adnuont.</l>
+          <lb ed="TLN" n="5"/>
+          <l n="5">scio rém quidem urbis me ablaturum sine mora;</l>
+          <lb ed="TLN" n="6"/>
+          <l>quid si de vostro quippiam orem? abnuont.</l>
+          <lb ed="TLN" n="7"/>
+          <l>eu hercle in vobis resident mores pristini,</l>
+          <lb ed="TLN" n="8"/>
+          <l>ad denegandum ut celeri lingua utamini.</l>
+          <lb ed="TLN" n="9"/>
+          <l>sed hoc agamus quá huc ventumst gratia.</l>
+          <lb ed="TLN" n="10"/>
+          <l n="10">Athenis mutabo ita ut hoc est proscaenium</l>
+          <lb ed="TLN" n="11"/>
+          <l>tantisper dum transigimus hanc comoediam.</l>
+          <lb ed="TLN" n="12"/>
+          <l>hic habitat mulier, nomen cui est Phronesium;</l>
+          <lb ed="TLN" n="13"/>
+          <l>haec huius saecli mores in se possidet:</l>
+          <lb ed="TLN" n="14"/>
+          <l>numquam ab amatore [suo] postulat id quod datumst,</l>
+          <lb ed="TLN" n="15"/>
+          <l n="15">sed relicuom dat operam ne sit relicuom,</l>
+          <lb ed="TLN" n="16"/>
+          <l>poscendo atque auferendo, ut mos est mulierum;</l>
+          <lb ed="TLN" n="17"/>
+          <l>nam omnes id faciunt, cum se amari intellegunt.</l>
+          <lb ed="TLN" n="17a"/>
+          <l>* * *</l>
+          <lb ed="TLN" n="18"/>
+          <l>ea se peperisse puerum simulat militi,</l>
+          <lb ed="TLN" n="19"/>
+          <l n="20">quo citius rem ab eo averrat cum pulvisculo.</l>
+          <lb ed="TLN" n="20"/>
+          <l>quid multa? †stuic superet muliere</l>
+          <lb ed="TLN" n="21"/>
+          <l>†hiscum anima ad eum habenti erce teritur.</l>
+          <lb ed="TLN" n="21a"/>
+          <l>* * *</l>
         </sp>
       </div>
       <div n="1" type="act">
@@ -607,7 +613,8 @@ Added to repository.
             <lb ed="TLN" n="149"/>
             <l>Non arvos hic, sed pascuost ager: si arationes</l>
             <lb ed="TLN" n="150"/>
-            <l><abbr expan="habiturus es">habituru's</abbr>
+            <l>
+              <abbr expan="habiturus es">habituru's</abbr>
               , quí arari solent, ad pueros ire meliust.
             </l>
             <lb ed="TLN" n="151"/>
@@ -681,7 +688,8 @@ Added to repository.
             <lb ed="TLN" n="166"/>
             <l>Qui potis [est], amabo, planius? qui antehac amator summus</l>
             <lb ed="TLN" n="167"/>
-            <l n="70"><abbr expan="habitus es">habitu's</abbr>
+            <l n="70">
+              <abbr expan="habitus es">habitu's</abbr>
               , nunc ad amicam venis querimoniam deferre.
             </l>
           </sp>
@@ -3868,7 +3876,8 @@ Added to repository.
           <sp who="#phronesium">
             <speaker>Phron.</speaker>
             <lb ed="TLN" n="949"/>
-            <l><abbr expan="lepidus es">Lepidu's</abbr>
+            <l>
+              <abbr expan="lepidus es">Lepidu's</abbr>
                ecastor mortalis, mi Strabax, perge obsecro.
             </l>
           </sp>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1216194</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Casina. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen prius. Berlin: Weidmann 1895, pp. 223–269.</title>
-            <date type="premiere" notBefore="-0186">after 186 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -153,187 +151,195 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" notBefore="-0186">
+        <desc>after 186 BC</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1216194"/>
+  </standOff>
   <text>
     <body>
       <div n="prol." type="act">
         <head>Prologus</head>
         <sp who="#prologus">
-        <lb ed="TLN" n="1"/>
-        <l>Salvere iubeo spectatores optumos,</l>
-        <lb ed="TLN" n="2"/>
-        <l>fidem qui facitis maxumi, et vos Fides.</l>
-        <lb ed="TLN" n="3"/>
-        <l>si verum dixi, signum clarum date mihi,</l>
-        <lb ed="TLN" n="4"/>
-        <l>ut vos mi esse aequos iam inde a principio sciam.</l>
-        <lb ed="TLN" n="5"/>
-        <l n="5">qui utuntur vino vetere sapientis puto</l>
-        <lb ed="TLN" n="6"/>
-        <l>et qui libenter veteres spectant fabulas;</l>
-        <lb ed="TLN" n="7"/>
-        <l>&lt;atque&gt; antiqua opera et verba cum vobis placent,</l>
-        <lb ed="TLN" n="8"/>
-        <l>aequom est placere ante &lt;alias&gt; veteres fabulas:</l>
-        <lb ed="TLN" n="9"/>
-        <l>nam nunc novae quae prodeunt comoediae</l>
-        <lb ed="TLN" n="10"/>
-        <l n="10">multo sunt nequiores quam nummi novi.</l>
-        <lb ed="TLN" n="11"/>
-        <l>nos postquam populi rumore intelleximus</l>
-        <lb ed="TLN" n="12"/>
-        <l>studiose expetere vos Plautinas fabulas,</l>
-        <lb ed="TLN" n="13"/>
-        <l>antiquam éius edimus comoediam,</l>
-        <lb ed="TLN" n="14"/>
-        <l>quam vos probastis qui estis in senioribus;</l>
-        <lb ed="TLN" n="15"/>
-        <l n="15">nam iuniorum qui sunt non norunt, scio;</l>
-        <lb ed="TLN" n="16"/>
-        <l>verum ut cognoscant dabimus operam sedulo.</l>
-        <lb ed="TLN" n="17"/>
-        <l>haec cum primum acta est, vicit omnis fabulas.</l>
-        <lb ed="TLN" n="18"/>
-        <l>ea tempestate flos poetarum fuit,</l>
-        <lb ed="TLN" n="19"/>
-        <l>qui nunc abierunt hinc in communem locum.</l>
-        <lb ed="TLN" n="20"/>
-        <l n="20">sed tamen absentes prosunt &lt;pro&gt; praesentibus.</l>
-        <lb ed="TLN" n="21"/>
-        <l>vos omnes opere magno esse oratos volo,</l>
-        <lb ed="TLN" n="22"/>
-        <l>benigne ut operam detis ad nostrum gregem.</l>
-        <lb ed="TLN" n="23"/>
-        <l>eicite ex animo curam atque alienum aes *</l>
-        <lb ed="TLN" n="24"/>
-        <l>ne quis formidet flagitatorem suom:</l>
-        <lb ed="TLN" n="25"/>
-        <l n="25">ludi sunt, ludus datus est argentariis;</l>
-        <lb ed="TLN" n="26"/>
-        <l>tranquillum est, Alcedonia sunt circum forum:</l>
-        <lb ed="TLN" n="27"/>
-        <l>ratione utuntur, ludis poscunt neminem,</l>
-        <lb ed="TLN" n="28"/>
-        <l>secundum ludos reddunt autem nemini.</l>
-        <lb ed="TLN" n="29"/>
-        <l>aures vocivae si sunt, animum advortite:</l>
-        <lb ed="TLN" n="30"/>
-        <l n="30">comoediai nomen dare vobis volo.</l>
-        <lb ed="TLN" n="31"/>
-        <l>Clerumenoe vocatur haec comoedia</l>
-        <lb ed="TLN" n="32"/>
-        <l>graece, latine Sortientes. Deiphilus</l>
-        <lb ed="TLN" n="33"/>
-        <l>hanc graece scripsit, post id rursum denuo</l>
-        <lb ed="TLN" n="34"/>
-        <l>latine Plautus cum latranti nomine.</l>
-        <lb ed="TLN" n="35"/>
-        <l n="35">senex híc maritus habitat; éi est filius,</l>
-        <lb ed="TLN" n="36"/>
-        <l>is una cum patre in illisce habitat aedibus.</l>
-        <lb ed="TLN" n="37"/>
-        <l>est éi quidam servos, qui in morbo cubat,</l>
-        <lb ed="TLN" n="38"/>
-        <l>immo hercle vero in lecto, ne quid mentiar;</l>
-        <lb ed="TLN" n="39"/>
-        <l>is servos, sed abhinc annos factum est sedecim,</l>
-        <lb ed="TLN" n="40"/>
-        <l n="40">quom conspicatust primulo crepusculo</l>
-        <lb ed="TLN" n="41"/>
-        <l>puellam exponi. adít extemplo ad mulierem</l>
-        <lb ed="TLN" n="42"/>
-        <l>quae illam exponebat, orat ut eam det sibi:</l>
-        <lb ed="TLN" n="43"/>
-        <l>exorat, aufert; detulit recta domum,</l>
-        <lb ed="TLN" n="44"/>
-        <l>dat erae suae, orat ut eam curet, educet.</l>
-        <lb ed="TLN" n="45"/>
-        <l n="45">era fecit, educavit magna industria,</l>
-        <lb ed="TLN" n="46"/>
-        <l>quasi si esset ex se nata, non multo secus.</l>
-        <lb ed="TLN" n="47"/>
-        <l>postquam ea adolevit ad eam aetatem, ut viris</l>
-        <lb ed="TLN" n="48"/>
-        <l>placere posset, eam puellam hic senex</l>
-        <lb ed="TLN" n="49"/>
-        <l>amat efflictim, et item contra filius.</l>
-        <lb ed="TLN" n="50"/>
-        <l n="50">nunc sibi utérque contra legiones parat,</l>
-        <lb ed="TLN" n="51"/>
-        <l>paterque filiusque, clam alter alterum:</l>
-        <lb ed="TLN" n="52"/>
-        <l>pater adlegavit vilicum, qui posceret</l>
-        <lb ed="TLN" n="53"/>
-        <l>sibi istánc uxorem: is sperat, si ei sit data,</l>
-        <lb ed="TLN" n="54"/>
-        <l>sibi fore paratas clam uxorem excubias foris;</l>
-        <lb ed="TLN" n="55"/>
-        <l n="55">filius is autem armigerum adlegavit suom,</l>
-        <lb ed="TLN" n="56"/>
-        <l>qui sibi eam uxorem poscat: scit, si id impetret,</l>
-        <lb ed="TLN" n="57"/>
-        <l>futurum quod amat intra praesepis suas.</l>
-        <lb ed="TLN" n="58"/>
-        <l>senis uxor sensit virum amóri operam dare,</l>
-        <lb ed="TLN" n="59"/>
-        <l>propterea úna consentit cum filio.</l>
-        <lb ed="TLN" n="60"/>
-        <l n="60">ille autem postquam filium sensit suom</l>
-        <lb ed="TLN" n="61"/>
-        <l>eandem illam amare et esse ímpedimento sibi,</l>
-        <lb ed="TLN" n="62"/>
-        <l>hinc adulescentem peregre ablegavit pater;</l>
-        <lb ed="TLN" n="63"/>
-        <l>sciens ei mater dat operam absenti tamen.</l>
-        <lb ed="TLN" n="64"/>
-        <l>is, ne exspectetis, hodie in hac comoedia</l>
-        <lb ed="TLN" n="65"/>
-        <l n="65">in urbem non redibit: Plautus noluit,</l>
-        <lb ed="TLN" n="66"/>
-        <l>pontem interrupit, quí erat ei in itinere.</l>
-        <lb ed="TLN" n="67"/>
-        <l>sunt hic, inter se quos nunc credo dicere:</l>
-        <lb ed="TLN" n="68"/>
-        <l>‘quaeso hercle, quíd istuc est? serviles nuptiae?</l>
-        <lb ed="TLN" n="69"/>
-        <l>servin uxorem ducent aut poscent sibi?</l>
-        <lb ed="TLN" n="70"/>
-        <l n="70">novom attulerunt, quod fit nusquam gentium.’</l>
-        <lb ed="TLN" n="71"/>
-        <l>at ego aio id fieri in Graecia et Carthagini,</l>
-        <lb ed="TLN" n="72"/>
-        <l>et hic in nostra terra † in Apulia;</l>
-        <lb ed="TLN" n="73"/>
-        <l>maioreque opere ibi serviles nuptiae</l>
-        <lb ed="TLN" n="74"/>
-        <l>quam liberales etiam curari solent;</l>
-        <lb ed="TLN" n="75"/>
-        <l n="75">id ni fit, mecum pignus si quis volt dato</l>
-        <lb ed="TLN" n="76"/>
-        <l>in urnam mulsi, Poenus dum iudex siet</l>
-        <lb ed="TLN" n="77"/>
-        <l>vel Graecus adeo, vel mea causa Apulus.</l>
-        <lb ed="TLN" n="78"/>
-        <l>quid nunc? nihil agitis? sentio, nemo sitit.</l>
-        <lb ed="TLN" n="79"/>
-        <l>revortar ád illam puellam éxpositiciam:</l>
-        <lb ed="TLN" n="80"/>
-        <l n="80">quam servi summa vi sibi uxorem expetunt,</l>
-        <lb ed="TLN" n="81"/>
-        <l>ea invenietur et pudica et libera,</l>
-        <lb ed="TLN" n="82"/>
-        <l>ingenua Atheniensis, neque quicquam stupri</l>
-        <lb ed="TLN" n="83"/>
-        <l>faciet profecto in hac quidem comoedia.</l>
-        <lb ed="TLN" n="84"/>
-        <l>mox hercle vero, post transactam fabulam,</l>
-        <lb ed="TLN" n="85"/>
-        <l n="85">argentum si quis dederit, ut ego suspicor,</l>
-        <lb ed="TLN" n="86"/>
-        <l>ultro ibit nuptum, non manebit auspices.</l>
-        <lb ed="TLN" n="87"/>
-        <l>tantum est. valete, bene rem gerite et vincite</l>
-        <lb ed="TLN" n="88"/>
-        <l>virtute vera, quod fecistis antidhac.</l>
+          <lb ed="TLN" n="1"/>
+          <l>Salvere iubeo spectatores optumos,</l>
+          <lb ed="TLN" n="2"/>
+          <l>fidem qui facitis maxumi, et vos Fides.</l>
+          <lb ed="TLN" n="3"/>
+          <l>si verum dixi, signum clarum date mihi,</l>
+          <lb ed="TLN" n="4"/>
+          <l>ut vos mi esse aequos iam inde a principio sciam.</l>
+          <lb ed="TLN" n="5"/>
+          <l n="5">qui utuntur vino vetere sapientis puto</l>
+          <lb ed="TLN" n="6"/>
+          <l>et qui libenter veteres spectant fabulas;</l>
+          <lb ed="TLN" n="7"/>
+          <l>&lt;atque&gt; antiqua opera et verba cum vobis placent,</l>
+          <lb ed="TLN" n="8"/>
+          <l>aequom est placere ante &lt;alias&gt; veteres fabulas:</l>
+          <lb ed="TLN" n="9"/>
+          <l>nam nunc novae quae prodeunt comoediae</l>
+          <lb ed="TLN" n="10"/>
+          <l n="10">multo sunt nequiores quam nummi novi.</l>
+          <lb ed="TLN" n="11"/>
+          <l>nos postquam populi rumore intelleximus</l>
+          <lb ed="TLN" n="12"/>
+          <l>studiose expetere vos Plautinas fabulas,</l>
+          <lb ed="TLN" n="13"/>
+          <l>antiquam éius edimus comoediam,</l>
+          <lb ed="TLN" n="14"/>
+          <l>quam vos probastis qui estis in senioribus;</l>
+          <lb ed="TLN" n="15"/>
+          <l n="15">nam iuniorum qui sunt non norunt, scio;</l>
+          <lb ed="TLN" n="16"/>
+          <l>verum ut cognoscant dabimus operam sedulo.</l>
+          <lb ed="TLN" n="17"/>
+          <l>haec cum primum acta est, vicit omnis fabulas.</l>
+          <lb ed="TLN" n="18"/>
+          <l>ea tempestate flos poetarum fuit,</l>
+          <lb ed="TLN" n="19"/>
+          <l>qui nunc abierunt hinc in communem locum.</l>
+          <lb ed="TLN" n="20"/>
+          <l n="20">sed tamen absentes prosunt &lt;pro&gt; praesentibus.</l>
+          <lb ed="TLN" n="21"/>
+          <l>vos omnes opere magno esse oratos volo,</l>
+          <lb ed="TLN" n="22"/>
+          <l>benigne ut operam detis ad nostrum gregem.</l>
+          <lb ed="TLN" n="23"/>
+          <l>eicite ex animo curam atque alienum aes *</l>
+          <lb ed="TLN" n="24"/>
+          <l>ne quis formidet flagitatorem suom:</l>
+          <lb ed="TLN" n="25"/>
+          <l n="25">ludi sunt, ludus datus est argentariis;</l>
+          <lb ed="TLN" n="26"/>
+          <l>tranquillum est, Alcedonia sunt circum forum:</l>
+          <lb ed="TLN" n="27"/>
+          <l>ratione utuntur, ludis poscunt neminem,</l>
+          <lb ed="TLN" n="28"/>
+          <l>secundum ludos reddunt autem nemini.</l>
+          <lb ed="TLN" n="29"/>
+          <l>aures vocivae si sunt, animum advortite:</l>
+          <lb ed="TLN" n="30"/>
+          <l n="30">comoediai nomen dare vobis volo.</l>
+          <lb ed="TLN" n="31"/>
+          <l>Clerumenoe vocatur haec comoedia</l>
+          <lb ed="TLN" n="32"/>
+          <l>graece, latine Sortientes. Deiphilus</l>
+          <lb ed="TLN" n="33"/>
+          <l>hanc graece scripsit, post id rursum denuo</l>
+          <lb ed="TLN" n="34"/>
+          <l>latine Plautus cum latranti nomine.</l>
+          <lb ed="TLN" n="35"/>
+          <l n="35">senex híc maritus habitat; éi est filius,</l>
+          <lb ed="TLN" n="36"/>
+          <l>is una cum patre in illisce habitat aedibus.</l>
+          <lb ed="TLN" n="37"/>
+          <l>est éi quidam servos, qui in morbo cubat,</l>
+          <lb ed="TLN" n="38"/>
+          <l>immo hercle vero in lecto, ne quid mentiar;</l>
+          <lb ed="TLN" n="39"/>
+          <l>is servos, sed abhinc annos factum est sedecim,</l>
+          <lb ed="TLN" n="40"/>
+          <l n="40">quom conspicatust primulo crepusculo</l>
+          <lb ed="TLN" n="41"/>
+          <l>puellam exponi. adít extemplo ad mulierem</l>
+          <lb ed="TLN" n="42"/>
+          <l>quae illam exponebat, orat ut eam det sibi:</l>
+          <lb ed="TLN" n="43"/>
+          <l>exorat, aufert; detulit recta domum,</l>
+          <lb ed="TLN" n="44"/>
+          <l>dat erae suae, orat ut eam curet, educet.</l>
+          <lb ed="TLN" n="45"/>
+          <l n="45">era fecit, educavit magna industria,</l>
+          <lb ed="TLN" n="46"/>
+          <l>quasi si esset ex se nata, non multo secus.</l>
+          <lb ed="TLN" n="47"/>
+          <l>postquam ea adolevit ad eam aetatem, ut viris</l>
+          <lb ed="TLN" n="48"/>
+          <l>placere posset, eam puellam hic senex</l>
+          <lb ed="TLN" n="49"/>
+          <l>amat efflictim, et item contra filius.</l>
+          <lb ed="TLN" n="50"/>
+          <l n="50">nunc sibi utérque contra legiones parat,</l>
+          <lb ed="TLN" n="51"/>
+          <l>paterque filiusque, clam alter alterum:</l>
+          <lb ed="TLN" n="52"/>
+          <l>pater adlegavit vilicum, qui posceret</l>
+          <lb ed="TLN" n="53"/>
+          <l>sibi istánc uxorem: is sperat, si ei sit data,</l>
+          <lb ed="TLN" n="54"/>
+          <l>sibi fore paratas clam uxorem excubias foris;</l>
+          <lb ed="TLN" n="55"/>
+          <l n="55">filius is autem armigerum adlegavit suom,</l>
+          <lb ed="TLN" n="56"/>
+          <l>qui sibi eam uxorem poscat: scit, si id impetret,</l>
+          <lb ed="TLN" n="57"/>
+          <l>futurum quod amat intra praesepis suas.</l>
+          <lb ed="TLN" n="58"/>
+          <l>senis uxor sensit virum amóri operam dare,</l>
+          <lb ed="TLN" n="59"/>
+          <l>propterea úna consentit cum filio.</l>
+          <lb ed="TLN" n="60"/>
+          <l n="60">ille autem postquam filium sensit suom</l>
+          <lb ed="TLN" n="61"/>
+          <l>eandem illam amare et esse ímpedimento sibi,</l>
+          <lb ed="TLN" n="62"/>
+          <l>hinc adulescentem peregre ablegavit pater;</l>
+          <lb ed="TLN" n="63"/>
+          <l>sciens ei mater dat operam absenti tamen.</l>
+          <lb ed="TLN" n="64"/>
+          <l>is, ne exspectetis, hodie in hac comoedia</l>
+          <lb ed="TLN" n="65"/>
+          <l n="65">in urbem non redibit: Plautus noluit,</l>
+          <lb ed="TLN" n="66"/>
+          <l>pontem interrupit, quí erat ei in itinere.</l>
+          <lb ed="TLN" n="67"/>
+          <l>sunt hic, inter se quos nunc credo dicere:</l>
+          <lb ed="TLN" n="68"/>
+          <l>‘quaeso hercle, quíd istuc est? serviles nuptiae?</l>
+          <lb ed="TLN" n="69"/>
+          <l>servin uxorem ducent aut poscent sibi?</l>
+          <lb ed="TLN" n="70"/>
+          <l n="70">novom attulerunt, quod fit nusquam gentium.’</l>
+          <lb ed="TLN" n="71"/>
+          <l>at ego aio id fieri in Graecia et Carthagini,</l>
+          <lb ed="TLN" n="72"/>
+          <l>et hic in nostra terra † in Apulia;</l>
+          <lb ed="TLN" n="73"/>
+          <l>maioreque opere ibi serviles nuptiae</l>
+          <lb ed="TLN" n="74"/>
+          <l>quam liberales etiam curari solent;</l>
+          <lb ed="TLN" n="75"/>
+          <l n="75">id ni fit, mecum pignus si quis volt dato</l>
+          <lb ed="TLN" n="76"/>
+          <l>in urnam mulsi, Poenus dum iudex siet</l>
+          <lb ed="TLN" n="77"/>
+          <l>vel Graecus adeo, vel mea causa Apulus.</l>
+          <lb ed="TLN" n="78"/>
+          <l>quid nunc? nihil agitis? sentio, nemo sitit.</l>
+          <lb ed="TLN" n="79"/>
+          <l>revortar ád illam puellam éxpositiciam:</l>
+          <lb ed="TLN" n="80"/>
+          <l n="80">quam servi summa vi sibi uxorem expetunt,</l>
+          <lb ed="TLN" n="81"/>
+          <l>ea invenietur et pudica et libera,</l>
+          <lb ed="TLN" n="82"/>
+          <l>ingenua Atheniensis, neque quicquam stupri</l>
+          <lb ed="TLN" n="83"/>
+          <l>faciet profecto in hac quidem comoedia.</l>
+          <lb ed="TLN" n="84"/>
+          <l>mox hercle vero, post transactam fabulam,</l>
+          <lb ed="TLN" n="85"/>
+          <l n="85">argentum si quis dederit, ut ego suspicor,</l>
+          <lb ed="TLN" n="86"/>
+          <l>ultro ibit nuptum, non manebit auspices.</l>
+          <lb ed="TLN" n="87"/>
+          <l>tantum est. valete, bene rem gerite et vincite</l>
+          <lb ed="TLN" n="88"/>
+          <l>virtute vera, quod fecistis antidhac.</l>
         </sp>
       </div>
       <div n="1" type="act">
@@ -3170,7 +3176,8 @@ Added to repository.
           </sp>
           <sp who="#olympio">
             <speaker>Ol.</speaker>
-            <l part="M"><foreign lang="greek">w)= *zeu=</foreign>
+            <l part="M">
+              <foreign lang="greek">w)= *zeu=</foreign>
               ,
             </l>
             <lb ed="TLN" n="731"/>

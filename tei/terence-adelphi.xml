@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q355342</idno>
       </publicationStmt>
       <extent/>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Publius Terentius Afer: Adelphi. In: Publii Terentii Comoediae sex. With a Commentary by Edward St. John Parry (= Bibliotheca Classica). London: Whittaker and Co. 1857, pp. 243–322.</title>
-            <date type="premiere" when="-0160">160 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -161,6 +159,14 @@ new additions
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0160">
+        <label>160 BC</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q355342"/>
+  </standOff>
   <text>
     <pb n="243"/>
     <front>
@@ -168,7 +174,7 @@ new additions
       <docTitle>
         <titlePart type="main">ADELPHI.</titlePart>
       </docTitle>
-    <pb n="244"/>
+      <pb n="244"/>
       <castList>
         <head>FABULAE INTERLOCUTORES.</head>
         <castItem type="role">
@@ -212,122 +218,122 @@ new additions
       </castList>
       <pb n="245"/>
       <div type="introduction">
-          <head>INTRODUCTION.</head>
-          <p xml:lang="eng">This play derives its name from the two pairs of brothers who are introduced. Demea and Micio, the elders, had always been very dissimilar in character and manner of life. Micio was a pleasant old bachelor, and had always lived in town, and was very lenient and indulgent towards his young relations. Demea on the contrary had kept up the thrifty habits of his early years, residing on his farm and taking a severe view of the conduct of his sons. Ctesipho, the younger of his sons, lived with his father at this farm; but Aeschinus, the elder, had been adopted by his uncle. They had accordingly been very differently brought up. Ctesipho had been kept very strictly at home, and was, to the best of his father's belief, a model of propriety. Aeschinus had been indulged by his uncle in every way, till he was notorious for his dissipation. He went so far at last as to offer violence to a young lady named Pamphila, whom he met one night when he was intoxicated. This was the last of his excesses. He promised to make all amends in his power by marrying Pamphila, and on this condition the matter was kept quiet by Sostrata her mother. Ctesipho in one of his visits to the town had fallen in love with a music girl belonging to a slave-merchant, and was carrying on an intercourse with her under the cover of his brother's name; for Aeschinus had taken the credit of the affair to himself that his father might not hear of Ctesipho's doings. After a time the slave-merchant gave notice to Ctesipho that unless he bought the music girl at his price she should be immediately sold. Ctesipho was in the greatest despair at this announcement, and was half inclined to run away from his troubles and leave the country, when Aeschinus, hearing the state of the case, cut matters short by breaking into the house of Sannio the slave-merchant, maltreating him, and carrying off the girl to his own house, where she was received by Ctesipho.</p>
-          <p xml:lang="eng">Here the action of the play commences. Demea coming into town hears of this new outrage of Aeschinus', and accuses his brother Micio of being the cause of all this excess. It was his indulgence that had made Aeschinus so dissolute. How different was the conduct of his <pb n="246"/> brother Ctesipho who had been brought up strictly at home in the country! Micio in return justifies his mode of education. Meanwhile Aeschinus is busied, with the assistance of his slave Parmeno, in arranging matters with Sannio, who blusters loudly at first, but finds at last that the best plan is to pocket his affront and trust to the young men to pay him, for he will lose more by waiting to prosecute the affair, as he is on the eve of a voyage to <placeName key="tgn,1000112">Cyprus</placeName>, than if he abandons the slave altogether. The news of Aeschinus' prank had spread over the city, and it was now carried to Sostrata his destined mother-in-law by Geta her slave, who had witnessed the whole affair. Sostrata sends her trusty Geta to Hegio, an old friend of her late husband Simulus, who will stand by her, and see that her daughter has justice done her. Demea in the mean time is in consternation, for he has heard that Ctesipho was with Aeschinus when this music girl was carried off; but Syrus, one of Micio's slaves, contrives, with great skill, to make the fact increase his good opinion of his son; for he represents Ctesipho to have taken part in the affair only to blame his brother's dissolute conduct, and says that as soon as the matter was over he had returned to the country to his usual work. Demea is greatly affected to find that he has one son who is a credit to his family, and sets off for his farm. On his way he meets Hegio, from whom he learns the circumstances of Aeschinus' connexion with Pamphila; and at the same time he finds from one of his farm servants that Ctesipho has never been to the farm at all, as Syrus had pretended. These news send him back to Micio in a rage; but he is again met with a new fiction by Syrus, who revenges himself on him by sending him on a fool's errand over the whole town to look for his brother. Micio meanwhile has been with Hegio to Sostrata and Pamphila, and has comforted them by giving his consent to the marriage of the young lady and Aeschinus. Demea now returns from his fruitless search after his brother, and there is a general disturbance, particularly when one of the slaves accidentally betrays the fact of Ctesipho's being in Micio's house, where his father finds him with the music girl. After some more discussions between Demea and Micio, the former suddenly determines to change his demeanour; and to the surprise of every one whom he meets, and not a little to his own, he acts the courteous and complaisant man. He falls in with all their humours, and promotes the happiness of all parties. Pamphila is married to Aeschinus; Sannio is paid; Micio is made to marry Sostrata; Hegio is provided for; and Syrus and his wife are freed in consideration of the great services which the cunning slave had rendered to morality. The play concludes with a speech in which Demea explains the meaning of his late conduct, and gives his hearers a little wholesome advice for the future.</p>
+        <head>INTRODUCTION.</head>
+        <p xml:lang="eng">This play derives its name from the two pairs of brothers who are introduced. Demea and Micio, the elders, had always been very dissimilar in character and manner of life. Micio was a pleasant old bachelor, and had always lived in town, and was very lenient and indulgent towards his young relations. Demea on the contrary had kept up the thrifty habits of his early years, residing on his farm and taking a severe view of the conduct of his sons. Ctesipho, the younger of his sons, lived with his father at this farm; but Aeschinus, the elder, had been adopted by his uncle. They had accordingly been very differently brought up. Ctesipho had been kept very strictly at home, and was, to the best of his father's belief, a model of propriety. Aeschinus had been indulged by his uncle in every way, till he was notorious for his dissipation. He went so far at last as to offer violence to a young lady named Pamphila, whom he met one night when he was intoxicated. This was the last of his excesses. He promised to make all amends in his power by marrying Pamphila, and on this condition the matter was kept quiet by Sostrata her mother. Ctesipho in one of his visits to the town had fallen in love with a music girl belonging to a slave-merchant, and was carrying on an intercourse with her under the cover of his brother's name; for Aeschinus had taken the credit of the affair to himself that his father might not hear of Ctesipho's doings. After a time the slave-merchant gave notice to Ctesipho that unless he bought the music girl at his price she should be immediately sold. Ctesipho was in the greatest despair at this announcement, and was half inclined to run away from his troubles and leave the country, when Aeschinus, hearing the state of the case, cut matters short by breaking into the house of Sannio the slave-merchant, maltreating him, and carrying off the girl to his own house, where she was received by Ctesipho.</p>
+        <p xml:lang="eng">Here the action of the play commences. Demea coming into town hears of this new outrage of Aeschinus', and accuses his brother Micio of being the cause of all this excess. It was his indulgence that had made Aeschinus so dissolute. How different was the conduct of his <pb n="246"/> brother Ctesipho who had been brought up strictly at home in the country! Micio in return justifies his mode of education. Meanwhile Aeschinus is busied, with the assistance of his slave Parmeno, in arranging matters with Sannio, who blusters loudly at first, but finds at last that the best plan is to pocket his affront and trust to the young men to pay him, for he will lose more by waiting to prosecute the affair, as he is on the eve of a voyage to <placeName key="tgn,1000112">Cyprus</placeName>, than if he abandons the slave altogether. The news of Aeschinus' prank had spread over the city, and it was now carried to Sostrata his destined mother-in-law by Geta her slave, who had witnessed the whole affair. Sostrata sends her trusty Geta to Hegio, an old friend of her late husband Simulus, who will stand by her, and see that her daughter has justice done her. Demea in the mean time is in consternation, for he has heard that Ctesipho was with Aeschinus when this music girl was carried off; but Syrus, one of Micio's slaves, contrives, with great skill, to make the fact increase his good opinion of his son; for he represents Ctesipho to have taken part in the affair only to blame his brother's dissolute conduct, and says that as soon as the matter was over he had returned to the country to his usual work. Demea is greatly affected to find that he has one son who is a credit to his family, and sets off for his farm. On his way he meets Hegio, from whom he learns the circumstances of Aeschinus' connexion with Pamphila; and at the same time he finds from one of his farm servants that Ctesipho has never been to the farm at all, as Syrus had pretended. These news send him back to Micio in a rage; but he is again met with a new fiction by Syrus, who revenges himself on him by sending him on a fool's errand over the whole town to look for his brother. Micio meanwhile has been with Hegio to Sostrata and Pamphila, and has comforted them by giving his consent to the marriage of the young lady and Aeschinus. Demea now returns from his fruitless search after his brother, and there is a general disturbance, particularly when one of the slaves accidentally betrays the fact of Ctesipho's being in Micio's house, where his father finds him with the music girl. After some more discussions between Demea and Micio, the former suddenly determines to change his demeanour; and to the surprise of every one whom he meets, and not a little to his own, he acts the courteous and complaisant man. He falls in with all their humours, and promotes the happiness of all parties. Pamphila is married to Aeschinus; Sannio is paid; Micio is made to marry Sostrata; Hegio is provided for; and Syrus and his wife are freed in consideration of the great services which the cunning slave had rendered to morality. The play concludes with a speech in which Demea explains the meaning of his late conduct, and gives his hearers a little wholesome advice for the future.</p>
       </div>
-      </front>
-        <pb n="247"/>
-      <body>
-        <div type="production">
-          <head>ADELPHI.</head>
-          <p>ACTA LUDIS FUNEBRIBUS AEMILII PAULLI QUOS FECERE Q. FABIUS MAXIMUS, P. CORNELIUS AFRICANUS. EGERE L. ATTILIUS PRAENESTINUS, MINUTIUS PROTHIMUS. MODOS FECIT FLACCUS CLAUDII, TIBIIS SARRANIS. FACTA GRAECA MENANDRU L. ANICIO M. CORNELIO COSS.</p>
-        </div>
+    </front>
+    <pb n="247"/>
+    <body>
+      <div type="production">
+        <head>ADELPHI.</head>
+        <p>ACTA LUDIS FUNEBRIBUS AEMILII PAULLI QUOS FECERE Q. FABIUS MAXIMUS, P. CORNELIUS AFRICANUS. EGERE L. ATTILIUS PRAENESTINUS, MINUTIUS PROTHIMUS. MODOS FECIT FLACCUS CLAUDII, TIBIIS SARRANIS. FACTA GRAECA MENANDRU L. ANICIO M. CORNELIO COSS.</p>
+      </div>
       <pb n="248"/>
       <div type="prologue">
-          <head>Prologus.</head>
-          <sp who="#prologus">
+        <head>Prologus.</head>
+        <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
               POSTQUAM Poëta sensit scripturam suam
               <lb ed="TLN" n="2"/>
-            </l>
+          </l>
           <l>
               Ab iniquis observari, et adversaries
               <lb ed="TLN" n="3"/>
-            </l>
+          </l>
           <l>
               Rapere in peiorem partem quam acturi sumus,
               <lb ed="TLN" n="4"/>
-            </l>
+          </l>
           <l>
               Indicio de se ipse erit; vos eritis iudices
               <lb ed="TLN" n="5"/>
-            </l>
+          </l>
           <l n="5">
               Laudine an vitio duci id factum oporteat.
               <lb ed="TLN" n="6"/>
-            </l>
+          </l>
           <l>
               Synapothnescontes Diphili comoedia est.
               <lb ed="TLN" n="7"/>
-            </l>
-            <pb n="249"/>
+          </l>
+          <pb n="249"/>
           <l>
               Eam Commorientes Plautus fecit fabulam.
               <lb ed="TLN" n="8"/>
-            </l>
+          </l>
           <l>
               In Graeca adolescens est qui lenoni eripuit
               <lb ed="TLN" n="9"/>
-            </l>
+          </l>
           <l>
               Meretricem in prima fabula. Eum Plautus locum
               <lb ed="TLN" n="10"/>
-            </l>
+          </l>
           <l n="10">
               Reliquit integrum: eum hic locum sumpsit sibi
               <lb ed="TLN" n="11"/>
-            </l>
+          </l>
           <l>
               In Adelphos; verbum de verbo expressum extulit.
               <lb ed="TLN" n="12"/>
-            </l>
+          </l>
           <l>
               Eam nos acturi sumus novatn: pernoscite
               <lb ed="TLN" n="13"/>
-            </l>
+          </l>
           <l>
               Furtumne factum existimetis, an locum
               <lb ed="TLN" n="14"/>
-            </l>
+          </l>
           <l>
               Reprehensum qui praeteritus negligentia est.
               <lb ed="TLN" n="15"/>
-            </l>
+          </l>
           <l n="15">
               Nam quod isti dicunt malevoli, homines nobiles
               <lb ed="TLN" n="16"/>
-            </l>
-            <pb n="250"/>
+          </l>
+          <pb n="250"/>
           <l>
               Eum adiutare, assidueque una scribere;
               <lb ed="TLN" n="17"/>
-            </l>
+          </l>
           <l>
               Quod illi maledictum vehemens esse existimant
               <lb ed="TLN" n="18"/>
-            </l>
+          </l>
           <l>
               Eam laudem hic ducit maximam, quum illis placet
               <lb ed="TLN" n="19"/>
-            </l>
+          </l>
           <l>
               Qui vobis universis et populo placent;
               <lb ed="TLN" n="20"/>
-            </l>
+          </l>
           <l n="20">
               Quorum opera in bello, in otio, in negotio,
               <lb ed="TLN" n="21"/>
-            </l>
+          </l>
           <l>
               Suo quisque tempore usus est sine superbia.
               <lb ed="TLN" n="22"/>
-            </l>
+          </l>
           <l>
               Dehinc ne exspectetis argumentum fabulae:
               <lb ed="TLN" n="23"/>
-            </l>
+          </l>
           <l>
               Senes qui primi venient ii partem aperient;
               <lb ed="TLN" n="24"/>
-            </l>
+          </l>
           <l>
               In agendo partem ostendent. Facite, aequanimitas
               <lb ed="TLN" n="25"/>
-            </l>
+          </l>
           <l n="25">Poëtae ad scribendum augeat industriam.</l>
-          </sp>
+        </sp>
       </div>
       <pb n="251"/>
       <div n="1" type="act">
@@ -336,231 +342,231 @@ new additions
           <head>Scena I.</head>
           <stage>MICIO.</stage>
           <sp who="#micio">
-          <lb ed="TLN" n="26"/>
-          <l>
+            <lb ed="TLN" n="26"/>
+            <l>
             Storax—Non rediit&gt; hac nocte a coena Aeschinus,
             <lb ed="TLN" n="27"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Neque servulorum quisquam qui adversum ierant.
             <lb ed="TLN" n="28"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Profecto hoc vere dicunt: si absis uspiam,
             <lb ed="TLN" n="29"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Aut ubi si cesses, evenire ea satius est
             <lb ed="TLN" n="30"/>
-          </l>
-          <l n="5">
+            </l>
+            <l n="5">
             Quae in te uxor dicit et quae in animo cogitat
             <lb ed="TLN" n="31"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Irata quam illa quae parentes propitii.
             <lb ed="TLN" n="32"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Uxor si cesses aut te amare cogitat,
             <lb ed="TLN" n="33"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Aut tete amari, aut potare, aut animo obsequi;
             <lb ed="TLN" n="34"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Et tibi bene esse soli quum sibi sit male.
             <lb ed="TLN" n="35"/>
-          </l>
-          <l n="10">
+            </l>
+            <l n="10">
             Ego quia non rediit filius quae cogito, et
             <lb ed="TLN" n="36"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quibus nunc sollicitor rebus! ne aut ille alserit,
             <lb ed="TLN" n="37"/>
-          </l>
+            </l>
             <pb n="252"/>
-          <l>
+            <l>
             Aut uspiam ceciderit, aut perfregerit
             <lb ed="TLN" n="38"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Aliquid. Vah, quemquamne honinem in animum instituere aut
             <lb ed="TLN" n="39"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Parare quod sit carius quam ipse est sibi?
             <lb ed="TLN" n="40"/>
-          </l>
-          <l n="15">
+            </l>
+            <l n="15">
             Atqui ex me hic non natus est, sed ex fratre. Is adeo
             <lb ed="TLN" n="41"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Dissimili studio est iam inde ab adolescentia.
             <lb ed="TLN" n="42"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ego hanc clementem vitam urbanam atque otium
             <lb ed="TLN" n="43"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Secutus sum; et, quod fortunatum isti putant,
             <lb ed="TLN" n="44"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Uxorem numquam habui. Ille contra haec omnia:
             <lb ed="TLN" n="45"/>
-          </l>
-          <l n="20">
+            </l>
+            <l n="20">
             Ruri agere vitam; semper parce ac duriter
             <lb ed="TLN" n="46"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Se habere: uxorem duxit; nati filii
             <lb ed="TLN" n="47"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Duo: inde ego hunc maiorem adoptavi mihi;
             <lb ed="TLN" n="48"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Eduxi a parvulo; habui, amavi pro meo;
             <lb ed="TLN" n="49"/>
-          </l>
+            </l>
             <pb n="253"/>
-          <l>
+            <l>
             In eo me oblecto; solum id est carum mihi.
             <lb ed="TLN" n="50"/>
-          </l>
-          <l n="25">
+            </l>
+            <l n="25">
             Ille ut item contra me habeat facio sedulo:
             <lb ed="TLN" n="51"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Do, practermitto: non necesse habeo omnia
             <lb ed="TLN" n="52"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Pro meo iure agere. Postremo alii clanculum
             <lb ed="TLN" n="53"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Patres quae faciunt, quae fert adolescentia,
             <lb ed="TLN" n="54"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ea ne me celet consuefeci filium;
             <lb ed="TLN" n="55"/>
-          </l>
-          <l n="30">
+            </l>
+            <l n="30">
             Nam qui mentiri aut fallere insuerit patrem, aut
             <lb ed="TLN" n="56"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Audebit, tanto magis audebit caeteros.
             <lb ed="TLN" n="57"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Pudore et liberalitate liberos
             <lb ed="TLN" n="58"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Retinere satius esse credo quam metu.
             <lb ed="TLN" n="59"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Haec fratri mecum non convenient neque placent.
             <lb ed="TLN" n="60"/>
-          </l>
-          <l n="35">
+            </l>
+            <l n="35">
             Venit ad me saepe clamitans, "Quid agis, Micio?
             <lb ed="TLN" n="61"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Cur perdis adolescentem nobis? cur amat?
             <lb ed="TLN" n="62"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Cur potat? cur tu his rebus sumtum suggeris?
             <lb ed="TLN" n="63"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Vestitu nimio indulges; nimium ineptus es."
             <lb ed="TLN" n="64"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nimium ipse est durus praeter aequumque et bonum:
             <lb ed="TLN" n="65"/>
-          </l>
-          <l n="40">
+            </l>
+            <l n="40">
             Et errat longe mea quidem sententia
             <lb ed="TLN" n="66"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Qui imperium credat gravius esse aut stabilius
             <lb ed="TLN" n="67"/>
-          </l>
+            </l>
             <pb n="254"/>
-          <l>
+            <l>
             Vi quod fit quam illud quod amicitia adiungitur.
             <lb ed="TLN" n="68"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Mea sic est ratio, et sic animum induco meum:
             <lb ed="TLN" n="69"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Malo coactus qui suum officium facit
             <lb ed="TLN" n="70"/>
-          </l>
-          <l n="45">
+            </l>
+            <l n="45">
             Dum id rescitum iri credit tantisper cavet:
             <lb ed="TLN" n="71"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Si sperat fore clam rursum ad ingenium redit.
             <lb ed="TLN" n="72"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ille quem beneficio adiungas ex animo facit;
             <lb ed="TLN" n="73"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Studet par referre: praesens absensque idem erit.
             <lb ed="TLN" n="74"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Hoc patrium est, potius consuefacere filium
             <lb ed="TLN" n="75"/>
-          </l>
-          <l n="50">
+            </l>
+            <l n="50">
             Sua sponte recte facere quam alieno metu.
             <lb ed="TLN" n="76"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Hoc pater ac dominus interest: hoc qui nequit,
             <lb ed="TLN" n="77"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Fateatur nescire imperare liberis.
             <lb ed="TLN" n="78"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Sed estne hic ipsus de quo agebam? et certe is est.
             <lb ed="TLN" n="79"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nescio quid tristem video: credo iam ut solet
             <lb ed="TLN" n="80"/>
-          </l>
-          <l n="55">
+            </l>
+            <l n="55">
             Iurgabit. Salvum te advenire, Demea,
             <lb ed="TLN" n="81"/>
-          </l>
-          <l>Gaudemus.</l>
+            </l>
+            <l>Gaudemus.</l>
           </sp>
         </div>
         <pb n="255"/>
@@ -3129,29 +3135,29 @@ new additions
           <head>Scena V.</head>
           <stage>HEGIO.</stage>
           <sp who="#hegio">
-          <lb ed="TLN" n="513"/>
-          <l>
+            <lb ed="TLN" n="513"/>
+            <l>
             Bono animo fac sis, Sostrata; et istam, quod potes,
             <lb ed="TLN" n="514"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Fac consolere. Ego Micionem, si apud forum est,
             <lb ed="TLN" n="515"/>
-          </l>
+            </l>
             <pb n="286"/>
-          <l>
+            <l>
             Conveniam; atque ut res gesta est narrabo ordine.
             <lb ed="TLN" n="516"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Si est facturus ut sit officium suum,
             <lb ed="TLN" n="517"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Faciat: sill aliter de hac re est eius sententia,
             <lb ed="TLN" n="518"/>
-          </l>
-          <l>Respondeat mihi; ut quid agam quamprimum sciam.</l>
+            </l>
+            <l>Respondeat mihi; ut quid agam quamprimum sciam.</l>
           </sp>
         </div>
       </div>
@@ -3811,113 +3817,113 @@ new additions
           <head>Scena IV.</head>
           <stage>AESCHINUS.</stage>
           <sp who="#aeschinus">
-          <lb ed="TLN" n="612"/>
-          <l>
+            <lb ed="TLN" n="612"/>
+            <l>
             Discrucior animi:
             <lb ed="TLN" n="613"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Hocine de improviso mali mihi obiici
             <lb ed="TLN" n="614"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Tantum, ut neque quid de me faciam neque quid agam certum siet!
             <lb ed="TLN" n="615"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Membra metu debilia sunt; animus timore
             <lb ed="TLN" n="616"/>
-          </l>
-          <l n="5">
+            </l>
+            <l n="5">
             Obstipuit: pectore consistere nil consili
             <lb ed="TLN" n="617"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quit. Vah! quomodo me ex hac expediam turba? Tanta nunc
             <lb ed="TLN" n="618"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Suspicio de me incidit;
             <lb ed="TLN" n="619"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Neque ea immerito: Sostrata credit mihi me psaltriam hanc emisse.
             <lb ed="TLN" n="620"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Id anus mihi indicium fecit.
             <lb ed="TLN" n="621"/>
-          </l>
-          <l n="10">
+            </l>
+            <l n="10">
             Nam ut hinc forte ea ad obstetricem erat missa, ubi eam vidi ilico
             <lb ed="TLN" n="622"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Accedo, rogito Pamphila quid agat, iam partus adsiet;
             <lb ed="TLN" n="623"/>
-          </l>
+            </l>
             <pb n="297"/>
-          <l>
+            <l>
             Eone obstetricem arcessat. Illa exclamat, "Abi, abi iam, Aeschine.
             <lb ed="TLN" n="624"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Satis diu dedisti verba; sat adhuc tua nos frustrata est fides."
             <lb ed="TLN" n="625"/>
-          </l>
-          <l>
+            </l>
+            <l>
             "Hem, quid istuc obsecro," inquam, "est?" "Valeas; habeas illam quae placet."
             <lb ed="TLN" n="626"/>
-          </l>
-          <l n="15">
+            </l>
+            <l n="15">
             Sensi ilico id illas suspicari: sed me reprehendi tamen
             <lb ed="TLN" n="627"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ne quid de fratre garrulae illi dicerem, ac fieret palam.
             <lb ed="TLN" n="628"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nunc quid faciam? Dicam fratris esse? Id quidem minime est opus
             <lb ed="TLN" n="629"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Usquam efferri. Ac mitto: fieri potis est ut ne qua exeat.
             <lb ed="TLN" n="630"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ipsum id metuo ut credant; tot concurrunt verisimilia.
             <lb ed="TLN" n="631"/>
-          </l>
-          <l n="20">
+            </l>
+            <l n="20">
             Egomet rapui; ipse egomet solvi argentum; ad me abducta est domum.
             <lb ed="TLN" n="632"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Haec adeo mea culpa fateor fieri. Non me hanc rem patri
             <lb ed="TLN" n="633"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ut ut erat gesta indicasse? Exorassem ut eam ducerem.
             <lb ed="TLN" n="634"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Cessatum usque adhuc est: nunc porro, Aeschine, expcrgiscere!
             <lb ed="TLN" n="635"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nunc hoc primum est: ad illas ibo ut purgem me; accedam ad fores.
             <lb ed="TLN" n="636"/>
-          </l>
-          <l n="25">
+            </l>
+            <l n="25">
             Perii! horresco semper ubi pultare hasce occipio miser.
             <lb ed="TLN" n="637"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Heus, heus: Aeschinus ego sum: aperite aliquis actutum ostium.
             <lb ed="TLN" n="638"/>
-          </l>
-          <l>Prodit nescio quis: concedam huc.</l>
+            </l>
+            <l>Prodit nescio quis: concedam huc.</l>
           </sp>
         </div>
         <pb n="298"/>
@@ -4420,29 +4426,29 @@ new additions
           <head>Scena VI.</head>
           <stage>DEMEA.</stage>
           <sp who="#demea">
-          <lb ed="TLN" n="717"/>
-          <l>
+            <lb ed="TLN" n="717"/>
+            <l>
             Defessus sum ambulando. Ut, Syre, te cum tua
             <lb ed="TLN" n="718"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Monstratione magnus perdat Iupiter!
             <lb ed="TLN" n="719"/>
-          </l>
+            </l>
             <pb n="303"/>
-          <l>
+            <l>
             Perreptavi usque omne oppiduni: ad portam, ad lacum:
             <lb ed="TLN" n="720"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quo non? neque illic fabrica ulla erat, neque fratremn holmo
             <lb ed="TLN" n="721"/>
-          </l>
-          <l n="5">
+            </l>
+            <l n="5">
             Vidisse se aibat quisquami: nunc vero domi
             <lb ed="TLN" n="722"/>
-          </l>
-          <l>Certum obsidere est usque donec redierit.</l>
+            </l>
+            <l>Certum obsidere est usque donec redierit.</l>
           </sp>
         </div>
         <div n="7" type="scene">
@@ -5308,114 +5314,114 @@ new additions
           <head>Scena IV.</head>
           <stage>DEMEA.</stage>
           <sp who="#demea">
-          <lb ed="TLN" n="859"/>
-          <l>
+            <lb ed="TLN" n="859"/>
+            <l>
             Nunquam ita quisquam bene subducta ratione ad vitam fruit
             <lb ed="TLN" n="860"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Quill res, aetas, usus semper liquid apportet novi,
             <lb ed="TLN" n="861"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Aliquid moneat; ut illa quae te scire credas nescias,
             <lb ed="TLN" n="862"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Et quae tibi putaris prima in experiendo repudies:
             <lb ed="TLN" n="863"/>
-          </l>
-          <l n="5">
+            </l>
+            <l n="5">
             Quod nunc mihi evenit; nam ego vitam duram quam vixi usque adhuc
             <lb ed="TLN" n="864"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Prope iam excurso spatio mitto. Id quamobrem? Re ipsa repperi
             <lb ed="TLN" n="865"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Facilitate nihil esse homini melius neque clementia.
             <lb ed="TLN" n="866"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Id esse verum ex me atque ex fratre cuivis facile est noscere.
             <lb ed="TLN" n="867"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ille suam semper egit vitam in otio, in conviviis,
             <lb ed="TLN" n="868"/>
-          </l>
+            </l>
             <pb n="313"/>
-          <l n="10">
+            <l n="10">
             Clemens, placidus, nulli laedere os, arridere omnibus:
             <lb ed="TLN" n="869"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Sibi vixit; sibi sumtum fecit: omnes bene dicunt, ainant.
             <lb ed="TLN" n="870"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ego ille agrestis, saevus, tristis, parcus, truculentus, tenax,
             <lb ed="TLN" n="871"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Duxi uxoremn: quam ibi miseriam vidi! Nati filii,
             <lb ed="TLN" n="872"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Alia cura. Porro auten illis dum studeo ut quam plurimum
             <lb ed="TLN" n="873"/>
-          </l>
-          <l n="15">
+            </l>
+            <l n="15">
             Facerem, contrivi in quaerendo vitam atque aetatem meam.
             <lb ed="TLN" n="874"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Nunc exacta aetate hoe fructi pro labore ab his fero,
             <lb ed="TLN" n="875"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Odium. Ille alter sine labore patria potitur commoda:
             <lb ed="TLN" n="876"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Illum ainant, me fugitant: illi credunt consilia omnia;
             <lb ed="TLN" n="877"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ilium diligunt; apud illum sunt ambo: ego desertus sum.
             <lb ed="TLN" n="878"/>
-          </l>
-          <l n="20">
+            </l>
+            <l n="20">
             Ilium ut vivat optant; meam autem mortem exspectant. Scilicet
             <lb ed="TLN" n="879"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Ita eos meo labore eductos maximo hic fecit suos
             <lb ed="TLN" n="880"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Paulo sumptu: miseriam omnem ego capio; hic potitur gaudia.
             <lb ed="TLN" n="881"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Age, age, nunc iam experiamur porro contra quid ego possiem
             <lb ed="TLN" n="882"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Blande dicere, aut benigne facere, quando eo provocat.
             <lb ed="TLN" n="883"/>
-          </l>
+            </l>
             <pb n="314"/>
-          <l n="25">
+            <l n="25">
             Ego quoque a meis me amari et magni pendi postulo:
             <lb ed="TLN" n="884"/>
-          </l>
-          <l>
+            </l>
+            <l>
             Si id fit dando atque obsequendo, non posteriores feram.
             <lb ed="TLN" n="885"/>
-          </l>
-          <l>Deerit. Id mea minime refert qui sum natu maximus.</l>
+            </l>
+            <l>Deerit. Id mea minime refert qui sum natu maximus.</l>
           </sp>
         </div>
         <div n="5" type="scene">

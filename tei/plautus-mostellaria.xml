@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1235754</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Mostellaria. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen alterum. Berlin: Weidmann 1896, pp. 77–129.</title>
-            <date type="premiere" when="-0193">ca. 193 (?)</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -169,6 +167,14 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0193">
+        <desc>ca. 193 (?)</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1235754"/>
+  </standOff>
   <text>
     <body>
       <div n="1" type="act">
@@ -1208,7 +1214,8 @@ Added to repository.
             <lb ed="TLN" n="320"/>
             <l>Sémper istóc modo.</l>
             <lb ed="TLN" n="321"/>
-            <l><abbr expan="moratus es">morátu's</abbr>
+            <l>
+              <abbr expan="moratus es">morátu's</abbr>
                tu te. &lt;íre huc&gt; debébas.
             </l>
           </sp>
@@ -4449,7 +4456,8 @@ Added to repository.
           </sp>
           <sp who="#phaniscus">
             <speaker>Phan.</speaker>
-            <l part="M"><foreign lang="greek">ma\ to\n *)apo/llw</foreign>
+            <l part="M">
+              <foreign lang="greek">ma\ to\n *)apo/llw</foreign>
               , sed minis.
             </l>
           </sp>

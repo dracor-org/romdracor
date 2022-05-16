@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q545258</idno>
       </publicationStmt>
       <extent/>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Publius Terentius Afer: Hecyra. In: Publii Terentii Comoediae sex. With a Commentary by Edward St. John Parry (= Bibliotheca Classica). London: Whittaker and Co. 1857, pp. 323–394.</title>
-            <date type="premiere" when="-0165">165 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -156,6 +154,14 @@ new additions
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" when="-0165">
+        <label>165 BC</label>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q545258"/>
+  </standOff>
   <text>
     <pb n="323"/>
     <front>
@@ -163,7 +169,7 @@ new additions
       <docTitle>
         <titlePart type="main">HECYRA.</titlePart>
       </docTitle>
-    <pb n="324"/>
+      <pb n="324"/>
       <castList>
         <head>FABULAE INTERLOCUTORES.</head>
         <castItem type="role">
@@ -203,262 +209,262 @@ new additions
       </castList>
       <pb n="325"/>
       <div type="introduction">
-          <head>INTRODUCTION.</head>
-          <p xml:lang="eng">THE Hecyra takes its name from the fact that its plot turns upon the misunderstanding between a mother and daughter-in-law. Colman has translated the word 'step-mother;' but <foreign xml:lang="ell">ἑκυρά</foreign> is etymologically, and in meaning, the same word as '<foreign xml:lang="lat">socrus</foreign>,' a mother-in-law; and there is the same close connexion between the correlative words <foreign xml:lang="ell">νυός</foreign> and '<foreign xml:lang="lat">nurus</foreign>,' a daughter-in-law.</p>
-          <p xml:lang="eng">The story of the play is as follows: A young man named Pamphilus, son of Laches and Sostrata, used to keep company with one Bacchis. One night as he was going to her house, rather the worse for wine, he met Philumena, the daughter of Phidippus and Myrrhina, on the road, and offered her violence, both of them being ignorant who the other was. She could not get any thing from him which could serve as a clue to his recognition; but he in the struggle managed to tear from her finger a ring, which he carried to Bacchis and gave to her. A short time after this he was married; for his father was very anxious to break off his intimacy with Bacchis, and to see his son quietly settled down, that he might have some prospect of domestic comfort in his old age; and he never let his son have any peace till he consented to take to himself a wife. By a strange coincidence the wife selected for him was this very Philumena, whom he had met at night on his way to his mistress's house; and her mother was only too glad to have her married, hoping that she would be saved from public disgrace. But things did not turn out as smoothly as she expected; for Pamphilus did not at first shake off his old love, but continued to visit Bacchis every day, and totally avoided the company of his wife. Gradually, however, a change took place. Bacehis, being annoyed at the marriage of Pamphilus, behaved with great coldness and caprice towards him. Philumena, on the other hand, bore his neglect with the greatest patience and good temper. And so it came about that Pamphilus abandoned Bacchis altogether, and became devotedly attached to his wife. At this moment a relation of his father's dies at Imbros, and Pamphilus is despatched to the spot to look after his property, his wife being left with her mother-in-law Sostrata. But this arrangement <pb n="326"/> does not last long. Philumena, finding that she has no hope of concealing her situation from her mother-in-law, begins to avoid her, and to withdraw from her company as much as possible; till, at last, she goes to her own mother on the pretence of attending a family sacrifice, and stays with her, refusing to return to her mother-in-law. Sostrata sends for her, but in vain; and she goes to see her, but is refused admittance.</p>
-          <p xml:lang="eng">This brings us to the beginning of the Second Act of the play, where the action really commences; for all that we had hitherto is merely a kind of prologue. Laches, Pamphilus' father, has now heard of this estrangement between his wife and his daughter-in-law, and comes into town to look into the matter. Priding himself much upon his wonderful knowledge of every thing that is going on, he lays it down decidedly that Sostrata alone is to blame; that all mothers-in-law hate their daughters-in-law, and that she must have driven Philumena away by her unkindness; and he is more confirmed in his opinion by the statement of Phidippus that his daughter refuses to come back to Laches' house while her husband is away. Sostrata in vain endeavours to clear herself.</p>
-          <p xml:lang="eng">At this moment Philumena's expected child is born; and Pamphilus returns home at the critical moment. Hearing that his wife is ill, he rushes into the house to see her, and there discovers the whole state of the case. Myrrhina entreats him to keep the matter quiet, and he so far retains his affection for his wife that he promises to do so, and is wretched at the thoughts of a separation from her, though he comes to the conclusion that after this child's birth, the son of he does not know whom, it is impossible for him ever to receive her back into his house. Meanwhile he sees the necessity of getting rid of his slave Parmeno, who will otherwise be sure to discover what is going on. So he sends him off on two errands, the last of which keeps him fully employed at a distance the rest of the day.</p>
-          <p xml:lang="eng">The body of the play is occupied by the indignant expostulations of the two fathers with Pamphilus, and with their wives. Now that Pamphilus has a son, Laches cannot conceive why he should not take his wife home again; and Phidippus is furious with him, with Laches, and with Myrrhina his wife. Sostrata comes to the determination of leaving town, and going to live with her husband in the country, hoping that her absence will remove the last obstacle to Philumena's return; but notwithstanding this, Pamnphilus still persists in his refusal to receive his wife, and at last the old men come to the conclusion that he must be still carrying on his old love affair with Bacchis, and determine to send for her, and to endeavour by fair means or foul to break off her intimacy with Pamphilus.</p>
-          <pb n="327"/>
-          <p xml:lang="eng">Bacchis is accordingly sent for, and she completely clears herself and Pamphilus from the suspicion, and further undertakes to explain the real state of affairs to Myrrhina and Philumena. This brings out the true history of Philumena; and Bacchis is able to inform Pamphilus that his wife was the owner of the ring which she had received from him. This entirely changes Pamphilus' view of the case, and he is beside himself with delight.</p>
-          <p xml:lang="eng">This play is not remarkable for any of the spirit which generally appears in Terence's plays. The event on which the plot of the play depends, and the circumstances of Philumena's illness, having necessarily to be kept in the background, gives an air of restraint to the whole piece. Indeed, within the whole action, properly so called, there is no incident except the discovery of the ring. The plot is much more simple, and the characters less interesting than those of any other play; and in the treatment of the character of the slave we notice a marked departure from the ordinary idea of that part. The Parmeno of the Hecyra is a very different personage from his namesake of the Eunuchus. He is merely sententious and inquisitive; and the only amusement which we get out of him is that he is very anxious to discover his master's secret, and that his curiosity is not gratified.</p>
+        <head>INTRODUCTION.</head>
+        <p xml:lang="eng">THE Hecyra takes its name from the fact that its plot turns upon the misunderstanding between a mother and daughter-in-law. Colman has translated the word 'step-mother;' but <foreign xml:lang="ell">ἑκυρά</foreign> is etymologically, and in meaning, the same word as '<foreign xml:lang="lat">socrus</foreign>,' a mother-in-law; and there is the same close connexion between the correlative words <foreign xml:lang="ell">νυός</foreign> and '<foreign xml:lang="lat">nurus</foreign>,' a daughter-in-law.</p>
+        <p xml:lang="eng">The story of the play is as follows: A young man named Pamphilus, son of Laches and Sostrata, used to keep company with one Bacchis. One night as he was going to her house, rather the worse for wine, he met Philumena, the daughter of Phidippus and Myrrhina, on the road, and offered her violence, both of them being ignorant who the other was. She could not get any thing from him which could serve as a clue to his recognition; but he in the struggle managed to tear from her finger a ring, which he carried to Bacchis and gave to her. A short time after this he was married; for his father was very anxious to break off his intimacy with Bacchis, and to see his son quietly settled down, that he might have some prospect of domestic comfort in his old age; and he never let his son have any peace till he consented to take to himself a wife. By a strange coincidence the wife selected for him was this very Philumena, whom he had met at night on his way to his mistress's house; and her mother was only too glad to have her married, hoping that she would be saved from public disgrace. But things did not turn out as smoothly as she expected; for Pamphilus did not at first shake off his old love, but continued to visit Bacchis every day, and totally avoided the company of his wife. Gradually, however, a change took place. Bacehis, being annoyed at the marriage of Pamphilus, behaved with great coldness and caprice towards him. Philumena, on the other hand, bore his neglect with the greatest patience and good temper. And so it came about that Pamphilus abandoned Bacchis altogether, and became devotedly attached to his wife. At this moment a relation of his father's dies at Imbros, and Pamphilus is despatched to the spot to look after his property, his wife being left with her mother-in-law Sostrata. But this arrangement <pb n="326"/> does not last long. Philumena, finding that she has no hope of concealing her situation from her mother-in-law, begins to avoid her, and to withdraw from her company as much as possible; till, at last, she goes to her own mother on the pretence of attending a family sacrifice, and stays with her, refusing to return to her mother-in-law. Sostrata sends for her, but in vain; and she goes to see her, but is refused admittance.</p>
+        <p xml:lang="eng">This brings us to the beginning of the Second Act of the play, where the action really commences; for all that we had hitherto is merely a kind of prologue. Laches, Pamphilus' father, has now heard of this estrangement between his wife and his daughter-in-law, and comes into town to look into the matter. Priding himself much upon his wonderful knowledge of every thing that is going on, he lays it down decidedly that Sostrata alone is to blame; that all mothers-in-law hate their daughters-in-law, and that she must have driven Philumena away by her unkindness; and he is more confirmed in his opinion by the statement of Phidippus that his daughter refuses to come back to Laches' house while her husband is away. Sostrata in vain endeavours to clear herself.</p>
+        <p xml:lang="eng">At this moment Philumena's expected child is born; and Pamphilus returns home at the critical moment. Hearing that his wife is ill, he rushes into the house to see her, and there discovers the whole state of the case. Myrrhina entreats him to keep the matter quiet, and he so far retains his affection for his wife that he promises to do so, and is wretched at the thoughts of a separation from her, though he comes to the conclusion that after this child's birth, the son of he does not know whom, it is impossible for him ever to receive her back into his house. Meanwhile he sees the necessity of getting rid of his slave Parmeno, who will otherwise be sure to discover what is going on. So he sends him off on two errands, the last of which keeps him fully employed at a distance the rest of the day.</p>
+        <p xml:lang="eng">The body of the play is occupied by the indignant expostulations of the two fathers with Pamphilus, and with their wives. Now that Pamphilus has a son, Laches cannot conceive why he should not take his wife home again; and Phidippus is furious with him, with Laches, and with Myrrhina his wife. Sostrata comes to the determination of leaving town, and going to live with her husband in the country, hoping that her absence will remove the last obstacle to Philumena's return; but notwithstanding this, Pamnphilus still persists in his refusal to receive his wife, and at last the old men come to the conclusion that he must be still carrying on his old love affair with Bacchis, and determine to send for her, and to endeavour by fair means or foul to break off her intimacy with Pamphilus.</p>
+        <pb n="327"/>
+        <p xml:lang="eng">Bacchis is accordingly sent for, and she completely clears herself and Pamphilus from the suspicion, and further undertakes to explain the real state of affairs to Myrrhina and Philumena. This brings out the true history of Philumena; and Bacchis is able to inform Pamphilus that his wife was the owner of the ring which she had received from him. This entirely changes Pamphilus' view of the case, and he is beside himself with delight.</p>
+        <p xml:lang="eng">This play is not remarkable for any of the spirit which generally appears in Terence's plays. The event on which the plot of the play depends, and the circumstances of Philumena's illness, having necessarily to be kept in the background, gives an air of restraint to the whole piece. Indeed, within the whole action, properly so called, there is no incident except the discovery of the ring. The plot is much more simple, and the characters less interesting than those of any other play; and in the treatment of the character of the slave we notice a marked departure from the ordinary idea of that part. The Parmeno of the Hecyra is a very different personage from his namesake of the Eunuchus. He is merely sententious and inquisitive; and the only amusement which we get out of him is that he is very anxious to discover his master's secret, and that his curiosity is not gratified.</p>
       </div>
-      </front>
-        <pb n="328"/>
-      <body>
-        <div type="production">
-          <head>HECYRA.</head>
-          <p>ACTA LUDIS MEGALENSIBUS, SEX. IUL. CAESARE CN. CORNELIO DOLABELLA AEDILIBUS CURULIBUS. NON EST PERACTA. MODOS FECIT FLACCUS CLAUDII, TIBIIS PARIBUS. TOTA GRAECA APOLLODORU FACTA EST. ACTA PRIMO SINE PROLOGO. DATA SECUNDO CN. OCTAVIO T. MANLIO COSS. RELATA EST L. AEMILII PAULI LUDIS FUNEBRIBUS. NON EST PLACITA. TERTIO RELATA EST Q. FULVIO L. MARCIO AEDILIBUS CURULIBUS. EGIT L. AMBIVIUS TURPIO. PLACUIT.</p>
-        </div>
+    </front>
+    <pb n="328"/>
+    <body>
+      <div type="production">
+        <head>HECYRA.</head>
+        <p>ACTA LUDIS MEGALENSIBUS, SEX. IUL. CAESARE CN. CORNELIO DOLABELLA AEDILIBUS CURULIBUS. NON EST PERACTA. MODOS FECIT FLACCUS CLAUDII, TIBIIS PARIBUS. TOTA GRAECA APOLLODORU FACTA EST. ACTA PRIMO SINE PROLOGO. DATA SECUNDO CN. OCTAVIO T. MANLIO COSS. RELATA EST L. AEMILII PAULI LUDIS FUNEBRIBUS. NON EST PLACITA. TERTIO RELATA EST Q. FULVIO L. MARCIO AEDILIBUS CURULIBUS. EGIT L. AMBIVIUS TURPIO. PLACUIT.</p>
+      </div>
       <pb n="329"/>
       <div type="prologue">
-          <head>Prologus.</head>
-          <sp who="#prologus">
+        <head>Prologus.</head>
+        <sp who="#prologus">
           <lb ed="TLN" n="1"/>
           <l>
               Hecyra est huic nomen fabulae: haec cum data
               <lb ed="TLN" n="2"/>
-            </l>
+          </l>
           <l>
               Nova est novum intervenit vitium et calamitas,
               <lb ed="TLN" n="3"/>
-            </l>
+          </l>
           <l>
               Ut neque spectari neque cognosci potuerit.
               <lb ed="TLN" n="4"/>
-            </l>
+          </l>
           <l>
               Ita populus studio stupidus in funambulo
               <lb ed="TLN" n="5"/>
-            </l>
-            <pb n="330"/>
+          </l>
+          <pb n="330"/>
           <l n="5">
               Animum occuparat. Nunc haec plane est pro nova;
               <lb ed="TLN" n="6"/>
-            </l>
+          </l>
           <l>
               Et is qui scripsit hanc ob eam rem noluit
               <lb ed="TLN" n="7"/>
-            </l>
+          </l>
           <l>
               Iterum referre ut iterum posset vendere.
               <lb ed="TLN" n="8"/>
-            </l>
+          </l>
           <l>Alias cognostis eius: quaeso hanc nunc noscite.</l>
-          </sp>
-        </div>
-        <div type="prologue">
-          <head>Alter Prologus.</head>
-          <sp who="#alter_prologus">
+        </sp>
+      </div>
+      <div type="prologue">
+        <head>Alter Prologus.</head>
+        <sp who="#alter_prologus">
           <lb ed="TLN" n="9"/>
           <l>
               Orator ad vos venio ornatu prologi:
               <lb ed="TLN" n="10"/>
-            </l>
+          </l>
           <l>
               Sinite exorator sim, eodem ut iure uti senem
               <lb ed="TLN" n="11"/>
-            </l>
-            <pb n="331"/>
+          </l>
+          <pb n="331"/>
           <l>
               Liceat quo iure sum usus adolescentior;
               <lb ed="TLN" n="12"/>
-            </l>
+          </l>
           <l>
               Novas qui exactas feci ut inveterascerent,
               <lb ed="TLN" n="13"/>
-            </l>
+          </l>
           <l n="5">
               Ne cum poeta scriptura evanesceret.
               <lb ed="TLN" n="14"/>
-            </l>
+          </l>
           <l>
               In his quas primum Caecili didici novas
               <lb ed="TLN" n="15"/>
-            </l>
+          </l>
           <l>
               Partim sum earum exactus, partim vix steti.
               <lb ed="TLN" n="16"/>
-            </l>
+          </l>
           <l>
               Quia scibam dubiant fortunam esse scenicam,
               <lb ed="TLN" n="17"/>
-            </l>
-            <pb n="332"/>
+          </l>
+          <pb n="332"/>
           <l>
               Spe incerta certum mihi laborem sustuli.
               <lb ed="TLN" n="18"/>
-            </l>
+          </l>
           <l n="10">
               Easdem agere coepi ut ab eodem alias discerem
               <lb ed="TLN" n="19"/>
-            </l>
+          </l>
           <l>
               Novas studiose, ne ilium ab studio abducerem.
               <lb ed="TLN" n="20"/>
-            </l>
+          </l>
           <l>
               Perfeci ut spectarentur. Ubi sunt cognitae,
               <lb ed="TLN" n="21"/>
-            </l>
+          </l>
           <l>
               Placitae sunt. Ita poetam restitui in locum
               <lb ed="TLN" n="22"/>
-            </l>
+          </l>
           <l>
               Prope iam remotum iniuria adversarium
               <lb ed="TLN" n="23"/>
-            </l>
+          </l>
           <l n="15">
               Ab studio atque ab labore atque arte musica.
               <lb ed="TLN" n="24"/>
-            </l>
+          </l>
           <l>
               Quod si scripturam sprevissem in praesentia,
               <lb ed="TLN" n="25"/>
-            </l>
+          </l>
           <l>
               Et in deterrendo voluissem operam sumere,
               <lb ed="TLN" n="26"/>
-            </l>
+          </l>
           <l>
               Ut in otio esset potius quam in negotio,
               <lb ed="TLN" n="27"/>
-            </l>
+          </l>
           <l>
               Deterruissem facile ne alias scriberet.
               <lb ed="TLN" n="28"/>
-            </l>
+          </l>
           <l n="20">
               Nunc quid petam mea causa aequo animo attendite.
               <lb ed="TLN" n="29"/>
-            </l>
+          </l>
           <l>
               Hecyram ad vos refero, quam mihi per silentium
               <lb ed="TLN" n="30"/>
-            </l>
+          </l>
           <l>
               Numquam agere licitum est; ita eam oppressit calamitas.
               <lb ed="TLN" n="31"/>
-            </l>
+          </l>
           <l>
               Eam calamitatem vestra intelligentia
               <lb ed="TLN" n="32"/>
-            </l>
+          </l>
           <l>
               Sedabit, si erit adiutrix nostrae industriae.
               <lb ed="TLN" n="33"/>
-            </l>
+          </l>
           <l n="25">
               Quum primum eam agere coepi, pugilum gloria,
               <lb ed="TLN" n="34"/>
-            </l>
-            <pb n="332"/>
+          </l>
+          <pb n="332"/>
           <l>
               Funambuli eodem accessit expectatio:
               <lb ed="TLN" n="35"/>
-            </l>
+          </l>
           <l>
               Comitum conventus, strepitus, clamor mulierum
               <lb ed="TLN" n="36"/>
-            </l>
+          </l>
           <l>
               Fecere ut ante tempus exirem foras.
               <lb ed="TLN" n="37"/>
-            </l>
+          </l>
           <l>
               Vetere in nova coepi uti consuetudine,
               <lb ed="TLN" n="38"/>
-            </l>
+          </l>
           <l n="30">
               In experiendo ut essem: refero denuo
               <lb ed="TLN" n="39"/>
-            </l>
+          </l>
           <l>
               Primo actu placeo; quum interea rumor venit
               <lb ed="TLN" n="40"/>
-            </l>
+          </l>
           <l>
               Datum iri gladiatores; populus convolat:
               <lb ed="TLN" n="41"/>
-            </l>
+          </l>
           <l>
               Tumultuantur, clamant, pugnant de loco:
               <lb ed="TLN" n="42"/>
-            </l>
+          </l>
           <l>
               Ego interea meum non potui tutari locum.
               <lb ed="TLN" n="43"/>
-            </l>
+          </l>
           <l n="35">
               Nunc turba nulla est: otium et silentium est:
               <lb ed="TLN" n="44"/>
-            </l>
+          </l>
           <l>
               Agendi tempus mihi datum est: vobis datur
               <lb ed="TLN" n="45"/>
-            </l>
+          </l>
           <l>
               Potestas condecorandi ludos scenicos.
               <lb ed="TLN" n="46"/>
-            </l>
+          </l>
           <l>
               Nolite sinere per vos artem musicam
               <lb ed="TLN" n="47"/>
-            </l>
+          </l>
           <l>
               Recidere ad paucos: facite ut vestra auctoritas
               <lb ed="TLN" n="48"/>
-            </l>
+          </l>
           <l n="40">
               Meae auctoritati fautrix adiutrixque sit.
               <lb ed="TLN" n="49"/>
-            </l>
+          </l>
           <l>
               [Si numquam avare pretium statui arti meae,
               <lb ed="TLN" n="50"/>
-            </l>
+          </l>
           <l>
               Et eum esse quaestum in animum induxi maximum,
               <lb ed="TLN" n="51"/>
-            </l>
+          </l>
           <l>
               Quam maxime servire vestris commodis,]
               <lb ed="TLN" n="52"/>
-            </l>
+          </l>
           <l>
               Sinite impetrare me, qui in tutelam meam
               <lb ed="TLN" n="53"/>
-            </l>
-            <pb n="334"/>
+          </l>
+          <pb n="334"/>
           <l n="45">
               Studium suum et se in vestram commisit fidem,
               <lb ed="TLN" n="54"/>
-            </l>
+          </l>
           <l>
               Ne cun circumventum inique iniqui irrideant.
               <lb ed="TLN" n="55"/>
-            </l>
+          </l>
           <l>
               Mea causa causam hanc accipite, et date silentium,
               <lb ed="TLN" n="56"/>
-            </l>
+          </l>
           <l>
               Ut libeat scribere aliis, mihique ut discere
               <lb ed="TLN" n="57"/>
-            </l>
+          </l>
           <l>Novas expediat posthac pretio emtas meo.</l>
-          </sp>
+        </sp>
       </div>
       <div n="1" type="act">
         <head>Actus I.</head>

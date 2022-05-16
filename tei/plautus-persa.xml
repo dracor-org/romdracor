@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q547694</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Persa. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen alterum. Berlin: Weidmann 1896, pp. 131–173.</title>
-            <date type="premiere" notBefore="-0196">after 196 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -150,6 +148,14 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" notBefore="-0196">
+        <desc>after 196 BC</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q547694"/>
+  </standOff>
   <text>
     <body>
       <div n="1" type="act">
@@ -880,7 +886,8 @@ Added to repository.
           <sp who="#saturio">
             <speaker>Sat.</speaker>
             <lb ed="TLN" n="159"/>
-            <l part="I"><foreign lang="greek">po/qen</foreign>
+            <l part="I">
+              <foreign lang="greek">po/qen</foreign>
                ornamenta?
             </l>
           </sp>
@@ -1282,7 +1289,8 @@ Added to repository.
           </sp>
           <sp who="#sophoclidisca">
             <speaker>Soph.</speaker>
-            <l part="M"><abbr expan="scelestus es">Scelestu's</abbr>
+            <l part="M">
+              <abbr expan="scelestus es">Scelestu's</abbr>
               .
             </l>
           </sp>
@@ -1443,7 +1451,8 @@ Added to repository.
           </sp>
           <sp who="#sophoclidisca">
             <speaker>So.</speaker>
-            <l part="M"><abbr expan="odiosus es">Odiosu's</abbr>
+            <l part="M">
+              <abbr expan="odiosus es">Odiosu's</abbr>
               .
             </l>
           </sp>

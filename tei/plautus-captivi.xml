@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
   <teiHeader>
@@ -25,7 +25,6 @@
             <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
           </licence>
         </availability>
-        <idno type="wikidata" xml:base="http://www.wikidata.org/entity/">Q1035171</idno>
       </publicationStmt>
       <extent>about 71Kb</extent>
       <sourceDesc>
@@ -40,7 +39,6 @@
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Bacchides. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen prius. Berlin: Weidmann 1895, pp. 177–221.</title>
-            <date type="premiere" notBefore="-0194" notAfter="-0188">194–188 BC</date>
           </bibl>
         </bibl>
       </sourceDesc>
@@ -165,147 +163,155 @@ Added to repository.
       <item>converted to DraCor TEI-P5 format</item>
     </change>
   </teiHeader>
+  <standOff>
+    <listEvent>
+      <event type="premiere" notBefore="-0194" notAfter="-0188">
+        <desc>194–188 BC</desc>
+      </event>
+    </listEvent>
+    <link type="wikidata" target="http://www.wikidata.org/entity/Q1035171"/>
+  </standOff>
   <text>
     <body>
       <div n="prol." type="act">
         <head>Prologus</head>
         <sp who="#prologus">
-        <lb ed="TLN" n="1"/>
-        <l>Hos quos videtis stare hic captivos duos,</l>
-        <lb ed="TLN" n="2"/>
-        <l>†illi qui astant, hi stant ambo, non sedent;</l>
-        <lb ed="TLN" n="3"/>
-        <l>hoc vos mihi testes estis me verum loqui.</l>
-        <lb ed="TLN" n="4"/>
-        <l>senex qui hic habitat Hegio est huius pater.</l>
-        <lb ed="TLN" n="5"/>
-        <l n="5">sed is quo pacto serviat suo sibi patri,</l>
-        <lb ed="TLN" n="6"/>
-        <l>id ego hic apud vos proloquar, si operam datis.</l>
-        <lb ed="TLN" n="7"/>
-        <l>seni huic fuerunt filii nati duo;</l>
-        <lb ed="TLN" n="8"/>
-        <l>alterum quadrimum puerum servos surpuit</l>
-        <lb ed="TLN" n="9"/>
-        <l>eumque hínc profugiens vendidit in Alide</l>
-        <lb ed="TLN" n="10"/>
-        <l n="10">patri huius. iam hoc tenetis? * optume est.</l>
-        <lb ed="TLN" n="11"/>
-        <l>negát hercle ille ultimus. accedito.</l>
-        <lb ed="TLN" n="12"/>
-        <l>si non ubi sedeas locus est, est ubi ambules,</l>
-        <lb ed="TLN" n="13"/>
-        <l>quando histrionem cogis mendicarier.</l>
-        <lb ed="TLN" n="14"/>
-        <l>ego me tua causa, ne erres, non rupturus sum.</l>
-        <lb ed="TLN" n="15"/>
-        <l n="15">vos qui potestis ope vestra censerier,</l>
-        <lb ed="TLN" n="16"/>
-        <l>accipite relicuom: alieno uti nil moror.</l>
-        <lb ed="TLN" n="17"/>
-        <l>fugitivos ille, ut dixeram ante, huius patri</l>
-        <lb ed="TLN" n="18"/>
-        <l>domo quém profugiens dominum abstulerat vendidit.</l>
-        <lb ed="TLN" n="19"/>
-        <l>is postquam hunc emit, dedit eum huic gnato suo</l>
-        <lb ed="TLN" n="20"/>
-        <l n="20">peculiarem, quia quasi una aetas erat.</l>
-        <lb ed="TLN" n="21"/>
-        <l>hic nunc domi sérvit suo patri, nec scit pater;</l>
-        <lb ed="TLN" n="22"/>
-        <l>enim véro di nos quasi pilas homines habent.</l>
-        <lb ed="TLN" n="23"/>
-        <l>rationem habetis, quo modo unum amiserit.</l>
-        <lb ed="TLN" n="24"/>
-        <l>postquam belligerant Aetoli cum Aleis,</l>
-        <lb ed="TLN" n="25"/>
-        <l n="25">ut fit in bello, capitur alter filius:</l>
-        <lb ed="TLN" n="26"/>
-        <l>medicus Menarchus emit ibidem in Alide.</l>
-        <lb ed="TLN" n="27"/>
-        <l>coepit captivos commercari hic Aleos,</l>
-        <lb ed="TLN" n="28"/>
-        <l>si quem reperire possit qui mutet suom,</l>
-        <lb ed="TLN" n="29"/>
-        <l>illum captivom: hunc suom esse nescit, qui domist.</l>
-        <lb ed="TLN" n="30"/>
-        <l n="30">et quoniam heri indaudivit, de summo loco</l>
-        <lb ed="TLN" n="31"/>
-        <l>summoque genere captum esse equitem Aleum,</l>
-        <lb ed="TLN" n="32"/>
-        <l>nil pretio parsit, filio dum parceret:</l>
-        <lb ed="TLN" n="33"/>
-        <l>reconciliare ut facilius posset domum,</l>
-        <lb ed="TLN" n="34"/>
-        <l>emít hosce e praeda ambos de quaestoribus.</l>
-        <lb ed="TLN" n="35"/>
-        <l n="35">hisce autem inter sese hunc confinxerunt dolum,</l>
-        <lb ed="TLN" n="36"/>
-        <l>quo pacto hic servos suom erum hinc amittat domum.</l>
-        <lb ed="TLN" n="37"/>
-        <l>itaque inter se commutant vestem et nomina;</l>
-        <lb ed="TLN" n="38"/>
-        <l>illic vocatur Philocrates, hic Tyndarus:</l>
-        <lb ed="TLN" n="39"/>
-        <l>huius íllic, hic illius hodie fert imaginem.</l>
-        <lb ed="TLN" n="40"/>
-        <l n="40">et hic hódie expediet hanc docte fallaciam,</l>
-        <lb ed="TLN" n="41"/>
-        <l>et suom erum faciet libertatis compotem,</l>
-        <lb ed="TLN" n="42"/>
-        <l>eodemque pacto fratrem servabit suom</l>
-        <lb ed="TLN" n="43"/>
-        <l>reducemque faciet liberum in patriam ad patrem,</l>
-        <lb ed="TLN" n="44"/>
-        <l>imprudens: itidem ut saepe iam in multis locis</l>
-        <lb ed="TLN" n="45"/>
-        <l n="45">plus insciens quis fecit quam prudens boni.</l>
-        <lb ed="TLN" n="46"/>
-        <l>sed inscientes sua sibi fallacia</l>
-        <lb ed="TLN" n="47"/>
-        <l>ita compararunt et confinxerunt dolum</l>
-        <lb ed="TLN" n="48"/>
-        <l>itaque hi commenti, de sua sententia</l>
-        <lb ed="TLN" n="49"/>
-        <l>ut in sérvitute hic ad suom maneat patrem:</l>
-        <lb ed="TLN" n="50"/>
-        <l n="50">ita nunc ignorans suo sibi servit patri;</l>
-        <lb ed="TLN" n="51"/>
-        <l>homunculi quanti sunt, quom recogito!</l>
-        <lb ed="TLN" n="52"/>
-        <l>haec res agetur nobis, vobis fabula.</l>
-        <lb ed="TLN" n="53"/>
-        <l>sed etiam est, paucis vos quod monitos voluerim.</l>
-        <lb ed="TLN" n="54"/>
-        <l>profecto expediet fabulae huic operam dare.</l>
-        <lb ed="TLN" n="55"/>
-        <l n="55">non pertractate facta est neque item ut ceterae:</l>
-        <lb ed="TLN" n="56"/>
-        <l>neque spurcidici insunt versus, immemorabiles;</l>
-        <lb ed="TLN" n="57"/>
-        <l>hic neque periurus leno est nec meretrix mala</l>
-        <lb ed="TLN" n="58"/>
-        <l>neque miles gloriosus; ne vereamini,</l>
-        <lb ed="TLN" n="59"/>
-        <l>quia bellum Aetolis esse dixi cum Aleis:</l>
-        <lb ed="TLN" n="60"/>
-        <l n="60">foris íllic extra scaenam fient proelia.</l>
-        <lb ed="TLN" n="61"/>
-        <l>nam hoc paene iniquomst, comico choragio</l>
-        <lb ed="TLN" n="62"/>
-        <l>conari desubito agere nos tragoediam.</l>
-        <lb ed="TLN" n="63"/>
-        <l>proin si quis pugnam expectat, litis contrahat:</l>
-        <lb ed="TLN" n="64"/>
-        <l>valentiorem nactus adversarium</l>
-        <lb ed="TLN" n="65"/>
-        <l n="65">si erit, ego faciam ut pugnam inspectet non bonam,</l>
-        <lb ed="TLN" n="66"/>
-        <l>adeo ut spectare postea omnis oderit.</l>
-        <lb ed="TLN" n="67"/>
-        <l>abeo. valete, iudices iustissimi</l>
-        <lb ed="TLN" n="68"/>
-        <l>domi duellique duellatores optumi.</l>
+          <lb ed="TLN" n="1"/>
+          <l>Hos quos videtis stare hic captivos duos,</l>
+          <lb ed="TLN" n="2"/>
+          <l>†illi qui astant, hi stant ambo, non sedent;</l>
+          <lb ed="TLN" n="3"/>
+          <l>hoc vos mihi testes estis me verum loqui.</l>
+          <lb ed="TLN" n="4"/>
+          <l>senex qui hic habitat Hegio est huius pater.</l>
+          <lb ed="TLN" n="5"/>
+          <l n="5">sed is quo pacto serviat suo sibi patri,</l>
+          <lb ed="TLN" n="6"/>
+          <l>id ego hic apud vos proloquar, si operam datis.</l>
+          <lb ed="TLN" n="7"/>
+          <l>seni huic fuerunt filii nati duo;</l>
+          <lb ed="TLN" n="8"/>
+          <l>alterum quadrimum puerum servos surpuit</l>
+          <lb ed="TLN" n="9"/>
+          <l>eumque hínc profugiens vendidit in Alide</l>
+          <lb ed="TLN" n="10"/>
+          <l n="10">patri huius. iam hoc tenetis? * optume est.</l>
+          <lb ed="TLN" n="11"/>
+          <l>negát hercle ille ultimus. accedito.</l>
+          <lb ed="TLN" n="12"/>
+          <l>si non ubi sedeas locus est, est ubi ambules,</l>
+          <lb ed="TLN" n="13"/>
+          <l>quando histrionem cogis mendicarier.</l>
+          <lb ed="TLN" n="14"/>
+          <l>ego me tua causa, ne erres, non rupturus sum.</l>
+          <lb ed="TLN" n="15"/>
+          <l n="15">vos qui potestis ope vestra censerier,</l>
+          <lb ed="TLN" n="16"/>
+          <l>accipite relicuom: alieno uti nil moror.</l>
+          <lb ed="TLN" n="17"/>
+          <l>fugitivos ille, ut dixeram ante, huius patri</l>
+          <lb ed="TLN" n="18"/>
+          <l>domo quém profugiens dominum abstulerat vendidit.</l>
+          <lb ed="TLN" n="19"/>
+          <l>is postquam hunc emit, dedit eum huic gnato suo</l>
+          <lb ed="TLN" n="20"/>
+          <l n="20">peculiarem, quia quasi una aetas erat.</l>
+          <lb ed="TLN" n="21"/>
+          <l>hic nunc domi sérvit suo patri, nec scit pater;</l>
+          <lb ed="TLN" n="22"/>
+          <l>enim véro di nos quasi pilas homines habent.</l>
+          <lb ed="TLN" n="23"/>
+          <l>rationem habetis, quo modo unum amiserit.</l>
+          <lb ed="TLN" n="24"/>
+          <l>postquam belligerant Aetoli cum Aleis,</l>
+          <lb ed="TLN" n="25"/>
+          <l n="25">ut fit in bello, capitur alter filius:</l>
+          <lb ed="TLN" n="26"/>
+          <l>medicus Menarchus emit ibidem in Alide.</l>
+          <lb ed="TLN" n="27"/>
+          <l>coepit captivos commercari hic Aleos,</l>
+          <lb ed="TLN" n="28"/>
+          <l>si quem reperire possit qui mutet suom,</l>
+          <lb ed="TLN" n="29"/>
+          <l>illum captivom: hunc suom esse nescit, qui domist.</l>
+          <lb ed="TLN" n="30"/>
+          <l n="30">et quoniam heri indaudivit, de summo loco</l>
+          <lb ed="TLN" n="31"/>
+          <l>summoque genere captum esse equitem Aleum,</l>
+          <lb ed="TLN" n="32"/>
+          <l>nil pretio parsit, filio dum parceret:</l>
+          <lb ed="TLN" n="33"/>
+          <l>reconciliare ut facilius posset domum,</l>
+          <lb ed="TLN" n="34"/>
+          <l>emít hosce e praeda ambos de quaestoribus.</l>
+          <lb ed="TLN" n="35"/>
+          <l n="35">hisce autem inter sese hunc confinxerunt dolum,</l>
+          <lb ed="TLN" n="36"/>
+          <l>quo pacto hic servos suom erum hinc amittat domum.</l>
+          <lb ed="TLN" n="37"/>
+          <l>itaque inter se commutant vestem et nomina;</l>
+          <lb ed="TLN" n="38"/>
+          <l>illic vocatur Philocrates, hic Tyndarus:</l>
+          <lb ed="TLN" n="39"/>
+          <l>huius íllic, hic illius hodie fert imaginem.</l>
+          <lb ed="TLN" n="40"/>
+          <l n="40">et hic hódie expediet hanc docte fallaciam,</l>
+          <lb ed="TLN" n="41"/>
+          <l>et suom erum faciet libertatis compotem,</l>
+          <lb ed="TLN" n="42"/>
+          <l>eodemque pacto fratrem servabit suom</l>
+          <lb ed="TLN" n="43"/>
+          <l>reducemque faciet liberum in patriam ad patrem,</l>
+          <lb ed="TLN" n="44"/>
+          <l>imprudens: itidem ut saepe iam in multis locis</l>
+          <lb ed="TLN" n="45"/>
+          <l n="45">plus insciens quis fecit quam prudens boni.</l>
+          <lb ed="TLN" n="46"/>
+          <l>sed inscientes sua sibi fallacia</l>
+          <lb ed="TLN" n="47"/>
+          <l>ita compararunt et confinxerunt dolum</l>
+          <lb ed="TLN" n="48"/>
+          <l>itaque hi commenti, de sua sententia</l>
+          <lb ed="TLN" n="49"/>
+          <l>ut in sérvitute hic ad suom maneat patrem:</l>
+          <lb ed="TLN" n="50"/>
+          <l n="50">ita nunc ignorans suo sibi servit patri;</l>
+          <lb ed="TLN" n="51"/>
+          <l>homunculi quanti sunt, quom recogito!</l>
+          <lb ed="TLN" n="52"/>
+          <l>haec res agetur nobis, vobis fabula.</l>
+          <lb ed="TLN" n="53"/>
+          <l>sed etiam est, paucis vos quod monitos voluerim.</l>
+          <lb ed="TLN" n="54"/>
+          <l>profecto expediet fabulae huic operam dare.</l>
+          <lb ed="TLN" n="55"/>
+          <l n="55">non pertractate facta est neque item ut ceterae:</l>
+          <lb ed="TLN" n="56"/>
+          <l>neque spurcidici insunt versus, immemorabiles;</l>
+          <lb ed="TLN" n="57"/>
+          <l>hic neque periurus leno est nec meretrix mala</l>
+          <lb ed="TLN" n="58"/>
+          <l>neque miles gloriosus; ne vereamini,</l>
+          <lb ed="TLN" n="59"/>
+          <l>quia bellum Aetolis esse dixi cum Aleis:</l>
+          <lb ed="TLN" n="60"/>
+          <l n="60">foris íllic extra scaenam fient proelia.</l>
+          <lb ed="TLN" n="61"/>
+          <l>nam hoc paene iniquomst, comico choragio</l>
+          <lb ed="TLN" n="62"/>
+          <l>conari desubito agere nos tragoediam.</l>
+          <lb ed="TLN" n="63"/>
+          <l>proin si quis pugnam expectat, litis contrahat:</l>
+          <lb ed="TLN" n="64"/>
+          <l>valentiorem nactus adversarium</l>
+          <lb ed="TLN" n="65"/>
+          <l n="65">si erit, ego faciam ut pugnam inspectet non bonam,</l>
+          <lb ed="TLN" n="66"/>
+          <l>adeo ut spectare postea omnis oderit.</l>
+          <lb ed="TLN" n="67"/>
+          <l>abeo. valete, iudices iustissimi</l>
+          <lb ed="TLN" n="68"/>
+          <l>domi duellique duellatores optumi.</l>
         </sp>
       </div>
       <div n="1" type="act">
