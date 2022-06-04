@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rom000015" xml:lang="lat">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,6 @@
       </titleStmt>
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
-        <idno type="dracor" xml:base="https://dracor.org/id/">rom000015</idno>
         <availability>
           <licence>
             <ab>CC BY-SA 3.0 US</ab>
@@ -105,7 +104,9 @@
         <label>AD 43–49?</label>
       </event>
     </listEvent>
-    <link type="wikidata" target="http://www.wikidata.org/entity/Q15427808"/>
+    <listRelation>
+      <relation name="wikidata" active="https://dracor.org/entity/rom000015" passive="http://www.wikidata.org/entity/Q15427808"/>
+    </listRelation>
   </standOff>
   <text>
     <body>
