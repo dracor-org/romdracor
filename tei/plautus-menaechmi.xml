@@ -1510,7 +1510,7 @@ Added to repository.
             <lb ed="TLN" n="368"/>
             <l>ubi lúbet, ire licet áccubitum.</l>
           </sp>
-          <sp who="#messenio">
+          <sp who="#sosicles">
             <speaker>M.</speaker>
             <lb ed="TLN" n="369"/>
             <l part="I">Quícum haec mulier loquitur?</l>
@@ -1519,7 +1519,7 @@ Added to repository.
             <speaker>E.</speaker>
             <l part="M">Equidem tecum.</l>
           </sp>
-          <sp who="#messenio">
+          <sp who="#sosicles">
             <speaker>M.</speaker>
             <l part="M">Quid mecum tibi</l>
             <lb ed="TLN" n="370"/>
@@ -1815,7 +1815,7 @@ Added to repository.
             <lb ed="TLN" n="433"/>
             <l part="I">Quid eo opust?</l>
           </sp>
-          <sp who="#messenio">
+          <sp who="#sosicles">
             <speaker>M.</speaker>
             <l part="M">Opus est. scio ut me dices.</l>
           </sp>

@@ -2034,7 +2034,7 @@ Added to repository.
             <lb ed="TLN" n="489"/>
             <l>faciat ut semper sacruficem nec umquám litem.</l>
           </sp>
-          <sp who="#anterastilis">
+          <sp who="#antamonides">
             <speaker>A.</speaker>
             <lb ed="TLN" n="490"/>
             <l part="I">An mi haec non credis?</l>
@@ -2055,7 +2055,7 @@ Added to repository.
             <speaker>Lyc.</speaker>
             <l part="M">Nil moror.</l>
           </sp>
-          <sp who="#anterastilis">
+          <sp who="#antamonides">
             <speaker>A.</speaker>
             <lb ed="TLN" n="493"/>
             <l part="I">Ausculta.</l>
@@ -2064,7 +2064,7 @@ Added to repository.
             <speaker>L.</speaker>
             <l part="M">Non hercle auscultabo.</l>
           </sp>
-          <sp who="#anterastilis">
+          <sp who="#antamonides">
             <speaker>A.</speaker>
             <l part="M">Quo modo?</l>
             <lb ed="TLN" n="494"/>
@@ -5933,7 +5933,7 @@ Added to repository.
             <speaker>Han.</speaker>
             <l part="M">Quia mihi lubet.</l>
           </sp>
-          <sp who="#anterastilis">
+          <sp who="#antamonides">
             <speaker>Ant.</speaker>
             <lb ed="TLN" n="1309"/>
             <l n="30" part="I">Lubet?</l>
@@ -5942,7 +5942,7 @@ Added to repository.
             <speaker>Han.</speaker>
             <l part="M">Ita dico.</l>
           </sp>
-          <sp who="#anterastilis">
+          <sp who="#antamonides">
             <speaker>Ant.</speaker>
             <l part="M">Ligula, i in malam crucem.</l>
             <lb ed="TLN" n="1310"/>
