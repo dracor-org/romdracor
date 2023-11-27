@@ -103,6 +103,7 @@
         <keywords>
           <term subtype="comedy" type="genreTitle">Comedy</term>
         </keywords>
+        <classCode scheme="http://www.wikidata.org/entity/">Q40831</classCode>
       </textClass>
       <langUsage>
         <language id="la">Latin</language>
