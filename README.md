@@ -1,11 +1,15 @@
 # RomDraCor
 Roman Drama Corpus, **36 plays** in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in June 2019. Licensed under [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/).
 
-The corpus was enhanced and is maintained by Julia Jennifer Beine (Ruhr University Bochum), Frank Fischer and Boris Orekhov (both Higher School of Economics, Moscow). For a list of changes please see below.
+The corpus was enhanced and is maintained by Julia Jennifer Beine (Ruhr University Bochum) and Frank Fischer (Freie Universität Berlin). For a list of changes please see below.
 
 Content: 20 comedies by **Plautus**, 6 comedies by **Terence**, 10 tragedies by **Seneca**.
 
 Frontend: https://dracor.org/rom
+
+If you want to cite the corpus, please use this publication:
+
+- **Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer (2024).** Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor. In: Proceedings of DH2024: "Reinvention & Responsibility". 6–10 August 2024. George Mason University, Arlington, VA. Book of Abstracts. ([doi:10.5281/zenodo.13801481](https://doi.org/10.5281/zenodo.13801481))
 
 ## Scans of the editions on which Perseus Digital Library based their digitisation:
 
@@ -66,7 +70,7 @@ Frontend: https://dracor.org/rom
 * Recode author information. ([commit](https://github.com/dracor-org/romdracor/commit/5ff2a2fedf1abbf5afa1f3fd8cd2fab93ef0f555))
 
 ### 20.01.2021
-* Ass persistent Perseus URIs per play. ([commit](https://github.com/dracor-org/romdracor/commit/4ef2ea864af3a615b06605b38fd6dfdd7ea7afe7))
+* Add persistent Perseus URIs per play. ([commit](https://github.com/dracor-org/romdracor/commit/4ef2ea864af3a615b06605b38fd6dfdd7ea7afe7))
 
 ## Known issues
 * V/U incongruencies between different authors: especially for contrastive analyses, the different handling by the editors has to be taken into account (e.g., "ut" vs. "vt"; "ubi" vs. "vbi").
