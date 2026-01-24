@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rom000001" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rom000001" xml:lang="la">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title n="Herc. O.">Hercules Oetaeus</title>
         <author>
-          <persName xml:lang="eng">Seneca</persName>
+          <persName xml:lang="en">Seneca</persName>
           <persName>
             <forename>Lucius</forename>
             <surname>Annaeus</surname>
