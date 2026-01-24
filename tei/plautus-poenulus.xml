@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet type="text/css" href="https://dracor.org/tei.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rom000004" xml:lang="lat">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rom000004" xml:lang="la">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title n="Poen." type="work">Poenulus</title>
         <author>
-          <persName xml:lang="eng">Plautus</persName>
+          <persName xml:lang="en">Plautus</persName>
           <persName>
             <forename>Titus</forename>
             <addName>Maccius</addName>
@@ -19,10 +19,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">CC BY-SA 3.0 US</licence>
         </availability>
       </publicationStmt>
       <extent>about 71Kb</extent>
@@ -31,10 +28,7 @@
           <name>Perseus Digital Library</name>
           <idno type="URL">http://data.perseus.org/texts/urn:cts:latinLit:phi0119.phi015</idno>
           <availability status="free">
-            <licence>
-              <ab>CC BY-SA 3.0 US</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-            </licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">CC BY-SA 3.0 US</licence>
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Poenulus. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen alterum. Berlin: Weidmann 1896, pp. 175–242.</title>
