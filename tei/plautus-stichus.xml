@@ -19,10 +19,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">CC BY-SA 3.0 US</licence>
         </availability>
       </publicationStmt>
       <extent>about 71Kb</extent>
@@ -31,10 +28,7 @@
           <name>Perseus Digital Library</name>
           <idno type="URL">http://data.perseus.org/texts/urn:cts:latinLit:phi0119.phi018</idno>
           <availability status="free">
-            <licence>
-              <ab>CC BY-SA 3.0 US</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-            </licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">CC BY-SA 3.0 US</licence>
           </availability>
           <bibl type="originalSource">
             <title>Titus Maccius Plautus: Stichus. In: Plauti Comoediae. Recensuit et emendavit Fridericus Leo. Volumen alterum. Berlin: Weidmann 1896, pp. 367–403.</title>

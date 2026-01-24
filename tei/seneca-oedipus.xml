@@ -21,10 +21,7 @@
       <publicationStmt>
         <publisher xml:id="dracor">DraCor</publisher>
         <availability>
-          <licence>
-            <ab>CC BY-SA 3.0 US</ab>
-            <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-          </licence>
+          <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">CC BY-SA 3.0 US</licence>
         </availability>
       </publicationStmt>
       <extent>About 100Kb</extent>
@@ -33,10 +30,7 @@
           <name>Perseus Digital Library</name>
           <idno type="URL">http://data.perseus.org/texts/urn:cts:latinLit:phi1017.phi006</idno>
           <availability status="free">
-            <licence>
-              <ab>CC BY-SA 3.0 US</ab>
-              <ref target="https://creativecommons.org/licenses/by-sa/3.0/us/">Licence</ref>
-            </licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">CC BY-SA 3.0 US</licence>
           </availability>
           <bibl type="originalSource">
             <title>Lucius Annaeus Seneca: Oedipus. In: L. Annaei Senecae Tragoediae. Recensuerunt Rudolfus Peiper et Gustavus Richter (= Bibliotheca scriptorum Graecorum et Romanorum Teubneriana). Leipzig: Teubner 1921, pp. 201–240.</title>
