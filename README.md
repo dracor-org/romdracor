@@ -9,7 +9,7 @@ Frontend: https://dracor.org/rom
 
 If you want to cite the corpus, please use this publication:
 
-- **Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer (2024).** Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor. In: Proceedings of DH2024: "Reinvention & Responsibility". 6–10 August 2024. George Mason University, Arlington, VA. Book of Abstracts. ([doi:10.5281/zenodo.13801481](https://doi.org/10.5281/zenodo.13801481))
+- **Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer (2024).** Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor. In: Proceedings of DH2024: “Reinvention & Responsibility”. 6–10 August 2024. George Mason University, Arlington, VA. Book of Abstracts. ([doi:10.5281/zenodo.13801481](https://doi.org/10.5281/zenodo.13801481))
 
 ## Scans of the editions on which Perseus Digital Library based their digitisation:
 
@@ -28,7 +28,7 @@ If you want to cite the corpus, please use this publication:
 ## Changelog
 ### 25.06.2019
 * Import of 36 plays.
-* Adjust filenames (e.g., "pl.am_lat.xml" → "plautus-amphitruo.xml").
+* Adjust filenames (e.g., “pl.am_lat.xml” → “plautus-amphitruo.xml”).
 * ```xmllint --format --encode UTF-8```
 
 ### 26.06.2019
@@ -48,13 +48,13 @@ If you want to cite the corpus, please use this publication:
 * Major correction of character IDs.
 
 ### 16.07.2020
-* Add written act/scene indicators for Plautus following Leo's edition.
+* Add written act/scene indicators for Plautus following Leo’s edition.
 
 ### 24.07.2020
 * Reduce ```<div1>``` and ```<div2>``` to ```<div>```.
 
 ### 29.07.2020
-* Add "written" and "premiere" dates if available.
+* Add “written” and “premiere” dates if available.
 
 ### 14.08.2020
 * Add bibliographic record for each play.
@@ -73,4 +73,4 @@ If you want to cite the corpus, please use this publication:
 * Add persistent Perseus URIs per play. ([commit](https://github.com/dracor-org/romdracor/commit/4ef2ea864af3a615b06605b38fd6dfdd7ea7afe7))
 
 ## Known issues
-* V/U incongruencies between different authors: especially for contrastive analyses, the different handling by the editors has to be taken into account (e.g., "ut" vs. "vt"; "ubi" vs. "vbi").
+* V/U incongruencies between different authors: especially for contrastive analyses, the different handling by the editors has to be taken into account (e.g., “ut” vs. “vt”; “ubi” vs. “vbi”).
