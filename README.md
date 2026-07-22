@@ -1,7 +1,7 @@
 # RomDraCor
 Roman Drama Corpus, **36 plays** in [TEI P5](https://tei-c.org/guidelines/p5/) format, adapted from [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/opensource/download), first converted to DraCor format in June 2019. Licensed under [CC BY-SA 3.0 US](https://creativecommons.org/licenses/by-sa/3.0/us/).
 
-The corpus was enhanced and is maintained by Julia Jennifer Beine (Ruhr University Bochum) and Frank Fischer (Freie Universität Berlin). For a list of changes please see below.
+The corpus was enhanced and is maintained by Julia Jennifer Beine (University of Würzburg) and Frank Fischer (Freie Universität Berlin). For a list of changes please see below.
 
 Content: 20 comedies by **Plautus**, 6 comedies by **Terence**, 10 tragedies by **Seneca**.
 
