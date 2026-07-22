@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+<dracorCorpus xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -7,31 +7,34 @@
       </titleStmt>
       <publicationStmt>
         <publisher>DraCor</publisher>
-        <idno type="URI" xml:base="https://dracor.org/">rom</idno>
-        <idno type="repo">https://github.com/dracor-org/romdracor</idno>
+        <idno>rom</idno>
+        <ref type="repo" target="https://github.com/dracor-org/romdracor"/>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-sa/3.0/us/">
             CC BY-SA 3.0 US
           </licence>
         </availability>
       </publicationStmt>
+      <sourceDesc>
+        <p>See source information in individual TEI files.</p>
+      </sourceDesc>
     </fileDesc>
     <encodingDesc>
       <projectDesc>
         <p>
-          Derived from
+          36 plays derived from
           <ref target="http://www.perseus.tufts.edu/hopper/opensource/download">Perseus
             Digital Library</ref>, updated to
           <ref target="https://tei-c.org/guidelines/p5/">TEI P5</ref> and
-          enhanced by Julia Jennifer Beine and Frank Fischer (both Freie
+          enhanced by Julia Jennifer Beine (University of Würzburg) and Frank Fischer (Freie
           Universität Berlin).
           Features 36 plays (20 comedies by <hi>Plautus</hi>, 6 comedies by
           <hi>Terence</hi>, 10 tragedies by <hi>Seneca</hi>). For corpus
-          description and full credits please see the
+          description and citation, please see the
           <ref target="https://github.com/dracor-org/romdracor">README on
             GitHub</ref>.
         </p>
       </projectDesc>
     </encodingDesc>
   </teiHeader>
-</teiCorpus>
+</dracorCorpus>
