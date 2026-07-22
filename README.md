@@ -7,7 +7,7 @@ Content: 20 comedies by **Plautus**, 6 comedies by **Terence**, 10 tragedies by 
 
 Frontend: https://dracor.org/rom
 
-If you want to cite the corpus, please use this publication:
+If you would like to cite the corpus, please cite this publication:
 
 - **Julia Jennifer Beine, Frank Fischer, Viktor J. Illmer (2024).** Just the Type: Analysing Character Typology in Roman Comedy with RomDraCor. In: Proceedings of DH2024: “Reinvention & Responsibility”. 6–10 August 2024. George Mason University, Arlington, VA. Book of Abstracts. ([doi:10.5281/zenodo.13801481](https://doi.org/10.5281/zenodo.13801481))
 
